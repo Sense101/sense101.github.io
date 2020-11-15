@@ -1,0 +1,67 @@
+#ingame_HUD_SettingsMenu {
+    .statsElement {
+        position: absolute;
+        @include S(left, 30px);
+        @include S(right, 30px);
+        @include S(bottom, 30px);
+        color: #fff;
+        display: grid;
+        grid-template-rows: auto auto;
+        grid-auto-columns: 1fr;
+        align-items: center;
+        justify-items: center;
+
+        strong {
+            text-transform: uppercase;
+            @include PlainText;
+            opacity: 0.5;
+            grid-row: 1;
+        }
+
+        span {
+            @include Heading;
+            grid-row: 2;
+        }
+    }
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    .buttons {
+        display: grid;
+        grid-auto-flow: column;
+        @include S(grid-gap, 50px);
+        @include S(margin-top, -10px);
+
+        button {
+            background: transparent;
+            filter: invert(1);
+
+            content: "";
+            opacity: 0.8;
+            @include S(width, 35px);
+            @include S(height, 35px);
+
+            &.settings {
+                /* @load-async */
+                background-image: uiResource("icons/settings_menu_settings.png");
+            }
+
+            &.menu {
+                /* @load-async */
+                background-image: uiResource("icons/settings_menu_exit.png");
+            }
+
+            &:hover {
+                opacity: 0.6;
+            }
+
+            & {
+                /* @load-async */
+                background: uiResource("icons/settings_menu_play.png") center top / contain no-repeat;
+            }
+        }
+    }
+}

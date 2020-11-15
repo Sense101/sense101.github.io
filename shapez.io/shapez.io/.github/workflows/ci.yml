@@ -1,0 +1,57 @@
+name: CI
+
+on:
+    push:
+        branches:
+            - master
+            - ModdedGamers-GH-Actions
+    pull_request:
+        branches:
+            - master
+
+jobs:
+    setup:
+        name: CI
+
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Install Dependencies
+              run: |
+                  sudo apt-get update
+                  sudo apt-get install ffmpeg
+
+            - name: Setup Node
+              uses: actions/setup-node@v2-beta
+              with:
+                  node-version: 10.x
+
+            - name: Checkout repo
+              uses: actions/checkout@v2
+
+            - name: Install Yarn Dependencies
+              run: |
+                  yarn
+                  cd gulp/
+                  yarn
+                  cd ..
+            - name: Lint
+              run: |
+                  yarn lint
+            - name: TSLint
+              run: |
+                  cd gulp
+                  yarn gulp translations.fullBuild
+                  cd ..
+                  yarn tslint
+
+    yaml-lint:
+        name: yaml-lint
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout repo
+              uses: actions/checkout@v2
+            - name: YAML Lint
+              uses: ibiqlik/action-yamllint@v1.0.0
+              with:
+                  file_or_dir: translations/*.yaml

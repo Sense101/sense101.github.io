@@ -1,0 +1,83 @@
+.gameState.textualState {
+    display: grid;
+    grid-template-rows: auto 1fr;
+    box-sizing: border-box;
+    @include S(padding, 32px);
+    height: 100vh;
+
+    .headerBar {
+        display: flex;
+
+        h1 {
+            display: grid;
+            grid-template-columns: auto 1fr;
+            align-items: center;
+            pointer-events: all;
+            cursor: pointer;
+            @include SuperHeading;
+            text-transform: uppercase;
+            color: #333438;
+            position: relative;
+            @include IncreasedClickArea(10px);
+        }
+
+        .backButton {
+            @include S(width, 30px);
+            @include S(height, 30px);
+            @include S(margin-right, 10px);
+            @include S(margin-left, -5px);
+            & {
+                /* @load-async */
+                background: uiResource("icons/state_back_button.png") center center / 70% no-repeat;
+            }
+        }
+        @include S(margin-bottom, 20px);
+    }
+
+    > .container {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        overflow-y: auto;
+
+        > .content {
+            width: 100%;
+            background: #fff;
+            @include S(border-radius, $globalBorderRadius);
+            @include S(padding, 10px);
+            height: 100%;
+            overflow-y: auto;
+            box-sizing: border-box;
+            pointer-events: all;
+
+            a {
+                color: $colorBlueBright;
+            }
+
+            .categoryLabel {
+                display: block;
+                text-transform: uppercase;
+                @include S(margin-top, 15px);
+                @include S(margin-bottom, 15px);
+                @include Heading;
+            }
+        }
+    }
+
+    @include DarkThemeOverride {
+        .headerBar {
+            h1 {
+                color: #e2e0db;
+            }
+
+            .backButton {
+                filter: invert(1);
+            }
+        }
+
+        > .container > .content {
+            background: $darkModeControlsBackground;
+            color: #eee;
+        }
+    }
+}

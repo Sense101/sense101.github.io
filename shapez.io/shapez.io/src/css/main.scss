@@ -1,0 +1,129 @@
+// Control here whether to inline all resources or instead load them
+@function uiResource($pth) {
+    @if (str-index($string: $pth, $substring: ".noinline")) {
+        @return resolve($pth);
+    }
+    @return inline($pth);
+}
+
+@import "resources";
+@import "trigonometry";
+@import "material_colors";
+@import "dynamic_ui";
+@import "variables";
+
+@import "mixins";
+@import "common";
+@import "animations";
+@import "game_state";
+@import "application_error";
+@import "textual_game_state";
+@import "adinplay";
+
+@import "states/preload";
+@import "states/main_menu";
+@import "states/ingame";
+@import "states/keybindings";
+@import "states/settings";
+@import "states/about";
+@import "states/mobile_warning";
+@import "states/changelog";
+
+@import "ingame_hud/buildings_toolbar";
+@import "ingame_hud/building_placer";
+@import "ingame_hud/beta_overlay";
+@import "ingame_hud/keybindings_overlay";
+@import "ingame_hud/unlock_notification";
+@import "ingame_hud/shop";
+@import "ingame_hud/game_menu";
+@import "ingame_hud/dialogs";
+@import "ingame_hud/vignette_overlay";
+@import "ingame_hud/statistics";
+@import "ingame_hud/pinned_shapes";
+@import "ingame_hud/notifications";
+@import "ingame_hud/settings_menu";
+@import "ingame_hud/debug_info";
+@import "ingame_hud/entity_debugger";
+@import "ingame_hud/tutorial_hints";
+@import "ingame_hud/watermark";
+@import "ingame_hud/blueprint_placer";
+@import "ingame_hud/waypoints";
+@import "ingame_hud/interactive_tutorial";
+@import "ingame_hud/color_blind_helper";
+@import "ingame_hud/shape_viewer";
+@import "ingame_hud/sandbox_controller";
+@import "ingame_hud/standalone_advantages";
+@import "ingame_hud/cat_memes";
+
+// prettier-ignore
+$elements: 
+// Base    
+ingame_Canvas,
+ingame_VignetteOverlay,
+
+// Ingame overlays
+ingame_HUD_Waypoints,
+ingame_HUD_PlacementHints,
+ingame_HUD_PlacerVariants,
+
+// Regular hud
+ingame_HUD_PinnedShapes,
+ingame_HUD_GameMenu,
+ingame_HUD_KeybindingOverlay,
+ingame_HUD_Notifications,
+ingame_HUD_DebugInfo,
+ingame_HUD_EntityDebugger,
+ingame_HUD_TutorialHints,
+ingame_HUD_InteractiveTutorial,
+ingame_HUD_BuildingsToolbar,
+ingame_HUD_wires_toolbar,
+ingame_HUD_BlueprintPlacer,
+ingame_HUD_Waypoints_Hint,
+ingame_HUD_WatermarkClicker,
+ingame_HUD_Watermark,
+ingame_HUD_ColorBlindBelowTileHelper,
+ingame_HUD_SandboxController,
+
+// Overlays
+ingame_HUD_BetaOverlay,
+
+// Dialogs
+ingame_HUD_Shop,
+ingame_HUD_Statistics,
+ingame_HUD_ShapeViewer,
+ingame_HUD_StandaloneAdvantages,
+ingame_HUD_UnlockNotification,
+ingame_HUD_SettingsMenu,
+ingame_HUD_ModalDialogs,
+ingame_HUD_CatMemes;
+
+$zindex: 100;
+
+@each $elem in $elements {
+    ##{$elem} {
+        z-index: $zindex;
+    }
+
+    $zindex: $zindex + 10;
+}
+
+body.uiHidden {
+    .ingame_buildingsToolbar,
+    #ingame_HUD_PlacementHints,
+    #ingame_HUD_GameMenu,
+    #ingame_HUD_PinnedShapes,
+    #ingame_HUD_Notifications,
+    #ingame_HUD_TutorialHints,
+    #ingame_HUD_Waypoints,
+    #ingame_HUD_Waypoints_Hint {
+        display: none !important;
+    }
+}
+
+body.modalDialogActive,
+body.externalAdOpen,
+body.ingameDialogOpen {
+    > *:not(.ingameDialog):not(.modalDialogParent):not(.loadingDialog):not(.gameLoadingOverlay):not(#ingame_HUD_ModalDialogs):not(.noBlur) {
+        // filter: blur(5px) !important;
+    }
+}

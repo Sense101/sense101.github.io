@@ -1,0 +1,114 @@
+.ingame_buildingsToolbar {
+    position: absolute;
+    @include S(bottom, 5px);
+    left: 50%;
+    transform: translateX(-50%);
+
+    display: grid;
+    grid-template-rows: auto auto;
+    justify-items: center;
+
+    background: transparent;
+    transition: transform 120ms ease-in-out;
+    will-change: transform;
+
+    &:not(.visible) {
+        transform: translateX(-50%) translateY(#{D(100px)});
+    }
+
+    .buildings {
+        display: grid;
+        grid-auto-flow: column;
+        justify-items: center;
+        align-self: center;
+        grid-row: 2 / 3;
+
+        background-color: rgba(240, 241, 243, 0.5);
+        @include S(border-radius, $globalBorderRadius);
+
+        @include DarkThemeOverride {
+            background-color: rgba(darken($darkModeGameBackground, 15), 0.95);
+        }
+
+        &.secondary {
+            grid-row: 1 / 2;
+            border-bottom-left-radius: 0;
+            border-bottom-right-radius: 0;
+
+            .building {
+                @include S(width, 30px);
+                @include S(height, 22px);
+                background-size: 45%;
+
+                &:not(.unlocked) {
+                    &::before {
+                        background-size: #{D(13px)};
+                    }
+                }
+            }
+        }
+
+        .building {
+            color: $accentColorDark;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            align-items: center;
+            justify-content: center;
+            @include S(padding, 5px);
+            @include S(padding-bottom, 1px);
+            @include S(width, 35px);
+            @include S(height, 40px);
+
+            background: center center / 70% no-repeat;
+
+            &:not(.unlocked) {
+                @include S(width, 20px);
+                opacity: 0.15;
+                background-image: none !important;
+
+                &::before {
+                    content: " ";
+
+                    position: absolute;
+                    top: 0;
+                    right: 0;
+                    bottom: 0;
+                    left: 0;
+                    z-index: 4;
+                    & {
+                        /* @load-async */
+                        background: uiResource("locked_building.png") center center / #{D(20px)} #{D(20px)}
+                            no-repeat;
+                    }
+                }
+            }
+
+            @include S(border-radius, $globalBorderRadius);
+
+            &.unlocked {
+                pointer-events: all;
+                transition: all 50ms ease-in-out;
+                transition-property: background-color, transform;
+
+                cursor: pointer;
+                &:hover {
+                    background-color: rgba(30, 40, 90, 0.1);
+                }
+
+                &.pressed {
+                    transform: scale(0.9) !important;
+                }
+
+                &.selected {
+                    // transform: scale(1.05);
+                    background-color: rgba(lighten($colorBlueBright, 9), 0.4);
+
+                    .keybinding {
+                        color: #111;
+                    }
+                }
+            }
+        }
+    }
+}

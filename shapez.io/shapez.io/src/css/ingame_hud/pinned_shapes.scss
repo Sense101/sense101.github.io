@@ -1,0 +1,135 @@
+#ingame_HUD_PinnedShapes {
+    position: absolute;
+    @include S(left, 9px);
+    @include S(top, 150px);
+    @include PlainText;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+
+    > .shape {
+        position: relative;
+        display: grid;
+        align-items: center;
+        justify-content: center;
+        grid-template-columns: auto 1fr;
+        grid-template-rows: 1fr 1fr;
+        @include S(margin-bottom, 4px);
+        color: #333438;
+
+        &.removable {
+            cursor: pointer;
+            pointer-events: all;
+        }
+
+        > canvas {
+            @include S(width, 25px);
+            @include S(height, 25px);
+            grid-column: 1 / 2;
+            grid-row: 1 / 3;
+            pointer-events: none;
+            z-index: 20;
+            position: relative;
+        }
+
+        > .amountLabel,
+        > .goalLabel {
+            @include S(margin-left, 5px);
+            @include SuperSmallText;
+            font-weight: bold;
+            display: inline-flex;
+            align-items: center;
+            flex-direction: row;
+            grid-column: 2 / 3;
+            @include S(height, 9px);
+
+            @include DarkThemeOverride {
+                color: #eee;
+            }
+        }
+
+        > .goalLabel {
+            @include S(font-size, 7px);
+            opacity: 0.9;
+            align-self: start;
+            justify-self: start;
+            font-weight: normal;
+            grid-row: 2 / 3;
+        }
+
+        > .amountLabel {
+            align-self: end;
+            justify-self: start;
+            grid-row: 1 / 2;
+        }
+
+        > .infoButton {
+            @include S(width, 8px);
+            @include S(height, 8px);
+            position: absolute;
+            opacity: 0.7;
+            @include S(top, 13px);
+            @include S(left, -7px);
+            @include DarkThemeInvert;
+            @include IncreasedClickArea(2px);
+            transition: opacity 0.12s ease-in-out;
+            z-index: 100;
+
+            &:hover {
+                opacity: 0.8;
+            }
+
+            & {
+                /* @load-async */
+                background: uiResource("icons/info_button.png") center center / 95% no-repeat;
+            }
+        }
+
+        &.goal,
+        &.blueprint {
+            .amountLabel::after {
+                content: " ";
+                position: absolute;
+                display: inline-block;
+                @include S(width, 8px);
+                @include S(height, 8px);
+                @include S(top, 4px);
+                @include S(left, -7px);
+                background: center center / contain no-repeat;
+            }
+
+            &.goal .amountLabel {
+                &::after {
+                    /* @load-async */
+                    background-image: uiResource("icons/current_goal_marker.png");
+                    background-size: 90%;
+                }
+                @include DarkThemeOverride {
+                    &::after {
+                        /* @load-async */
+                        background-image: uiResource("icons/current_goal_marker_inverted.png") !important;
+                    }
+                }
+            }
+
+            &.blueprint .amountLabel {
+                &::after {
+                    /* @load-async */
+                    background-image: uiResource("icons/blueprint_marker.png");
+                    background-size: 90%;
+                }
+                @include DarkThemeOverride {
+                    &::after {
+                        /* @load-async */
+                        background-image: uiResource("icons/blueprint_marker_inverted.png") !important;
+                    }
+                }
+            }
+        }
+
+        &.completed {
+            opacity: 0.5;
+        }
+    }
+}
