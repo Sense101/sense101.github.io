@@ -8,5 +8,5 @@ git commit -m "_push-TripleBalancers"
 
 git push
 
-while true
-{}
+:x
+goto x
