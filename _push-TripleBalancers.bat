@@ -7,6 +7,3 @@ git add -A
 git commit -m "_push-TripleBalancers"
 
 git push
-
-:x
-goto x
