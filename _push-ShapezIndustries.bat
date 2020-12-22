@@ -6,4 +6,4 @@ git add -A
 
 git commit -m "_push-ShapezIndustries"
 
-git push
+git push --force
