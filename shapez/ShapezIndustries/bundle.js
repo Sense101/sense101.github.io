@@ -44846,7 +44846,7 @@ class HUDDebugInfo extends _base_hud_part__WEBPACK_IMPORTED_MODULE_0__["BaseHUDP
      */
     onModeChanged(mode) {
         this.element.setAttribute("data-mode", mode);
-        this.versionElement.innerText = `${"1.2.1"} @ ${"dev"} @ ${"1110b683"}`;
+        this.versionElement.innerText = `${"1.2.1"} @ ${"dev"} @ ${"6788a502"}`;
     }
 
     /**
@@ -57502,14 +57502,16 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _core_draw_parameters__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../core/draw_parameters */ "./src/js/core/draw_parameters.js");
 /* harmony import */ var _core_logging__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../core/logging */ "./src/js/core/logging.js");
 /* harmony import */ var _core_rectangle__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../core/rectangle */ "./src/js/core/rectangle.js");
-/* harmony import */ var _core_vector__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../core/vector */ "./src/js/core/vector.js");
-/* harmony import */ var _base_item__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../base_item */ "./src/js/game/base_item.js");
-/* harmony import */ var _components_belt__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../components/belt */ "./src/js/game/components/belt.js");
-/* harmony import */ var _components_hyperlink_acceptor__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../components/hyperlink_acceptor */ "./src/js/game/components/hyperlink_acceptor.js");
-/* harmony import */ var _components_hyperlink_ejector__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../components/hyperlink_ejector */ "./src/js/game/components/hyperlink_ejector.js");
-/* harmony import */ var _entity__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../entity */ "./src/js/game/entity.js");
-/* harmony import */ var _game_system_with_filter__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../game_system_with_filter */ "./src/js/game/game_system_with_filter.js");
-/* harmony import */ var _map_chunk_view__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../map_chunk_view */ "./src/js/game/map_chunk_view.js");
+/* harmony import */ var _core_stale_area_detector__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../core/stale_area_detector */ "./src/js/core/stale_area_detector.js");
+/* harmony import */ var _core_vector__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../core/vector */ "./src/js/core/vector.js");
+/* harmony import */ var _base_item__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../base_item */ "./src/js/game/base_item.js");
+/* harmony import */ var _components_belt__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../components/belt */ "./src/js/game/components/belt.js");
+/* harmony import */ var _components_hyperlink_acceptor__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../components/hyperlink_acceptor */ "./src/js/game/components/hyperlink_acceptor.js");
+/* harmony import */ var _components_hyperlink_ejector__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../components/hyperlink_ejector */ "./src/js/game/components/hyperlink_ejector.js");
+/* harmony import */ var _entity__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../entity */ "./src/js/game/entity.js");
+/* harmony import */ var _game_system_with_filter__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../game_system_with_filter */ "./src/js/game/game_system_with_filter.js");
+/* harmony import */ var _map_chunk_view__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ../map_chunk_view */ "./src/js/game/map_chunk_view.js");
+
 
 
 
@@ -57525,10 +57527,20 @@ __webpack_require__.r(__webpack_exports__);
 
 const logger = Object(_core_logging__WEBPACK_IMPORTED_MODULE_2__["createLogger"])("systems/ejector");
 
-class HyperlinkEjectorSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MODULE_10__["GameSystemWithFilter"] {
+class HyperlinkEjectorSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MODULE_11__["GameSystemWithFilter"] {
     constructor(root) {
-        super(root, [_components_hyperlink_ejector__WEBPACK_IMPORTED_MODULE_8__["HyperlinkEjectorComponent"]]);
+        super(root, [_components_hyperlink_ejector__WEBPACK_IMPORTED_MODULE_9__["HyperlinkEjectorComponent"]]);
 
+        this.staleAreaDetector = new _core_stale_area_detector__WEBPACK_IMPORTED_MODULE_4__["StaleAreaDetector"]({
+            root: this.root,
+            name: "hyperlink-ejector",
+            recomputeMethod: this.recomputeArea.bind(this),
+        });
+
+        this.staleAreaDetector.recomputeOnComponentsChanged(
+            [_components_hyperlink_ejector__WEBPACK_IMPORTED_MODULE_9__["HyperlinkEjectorComponent"], _components_hyperlink_acceptor__WEBPACK_IMPORTED_MODULE_8__["HyperlinkAcceptorComponent"], _components_belt__WEBPACK_IMPORTED_MODULE_7__["BeltComponent"]],
+            1
+        );
 
         this.root.signals.postLoadHook.add(this.recomputeCacheFull, this);
     }
@@ -57584,7 +57596,7 @@ class HyperlinkEjectorSystem extends _game_system_with_filter__WEBPACK_IMPORTED_
             // Figure out where and into which direction we eject items
             const ejectSlotWsTile = staticComp.localTileToWorld(ejectorSlot.pos);
             const ejectSlotWsDirection = staticComp.localDirectionToWorld(ejectorSlot.direction);
-            const ejectSlotWsDirectionVector = _core_vector__WEBPACK_IMPORTED_MODULE_4__["enumDirectionToVector"][ejectSlotWsDirection];
+            const ejectSlotWsDirectionVector = _core_vector__WEBPACK_IMPORTED_MODULE_5__["enumDirectionToVector"][ejectSlotWsDirection];
             const ejectSlotTargetWsTile = ejectSlotWsTile.add(ejectSlotWsDirectionVector);
 
             // Try to find the given acceptor component to take the item
@@ -57625,6 +57637,7 @@ class HyperlinkEjectorSystem extends _game_system_with_filter__WEBPACK_IMPORTED_
     }
 
     update() {
+        this.staleAreaDetector.update();
 
         // Precompute effective belt speed
         let progressGrowth = 4 * this.root.dynamicTickrate.deltaSeconds;
@@ -57795,7 +57808,7 @@ class HyperlinkEjectorSystem extends _game_system_with_filter__WEBPACK_IMPORTED_
                 }
 
                 const realDirection = staticComp.localDirectionToWorld(slot.direction);
-                const realDirectionVector = _core_vector__WEBPACK_IMPORTED_MODULE_4__["enumDirectionToVector"][realDirection];
+                const realDirectionVector = _core_vector__WEBPACK_IMPORTED_MODULE_5__["enumDirectionToVector"][realDirection];
 
                 const tileX = realPosition.x + 0.5 + realDirectionVector.x * 0.5 * slot.progress;
                 const tileY = realPosition.y + 0.5 + realDirectionVector.y * 0.5 * slot.progress;
@@ -62466,8 +62479,8 @@ if (window.coreThreadLoadedCb) {
 // }
 
 console.log(
-    `%cshapez.io ️%c\n© 2020 Tobias Springer IT Solutions\nCommit %c${"1110b683"}%c on %c${new Date(
-        1608634045146
+    `%cshapez.io ️%c\n© 2020 Tobias Springer IT Solutions\nCommit %c${"6788a502"}%c on %c${new Date(
+        1608641491805
     ).toLocaleString()}\n`,
     "font-size: 35px; font-family: Arial;font-weight: bold; padding: 10px 0;",
     "color: #aaa",
@@ -71195,7 +71208,7 @@ class PreloadState extends _core_game_state__WEBPACK_IMPORTED_MODULE_3__["GameSt
 
                     <div class="lower">
                         <button class="resetApp styledButton">Reset App</button>
-                        <i>Build ${"1.2.1"} @ ${"1110b683"}</i>
+                        <i>Build ${"1.2.1"} @ ${"6788a502"}</i>
                     </div>
                 </div>
         `;
@@ -71327,14 +71340,14 @@ class SettingsState extends _core_textual_game_state__WEBPACK_IMPORTED_MODULE_0_
 
     renderBuildText() {
         const labelVersion = this.htmlElement.querySelector(".buildVersion");
-        const lastBuildMs = new Date().getTime() - 1608634045146;
+        const lastBuildMs = new Date().getTime() - 1608641491805;
         const lastBuildText = Object(_core_utils__WEBPACK_IMPORTED_MODULE_1__["formatSecondsToTimeAgo"])(lastBuildMs / 1000.0);
 
         const version = _translations__WEBPACK_IMPORTED_MODULE_3__["T"].settings.versionBadges["dev"];
 
         labelVersion.innerHTML = `
             <span class='version'>
-                ${"1.2.1"} @ ${version} @ ${"1110b683"}
+                ${"1.2.1"} @ ${version} @ ${"6788a502"}
             </span>
             <span class='buildTime'>
                 ${_translations__WEBPACK_IMPORTED_MODULE_3__["T"].settings.buildDate.replace("<at-date>", lastBuildText)}<br />
