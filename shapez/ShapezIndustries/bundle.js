@@ -15466,377 +15466,391 @@ webpackContext.id = "./res_built/atlas sync recursive ^\\.\\/.*$";
 
 
 atlas0_hq.png
-size: 2048,2048
+size: 4096, 2048
 format: RGBA8888
-filter: Nearest,Nearest
+filter: Nearest, Nearest
 repeat: none
 sprites/belt/built/forward_1
   rotate: false
-  xy: 937, 1174
+  xy: 803, 914
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_10
   rotate: false
-  xy: 1206, 324
+  xy: 677, 770
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_11
   rotate: false
-  xy: 1173, 1176
+  xy: 927, 768
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_12
   rotate: false
-  xy: 1176, 1030
+  xy: 807, 636
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_13
   rotate: false
-  xy: 1183, 884
+  xy: 496, 506
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_2
   rotate: false
-  xy: 949, 1320
+  xy: 2053, 1466
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_3
   rotate: false
-  xy: 1067, 1322
+  xy: 2053, 1320
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_4
   rotate: false
-  xy: 1185, 1323
+  xy: 2436, 1467
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_5
   rotate: false
-  xy: 1580, 1325
+  xy: 2554, 1471
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_6
   rotate: false
-  xy: 1088, 316
+  xy: 2559, 1325
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_7
   rotate: false
-  xy: 1055, 1174
+  xy: 831, 1060
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_8
   rotate: false
-  xy: 1058, 1028
+  xy: 921, 914
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_9
   rotate: false
-  xy: 1065, 882
+  xy: 427, 782
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/left_1
   rotate: false
-  xy: 1402, 904
+  xy: 795, 782
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_10
   rotate: false
-  xy: 1706, 264
+  xy: 642, 242
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_11
   rotate: false
-  xy: 1428, 199
+  xy: 774, 259
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_12
   rotate: false
-  xy: 1706, 132
+  xy: 906, 259
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_13
   rotate: false
-  xy: 1718, 797
+  xy: 1038, 226
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_2
   rotate: false
-  xy: 1454, 772
+  xy: 675, 638
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_3
   rotate: false
-  xy: 1469, 640
+  xy: 925, 636
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_4
   rotate: false
-  xy: 1586, 792
+  xy: 496, 374
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_5
   rotate: false
-  xy: 1601, 660
+  xy: 510, 242
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_6
   rotate: false
-  xy: 1497, 508
+  xy: 672, 506
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_7
   rotate: false
-  xy: 1629, 528
+  xy: 628, 374
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_8
   rotate: false
-  xy: 1560, 376
+  xy: 804, 504
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_9
   rotate: false
-  xy: 1692, 396
+  xy: 936, 504
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/right_1
   rotate: false
-  xy: 1733, 665
+  xy: 774, 127
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_10
   rotate: false
-  xy: 1781, 929
+  xy: 1360, 1343
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_11
   rotate: false
-  xy: 1850, 797
+  xy: 1492, 1343
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_12
   rotate: false
-  xy: 1865, 665
+  xy: 1624, 1343
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_13
   rotate: false
-  xy: 1893, 533
+  xy: 926, 1208
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_2
   rotate: false
-  xy: 1761, 533
+  xy: 906, 127
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_3
   rotate: false
-  xy: 1824, 401
+  xy: 1038, 94
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_4
   rotate: false
-  xy: 1838, 269
+  xy: 510, 110
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_5
   rotate: false
-  xy: 1838, 137
+  xy: 642, 110
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_6
   rotate: false
-  xy: 965, 180
+  xy: 832, 1340
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_7
   rotate: false
-  xy: 1097, 184
+  xy: 964, 1343
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_8
   rotate: false
-  xy: 1691, 1193
+  xy: 1096, 1343
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_9
   rotate: false
-  xy: 1743, 1061
+  xy: 1228, 1343
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/blueprints/analyzer
   rotate: false
-  xy: 841, 1612
+  xy: 3689, 1903
   size: 144, 144
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/blueprints/balancer
   rotate: false
-  xy: 528, 1030
+  xy: 3025, 1903
   size: 257, 144
   orig: 288, 144
   offset: 17, 0
   index: -1
 sprites/blueprints/balancer-merger
   rotate: false
-  xy: 1542, 1471
+  xy: 2480, 1617
   size: 139, 138
   orig: 144, 144
   offset: 5, 4
   index: -1
 sprites/blueprints/balancer-merger-inverse
   rotate: false
-  xy: 1398, 1471
+  xy: 697, 1472
   size: 142, 138
   orig: 144, 144
   offset: 0, 4
   index: -1
 sprites/blueprints/balancer-merger-triple
   rotate: false
-  xy: 780, 596
-  size: 144, 138
+  xy: 3341, 1764
+  size: 144, 137
   orig: 144, 144
-  offset: 0, 4
+  offset: 0, 5
+  index: -1
+sprites/blueprints/balancer-merger-tripleunused
+  rotate: false
+  xy: 3487, 1764
+  size: 144, 137
+  orig: 144, 144
+  offset: 0, 5
   index: -1
 sprites/blueprints/balancer-splitter
   rotate: false
-  xy: 685, 316
+  xy: 2905, 1617
   size: 139, 138
   orig: 144, 144
   offset: 5, 4
   index: -1
 sprites/blueprints/balancer-splitter-inverse
   rotate: false
-  xy: 1747, 1471
+  xy: 3925, 1763
   size: 142, 138
   orig: 144, 144
   offset: 0, 4
   index: -1
 sprites/blueprints/balancer-splitter-triple
   rotate: false
-  xy: 1252, 1471
-  size: 144, 138
+  xy: 3633, 1764
+  size: 144, 137
   orig: 144, 144
-  offset: 0, 4
+  offset: 0, 2
+  index: -1
+sprites/blueprints/balancer-splitter-tripleunused
+  rotate: false
+  xy: 3779, 1764
+  size: 144, 137
+  orig: 144, 144
+  offset: 0, 2
   index: -1
 sprites/blueprints/belt_left
   rotate: false
-  xy: 1125, 470
+  xy: 378, 227
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/blueprints/belt_right
   rotate: false
-  xy: 1257, 474
+  xy: 545, 784
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/blueprints/belt_top
   rotate: false
-  xy: 1879, 1757
+  xy: 378, 359
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/blueprints/comparator
   rotate: false
-  xy: 393, 183
+  xy: 541, 1339
   size: 144, 133
   orig: 144, 144
   offset: 0, 11
   index: -1
 sprites/blueprints/constant_signal
   rotate: false
-  xy: 1389, 475
+  xy: 567, 652
   size: 106, 130
   orig: 144, 144
   offset: 19, 14
   index: -1
 sprites/blueprints/cutter
   rotate: false
-  xy: 528, 884
+  xy: 3284, 1903
   size: 257, 144
   orig: 288, 144
   offset: 17, 0
@@ -15850,112 +15864,126 @@ sprites/blueprints/cutter-quad
   index: -1
 sprites/blueprints/display
   rotate: false
-  xy: 995, 462
+  xy: 373, 89
   size: 128, 136
   orig: 144, 144
   offset: 8, 0
   index: -1
 sprites/blueprints/filter
   rotate: false
-  xy: 1077, 1757
+  xy: 1960, 1903
   size: 268, 144
   orig: 288, 144
   offset: 16, 0
   index: -1
 sprites/blueprints/hyperlink
   rotate: false
-  xy: 1679, 1047
-  size: 62, 132
+  xy: 3046, 1621
+  size: 62, 134
   orig: 144, 144
-  offset: 41, 8
+  offset: 41, 5
   index: -1
 sprites/blueprints/hyperlink-hyperlink_entrance
   rotate: false
-  xy: 677, 667
-  size: 101, 215
-  orig: 113, 225
-  offset: 6, 0
+  xy: 291, 928
+  size: 135, 276
+  orig: 144, 288
+  offset: 7, 12
   index: -1
 sprites/blueprints/hyperlink-hyperlink_exit
   rotate: false
-  xy: 427, 991
-  size: 99, 213
-  orig: 113, 225
-  offset: 7, 0
+  xy: 428, 932
+  size: 128, 272
+  orig: 144, 288
+  offset: 8, 0
+  index: -1
+sprites/blueprints/hyperlink_left
+  rotate: false
+  xy: 1260, 1242
+  size: 89, 99
+  orig: 144, 144
+  offset: 5, 5
+  index: -1
+sprites/blueprints/hyperlink_right
+  rotate: false
+  xy: 1351, 1242
+  size: 89, 99
+  orig: 144, 144
+  offset: 50, 5
   index: -1
 sprites/blueprints/item_producer
   rotate: false
-  xy: 1065, 738
+  xy: 2672, 1475
   size: 131, 142
   orig: 144, 144
   offset: 8, 2
   index: -1
 sprites/blueprints/lever
   rotate: false
-  xy: 1679, 929
+  xy: 949, 1090
   size: 100, 116
   orig: 144, 144
   offset: 22, 19
   index: -1
 sprites/blueprints/logic_gate
   rotate: false
-  xy: 391, 59
+  xy: 3010, 1238
   size: 144, 122
   orig: 144, 144
   offset: 0, 22
   index: -1
 sprites/blueprints/logic_gate-not
   rotate: false
-  xy: 933, 1028
+  xy: 248, 87
   size: 123, 144
   orig: 144, 144
   offset: 11, 0
   index: -1
 sprites/blueprints/logic_gate-or
   rotate: false
-  xy: 537, 57
+  xy: 1907, 1486
   size: 144, 124
   orig: 144, 144
   offset: 0, 20
   index: -1
 sprites/blueprints/logic_gate-xor
   rotate: false
-  xy: 1836, 1335
+  xy: 529, 1208
   size: 144, 129
   orig: 144, 144
   offset: 0, 15
   index: -1
 sprites/blueprints/miner
   rotate: false
-  xy: 926, 737
+  xy: 1788, 1612
   size: 137, 143
   orig: 144, 144
   offset: 4, 1
   index: -1
 sprites/blueprints/miner-chainable
   rotate: false
-  xy: 1303, 1326
+  xy: 1927, 1612
   size: 137, 143
   orig: 144, 144
   offset: 4, 1
   index: -1
 sprites/blueprints/miner-deep
   rotate: false
-  xy: 1553, 1181
+  xy: 2342, 1613
   size: 136, 142
   orig: 144, 144
   offset: 5, 2
   index: -1
 sprites/blueprints/mixer
   rotate: false
-  xy: 1616, 1757
+  xy: 2499, 1903
   size: 261, 144
   orig: 288, 144
   offset: 13, 0
   index: -1
 sprites/blueprints/painter
   rotate: false
-  xy: 1090, 1903
+  xy: 551, 1612
   size: 288, 144
   orig: 288, 144
   offset: 0, 0
@@ -15969,7 +15997,7 @@ sprites/blueprints/painter-double
   index: -1
 sprites/blueprints/painter-mirrored
   rotate: false
-  xy: 1380, 1903
+  xy: 1670, 1903
   size: 288, 144
   orig: 288, 144
   offset: 0, 0
@@ -15983,35 +16011,35 @@ sprites/blueprints/painter-quad
   index: -1
 sprites/blueprints/reader
   rotate: false
-  xy: 1772, 1611
+  xy: 2762, 1757
   size: 142, 144
   orig: 144, 144
   offset: 1, 0
   index: -1
 sprites/blueprints/rotater
   rotate: false
-  xy: 1191, 1611
+  xy: 2327, 1757
   size: 143, 144
   orig: 144, 144
   offset: 1, 0
   index: -1
 sprites/blueprints/rotater-ccw
   rotate: false
-  xy: 1336, 1611
+  xy: 2472, 1757
   size: 143, 144
   orig: 144, 144
   offset: 1, 0
   index: -1
 sprites/blueprints/rotater-rotate180
   rotate: false
-  xy: 1481, 1611
+  xy: 2617, 1757
   size: 143, 144
   orig: 144, 144
   offset: 1, 0
   index: -1
 sprites/blueprints/stacker
   rotate: false
-  xy: 551, 1466
+  xy: 2762, 1903
   size: 261, 144
   orig: 288, 144
   offset: 13, 0
@@ -16025,224 +16053,224 @@ sprites/blueprints/storage
   index: -1
 sprites/blueprints/transistor
   rotate: false
-  xy: 1324, 328
+  xy: 3981, 1903
   size: 102, 144
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/blueprints/transistor-mirrored
   rotate: false
-  xy: 1294, 1031
+  xy: 558, 916
   size: 100, 144
   orig: 144, 144
   offset: 44, 0
   index: -1
 sprites/blueprints/trash
   rotate: false
-  xy: 787, 882
+  xy: 2035, 1757
   size: 144, 144
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/blueprints/underground_belt_entry
   rotate: false
-  xy: 969, 1
+  xy: 3487, 1650
   size: 138, 112
   orig: 144, 144
   offset: 4, 0
   index: -1
 sprites/blueprints/underground_belt_entry-tier2
   rotate: false
-  xy: 1812, 5
+  xy: 3627, 1637
   size: 138, 125
   orig: 144, 144
   offset: 4, 0
   index: -1
 sprites/blueprints/underground_belt_exit
   rotate: false
-  xy: 1109, 1
+  xy: 427, 668
   size: 138, 112
   orig: 144, 144
   offset: 4, 32
   index: -1
 sprites/blueprints/underground_belt_exit-tier2
   rotate: false
-  xy: 828, 1
+  xy: 2869, 1254
   size: 139, 112
   orig: 144, 144
   offset: 4, 32
   index: -1
 sprites/blueprints/virtual_processor
   rotate: false
-  xy: 960, 1468
+  xy: 3049, 1760
   size: 144, 141
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/blueprints/virtual_processor-painter
   rotate: false
-  xy: 1916, 1611
+  xy: 2171, 1467
   size: 131, 144
   orig: 144, 144
   offset: 13, 0
   index: -1
 sprites/blueprints/virtual_processor-rotater
   rotate: false
-  xy: 1960, 1903
+  xy: 2809, 1357
   size: 58, 144
   orig: 144, 144
   offset: 44, 0
   index: -1
 sprites/blueprints/virtual_processor-stacker
   rotate: false
-  xy: 1319, 1180
+  xy: 2303, 1321
   size: 130, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/blueprints/virtual_processor-unstacker
   rotate: false
-  xy: 1045, 1611
+  xy: 2181, 1757
   size: 144, 144
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/blueprints/wire_tunnel
   rotate: false
-  xy: 926, 600
+  xy: 1628, 1475
   size: 138, 135
   orig: 144, 144
   offset: 4, 5
   index: -1
 sprites/buildings/analyzer
   rotate: false
-  xy: 814, 1466
+  xy: 3543, 1903
   size: 144, 144
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/buildings/balancer
   rotate: false
-  xy: 419, 739
+  xy: 1339, 1758
   size: 256, 143
   orig: 288, 144
   offset: 17, 1
   index: -1
 sprites/buildings/balancer-merger
   rotate: false
-  xy: 565, 456
+  xy: 1423, 1475
   size: 139, 136
   orig: 144, 144
   offset: 5, 5
   index: -1
 sprites/buildings/balancer-merger-inverse
   rotate: false
-  xy: 852, 458
+  xy: 2621, 1619
   size: 141, 136
   orig: 144, 144
   offset: 0, 5
   index: -1
 sprites/buildings/balancer-merger-triple
   rotate: false
-  xy: 419, 456
+  xy: 551, 1474
   size: 144, 136
   orig: 144, 144
   offset: 0, 5
   index: -1
 sprites/buildings/balancer-merger-tripleunused
   rotate: false
-  xy: 706, 458
+  xy: 841, 1475
   size: 144, 136
   orig: 144, 144
   offset: 0, 5
   index: -1
 sprites/buildings/balancer-splitter
   rotate: false
-  xy: 684, 178
+  xy: 2764, 1619
   size: 139, 136
   orig: 144, 144
   offset: 5, 5
   index: -1
 sprites/buildings/balancer-splitter-inverse
   rotate: false
-  xy: 826, 320
+  xy: 1279, 1475
   size: 142, 136
   orig: 144, 144
   offset: 0, 5
   index: -1
 sprites/buildings/balancer-splitter-triple
   rotate: false
-  xy: 393, 318
+  xy: 987, 1475
   size: 144, 136
   orig: 144, 144
   offset: 0, 2
   index: -1
 sprites/buildings/balancer-splitter-tripleunused
   rotate: false
-  xy: 539, 318
+  xy: 1133, 1475
   size: 144, 136
   orig: 144, 144
   offset: 0, 2
   index: -1
 sprites/buildings/belt_left
   rotate: false
-  xy: 1205, 606
+  xy: 3014, 1362
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_0
   rotate: false
-  xy: 1205, 606
+  xy: 3014, 1362
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/buildings/belt_right
   rotate: false
-  xy: 1337, 607
+  xy: 3906, 1631
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_0
   rotate: false
-  xy: 1337, 607
+  xy: 3906, 1631
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/buildings/belt_top
   rotate: false
-  xy: 970, 312
+  xy: 378, 505
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_0
   rotate: false
-  xy: 970, 312
+  xy: 378, 505
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/buildings/comparator
   rotate: false
-  xy: 539, 183
+  xy: 687, 1337
   size: 143, 133
   orig: 144, 144
   offset: 1, 11
   index: -1
 sprites/buildings/constant_signal
   rotate: false
-  xy: 1706, 1
+  xy: 820, 1206
   size: 104, 129
   orig: 144, 144
   offset: 20, 15
   index: -1
 sprites/buildings/cutter
   rotate: false
-  xy: 419, 594
+  xy: 1103, 1613
   size: 256, 143
   orig: 288, 144
   offset: 17, 1
@@ -16256,14 +16284,14 @@ sprites/buildings/cutter-quad
   index: -1
 sprites/buildings/display
   rotate: false
-  xy: 291, 519
+  xy: 250, 233
   size: 126, 135
   orig: 144, 144
   offset: 9, 0
   index: -1
 sprites/buildings/filter
   rotate: false
-  xy: 1347, 1757
+  xy: 2230, 1903
   size: 267, 144
   orig: 288, 144
   offset: 17, 0
@@ -16277,112 +16305,112 @@ sprites/buildings/hub
   index: -1
 sprites/buildings/hyperlink
   rotate: false
-  xy: 1683, 1476
+  xy: 1564, 1477
   size: 62, 134
   orig: 144, 144
   offset: 41, 5
   index: -1
 sprites/buildings/hyperlink-hyperlink_entrance
   rotate: false
-  xy: 291, 929
+  xy: 291, 651
   size: 134, 275
   orig: 144, 288
   offset: 8, 13
   index: -1
 sprites/buildings/hyperlink-hyperlink_exit
   rotate: false
-  xy: 291, 656
+  xy: 250, 370
   size: 126, 271
   orig: 144, 288
   offset: 9, 0
   index: -1
 sprites/buildings/hyperlink_left
   rotate: false
-  xy: 1229, 223
+  xy: 1442, 1242
   size: 88, 99
   orig: 144, 144
   offset: 5, 5
   index: -1
 sprites/buildings/hyperlink_right
   rotate: false
-  xy: 1229, 122
+  xy: 1532, 1242
   size: 88, 99
   orig: 144, 144
   offset: 51, 5
   index: -1
 sprites/buildings/item_producer
   rotate: false
-  xy: 1428, 331
+  xy: 2677, 1331
   size: 130, 142
   orig: 144, 144
   offset: 8, 2
   index: -1
 sprites/buildings/lever
   rotate: false
-  xy: 1875, 1106
+  xy: 2805, 1503
   size: 98, 114
   orig: 144, 144
   offset: 23, 20
   index: -1
 sprites/buildings/logic_gate
   rotate: false
-  xy: 683, 55
+  xy: 2905, 1494
   size: 143, 121
   orig: 144, 144
   offset: 1, 23
   index: -1
 sprites/buildings/logic_gate-not
   rotate: false
-  xy: 1198, 738
+  xy: 2435, 1321
   size: 122, 144
   orig: 144, 144
   offset: 12, 0
   index: -1
 sprites/buildings/logic_gate-or
   rotate: false
-  xy: 1534, 924
+  xy: 2869, 1368
   size: 143, 124
   orig: 144, 144
   offset: 1, 20
   index: -1
 sprites/buildings/logic_gate-xor
   rotate: false
-  xy: 1534, 1050
+  xy: 675, 1206
   size: 143, 129
   orig: 144, 144
   offset: 1, 15
   index: -1
 sprites/buildings/miner
   rotate: false
-  xy: 1442, 1327
+  xy: 1507, 1613
   size: 136, 142
   orig: 144, 144
   offset: 5, 2
   index: -1
 sprites/buildings/miner-chainable
   rotate: false
-  xy: 1698, 1327
+  xy: 2066, 1613
   size: 136, 142
   orig: 144, 144
   offset: 5, 2
   index: -1
 sprites/buildings/miner-deep
   rotate: false
-  xy: 1396, 1036
+  xy: 2204, 1613
   size: 136, 142
   orig: 144, 144
   offset: 5, 2
   index: -1
 sprites/buildings/mixer
   rotate: false
-  xy: 541, 1321
+  xy: 1077, 1758
   size: 260, 143
   orig: 288, 144
   offset: 14, 1
   index: -1
 sprites/buildings/painter
   rotate: false
-  xy: 551, 1612
+  xy: 1090, 1903
   size: 288, 144
   orig: 288, 144
   offset: 0, 0
@@ -16396,7 +16424,7 @@ sprites/buildings/painter-double
   index: -1
 sprites/buildings/painter-mirrored
   rotate: false
-  xy: 1670, 1903
+  xy: 1380, 1903
   size: 288, 144
   orig: 288, 144
   offset: 0, 0
@@ -16410,35 +16438,35 @@ sprites/buildings/painter-quad
   index: -1
 sprites/buildings/reader
   rotate: false
-  xy: 250, 373
+  xy: 2906, 1757
   size: 141, 144
   orig: 144, 144
   offset: 2, 0
   index: -1
 sprites/buildings/rotater
   rotate: false
-  xy: 250, 228
+  xy: 660, 1061
   size: 141, 143
   orig: 144, 144
   offset: 2, 1
   index: -1
 sprites/buildings/rotater-ccw
   rotate: false
-  xy: 248, 83
+  xy: 660, 916
   size: 141, 143
   orig: 144, 144
   offset: 2, 1
   index: -1
 sprites/buildings/rotater-rotate180
   rotate: false
-  xy: 1891, 1466
+  xy: 1645, 1612
   size: 141, 143
   orig: 144, 144
   offset: 2, 1
   index: -1
 sprites/buildings/stacker
   rotate: false
-  xy: 529, 1176
+  xy: 841, 1613
   size: 260, 143
   orig: 288, 144
   offset: 14, 1
@@ -16452,427 +16480,427 @@ sprites/buildings/storage
   index: -1
 sprites/buildings/transistor
   rotate: false
-  xy: 1451, 1181
+  xy: 558, 1062
   size: 100, 144
   orig: 144, 144
   offset: 1, 0
   index: -1
 sprites/buildings/transistor-mirrored
   rotate: false
-  xy: 1301, 885
+  xy: 1038, 358
   size: 99, 144
   orig: 144, 144
   offset: 45, 0
   index: -1
 sprites/buildings/trash
   rotate: false
-  xy: 780, 736
+  xy: 1889, 1757
   size: 144, 144
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/buildings/underground_belt_entry
   rotate: false
-  xy: 1836, 1222
+  xy: 1768, 1363
   size: 137, 111
   orig: 144, 144
   offset: 5, 0
   index: -1
 sprites/buildings/underground_belt_entry-tier2
   rotate: false
-  xy: 826, 194
+  xy: 3767, 1638
   size: 137, 124
   orig: 144, 144
   offset: 5, 0
   index: -1
 sprites/buildings/underground_belt_exit
   rotate: false
-  xy: 1249, 9
+  xy: 760, 391
   size: 137, 111
   orig: 144, 144
   offset: 5, 33
   index: -1
 sprites/buildings/underground_belt_exit-tier2
   rotate: false
-  xy: 1406, 86
+  xy: 899, 391
   size: 137, 111
   orig: 144, 144
   offset: 5, 33
   index: -1
 sprites/buildings/virtual_processor
   rotate: false
-  xy: 1106, 1469
+  xy: 3195, 1761
   size: 144, 140
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/buildings/virtual_processor-painter
   rotate: false
-  xy: 933, 882
+  xy: 2304, 1467
   size: 130, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/buildings/virtual_processor-rotater
   rotate: false
-  xy: 987, 1612
+  xy: 614, 506
   size: 56, 144
   orig: 144, 144
   offset: 45, 0
   index: -1
 sprites/buildings/virtual_processor-stacker
   rotate: false
-  xy: 1322, 739
+  xy: 2171, 1321
   size: 130, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/buildings/virtual_processor-unstacker
   rotate: false
-  xy: 1626, 1612
+  xy: 1361, 1613
   size: 144, 143
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/buildings/wire_tunnel
   rotate: false
-  xy: 1066, 602
+  xy: 1768, 1476
   size: 137, 134
   orig: 144, 144
   offset: 5, 5
   index: -1
 sprites/colors/blue
   rotate: false
-  xy: 1, 15
+  xy: 3284, 1710
   size: 54, 49
   orig: 54, 54
   offset: 0, 1
   index: -1
 sprites/colors/cyan
   rotate: false
-  xy: 57, 15
+  xy: 3110, 1622
   size: 54, 49
   orig: 54, 54
   offset: 0, 1
   index: -1
 sprites/colors/green
   rotate: false
-  xy: 113, 15
+  xy: 92, 15
   size: 54, 49
   orig: 54, 54
   offset: 0, 1
   index: -1
 sprites/colors/purple
   rotate: false
-  xy: 169, 15
+  xy: 148, 15
   size: 54, 49
   orig: 54, 54
   offset: 0, 1
   index: -1
 sprites/colors/red
   rotate: false
-  xy: 1982, 1329
+  xy: 3114, 1571
   size: 54, 49
   orig: 54, 54
   offset: 0, 1
   index: -1
 sprites/colors/uncolored
   rotate: false
-  xy: 1975, 1278
+  xy: 3114, 1520
   size: 54, 49
   orig: 54, 54
   offset: 0, 1
   index: -1
 sprites/colors/white
   rotate: false
-  xy: 1975, 1227
+  xy: 3284, 1659
   size: 54, 49
   orig: 54, 54
   offset: 0, 1
   index: -1
 sprites/colors/yellow
   rotate: false
-  xy: 1975, 1176
+  xy: 1771, 1312
   size: 54, 49
   orig: 54, 54
   offset: 0, 1
   index: -1
 sprites/debug/acceptor_slot
   rotate: false
-  xy: 1692, 382
+  xy: 496, 360
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 sprites/debug/ejector_slot
   rotate: false
-  xy: 1743, 1047
+  xy: 760, 377
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 sprites/misc/hub_direction_indicator
   rotate: false
-  xy: 1975, 1126
+  xy: 1827, 1313
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/misc/hyperlink_good_arrow
   rotate: false
-  xy: 1875, 1065
+  xy: 1100, 1137
   size: 35, 39
   orig: 39, 39
   offset: 2, 0
   index: -1
 sprites/misc/processor_disabled
   rotate: false
-  xy: 1388, 3
+  xy: 315, 4
   size: 78, 81
   orig: 96, 96
   offset: 10, 5
   index: -1
 sprites/misc/processor_disconnected
   rotate: false
-  xy: 1982, 1380
+  xy: 248, 1
   size: 65, 84
   orig: 96, 96
   offset: 17, 4
   index: -1
 sprites/misc/reader_overlay
   rotate: false
-  xy: 828, 122
+  xy: 395, 17
   size: 104, 70
   orig: 144, 144
   offset: 20, 36
   index: -1
 sprites/misc/slot_bad_arrow
   rotate: false
-  xy: 225, 29
+  xy: 1709, 1237
   size: 35, 35
   orig: 39, 39
   offset: 2, 2
   index: -1
 sprites/misc/slot_good_arrow
   rotate: false
-  xy: 250, 552
+  xy: 1051, 1088
   size: 35, 39
   orig: 39, 39
   offset: 2, 0
   index: -1
 sprites/misc/storage_overlay
   rotate: false
-  xy: 677, 621
+  xy: 1, 20
   size: 89, 44
   orig: 90, 45
   offset: 1, 0
   index: -1
 sprites/misc/waypoint
   rotate: false
-  xy: 250, 593
+  xy: 3166, 1623
   size: 38, 48
   orig: 48, 48
   offset: 5, 0
   index: -1
 sprites/misc/waypoint_wires
   rotate: false
-  xy: 1982, 880
+  xy: 1771, 1262
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/wires/boolean_false
   rotate: false
-  xy: 1970, 139
+  xy: 1137, 1135
   size: 31, 41
   orig: 48, 48
   offset: 9, 2
   index: -1
 sprites/wires/boolean_true
   rotate: false
-  xy: 2025, 1860
+  xy: 1877, 1320
   size: 22, 41
   orig: 48, 48
   offset: 11, 2
   index: -1
 sprites/wires/display/blue
   rotate: false
-  xy: 2000, 1077
+  xy: 3170, 1574
   size: 47, 47
   orig: 49, 49
   offset: 1, 1
   index: -1
 sprites/wires/display/cyan
   rotate: false
-  xy: 2000, 1028
+  xy: 3170, 1525
   size: 47, 47
   orig: 49, 49
   offset: 1, 1
   index: -1
 sprites/wires/display/green
   rotate: false
-  xy: 2000, 979
+  xy: 3219, 1575
   size: 47, 47
   orig: 49, 49
   offset: 1, 1
   index: -1
 sprites/wires/display/purple
   rotate: false
-  xy: 2000, 930
+  xy: 3219, 1526
   size: 47, 47
   orig: 49, 49
   offset: 1, 1
   index: -1
 sprites/wires/display/red
   rotate: false
-  xy: 1970, 376
+  xy: 1058, 1178
   size: 47, 47
   orig: 49, 49
   offset: 1, 1
   index: -1
 sprites/wires/display/white
   rotate: false
-  xy: 1970, 327
+  xy: 1107, 1178
   size: 47, 47
   orig: 49, 49
   offset: 1, 1
   index: -1
 sprites/wires/display/yellow
   rotate: false
-  xy: 1970, 278
+  xy: 1051, 1129
   size: 47, 47
   orig: 49, 49
   offset: 1, 1
   index: -1
 sprites/wires/lever_on
   rotate: false
-  xy: 1324, 212
+  xy: 1058, 1227
   size: 102, 114
   orig: 144, 144
   offset: 21, 20
   index: -1
 sprites/wires/logical_acceptor
   rotate: false
-  xy: 1956, 425
+  xy: 3050, 1513
   size: 62, 106
   orig: 144, 144
   offset: 43, 38
   index: -1
 sprites/wires/logical_ejector
   rotate: false
-  xy: 1468, 17
+  xy: 1709, 1274
   size: 60, 67
   orig: 144, 144
   offset: 44, 77
   index: -1
 sprites/wires/network_conflict
   rotate: false
-  xy: 1970, 232
+  xy: 2809, 1311
   size: 47, 44
   orig: 48, 48
   offset: 1, 2
   index: -1
 sprites/wires/network_empty
   rotate: false
-  xy: 1970, 182
+  xy: 204, 16
   size: 41, 48
   orig: 48, 48
   offset: 5, 0
   index: -1
 sprites/wires/overlay_tile
   rotate: false
-  xy: 427, 893
+  xy: 1162, 1245
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/wires/sets/conflict_cross
   rotate: false
-  xy: 803, 1320
+  xy: 3835, 1903
   size: 144, 144
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/wires/sets/conflict_forward
   rotate: false
-  xy: 1997, 1757
+  xy: 4069, 1757
   size: 26, 144
   orig: 144, 144
   offset: 59, 0
   index: -1
 sprites/wires/sets/conflict_split
   rotate: false
-  xy: 1560, 289
+  xy: 1907, 1399
   size: 144, 85
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/wires/sets/conflict_turn
   rotate: false
-  xy: 1319, 125
+  xy: 1622, 1256
   size: 85, 85
   orig: 144, 144
   offset: 59, 0
   index: -1
 sprites/wires/sets/first_cross
   rotate: false
-  xy: 791, 1174
+  xy: 1597, 1757
   size: 144, 144
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/wires/sets/first_forward
   rotate: false
-  xy: 2020, 1903
+  xy: 803, 1060
   size: 26, 144
   orig: 144, 144
   offset: 59, 0
   index: -1
 sprites/wires/sets/first_split
   rotate: false
-  xy: 1560, 202
+  xy: 1907, 1312
   size: 144, 85
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/wires/sets/first_turn
   rotate: false
-  xy: 1913, 1019
+  xy: 3110, 1673
   size: 85, 85
   orig: 144, 144
   offset: 59, 0
   index: -1
 sprites/wires/sets/second_cross
   rotate: false
-  xy: 787, 1028
+  xy: 1743, 1757
   size: 144, 144
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/wires/sets/second_forward
   rotate: false
-  xy: 1291, 1177
+  xy: 4038, 1617
   size: 26, 144
   orig: 144, 144
   offset: 59, 0
   index: -1
 sprites/wires/sets/second_split
   rotate: false
-  xy: 1560, 115
+  xy: 3341, 1677
   size: 144, 85
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/wires/sets/second_turn
   rotate: false
-  xy: 1913, 932
+  xy: 3197, 1674
   size: 85, 85
   orig: 144, 144
   offset: 59, 0
   index: -1
 sprites/wires/wires_preview
   rotate: false
-  xy: 1982, 830
+  xy: 3206, 1624
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
@@ -16889,7 +16917,7 @@ sprites/wires/wires_preview
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = (function() {
-        return JSON.parse(__webpack_require__(/*! global-compression */ "./src/js/core/lzstring.js").decompressX64("N4IgZgTghgtgpgZxALlAgDhAlgF0QegCM4AbHIgVyzPzAHsIB3KCAEwH0BGAOnQDsA5ilCRYcYSAAeKAJwBmAOwAaEAE8UnTgoAsKxhs4A2FQAsN27QF8VEOjih5WKMFBII4KnNhjwnyLxQeIBjYeADKdBQQAMZwYVgAXuKoUuYq6sgADHoGxiBmyJwW1sGRMXGJyaD6hRam5lYlIbgExDSEVDT0TCwcnJm8ghKi8BLShQBMmXkZchO6IDWaeQVFVjZ2DnB+Lm5BXlg+2ygBQc3hZbHxSWNpaijZi7n1teulUVeVEkt1+Q2WTUwLQQRFI5A61HI3WYbC4PH4QhSIyqqUKWjk6QMCjySyMLzWJVs9kczlc7k83l8JwggRU5zilwqNxS4yKmKyOTRK3+dMZ1xRPwWq2KgNCrTBlEhtAYML6E0GiJE0FGLKxMw0mTkj1x3NehM2JOQu3JIAORz8pzpQIuHyZKNZCwy2uefz1vNt-O+DXxIqtYpBbXBnShMt6XDkCuGyvtBgAHBj7shY7GFjqfW8iVsdmT9pTjv4aWdrQyPV9VbV2c6uemmnyy9Vva6CaLgaD2sHpT1YfKEVGxLdkDJtDJ2Zw5lXljWNsT88bc4cqQXacFixFS8zQA7K5zJ03iu7yp6UoKay28AGJRCuqHYRHe0jowP+oZlImxxMJju8XuMwbZzmKQXfNLRXMU10PetUTZRMJ2-YU3gQOsNyeV5Tz9VtA0la8uw4bRIwffty00WMAFZRzmBM0x-fUZ2zPZAPNall3pcDPmQrcYK-XUCQPNiBUbeCAXQ882yDKVoTDEj8KVQjNw0EjY0eDJ3zIlDd0E6cs1JejTTzC1C2EksIPYu4nS4qd3mM-jUOos9xXbcSbw4QxpPAR8iMyZN2Tkb8qI0kBM0NOcGMXECWKQmMK04tS4J5Sy+K9GzBLsi8HOw2V2AUVzkSfTISNU5StFTF1-MC-8dLNUKDNAlpWLtJ9HQeczqN4+rjwE-4UtErCQxw9hY2y9y5MKPLY1HTIJjGmLuP3AK-zok1KuA6rwvXSLoLM6aLMQtbErWNCapEzCr16jKZEG2SoOmAqUGTT8tpaubaO0xa9KYoswIihrtwe-ydqsvbfmSwzUrEmgSDgMAcC4C6VWGooJvZGRMmKwotXxLUaK0o0AN0oD9OY1cvvLJS7iWdGm0x1qjwbJLOpB7qTvwCGoa4AZ7xkuGoIUaZ2QmQxUbHR5Vipp7seCvHGKXD7auJ4bSai8nhY0UX-oS9q6b1Lrjo7Fnoc0WH1u0SbRxkEc1IpkXMixoLcaWgmZZtAGSdHQXLZV63qcgk9bIZnWpT1rgeyGAiudZHn1TR+6lYxz2xdtiq3ulwy6pp1EFegmPKbjtW2tp-bfcO+ywfIQOx0Np8FE4KaMgUGRXyzq2bfK178felO5fT12d3dtGc87n3gaL0GeuZyHoeDxU3Muh0SMa5AFAUaOPdj5uFvnKWwqJ3aXbfN3lb72sd-zoH6eHxndfH9g7xDzmjcMc2MgFide6FteXo3qrCc+4+u73nuD5vy9shQeZ96QjyZoHPCHNp5h3krGSOddl591XppBOrdN4rW3s7eW3cLaANVgPDqWs-aXkvqzKSMCcpEUMJkTg7JDC0IAag+OLdP7LW-rLX+4wM77xYbnNOoCSHn39uDK+LkqFDSgsOV8GQSKeWYdnd+ONE5t2TkXVOkEeF4Mbh7I+OC1Kn2EeAi+Acr5ZUkTPDQhgJiPxQCRE2+CWFlXXiFDhjsjLq1wf-JxSjgHWQLkPExojS5XwGpYuBhQSJMMTIoHEK8-GsNcZLL+HjNEmQ5D43Rh9-GAyFGA4sEDyHQ3OhE9aD97qzBkPElBiSXEfzcQ7Du3CmpZISU3XJGtAkFP9KYmg2ABAmH1hXIiCg5AJifoYVS2SgFJIaSk9xzSDEcWUnwxJAjvbEObKQtK5ABlDLZiM+GChYz0MTDIWxiiOlzJURg1JSyvHSJ0e0vRnST75OMYUvpeysCDP1vCW+sD1qkQVnXBuLyck3IlvbduGjO4rLJhC2ZGyQFbN9CIshUp9n60nn2SJ1cpkMMJb4659TbnsKaXClpUVVlXNefFPOhiPnbIxbs-A2LwxHKgrGeQ7ISLjLpZCsl0Kk5bx-ss0yiLanXJRQEoxLLgmYv6b8g5uLQ7rWxGcuRAqSX0uFXbUVWDxWPIRYrJFhDf5CIVV8kJ7KVXQxvlPah8NYzzHZNoOhgrZn6tUZgzhTsTWSrNdK+lsq8kHUVWyjl0DAXOu5XIGuKB+bmxmaLH1dzFlUolTSqVQt+FEM1ta3ptqOWUNjVI1k8ZE1o3BSGoV815kwvUatbNG1c2vwtQYq16LI0lztX89gEjy1WMHMS5SikvVpobeSxpsKW2BpzcGvN6yC3dM+cWpVPyB0WOHfizI9dRwpknXHdNFK53YIXW2pdHb+6WrRY0HZfaOXhN3eUmQWqDC8t1fW56M6FmUvnYy01mdzW3q7feoSrKn32vYKU19ldtATI1IYM5qaT3TpFWosVXDW3zxA3W5Fq75U9ptSQQIQI+A4BBFAPgrhVBJAgFy8YKYP2FBQ8gtdPEoUGqw0anDC6FYTmIwhIjzKSPFrI3ACjVGiCuBo7ERjZSBwOOrf0CmNQJgkVfKVDDPG-VpPhRoWRrSNNae2gWyaU0gmkfI9gSjAY5N8AUwAWngBAAQcBFPwaInPSp5gq493NiLWMyjMP6YeUB+xfNAsYxC28plEabNSbszJwgjmXNuY8xAZzWA+AADdPPuCYyrGQqntABcMfdYLoW9P3KzQJ6LlXYv6Med2h9IjJPSYcyQeTnnXOeay85g46AIbFYXhOxMJFqk7nlQmmrvq6uAbTtoxMHHZtxYZYIiD2tOspe6717LGASC4DwF5p1FaUCGFIt5XyJXmtoLYbO5tF7IvIBusgDjcggsqw22GrpwnIPBN27l1L6W+tHZO313LBWIBFaU6M8rrsKs-Cqz9+bGaAMveW60jIa3Udo1+6JxLEnbMg-2058HI3IfZeG6N+H8NNN+dqMjrZc2HvJKbdhgNr2FZreZWzzbmzC3iYwsD+zol2B6zG5oTT7qebHvR2e57xqefPII521r22-Zi9S2Cdg2LpeaeM8gcrazSW6YW5mpbWig34eXTKonhcgek-F4GdgOA6DoGl7GOuo4FBmd+nFU9T2ueeNe1e2CM0RN3uF+153yWyf4GiHQGA6AWAOAYGNr7SHCjxhm-zuQiuQ98e59jzJm0rXjJa4ytrgOktdaT3QPgCB7CUfYAgX5tGSDS4TXYk3-udy8zqRbjH56Vdl84H3icQ+Hcx84yLo6OuQTRAoDgU7Y2VPsmTKjI3Flg--rH-x8Pxuqy78en92mlniei5dzJlfa++sAEcKBQFYNL0cUwakOKj0Xg-yuj9l5urRQ1Df7mYx5aY-47a34gisBYBHZQCqBjZmzvbaA2I7iOIiyGC-6c4l5h5l7VpTRLAYEqxYHxa15QEJ7i5gCQiebS6ZCLx+4B4aZXZ74j5K6h7pLlI-TMFWZxQX4oRX5O7157b4AmCqDoCebHZ8AADW0uL4fe-QiOKEaBlMEw2Bhq-qeBNuJurGqMKhIsahZBWuHW0Boh4hkhuW0hzmYhEhEAUh0h7AcAlG0AFOY2L4xujCta-QZyBQEwnAJE6hvGmhnBA4kc-Qg+PhSa-h1eW2aICYvhmmdeJOlBMmNhFhMh1h5hdhlhjhkguAY2xsxuZsqGsg32H2Y4gR4W9Wr2xunAyCZsLwfhheRhcRjRiRFBDeLQMA7AmAdArAFACmdBY6KAYyhBKskRtQhh3GlumO4+2h1aL8ExRQUx-B5B2uphEMMOchvu5ylyakmQgCRglRi2WO2hH4SMg+hxpBguqKseSRN+KRIIJAdAAgWA0Q7AAgWwWe76fKKaWyH4xxVupxGSgm+e+IAJLR8+cewhiezxrx7xnxeAzmfAdgSBOqykE0Yxkw8RQebBxewRhmaI3BGgEwOJboNxcqYm0JyRDecJbxHxWwzmme9OqI-KxuTB-xv4v6YWJxcxIJxJha8wMRQuUJ9xi+GxLx9JiJcAzmkgzJ3mLqcgYR4y0y-xMggJsxAB2hoJCWTYtiwptxopHRIhMAuWtBLJ4wFyiCigPc2m5gzR0xo+-+pe2h88L8dptQDpqxxh8eDeppfAfW0QJgUAuWUAhAdOCpUEWoOe74NSY4HpRQDp++OBBJ1KbptpPoXpju1mNJJpZp2WrAcAUm0u+UMZ1cJRaMM0UxyZGhBm1K72L8VZBplJ1+4pjx+Appkg5pkZrIKGYR-uta-MSxs0NZQRdZraOep+KGYB4GH2XkQhuZieaeIO3Z52I6-QyMpsmonIghOm3JtWQJfJkUOpGm85f0FmZ5PSDxDey5lGfWrAkQ4ZcA7+uxO+l5c56G+5Mxh+Lp-JwBSa75k0YGmuc5vBoFYprQS++At5p2rmWAEAtgEA2wPeE2ykyMlEAFYFXGo5VR1uf5FemFM5IFu5V5bZN5IZd52Wz+r+L5ykcgDinI-KWFI5eJf+HBhJdRApTFRFNe9i2IrZkFphSFr+q5eKGqS8o4KGFZyxrBX5Tp7F1KrGQm+OXG3pdxxpieZUZ2YlT4k+rGRgmgM2ZJ2FrFKZ45l6ApiZPFsRRp6x7ZWlzm0Q0QjAPeSpklhlhixlLFcl7BuBIRRElliG1lIpAOGl4uDlZU1c7MPZ5gpy7l0lQVj0OFvJWpGSSlRlwVhpoVdlDeLeUA0Q0hol6qymJE+lqBNSQ5sl4sB5mpv560k5O5055+F5zF1J15IhLeDAUAHmtFKA9FO+ShvhPuGpP5WhGSfho4O5g1AFCgzZiUJF4FYVMmXgNGHenV2lxVREcw88cwWJ-QKl3l1V35zpY1x5lliMzVc+2VJh7ZK1zecBHu2WppCFDAyFFpJJQ440PklxVV6CvlqZ2avwBFI0gCs0altlN1DeK1CAJgY2Jyxud0YJSVpltZEWZeJ5EGkJ11vpIhFAfAhZ7mtgeNHAbuThXgiB71o6ChPcWFdRI1J1-lw0O1n2tNKx2ZpFgl7ZxNA2RN+N7ApNzhqgQ2WAnmaqd8T4pyTOqpBO4JAR7OjaqN1RZeeGfxMtepctFJ4aC57Vie3NhNkQfNpNeROA0uG5k1FsrN9NClgNllCa+IdNWNVJEFAYUFetAgvNJNeucAxtwtotY2rqqmMWTYDtjp-15lr26ZFsZRMuc1-2TtS1IIeW8FOAL+JAPRtgsQCAiEG14t5Y1SvCLBupwonAVtflhJCsGFwuJdjtAlLtphSdEAKdrg6ddAmd2dzmMFRVud8M76YRUlPcw5XJR18lZdilDVFsg9sd7ytdRAUFDdTdadvRbdDAzmWl0u+dW5ldCkv1j2bFo9gNkdIBrVU9RdHNdd7Z89qdLdy9h29gBVXdQKT4PkChUVXqh1f1+J4dE+h9SKYN7N66Ot4ul9zdS9iA7deNeV99Odj9Hk2g72BlCVTt8tf6ZlaN2pgVSDmtcdM94ZphjA8FcA7ueNAZ3elNVpDCBxNNGMGtyVh5qVkU88bsWF9FJ9axIinQsBgg1GXe9GD9cazGV6RQjCSNe5w9YdaD+FJmmNWD092tR0HDuWAg5OgxlN2gk+7IYyqtmmM0SZKNY5EjGqAp2jmZrDhFcjrQCjXDsmPWFOT1A2fDF2b2wxJu0SQdmBpdANC672ldY40dSppj6lfsljSj1jB2-W7mUO+WhWz5lNpETOcDe1ajGM1xtDtVp1A4FdM2Sx-jNd5jAYwTyjfWmWfWtOMTMVOhfecDcZs2KTejuFwJZ1sSIjJBATENwSBToTtj4Tg2pTeNFA7gb+lNEc7q29p9lZHjX96DTTYzY41x4N2NNqHTaWNjLmEOD+0D-Dl2R6b4JybjLTyDPJdDdVym3kez4zuTOZGESzYOh2VO6zOWUTsOZTa5kSrqkc44M2KlOTodn9BjGTpzTWlMcz-9RaVz1AnDITyzYTazsFpT3xOePkiT-OtTPlvzStUzT8zT5zMjMzC+Fj4LijhTtzx29zvTfA-Tb15T-KfeiLWLszEzfzu8mLMz3z8z8dQTBLVjbuUulNdReUFDcZN6DL6Lkj16BCwFvFgTUGo8gc0VLz60Uw72tCgr4rwreFjTtK36hGV17L7DnLkLeuBuvL4yHh9BCuBzNVo1jNTybS6uErNlCzG6UaMGcrOlW1NpiYtCXhQrFrx11tl6eGZuoaILeL+T+roM7unuSB8usSnFge5JqTVrHFP91Yl1s5bTNqm6nYGUrrm1w09cFdcbfkuJqLe9nj4eKb6kfBIbbV8j4bjeqe6ej1G+X2h6PjiVIsujpbqDIr60gVxlVeFzZ9WEELy+TeeVbeHeAgXe0uwzb4g+zK+pvrI95bgBGNI0i76pQ7ADdbJAo7Seq+6+qj6jk2n1Ahrje4XbYjaL6rlcRjF7woWZMeC1oLu7+79+sF1FgzVLpVjBWJDiYmV7H9Zbkz41DZjFQBj7ATEBODHTsB8BFN5TtirGpVqtdR3ELDy74jvbA4feaH-M1DrTjrYLe7hLtANBGzjjY4ShykA5jVCZ79u9Pbt7oyRjL4mV1kL7obI7ZHJgFAhAvVtQpWjF2gYFc8W7PzIHjL8MeGX+onLw4n0H-FroEBztPHVjaR2RMhcheee8ynNQ+hKsQ9wHzHDTA4STk2nIhnaM0e6bxHb7vHWR9hmRth9hjhzhvWY2yHSMex5MHyEw-uarZn5YCxPc-ngX27lmanV4+7mnzncXOR3t+RlN3nnrF7RBuoAX1dknpnR5uHfu6BmXVcRH-nyY0XHTCXMhku48huexuOpJnI75ZsQXeX5YKBVYTXEnbLsH9blXDhRr5TdRdXJJyCnXLX9DymuhHXYFzX27r7+LpHVjXRLd-RKjg3xs1a4y0lr8xs43xzIXttoNbNOrPXi3ITmxDj65Pu8Dz4nIwnwdxnTHitLHw0DXb4VY93qwRQJXp3+7dJCJXxlNV2Oe+UGVep2XibDNHF-b4J2X3XeT6n53kpAPSJKJJtvLk+1aox6BB1j3HOz3wXDOll5xabIFGbxaHT-3DJSJ8p8rT4-K88FygsHbJJePCt+jOHAV-5np4JtnZP9nC3f3yP1PMpcplH65DP408iYPqwS7OXBPrX8MMPepXXNb5X9b-pl3+KFgTO743rTZWHN7hPrJttBvOLbD7TGv+ZjlwZoZT5ch93dFAXPcZvkP-rr24HFsZv8PlzDnVjmvBZRZXuxr0273blXvPo1ZdTKV+3w0nv5M3vav2sHTnZWvkUc8+lcwFZ-MoNQHT3HPL3NrwNOfJjLRXHtbgvZHnd4vkS+U+l7GO575Jl3bCvE3TLUjoFHH81Tf3HMXVfFFsFD5-HEZdPXPT8iVp5YFAXEnbv+9DW3PC10-ATi-ZXyf9b1fcFL1SF37o-8ML4Gc6Fjfx9hvUnnP3ixfPffPkr5f6vZ3IIG-X7G+v7b4h-KEbJO9+PBfxvrI49IBHr554BZTr70r5WNhKBNLztL1iRjIsmH-dnvU0V6ogmcQmSenN174dM16KXSAfV0SbDk8+n-eAW31e6BVcBP3BHn31AF-hssTlFyil3k6JhdOPwEgSf1y6EDEBxA0vubx9KLN62EVP8FFW9w-E94wjQxEwPl5f8EB4wJATAMvakDgBYbO-vgEgaFUa+6fYbmiH05JoYkUHZga31j5F8O+JfGQWX0v6399261bqs8zdZK9PWFVOBo0QQR7d0m5YEnrjimqqQhqwLZ9oBVX4csFBd1Nas215ZwN9K5ZH6sjRb7iDWBrIc6qDSv4OtdWlvPwS4QCEr1nqiFSlrvyjKep6B12FCA0XCHXtT+hfcYHYO575CABdnBIdwKSFQAYacNVCiMXD614dBkQvQStmBqilUBFfeQfuzdoe1+aXtQWt7nD7KQPwn2BMpoEcHWtxg3jHxv-wMBw8k+vg3ofjR5oG1PaZAdzuTV9oQAxaMDYaG81NhuwEyQpFoQQLaFRZVs7pXnrIOHbkCQmfQ9YQMM2FJd0eg3eYHhwzLB0Ie0fI5k4Lj620Jhiwk7mQI6aPDiazw6GK8J2F7DNmtQIfBkAQRfCvuPwiIecP+Em9ue8Ze2sCMqG-cyOwDRehnTAa08rBUEW7kILQ7EZPyhQlgRcPLwoBmeYme1iFSqEU962hI6+iSOyzV80SOeRGlq0Y74CY+GI01C-FiG3Cd2IAkJpyNAZZ0V6GA8pqVlqIN83+P+M4SKOmGMj4+9idUZwKlaJD92so4kfKNvr5VlBPeFwY0LQ47c2eKDXQaKKDTiiu+2DUERyOTpX05R4DZvHfQtG8sbEfdItmijwFwDNR5dc2t2ifZ4i3RCg-BkhSIZ8ASGQxSOLQnGEYw7RhzNJlqLex8pkRRnSUfNzHbPFYcs9QIIJ38IicXgw4KYeGMTCow54VY1XuAQ+Rzw1OyeYscvlUA0YN8tRaWg2NdDViNRfw7MQrHrEfJBx+o-sQUFbFdR2xDAEEO7SLJ8BTaMZPseOJn6-CsxtYjIGOMbHQcWx3QxvB2OgpRARslgvNlBAfijg1xe4ocVuOpSjjKxA4psbOSnH2JDxc4ksdv3XqupyIvnd8beLEHoiRx7qJ8QUAnFqU3xb2D8XQGPF41PxGQskayHrjwMAu-7dcTWIfGgS3+GElolBJnEMxPxIIRgCYBaDr0B8b4D8LWigkTjZ+q7DFoyLAmMiXxIFfCTBOPGqBSAzxGgYNxQmjgtAcnQCXRNA4atGJOEwCZBIPFqdCyHQAQPgHyqxB0Aj1dvM8TeGZDeyFybyL+LUgqUo+aIsMVhKxG6TWmxkrqDJIoByS4AAAKzgDRBlJCAVSbO0SoYklCRBcEphOzTrs42svEye5K6imkEA0QUQvx3YCwEkKdkrAE3nYC5ZYC0QDPCoKfB8S3w6HTkHQPAkbZhJ0nP+MDTSmMjCcMeXKSbhCz+S4CQUvrh8ToB9F2ALAWwDxPUkaBru40YlDUHoovAvsHkhdFIJQitTXQ7Uloq216nqkSpgU6CiaOzqhS4CYZCGDvyQk-ZNunIXZq6FOQdTw8GcKsItIKDLSWiofAoNUjU4BSgpXohgBNMClN4AydkxCReOQnaS6KE2Azu4NugZjLWUPRSgjSs4PSkwcQoXDtNkBYFhpQUsAZ5nYB0AYcPWRDvVKTCOJRhHGFGC8B5grS12WkhdnDJZFZU2RrYA6YoNUn81X81Ul6nVNmkfZZcq2VWj1IKCYcgJBk7NEzmQRky+qGtNSgNPJlDSGYmMhyXYAqlVSapdAAmVdKTRYD7EDFbqR9L6mUzhxhJLqS1JFksTJWTMvqizPPhszHqFg4GaDIQJuEGCnrCaihB5RVinpfrOfuHgjG3Qyif9GPJuQHEBF-p+AZgOIToAg4IBCsKbJXTtoDiMpm4pNvWQFKuz0pATQqaJ32mlSbZCBdAPbLbxxjEAP4pnMmCrD+z3Z+k8WYZJylgUA5LROOWpwjkBhKpEMGjOwDnDkSM4A0lqRMTUYIztCfeaWt9QHG4iQK6crqJnKIDZy4Auc04F5wmjwMEEp+fHKXLvGezW0KHHct3JrmSs65DMBufBxGwIFSx547uogIOJrTNZNQaav3jLlpVjZ-eKsbNTTmmyFZJiceXAUnmqAk8XY5cSl3nnjRHES8j0uVlXl9t52KEZeTfO3l7j65BDGAgfLBn4BFxThNuZQ3OQ7Er5m82+U+HXmPyt5+o4cC-LHlvz8AE8z+egFPEj9CZUwP+RkHkCxzr54CzKWfygigLMFfsneRnJgVwKp5343lgW28gaCN5A4rBR7Jemto8FQC5+c+KIVIV35CHG2aRLwAFzvIzvB+fgt7n0KLK98wBTQoIVQLz4+8jhZxJIDcSeFq2RaaIvAm0KE594hhSIsZECKIFhC1+WwrHgw5gZp8wbttT5hBiRoKlb7oIvd6AF9K0+CxV9LRkz0G5-3ZugpKkyBDeJF7HccTIM4qVpgwC8sM5I77WdnwBY7js4uR7N1rJtkjxRDKEaqZa0Wgy7CotpEOjsxQNYJQfBfBhLDxDcgMjgEYAMAHCyePgGAGOx2T5FuOOYKlOvn6yV2IkkBathqV6y-ZKc4qdAr0X5LClEABwnAFTw4BwZhMyfDG3HTIILOvsqxYbLLw6idCVY-KbOVHmSKYFIMyQggXdzUAZ5+w1EIUS3xfoagP00dAEvP4d8Dle07abqD2m6KCA7gO-E3jKVvFoY0QWwFnX9rbk3wHzXFnUuw7FCccHfTofqPJ6tgG5NysdqUvKXQwJIbAdegeh2YckPseo7BT8rexT5GqLo2RnIJtkwKQVjeMFQ8vbx3MSyMSXHLrLGakQjl2U+xFSI+RkquhrC65XAFuW4q7JRDCAEYriXP0P80tXIZtJoZ0LrF2hKbL8Ua4fSaVAKgXsRKxUMqQQ1BWHI8ueUIA4aggwqDoDpZCjQxiczyRgzRWfK6VIIbFTKpbx5ynIbcqYJvVRUFCTOaSwkoKoX56ifew7YFVKvI6yr8VJLQlbzgupCJRViK7-r8uRVYtRV9qqURKr0X6r4KhqlOqyvXpjhxoJ7GoNytui8rVFfcrxhXNVoJqkwDMpYUstDVOr3AJSjgE8roAvKhmPuC+Ui1gH2jWhjohkZkmaFir0ZIkR1TJnzVN4OAkKmaXzMmBKqsQg5BFXyqmUCqUVAhO1dmr3mSqW1tktta6uS6DdokGcCsaSqTWpLq1IE09gGqzUgiMVzavVVOr5qRq2VQy99DnnkCjcRVy6y1auutVprhVLwQNWOq+QNzM56dOAEnTgC8zZ5106OepjylzLyV7QjvunLTltKAQJQeAPYAkCHALBKAEAA4B6wIBMg7AEwI-kjAqBugMABwDBoABKAAcQABCAAQWTDJgQAdIIXFMEKkUbfscUiGDBoGD+4QAAIIAA"));
+        return JSON.parse(__webpack_require__(/*! global-compression */ "./src/js/core/lzstring.js").decompressX64("N4IgZgTghgtgpgZxALlAgDhAlgF0QegCM4AbHIgVyzPzAHsIB3KCAEwH0BGAOnQDsA5ilCRYcYSAAeKABwAGAMwAaEAE8UATk4AWFYxSdOANhUALA9u0BfFRDo4oeVijBQSCOCpzYY8Z8m8KTxAMbDwAZToKCABjOHCsAC9xVCkLFXVkOT0DYzMLaxUEKNj4pJTQfWQdXRBzassrGxDMXAJiGkIqGnomFg5OOV5BCVF4CWlkIwB2aYyUWeyQKsMTOoLmuwcnFzcPLx8-FEDg0LbI6LiE5In0tRQllbz1hsKQkqvyiRXLfNemoqtPAIIikchdajkXrMNhcHj8ISpMYVNLIDQAJjm92Q0yMMhy1We9Rqm3sjjg-lc7mC3iwvgpxwgQUBYXiHzKN1Skx08yyBNWfxJRXZ1xRP1qxMazTOwNBnW6UIYMIG6OGiJE0HGXNkcixmSMCjWTzWkreW3JlL2NMODICTNOQLZlw5KO5tUyj1yJo2wudou+BUFUpZbRBHXBCtoSv6XAUatGmtdKG0GjWmQArHIjV6g2ayTtkFT9iBafT-CcQxERV9tQ1eZ7Cd7-r7Sv7UuLcwCWqyw2DKJCo31YaqEQmxLdkOi5OnlNidEZs43O7Z87ai9a6Uc7czu+dq5zQG76-yiT73n6a5VAy8SdLHb35QPoTG46OkYmJ1OZ7zOAopyemyFEBzQLdcDk3W0K13KsLwPVEeWxBsBRvRoW0+OCOxQ6w7x7OUIyfaNYW0eN33HWt0W0Q0f20GYAOXYDV0talwLLRkdxlJ1W0veD3QeOisOlfcxWvU0uw4h98J6QiOHTEiNTIw8UHRdN014hppk4fjRJXbY1ytFitygjiLi4uCj0QrSz2KWDhNeTscNDPD+ykocOCMOTwA-ciVI0H8-3TSzmwY3SmOLUtDPtStOPQpM6ws5YcwEtCXQDOyBIc2Vw2cxVXPYaYPORCcZAUTS5yzJDTyCkC9OYksbXLSLoOilLawQj1AqA6zTNsmp7KiiTssHZV2BkAqvMUtF0VKzItFqY16Oq0KN1Y7cHVZEyYonNq+ISpckvPbrUt69L+qciEXOGjQxoU1FtExXlphkdEOtQ4KLV2WrwsgxrjKEra1IqwDXq6zb2xEjYMvaPtzvIEg4DAHAuGurUJumDQAuxR7nt238lmJBQ5FJEKPrC+q2LWvcbInJZMgQlYCcFAnBKpsG0tEyGBph-A4YRrghjfeSUdRIw7t5CjsfpvGDCZnT3sLfS6oghr2MdDaWommm7klxnCeStsrzZiHTqyrmecRwxkdi2Y1OU3ycYZm8Zbe0CFa+5WKZgw7a01uLtcd3WDtBg3jvZ43ocjM2uBHEZSKFyYNCzMX0ztv38YDxaSeWiKVfWv7veo-kHbT5mveD34TqazmI-h83XxjwXYsGBR8WxdF0UXXGdaJuWwMVlajNVvONYL+2peqJ2QfVnHy9Dyuzur3no-VTybsmGYMf1ZvC7H3Hu5dz6ydWqK1f11Efbp6Wd4nofp4lI255NhfEbr5fCtrDEN5QA0O6Ly+95q0mStybHxvpMc+c1L5dz1txTCs9xLzwHJHYiAsV5x2TKmXkChpgQPHlfdOjFM4GW+jnSmpcz4j1Tn-aBGFwb-A5ggmgkdZIoLfhNdMgwxai1HlA52ACs7EI9s1U+YCKGQP9iXIOt8+oP3Dogmu7B3IsPGsLaY2MMyJ24eI2W+9AH9x+oPFmw85w4M7lowOU9YH33gY-ORvN8pKNXl-dELdMhYJMb-XB-8lpEPdiAwx5DjHbx4ZPU+li6Fh0fIw+Ro0HFoOQPINSmZ3F4K8YQvu2dBEn24iIwJmji7UJ6jPKx94GGw3kVdWJsUNBUWxEkoJZiM7ywPkAo+TUslmR2rTZJwSb5hNvBEyS5BsACFMObS2E5rY-nunkqhvDvHpIEX4sh5kun1PyeY0JtD+kyMiUMrAIzzb83rqgxuhpz4KEoms2ZjTe5u2AW00BdxVkzM8QUo6RTwk7MGfgYZoy4TjNaimNR0tLkvN3tovhPj7m-X8SsrWYj1khJgVs4MXzBq-PNkvMccTjAUT8qCyhry5lpLua0mFyynnwtwT0-xfTUXWNkTQDFsYAUTQxGmAwU4W6EvBcSppuiMlLMkXC32CLZlIpoYbT5DLdk-P2X8rFscqkaNptMnlTsbmu0PgPXOsLKWiupWYiVhS77SpKTYpl8rn6svgooFxmhukNIIfy-hviHl6ris89VAdjXvNNdsmV3zmXIOOaw1E7Dz4cLBRq51tztX6N1RSz1VLTGIt6Si7CAz0VWvYMw0Nyi15cNplG71qSXVQrJQYpN20DWpvFemqVAbzWMr2QchRNrJjFWBePbQSEPG8s1c0vRJDPbCv1RfQ1abaUZrEs22VzL7H5scWiEW+LZylohfM0lOrSFjuTbW-t19p2NvpXOoNOaYlLpxXIDBc4LnrrFUSwdArFnuurWpCddaiW+tZiHYpuELWtr+RUq9jc272p7Q+yd1zY1apaTu0dU8RWfsPT6htf6zUAZIEEVofAcAgigHwNwqhkgQA7SgQ0Mg7a0wTlBjDQFn2uuhVWvdPskIfM6uhjjp6sM4ewHhsMbhCNxDI5UicBNlI-lowSZSWJtJ8rjfBhNu6kMGD1DtKosn6I-oNs4lucDzXYbgLh-DRAhN8BEwAWngBAAQcBROgc-NoeQP4jCcCxPTO2+MZBlsU8OzJjzkCf0nIXLz0sfNvN-dxzND8jMmcEyQYT9nrP2bsxASzWA+AADd7MeHI1MDQ6n1ISwsNjbzvm4P+aFapvkrd+RcPK5Fsu-qeOOUIHF-jpnCDmaszZtLlnaToDhvlhQFzppqdXVIx20wKtDsFW+1jYt6v+qwRIixM76Htb45lrrPXkt9eS4NuGFA+AUA8KwEbzmivucm301bm6SXxpHUI7JnSlLLcZjNprU2DO8eM51hLSX0sYBILgPADnX4FqUgnYLxh3OhcZhFhTlX5vkr3cFkr48wvjyRzpn7-62sdZ24DizyWQdg+S5lnLEA8tidrAoD+P5cR0Ya+F2bL63Vo5qz7THOgyts++3SmL1iicCbM4l0nwOhsU-S0duAI2DSzlpriExHH7vI7m6+rnwi3tBY+9NtbmyT3C8M9tsX3WJdWfJzgcHA3sBDbgCds7FIRuzGoxN1XK2vsa458xxNi3an6-xt7vHQvZ1-fi3hdgZtXcQbbh5x9A7YOa85yx7nojoPfq4y1k3EeAdR4xfl1SwXHqOvWYxitCGXsdP3ShlJguNvG1F11sE7AcB0HQLHzBycXp5mJuWhZqf-c1ZrYDbT2fpEi7N6ZmIdAYDoBYI4BgRftDjfHgzoP0sFDs6Y5W4fOvavtXx+vw3yLjfh8J9PkEs++AIAcHh9gCB9lEZIEX2i2IjDpl5xo8vyffd75UwP04Hd1qxWB-3rWPXo1a0ymb2vwoBt3sxG2cQ-Wk12i032gr0Hz90ANe2qCKwbHQPk1DyUhkH0wJxgKv3wBiHgNtwAEcKAoALs6cJo19OApxFwv8gY+8e4Uctc08D88V4oqhODx9j10xcRJ9Td-tid8BWAsAQcoBVBXcldZAU5OUyDx4jAd9K9lNEMD8INuV1DGYtCG9z9NtYDaBIREDmD4JUxz5UDNM8QFo-9d8q92lG4OVQClInD9piDJxSDJC88ZDTBVB0B7NQc+AABrEbOQGiVzKaAkIwfnHtbQrAgAvQ3A1fXkDGKoJIxmN4PwqA3PS-aQsXEIsIiACIyIyzco8IzLSI9gOAPDaAUnfLdELQXkDEQw8eDGeoTEEwn3Vw3Q6vK2Y8e2XopSXEU-SVDDPTC-Cg0o0zWoyo+omo0IuoqIxoyQXAfLO6CDapXnZxP4TEdEVI7dYY9woqVzfkI4l4E46Yk1Y40g+Y9oCw5Yqo6PGufLNgowc+cWAkKjP4DQDQM4p7ALD1YLXtAE7HYEh4v1QIkoyPd4+o9gQvGw7kBQdhKZLhKoQEl4WEh7Afc457S42sTMXkKE3aPE+oAkjZM-Iol4sMCwtoGAdgTAOgVgCgETNomYbtHQaYHI6WUqSUU4wkvzVHfg3AiDPtYU0rOEqLHPRkogCwuGanfLDQFMH8G9JCOQHeYwUEpTEkwLNuTo-kXUwUfU0whk8wygkgOgAQLAGIdgAQckGIqNVVLeY-Ng0UwYnQo0j1NjTfaoNueU5rBEhYyPO0h0p0l0vASzPgewNo5zXkGQBPYM2ceTTA4k8E6tNfJCdEDMqyCfCuKfRYkEKMx0508kSzZfdEgwBOa7ZzDuDjCiA0qrBbdPIQrZVsq06LJUrbMs7me0ys2MuASzSQWsxzMk9oqZOQbo+jdotsiU-fXAwMr0xc3sxUm0wcmATLawqclgx6CDOHXnLBIMbfMU3gofHAmvAGQuOTCwC8ukmYvs7cyPXcvgZLGIUwKATLKAdreXOs6oDEa7NzU8h8hoJ8rMsE6rA-O8+2CCnQJ8wo18pvSgj85LVgOAYzNoi5PktzOjGpEUpcvglcmvYLPtIGH0lCrctCncrASQfcyHZdCiYEqTRQGTNzZw-vcU0im805MYxw2UoKPwvTcM14yghfHbJi7FWKFSVgsCmTAIjAlwv0nMgPI-TTZSoghtMSksqQyPKSvDTCqIAC74zowQrSjQ5xfBHiq87AjImvNcqyp4tDY9PSvo54t8-PIy23XciAOwCAF3IC4waYewjitA7Ss8aCw09SzszSkgjQzjdyqKzDREny384y9Legxg8yu9L-AkGcJK16GK9s7XXAtgwSlAIq0QshYQiQ-SoIsXIKxgmSpVT8XEPkgUtMvnbinglPBykYraKqhoZI5KuqxvWLSg6qCHWSz8P8a7bq+rQsqqVStItwwLPM5a2qyRMPbymQmayzGIGIRgJM1RJncQ7alSuyga9Ioa1qEapCna9bMwuiyPQ66qTgeQHk+HOcJa6eFahjNa7M2Ciqx60FHSyA1Cqawcu-KAGISItqhuDqvIucBw7w4SoGm6--Daj1X8Ea9uTG4GXS1KptJq0zO-BgKAOzPK1xVSGTbQCC5xb3Uq5c-iz8Vghmpm1M0MyK6yryt6-PbwQjJ-Sm2a9q+nDQGQVg9G6oOQMakq4GmCjsg-ZygweW56o3a0wWmQ4W2-eQ9vdLfywK4Kg88NdMfY54MAneRW7GoY-0pNcuBKuWm2go4s37dK3W6ABAUwNoxQWHf6sPS8263GpNNW8-Tc8Spkygk7LC2zOwWO9gcMRo5opQoCi5VM1zck+2JKtgki68xy2KNSP8QuXO6i928giSwc2O1LBOvgDgZOpo7wVQAbLAezRVZG+nJI0Cs8nOwUZSfOwa0kiaFA0u-u9MXmvanWsXGu+OqIeupO1vOAbYnAXY6ZfUHw+mMuweu64e26R6z04kPOyOxqz2me+u2u+ehupele1u9utomQIwEAtg+m+2bHQwH01mviwuiceCzzC08uqG2imGyPLLLACAHABgkgNkuwOIBAYocWzuiaAmTUv634oMnQTgHe0OjSijDB1fSeya0s0B8ByBtwGBugOBhByzXypGk5DmjSaid-emIm7gnRe2uKoAlQrw8eVhwh16kB-PMBiBqBihqhhgSzGah+m9PyS63aC2vq9htS0G28v+6q4qt2oBqO5Uyg4Rsh6B9k8R4HBwBGuhsNSYAsiK2mP8UqHlW2-qnGi4zatRzPca3aohgyoR0h0RwxxAahk7OG0xxB+h8iL61gwOmdYOxxh23Bnhhkk+j2iM-PRgcBuANvE7T81-EKpI48xmwUnHRmCeqJjhlRouiksex2Ip58x40+zKboOQwQAjF-EjMxqHZATE0FGjCKoO309apxgM8GxUhJyusMepzLAQEnbkkK0bZ+gU7o5SIGKCpW2K0prafAmTdMRZ-hjykZ5yBpiZ8XIHFLWzVp5dPnbh-k-J38d+w0bB-ppNYLQim5gYmi7R86fZyZ-bVLSnbLXLQCs2ixpIhS4A+rTG254p5RlW1czBUF4w-h7Wh+MZxpw5yXY5-rOXIvLE4xbBDB8F3pkGqFpymFr0vF152p9oJFg5i3I5g7WXe3Y7U7c7fLGQLI7Fq5tXAYr+gu+6oxVxXFl5iutKup6gD5lFq3aXBA4J8xyYybWmNzNQrHOFiFvpmJmrR5hHR2AVrR8l0ZkV8Zz5qXUHSVjLX5mnf55inFTEZ+vJ+rMavFrloewLH2FnO1rViagR6xSlg1yza3W3DFoCqWxsgU-lu51V1W3kZslbN19xj181L1sVsnCVv1+lx3Rl02i1xuX8C5m1klzl5ZsqyUolj-EN4ZoVilvV5F5OmPdOuQGtX8VGjdfF5W8qotr1RPI9d1hFwNQaSOI5DN8TWtj9Q0U8+vJtlZwl2KcBK5LPbVxJ8tkgUV5OtEgFijBOTw4wEqadpPO2yFltxuD9MvCAzt6G7trmZlPtuayWlVAwA0Wx9t2yhxkpid-6DPL9XlMlud3Vhd-VqPdvTvdOx6bI6cXvUNzhiqlx5CSG494B09yMZ8WEC9iW5BwD2pYDnGSqLGx93dwt-dx6jD4m2d3Z95n92fefRfQ2-LPEa7UbHqiGrfUD1Zh6rsyCxmZCwVsmtreNm-OGh-J-AQF-Zl-8Ocdgs0-1Dcsdgtsi2KIT52wYMTkE0tjj4V795F6gyV74puVzfGtAzZ88hj591qdZnTrZ0wnZstr90VtTughgpgldoLLF5XBR+RwQyUJZndlVsDmvSTZjr-FrNjsQhqz9vZn9uQhQtOuz5SHnUbG4wCTE-TvdicEAhVn4wp+Fk9uNitg5sAKwqVtptuB2LpqDduRC+xpRjzxjw8gm9-KDmNszpT+d0V0wCgQgWmiwKWwq5Ml4VSBTiTtmn+wFa4+Rzr+obr-h8Qpscb-s+N5EqI74zZg92YRIu1thyFcrgzketffJ1G-GTR6Dt56b9YlYqItYioj4pulouINojoj-LF+mU1TEKph13ewLaUwue7gUtL+7gWxFzLkEGb6o-7rYnYoCyLzBMKmL44jSeLnDxLpnCHu4qH0tuYzbA707lE6tuzmoPk-4qkjQ2kp7nBtVikhsVK2kj9oj1HjYho5d-t1qGcbHnE2QPHnrgn+59HNfSk3E5nz7-b37-AFkihzkqZiLmYajzdsFO6aHqTq45jt9yXxT6Ahrn91U05uJGy2HTMKDdrm8HQKX9m8iC5hsbXo+3bmNrtjLlTg5ismM10kHmHaiDUq64kKaPX-rlg8GwGl3hX4o5T0V63qsuMhM1ekHyiWHGxm4hWlbrdZtmH1qbtfMyPnnnV4L5F-30cms3Llix+5+yjJ3zlKPx7cdhLpj2Tuj4M03l683gDeNtP6siczPuJdeWc5sz3ln-Nvrnl+CD3-unr8n8zlPg5jChvxuTMUC7T+mKi13zvyYCiwuSf73qbvnofo6n8v8sykHrMddgiufoMT+9v7+6f6qg++f6p+E5P4j5F5frCnCkHqcD9bf+2E-1nsN3A2fx-3fpPoLi-wfhi1XxuXURak50cI203OWHNbsXxYIuN24IA7ZqTUV4Wcf2tDYfltG1LsUiucAgvkSRj7S984zHOrgR3db4CfeSvZFkgMsysBTKw2EKhGwJSJVIebfdzgSwgEBJnaZnK1rAP5o+YUefPMgcbQYDptL2LBZuOFXQEaMp+e9HJKwIwEcDeelvEEGQJyq2daebCBzvWW6bVVe6mZfftywkHSwRqM4ErhXyNzjdZBorFqnHSu7Xs8CcjH4Hw2VZMDY+E0ePrC18Lsd4BA-EEFIyAoLhz4WYO9g0CJqgCyuDgnAU4PBqBDP+FPPnodWOqnVvB6DbEFoGbIRD7B2A-XmENl6stXOkQ-vt-08Grh0sn1b6tk20Cw5FK08FIb1wP66CQsmQyoX33q4IDkWgTRGsgNrAstgWRXBIdkNSFF9HBPEKrjANM7SDuBcg-AGLWprmtBBXfD-IuAogTF-CebRgWkLd6ogTSdWNAqUKeLRsXqbA77p6z5561RaFHICipGPJZhv8rtcQZtUermlXBhHXIfGyOEG0JGfAoKkoOmHcg7U3ebomxWupgCQh6Q26G-yqB-CaulfdLtX0OHe1faIVUgrMxsGRMqhOgp1oM01r0lIRnHPnrPQEB11r6ZAFOs3W+K4hjyhoQiohUMDXCISmCckRaSwYL9RhorHEXiMXoEjzuLdHAG3QgAd0QmyHd-HK09L0xEKPZZEY62pGtw+0woowRiJg4W8mRF9OeonUbor18suIZ1tdyFF0iqRDzA+hSPpGn8FSpgn9syKvqsjEYy9XAHfW5HMs-hriDUdLD1Haj0cuorUQyONjxs9GPjWBn40nLKDUQJUdGEzi4pele0To+KsmHwZuU9u5-D0d43Ia+N4GEjJAbhViJMMeq-aUrqt0BGrCRUfaK4W6J+5jDPR8Y70YmMKEFDKONaTMBwS4Jhi4KII6qrWILEHCixcYgxqWOoYtC-+DDVguHwl6YDeKKIvGhBwzHSiXysoqEa2JEYljKGPo9LAExMatDvihoTofgyCFZiVhh-Q-AYDXE5DGhHg-ACkyCrpM+AmTYkT4S6QNVNRjsAcfZWe7iiMw95fInuPcGz47SNOHRlMKQ7+jkCTOEtNVVNQpg6x0LbEDglfr1AgJphcCQBKVJviGA1+VQIRhGyGBz4SRTHNBOQCQTRR94sOuUyG5-AsJfhDCapFgl0B3xIIXEdhT4Dqk+S+TDCVhOf6edJ2eE4QoBN74NpiJxA6-GRPgn4B0A0QB3N8U660w6JbE4Ca2wjH4SXghEjiaahIn0I4JH494chLrbiF-B9EhgQCM3E1CfYYEsSVBLklcSqCPEj8SdkUkCDvxkwEqKpKE6sSCJmk4IdpNRGgSOu9ksboZNInkTDxpgNoEgRZZZ0FWGk8ScxJclSSIJ7EsQh5IUkmSQQqgUgHaTiGY9ZgvYyqmFPQTBTqYLEgCW5IMl-B5Jp0LCl0AED4B4acQdAIbUfx2lg+dnFMJ4TOQ3F+6GU3AbJzGqANO2rUpUoVIoDFS4AAAKzgAxAKpCAKqaqISGuJFuOMDqb0Mk5AjJBGmTlI1KtIdT6Eu5BADEHwBNdCA7AOQkFUGlYA6AfAdgJljkIxAl8bQlgk9Go7j9kwGhZzE1N5bzTMJt03HA2mG43SlSq09aYDwEB0AOS7AFgHYESl+juQgwSNL3SqCYk-gDOe6WsJGqQyXg0M0whvgRkgkVp8hdaQmIQbbT5C-5OGB8MskUZOAkJAkCh3qDS0YZXwrUiTI0LkzTCt6GkloTRlrS+JHYhgNjLWkHTPyg0iyUgzWHCSdxu0T-H8BZYUy1MKZRIgsJFl0ymwqYD6ejJ+RwBWqEAdgHQGpyJZwuwM1dgHVE5-AwqosycM63nKpiXges5sSUk+njCqpSdRgv9ICp0AgZnwtTDI2E7gyKMCwuLtNI741Du0mOeGfUA9kGiDYyM-2ajNOgWzhp9gZ0r9I4AAz7Z3xacKwTnLdE-Zq7fWc4N2gpz2mEU91sHNTlMz1pEwuzCrLVmKFWuBs6EgRNvEh02eI+H8BXOkljjbICcAiRPXzmHjFC6AOgDtmQkLh4iUGQ+u9M9nVDAsDY9ps9P4ZvSnpcs5mcwFCJdyH8R4xAMSMYbCcG2N0giUjkYkVcWBj0yeXdNMJ7yuBp0ReWGF+lwxCM7AdcBp17rFp4ZEM4SgQyHlDik0IBfJuLwgn6i-Ch8pUifKIBnzFZh0k4N8VTLUdbJSkZIo-OwmE8gCm3GTBAs-mvTx59CX+aFyGyKFPxyE8HnOHEI4JGaBElmtoLFHVo65u0PBdJJDyvTscQE5BakxBCoL1ZVBRCdRPTruZz4X+fJmQogkELlhfQ0ITMNpgEhOFyYChcelQbhSf5tC2QvITQWqB8AlEpokgRBbYLg2pCiCozX1mc1VF+CieVQtDlzwUF0ihhfxIgCCT06U0Z+iIS0XkKNFJCqoEIswkiL3WYi9KTQqCp0LDF6C5SSFWnDHl3M3RexeoqflEK90miuxWoscUxtnFmEvRfAgMVhdvJvkkKoMGux+LBF4SmxXODSXaKD5uiiRW4qkXxK4pJABKfHNUGEgZyVirhRkoEWVLhFOitya4oIAq9lZB00pceXjxmkxquvIJThL3QJEyonSi0o3LP5Bdf51vchqVOMwnC7OBMbOiJOulTAxqWYfWZ00enbd1aOwrWpiNlBjLhyp06Bn1IGnTLNZeBZ2aqhxaCyx4MwFZS426FfwIlEIicY5F-mfkcAjABgA0RvxgBQcg06Rjn0MBZKG51S97LUswnDLWY38xpSCFeXvKIADROAPPhwAazHZBs+-oIofmbzCFvSonsxyyGDzA5pCpBcfMkWqzwiihNvNQC-G8yQZqNVVFsN2j0zNASwrSbwtmm64jeMszZWfkZUro8lBADwDPgOnfLHSiMGIHYHgYjZiosOWWvEygU1zw2mQoZgSqnr6LJFAq7iXwGFWDTL50kXYlmARFpl24ijDcaypzHVUQCBBJscqo8a4Rf56q4yZqp+WIxrc3xBsn5D+FhIZAj3LFdApAkZhkuHyL1S+KMl2q4Agqx1SKvSYQBmFmPNCVMl05UlJZ3qnhTNLNVBZX5CrL1cLKqYND3Boa0zNlxpyirxVCAOboVguq0clVW89bjvLiZ9kzZtqtVWGpBCFq78Oq1yMyysYbLLVxq6Pqaq3E948BVq3NSGqbUFrwGbal1SFTdV3pUpnq5NSytTVbifYg6+dcGr5Ugh7VraxGJA2jUqTUJ0wKDFmpeBBqelvq8ihmoBJJr11UK8Yc2rvU34OAYqugBKpCrYILmETCOnKpf4SS61SqkdRurvUU0BpB0jgPB3xnUrkw3wucG5kNVWrq1zAmfhas4rojxx2jfNZupA0L0p1MysbK5gmlrqz18qv1eaqDKnrrVsbRtfkvtUeBH1UamNScoDGgULluJa9URp-VyVL1ia7NTeuJX5KT5MDOAGAzgAOyCZ7TETjBssrrzpJmKlNV7OcnO1v5B8pBc0HgAOAJAdISYSgBACOBEsCAOQOwFMC0F4wKgXoDAEcDaaAASgAHEAAQgAEFSCpBEAEUDPy9oeVd-XHPspSAgAhgApEAE0CAA"));
     })()
 
 /***/ }),
@@ -16914,391 +16942,405 @@ module.exports = (function() {
 
 
 atlas0_lq.png
-size: 2048,256
+size: 2048, 256
 format: RGBA8888
-filter: Nearest,Nearest
+filter: Nearest, Nearest
 repeat: none
 sprites/belt/built/forward_1
   rotate: false
-  xy: 1902, 107
+  xy: 532, 9
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_10
   rotate: false
-  xy: 1476, 15
+  xy: 1421, 8
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_11
   rotate: false
-  xy: 1434, 13
+  xy: 1467, 108
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_12
   rotate: false
-  xy: 655, 10
+  xy: 1509, 108
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_13
   rotate: false
-  xy: 697, 10
+  xy: 1551, 108
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_2
   rotate: false
-  xy: 1944, 109
+  xy: 1295, 8
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_3
   rotate: false
-  xy: 1986, 109
+  xy: 1322, 58
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_4
   rotate: false
-  xy: 1323, 107
+  xy: 1325, 108
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_5
   rotate: false
-  xy: 1365, 107
+  xy: 1367, 108
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_6
   rotate: false
-  xy: 1434, 63
+  xy: 1364, 58
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_7
   rotate: false
-  xy: 1476, 65
+  xy: 1337, 8
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_8
   rotate: false
-  xy: 1518, 83
+  xy: 1379, 8
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_9
   rotate: false
-  xy: 1518, 33
+  xy: 1406, 58
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/left_1
   rotate: false
-  xy: 1764, 111
+  xy: 1903, 161
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_10
   rotate: false
-  xy: 1850, 65
+  xy: 1073, 11
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_11
   rotate: false
-  xy: 1896, 61
+  xy: 1119, 11
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_12
   rotate: false
-  xy: 1712, 34
+  xy: 1165, 11
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_13
   rotate: false
-  xy: 1758, 19
+  xy: 1249, 12
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_2
   rotate: false
-  xy: 1810, 111
+  xy: 1949, 161
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_3
   rotate: false
-  xy: 1856, 111
+  xy: 690, 14
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_4
   rotate: false
-  xy: 1350, 61
+  xy: 736, 14
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_5
   rotate: false
-  xy: 1584, 81
+  xy: 820, 15
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_6
   rotate: false
-  xy: 1630, 81
+  xy: 889, 11
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_7
   rotate: false
-  xy: 1712, 80
+  xy: 935, 11
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_8
   rotate: false
-  xy: 1758, 65
+  xy: 981, 11
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_9
   rotate: false
-  xy: 1804, 65
+  xy: 1027, 11
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/right_1
   rotate: false
-  xy: 1804, 19
+  xy: 1409, 111
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_10
   rotate: false
-  xy: 959, 17
+  xy: 1632, 66
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_11
   rotate: false
-  xy: 1005, 17
+  xy: 1592, 16
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_12
   rotate: false
-  xy: 1266, 15
+  xy: 1697, 114
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_13
   rotate: false
-  xy: 1312, 15
+  xy: 1743, 114
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_2
   rotate: false
-  xy: 1850, 19
+  xy: 1593, 112
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_3
   rotate: false
-  xy: 1896, 15
+  xy: 1639, 112
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_4
   rotate: false
-  xy: 1583, 35
+  xy: 1448, 61
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_5
   rotate: false
-  xy: 1629, 35
+  xy: 1494, 62
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_6
   rotate: false
-  xy: 775, 15
+  xy: 1540, 62
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_7
   rotate: false
-  xy: 821, 15
+  xy: 1500, 16
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_8
   rotate: false
-  xy: 867, 16
+  xy: 1546, 16
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_9
   rotate: false
-  xy: 913, 17
+  xy: 1586, 62
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/blueprints/analyzer
   rotate: false
-  xy: 826, 107
+  xy: 1107, 207
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/balancer
   rotate: false
-  xy: 747, 157
+  xy: 837, 157
   size: 87, 48
   orig: 96, 48
   offset: 5, 0
   index: -1
 sprites/blueprints/balancer-merger
   rotate: false
-  xy: 1275, 157
+  xy: 1276, 157
   size: 47, 48
   orig: 48, 48
   offset: 1, 0
   index: -1
 sprites/blueprints/balancer-merger-inverse
   rotate: false
-  xy: 925, 157
+  xy: 873, 107
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/balancer-merger-triple
   rotate: false
-  xy: 876, 107
-  size: 48, 48
+  xy: 1325, 158
+  size: 48, 47
   orig: 48, 48
-  offset: 0, 0
+  offset: 0, 1
+  index: -1
+sprites/blueprints/balancer-merger-tripleunused
+  rotate: false
+  xy: 1273, 108
+  size: 48, 47
+  orig: 48, 48
+  offset: 0, 1
   index: -1
 sprites/blueprints/balancer-splitter
   rotate: false
-  xy: 1714, 207
+  xy: 1905, 207
   size: 47, 48
   orig: 48, 48
   offset: 1, 0
   index: -1
 sprites/blueprints/balancer-splitter-inverse
   rotate: false
-  xy: 1065, 207
+  xy: 976, 157
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/balancer-splitter-triple
   rotate: false
-  xy: 975, 157
-  size: 48, 48
+  xy: 1607, 208
+  size: 48, 47
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+sprites/blueprints/balancer-splitter-tripleunused
+  rotate: false
+  xy: 1707, 208
+  size: 48, 47
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/belt_left
   rotate: false
-  xy: 481, 13
+  xy: 1833, 162
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/belt_right
   rotate: false
-  xy: 551, 12
+  xy: 620, 16
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/blueprints/belt_top
   rotate: false
-  xy: 1374, 157
+  xy: 1425, 157
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/blueprints/comparator
   rotate: false
-  xy: 653, 60
+  xy: 745, 60
   size: 48, 45
   orig: 48, 48
   offset: 0, 3
   index: -1
 sprites/blueprints/constant_signal
   rotate: false
-  xy: 1312, 61
+  xy: 1211, 11
   size: 36, 44
   orig: 48, 48
   offset: 6, 4
   index: -1
 sprites/blueprints/cutter
   rotate: false
-  xy: 926, 207
+  xy: 784, 107
   size: 87, 48
   orig: 96, 48
   offset: 5, 0
   index: -1
 sprites/blueprints/cutter-quad
   rotate: false
-  xy: 187, 157
+  xy: 370, 207
   size: 177, 48
   orig: 192, 48
   offset: 7, 0
   index: -1
 sprites/blueprints/display
   rotate: false
-  xy: 1942, 159
+  xy: 1741, 160
   size: 44, 46
   orig: 48, 48
   offset: 2, 0
@@ -17312,406 +17354,420 @@ sprites/blueprints/filter
   index: -1
 sprites/blueprints/hyperlink
   rotate: false
-  xy: 527, 12
-  size: 22, 45
+  xy: 666, 15
+  size: 22, 46
   orig: 48, 48
-  offset: 13, 2
+  offset: 13, 1
   index: -1
 sprites/blueprints/hyperlink-hyperlink_entrance
   rotate: false
-  xy: 1508, 133
-  size: 36, 73
-  orig: 38, 75
-  offset: 1, 0
+  xy: 555, 62
+  size: 46, 93
+  orig: 48, 96
+  offset: 1, 3
   index: -1
 sprites/blueprints/hyperlink-hyperlink_exit
   rotate: false
-  xy: 1546, 134
-  size: 36, 72
-  orig: 38, 75
-  offset: 1, 0
+  xy: 649, 63
+  size: 44, 92
+  orig: 48, 96
+  offset: 2, 0
+  index: -1
+sprites/blueprints/hyperlink_left
+  rotate: false
+  xy: 1736, 43
+  size: 31, 35
+  orig: 48, 48
+  offset: 1, 1
+  index: -1
+sprites/blueprints/hyperlink_right
+  rotate: false
+  xy: 1753, 6
+  size: 31, 35
+  orig: 48, 48
+  offset: 16, 1
   index: -1
 sprites/blueprints/item_producer
   rotate: false
-  xy: 1276, 107
+  xy: 1229, 58
   size: 45, 48
   orig: 48, 48
   offset: 2, 0
   index: -1
 sprites/blueprints/lever
   rotate: false
-  xy: 1675, 34
+  xy: 1963, 118
   size: 35, 41
   orig: 48, 48
   offset: 6, 5
   index: -1
 sprites/blueprints/logic_gate
   rotate: false
-  xy: 903, 63
+  xy: 234, 17
   size: 48, 42
   orig: 48, 48
   offset: 0, 6
   index: -1
 sprites/blueprints/logic_gate-not
   rotate: false
-  xy: 1852, 157
+  xy: 1650, 158
   size: 43, 48
   orig: 48, 48
   offset: 3, 0
   index: -1
 sprites/blueprints/logic_gate-or
   rotate: false
-  xy: 953, 63
+  xy: 383, 15
   size: 48, 42
   orig: 48, 48
   offset: 0, 6
   index: -1
 sprites/blueprints/logic_gate-xor
   rotate: false
-  xy: 753, 61
+  xy: 845, 61
   size: 48, 44
   orig: 48, 48
   offset: 0, 4
   index: -1
 sprites/blueprints/miner
   rotate: false
-  xy: 1763, 207
+  xy: 895, 57
   size: 47, 48
   orig: 48, 48
   offset: 1, 0
   index: -1
 sprites/blueprints/miner-chainable
   rotate: false
-  xy: 1861, 207
+  xy: 993, 57
   size: 47, 48
   orig: 48, 48
   offset: 1, 0
   index: -1
 sprites/blueprints/miner-deep
   rotate: false
-  xy: 1959, 207
+  xy: 1091, 57
   size: 47, 48
   orig: 48, 48
   offset: 1, 0
   index: -1
 sprites/blueprints/mixer
   rotate: false
-  xy: 745, 207
+  xy: 656, 157
   size: 89, 48
   orig: 96, 48
   offset: 3, 0
   index: -1
 sprites/blueprints/painter
   rotate: false
-  xy: 366, 157
+  xy: 549, 207
   size: 96, 48
   orig: 96, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/painter-double
   rotate: false
-  xy: 187, 61
+  xy: 285, 61
   size: 96, 94
   orig: 96, 96
   offset: 0, 2
   index: -1
 sprites/blueprints/painter-mirrored
   rotate: false
-  xy: 464, 157
+  xy: 647, 207
   size: 96, 48
   orig: 96, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/painter-quad
   rotate: false
-  xy: 1, 20
+  xy: 187, 207
   size: 181, 48
   orig: 192, 48
   offset: 3, 0
   index: -1
 sprites/blueprints/reader
   rotate: false
-  xy: 1025, 157
+  xy: 1207, 207
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/rotater
   rotate: false
-  xy: 1165, 207
+  xy: 1076, 157
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/rotater-ccw
   rotate: false
-  xy: 1026, 107
+  xy: 1023, 107
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/rotater-rotate180
   rotate: false
-  xy: 1125, 157
+  xy: 1307, 207
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/stacker
   rotate: false
-  xy: 656, 157
+  xy: 837, 207
   size: 89, 48
   orig: 96, 48
   offset: 3, 0
   index: -1
 sprites/blueprints/storage
   rotate: false
-  xy: 383, 59
+  xy: 469, 59
   size: 84, 96
   orig: 96, 96
   offset: 6, 0
   index: -1
 sprites/blueprints/transistor
   rotate: false
-  xy: 1677, 158
+  xy: 1638, 16
   size: 35, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/transistor-mirrored
   rotate: false
-  xy: 1676, 77
+  xy: 1963, 68
   size: 34, 48
   orig: 48, 48
   offset: 14, 0
   index: -1
 sprites/blueprints/trash
   rotate: false
-  xy: 1175, 157
+  xy: 1357, 207
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/underground_belt_entry
   rotate: false
-  xy: 184, 21
+  xy: 1789, 122
   size: 48, 38
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/underground_belt_entry-tier2
   rotate: false
-  xy: 853, 62
+  xy: 433, 14
   size: 48, 43
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/underground_belt_exit
   rotate: false
-  xy: 234, 21
+  xy: 1913, 121
   size: 48, 38
   orig: 48, 48
   offset: 0, 10
   index: -1
 sprites/blueprints/underground_belt_exit-tier2
   rotate: false
-  xy: 284, 21
+  xy: 1999, 44
   size: 48, 38
   orig: 48, 48
   offset: 0, 10
   index: -1
 sprites/blueprints/virtual_processor
   rotate: false
-  xy: 1315, 207
+  xy: 1226, 157
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/virtual_processor-painter
   rotate: false
-  xy: 1631, 158
+  xy: 1467, 158
   size: 44, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/blueprints/virtual_processor-rotater
   rotate: false
-  xy: 1243, 58
+  xy: 1794, 41
   size: 21, 48
   orig: 48, 48
   offset: 14, 0
   index: -1
 sprites/blueprints/virtual_processor-stacker
   rotate: false
-  xy: 1760, 157
+  xy: 1559, 158
   size: 44, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/blueprints/virtual_processor-unstacker
   rotate: false
-  xy: 1176, 107
+  xy: 1173, 107
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/wire_tunnel
   rotate: false
-  xy: 1615, 208
+  xy: 1757, 208
   size: 48, 47
   orig: 48, 48
   offset: 0, 1
   index: -1
 sprites/buildings/analyzer
   rotate: false
-  xy: 1015, 207
+  xy: 926, 157
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/balancer
   rotate: false
-  xy: 737, 107
+  xy: 695, 107
   size: 87, 48
   orig: 96, 48
   offset: 5, 0
   index: -1
 sprites/buildings/balancer-merger
   rotate: false
-  xy: 1665, 208
+  xy: 1807, 208
   size: 47, 47
   orig: 48, 48
   offset: 1, 1
   index: -1
 sprites/buildings/balancer-merger-inverse
   rotate: false
-  xy: 1226, 108
+  xy: 1457, 208
   size: 48, 47
   orig: 48, 48
   offset: 0, 1
   index: -1
 sprites/buildings/balancer-merger-triple
   rotate: false
-  xy: 1415, 208
+  xy: 1223, 108
   size: 48, 47
   orig: 48, 48
   offset: 0, 1
   index: -1
 sprites/buildings/balancer-merger-tripleunused
   rotate: false
-  xy: 1324, 158
+  xy: 1507, 208
   size: 48, 47
   orig: 48, 48
   offset: 0, 1
   index: -1
 sprites/buildings/balancer-splitter
   rotate: false
-  xy: 555, 58
+  xy: 1856, 208
   size: 47, 47
   orig: 48, 48
   offset: 1, 1
   index: -1
 sprites/buildings/balancer-splitter-inverse
   rotate: false
-  xy: 1465, 208
+  xy: 1375, 158
   size: 48, 47
   orig: 48, 48
   offset: 0, 1
   index: -1
 sprites/buildings/balancer-splitter-triple
   rotate: false
-  xy: 1515, 208
+  xy: 1557, 208
   size: 48, 47
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/balancer-splitter-tripleunused
   rotate: false
-  xy: 1565, 208
+  xy: 1657, 208
   size: 48, 47
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/belt_left
   rotate: false
-  xy: 1266, 61
+  xy: 1787, 162
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_0
   rotate: false
-  xy: 1266, 61
+  xy: 1787, 162
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/belt_right
   rotate: false
-  xy: 597, 11
+  xy: 574, 16
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_0
   rotate: false
-  xy: 597, 11
+  xy: 574, 16
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/buildings/belt_top
   rotate: false
-  xy: 1201, 57
+  xy: 1187, 57
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_0
   rotate: false
-  xy: 1201, 57
+  xy: 1187, 57
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/buildings/comparator
   rotate: false
-  xy: 703, 60
+  xy: 695, 60
   size: 48, 45
   orig: 48, 48
   offset: 0, 3
   index: -1
 sprites/buildings/constant_signal
   rotate: false
-  xy: 1396, 61
+  xy: 782, 14
   size: 36, 44
   orig: 48, 48
   offset: 6, 4
   index: -1
 sprites/buildings/cutter
   rotate: false
-  xy: 836, 157
+  xy: 1018, 207
   size: 87, 48
   orig: 96, 48
   offset: 5, 0
   index: -1
 sprites/buildings/cutter-quad
   rotate: false
-  xy: 370, 207
+  xy: 187, 157
   size: 177, 48
   orig: 192, 48
   offset: 7, 0
   index: -1
 sprites/buildings/display
   rotate: false
-  xy: 1988, 159
+  xy: 1695, 160
   size: 44, 46
   orig: 48, 48
   offset: 2, 0
   index: -1
 sprites/buildings/filter
   rotate: false
-  xy: 555, 107
+  xy: 745, 207
   size: 90, 48
   orig: 96, 48
   offset: 5, 0
@@ -17725,385 +17781,385 @@ sprites/buildings/hub
   index: -1
 sprites/buildings/hyperlink
   rotate: false
-  xy: 1560, 86
+  xy: 1879, 160
   size: 22, 46
   orig: 48, 48
   offset: 13, 1
   index: -1
 sprites/buildings/hyperlink-hyperlink_entrance
   rotate: false
-  xy: 1416, 113
+  xy: 603, 62
   size: 44, 93
   orig: 48, 96
   offset: 2, 3
   index: -1
 sprites/buildings/hyperlink-hyperlink_exit
   rotate: false
-  xy: 1462, 115
+  xy: 2003, 164
   size: 44, 91
   orig: 48, 96
   offset: 2, 0
   index: -1
 sprites/buildings/hyperlink_left
   rotate: false
-  xy: 1942, 29
+  xy: 1687, 7
   size: 31, 34
   orig: 48, 48
   offset: 1, 1
   index: -1
 sprites/buildings/hyperlink_right
   rotate: false
-  xy: 1978, 73
+  xy: 1720, 7
   size: 31, 34
   orig: 48, 48
   offset: 16, 1
   index: -1
 sprites/buildings/item_producer
   rotate: false
-  xy: 1584, 158
+  xy: 1140, 57
   size: 45, 48
   orig: 48, 48
   offset: 2, 0
   index: -1
 sprites/buildings/lever
   rotate: false
-  xy: 1942, 65
+  xy: 1877, 118
   size: 34, 40
   orig: 48, 48
   offset: 7, 6
   index: -1
 sprites/buildings/logic_gate
   rotate: false
-  xy: 1053, 64
+  xy: 184, 18
   size: 48, 41
   orig: 48, 48
   offset: 0, 7
   index: -1
 sprites/buildings/logic_gate-not
   rotate: false
-  xy: 1897, 157
+  xy: 1605, 158
   size: 43, 48
   orig: 48, 48
   offset: 3, 0
   index: -1
 sprites/buildings/logic_gate-or
   rotate: false
-  xy: 1003, 63
+  xy: 284, 17
   size: 48, 42
   orig: 48, 48
   offset: 0, 6
   index: -1
 sprites/buildings/logic_gate-xor
   rotate: false
-  xy: 803, 61
+  xy: 795, 61
   size: 48, 44
   orig: 48, 48
   offset: 0, 4
   index: -1
 sprites/buildings/miner
   rotate: false
-  xy: 1812, 207
+  xy: 1954, 207
   size: 47, 48
   orig: 48, 48
   offset: 1, 0
   index: -1
 sprites/buildings/miner-chainable
   rotate: false
-  xy: 1910, 207
+  xy: 944, 57
   size: 47, 48
   orig: 48, 48
   offset: 1, 0
   index: -1
 sprites/buildings/miner-deep
   rotate: false
-  xy: 604, 57
+  xy: 1042, 57
   size: 47, 48
   orig: 48, 48
   offset: 1, 0
   index: -1
 sprites/buildings/mixer
   rotate: false
-  xy: 647, 107
+  xy: 747, 157
   size: 88, 48
   orig: 96, 48
   offset: 4, 0
   index: -1
 sprites/buildings/painter
   rotate: false
-  xy: 549, 207
+  xy: 366, 157
   size: 96, 48
   orig: 96, 48
   offset: 0, 0
   index: -1
 sprites/buildings/painter-double
   rotate: false
-  xy: 285, 61
+  xy: 187, 61
   size: 96, 94
   orig: 96, 96
   offset: 0, 2
   index: -1
 sprites/buildings/painter-mirrored
   rotate: false
-  xy: 647, 207
+  xy: 464, 157
   size: 96, 48
   orig: 96, 48
   offset: 0, 0
   index: -1
 sprites/buildings/painter-quad
   rotate: false
-  xy: 187, 207
+  xy: 1, 20
   size: 181, 48
   orig: 192, 48
   offset: 3, 0
   index: -1
 sprites/buildings/reader
   rotate: false
-  xy: 976, 107
+  xy: 1026, 157
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/rotater
   rotate: false
-  xy: 1075, 157
+  xy: 973, 107
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/rotater-ccw
   rotate: false
-  xy: 1215, 207
+  xy: 1257, 207
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/rotater-rotate180
   rotate: false
-  xy: 1076, 107
+  xy: 1126, 157
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/stacker
   rotate: false
-  xy: 836, 207
+  xy: 928, 207
   size: 88, 48
   orig: 96, 48
   offset: 4, 0
   index: -1
 sprites/buildings/storage
   rotate: false
-  xy: 469, 59
+  xy: 383, 59
   size: 84, 96
   orig: 96, 96
   offset: 6, 0
   index: -1
 sprites/buildings/transistor
   rotate: false
-  xy: 2008, 207
+  xy: 1463, 11
   size: 35, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/transistor-mirrored
   rotate: false
-  xy: 739, 10
+  xy: 1927, 71
   size: 34, 48
   orig: 48, 48
   offset: 14, 0
   index: -1
 sprites/buildings/trash
   rotate: false
-  xy: 1126, 107
+  xy: 1176, 157
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/underground_belt_entry
   rotate: false
-  xy: 334, 21
+  xy: 2000, 124
   size: 47, 38
   orig: 48, 48
   offset: 1, 0
   index: -1
 sprites/buildings/underground_belt_entry-tier2
   rotate: false
-  xy: 1103, 63
+  xy: 334, 17
   size: 47, 42
   orig: 48, 48
   offset: 1, 0
   index: -1
 sprites/buildings/underground_belt_exit
   rotate: false
-  xy: 383, 19
+  xy: 2000, 84
   size: 47, 38
   orig: 48, 48
   offset: 1, 10
   index: -1
 sprites/buildings/underground_belt_exit-tier2
   rotate: false
-  xy: 432, 19
+  xy: 1687, 43
   size: 47, 38
   orig: 48, 48
   offset: 1, 10
   index: -1
 sprites/buildings/virtual_processor
   rotate: false
-  xy: 1225, 157
+  xy: 1123, 107
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/virtual_processor-painter
   rotate: false
-  xy: 1714, 157
+  xy: 1276, 58
   size: 44, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/buildings/virtual_processor-rotater
   rotate: false
-  xy: 1560, 36
+  xy: 866, 11
   size: 21, 48
   orig: 48, 48
   offset: 14, 0
   index: -1
 sprites/buildings/virtual_processor-stacker
   rotate: false
-  xy: 1806, 157
+  xy: 1513, 158
   size: 44, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/buildings/virtual_processor-unstacker
   rotate: false
-  xy: 1365, 207
+  xy: 1407, 207
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/wire_tunnel
   rotate: false
-  xy: 1152, 59
+  xy: 483, 11
   size: 47, 46
   orig: 48, 48
   offset: 1, 1
   index: -1
 sprites/colors/blue
   rotate: false
-  xy: 184, 1
+  xy: 1904, 67
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 sprites/colors/cyan
   rotate: false
-  xy: 204, 1
+  xy: 1871, 36
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 sprites/colors/green
   rotate: false
-  xy: 224, 1
+  xy: 1847, 17
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 sprites/colors/purple
   rotate: false
-  xy: 244, 1
+  xy: 1867, 16
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 sprites/colors/red
   rotate: false
-  xy: 264, 1
+  xy: 1891, 36
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 sprites/colors/uncolored
   rotate: false
-  xy: 284, 1
+  xy: 1887, 16
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 sprites/colors/white
   rotate: false
-  xy: 304, 1
+  xy: 1817, 2
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 sprites/colors/yellow
   rotate: false
-  xy: 324, 1
+  xy: 1907, 16
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 sprites/debug/acceptor_slot
   rotate: false
-  xy: 1758, 120
+  xy: 1995, 201
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 sprites/debug/ejector_slot
   rotate: false
-  xy: 1758, 114
+  xy: 1781, 108
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 sprites/misc/hub_direction_indicator
   rotate: false
-  xy: 1694, 16
+  xy: 87, 2
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 sprites/misc/hyperlink_good_arrow
   rotate: false
-  xy: 1396, 19
+  xy: 574, 1
   size: 13, 13
   orig: 13, 13
   offset: 0, 0
   index: -1
 sprites/misc/processor_disabled
   rotate: false
-  xy: 1684, 127
+  xy: 1817, 22
   size: 28, 29
   orig: 32, 32
   offset: 2, 1
   index: -1
 sprites/misc/processor_disconnected
   rotate: false
-  xy: 1518, 1
+  xy: 1769, 48
   size: 23, 30
   orig: 32, 32
   offset: 5, 0
   index: -1
 sprites/misc/reader_overlay
   rotate: false
-  xy: 1396, 34
+  xy: 1839, 93
   size: 36, 25
   orig: 48, 48
   offset: 6, 11
   index: -1
 sprites/misc/slot_bad_arrow
   rotate: false
-  xy: 1694, 1
+  xy: 589, 1
   size: 13, 13
   orig: 13, 13
   offset: 0, 0
   index: -1
 sprites/misc/slot_good_arrow
   rotate: false
-  xy: 1709, 1
+  xy: 604, 1
   size: 13, 13
   orig: 13, 13
   offset: 0, 0
@@ -18117,210 +18173,210 @@ sprites/misc/storage_overlay
   index: -1
 sprites/misc/waypoint
   rotate: false
-  xy: 1730, 16
+  xy: 1946, 53
   size: 14, 16
   orig: 16, 16
   offset: 1, 0
   index: -1
 sprites/misc/waypoint_wires
   rotate: false
-  xy: 380, 1
+  xy: 159, 2
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 sprites/wires/boolean_false
   rotate: false
-  xy: 33, 3
+  xy: 177, 1
   size: 12, 15
   orig: 16, 16
   offset: 2, 0
   index: -1
 sprites/wires/boolean_true
   rotate: false
-  xy: 469, 2
+  xy: 191, 1
   size: 9, 15
   orig: 16, 16
   offset: 3, 0
   index: -1
 sprites/wires/display/blue
   rotate: false
-  xy: 1358, 1
+  xy: 33, 2
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 sprites/wires/display/cyan
   rotate: false
-  xy: 1376, 1
+  xy: 51, 2
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 sprites/wires/display/green
   rotate: false
-  xy: 1394, 1
+  xy: 69, 2
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 sprites/wires/display/purple
   rotate: false
-  xy: 1712, 16
+  xy: 123, 2
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 sprites/wires/display/red
   rotate: false
-  xy: 362, 3
+  xy: 141, 2
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 sprites/wires/display/white
   rotate: false
-  xy: 398, 1
+  xy: 1678, 90
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 sprites/wires/display/yellow
   rotate: false
-  xy: 434, 1
+  xy: 1962, 50
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 sprites/wires/lever_on
   rotate: false
-  xy: 1358, 19
+  xy: 1839, 120
   size: 36, 40
   orig: 48, 48
   offset: 6, 6
   index: -1
 sprites/wires/logical_acceptor
   rotate: false
-  xy: 2011, 69
+  xy: 1817, 53
   size: 23, 36
   orig: 48, 48
   offset: 13, 12
   index: -1
 sprites/wires/logical_ejector
   rotate: false
-  xy: 1670, 9
+  xy: 1847, 37
   size: 22, 23
   orig: 48, 48
   offset: 14, 25
   index: -1
 sprites/wires/network_conflict
   rotate: false
-  xy: 344, 3
+  xy: 105, 2
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 sprites/wires/network_empty
   rotate: false
-  xy: 452, 1
+  xy: 1911, 49
   size: 15, 16
   orig: 16, 16
   offset: 1, 0
   index: -1
 sprites/wires/overlay_tile
   rotate: false
-  xy: 1574, 1
+  xy: 1747, 80
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 sprites/wires/sets/conflict_cross
   rotate: false
-  xy: 926, 107
+  xy: 1157, 207
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/wires/sets/conflict_forward
   rotate: false
-  xy: 2034, 157
+  xy: 1455, 107
   size: 10, 48
   orig: 48, 48
   offset: 19, 0
   index: -1
 sprites/wires/sets/conflict_split
   rotate: false
-  xy: 1584, 127
+  xy: 1789, 91
   size: 48, 29
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/wires/sets/conflict_turn
   rotate: false
-  xy: 1543, 2
+  xy: 1842, 62
   size: 29, 29
   orig: 48, 48
   offset: 19, 0
   index: -1
 sprites/wires/sets/first_cross
   rotate: false
-  xy: 1115, 207
+  xy: 923, 107
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/wires/sets/first_forward
   rotate: false
-  xy: 643, 7
+  xy: 1685, 108
   size: 10, 48
   orig: 48, 48
   offset: 19, 0
   index: -1
 sprites/wires/sets/first_split
   rotate: false
-  xy: 1634, 127
+  xy: 1877, 87
   size: 48, 29
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/wires/sets/first_turn
   rotate: false
-  xy: 1608, 4
+  xy: 1786, 10
   size: 29, 29
   orig: 48, 48
   offset: 19, 0
   index: -1
 sprites/wires/sets/second_cross
   rotate: false
-  xy: 1265, 207
+  xy: 1073, 107
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/wires/sets/second_forward
   rotate: false
-  xy: 2028, 107
+  xy: 1675, 16
   size: 10, 48
   orig: 48, 48
   offset: 19, 0
   index: -1
 sprites/wires/sets/second_split
   rotate: false
-  xy: 1714, 126
+  xy: 1697, 83
   size: 48, 29
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/wires/sets/second_turn
   rotate: false
-  xy: 1639, 4
+  xy: 1873, 56
   size: 29, 29
   orig: 48, 48
   offset: 19, 0
   index: -1
 sprites/wires/wires_preview
   rotate: false
-  xy: 416, 1
+  xy: 1928, 53
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
@@ -18337,7 +18393,7 @@ sprites/wires/wires_preview
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = (function() {
-        return JSON.parse(__webpack_require__(/*! global-compression */ "./src/js/core/lzstring.js").decompressX64("N4IgZgTghgtgpgZxALlAgDhAlgF0QegCM4AbHIgVyzPzAHsIB3KCAEwH0BGAOnQDsA5ilCRYcYSAAeKTgE4ADACYANCACeM+QHZVjFABZ5qgBYGAHAF9VEOjih5WKMFBII4qnNhjxHyTxXcQDGw8AGU6CggAYzhQrAAvcVQpA1UNZCMQPWRDE3MrIIjo2ISk0Gz9MzycywLg3AJiGkIqGnomFg5OeV5BCVF4CWlkTn0tADY0mQBWXQNM0xqCmzsHJxc3Dy8fFH9A+rCimLjEodT1FEyKhfzVBCOS0+SKqpBFyos6zAaEIlJyFrUcjtZhsLg8fhCZIDMopEb6ADM+imIwRcxyNyW1ls9jgvmcrkCniw3jxuwgATu30OkWOpTOORRV3m1Q+dweJ1hL1ZtSpIUa-0oQNoDFBXUUvShImgg2Sw3G01mFxGzIxPOWOLWyAJmxAxNJvj2fIa4Vpj1hw2RytVuTet0KZs5Em5dqWX35vyaANawNFnS4CMl-RlFpQ41kOmV3XRtvelmxqzJ2o2RO2SaNQWpsQ59Ll53SNsxbIdxSdz3M6vdPz+zR9Io6YIlkODYgZcn0VvS3VkMaL8ZAK1x+JTWxJOz8FP2WdNpdzoEtTN76vZjrnWQrro+VbwnsFgLafrBgeb0JDbdkZkmUfkPfXas3-cHWp1qbH6cnxpps6e8-zlyXD51DmP53pUlafgKtbCiC-r6EGp6tnmqKKGi16Rtcy4DpqSYvqOBrkpSmb8jOdIgQu1oAXGQGriBLpUdukHetBh4cNM8HSohv6ogqKLdOhLKAQmQ7rISeHjhmBzZjRoaMhRoF9tR35chu9EQbuUEHg2HDjOx4BnkhoxIii4yoRhglYYmw6iXqaaGh+REmsBMmdv+8mYfc0nOip+QMepTGaWK7BaLpMJtmMV7pDxbnmU+OEjjZb52YRkkkeaDIuRklH2h5SleTU4EOTuNb+b6WnsGYIX6VxnDTJwrzpGYpkCVRQnPvF+rifZKVOeli7RS1Jakcp+WAb5xVCgF-qyJVnFwjVdUogiTX3gNsVWbqHXvsl049UhGWFu5u3lN5bpqeN+7kCQcBgDgXAzbK1UTBlnAvTGVrvPoGqWSJG22QRU7EUdcKZOkVoVO9BifSuuXliNqmFYxE2Xddt3dPdMl1dMINhkq4OslDFnCcm1mbUlAOOZ5SHY7JeObgTOVDXlYGjWdXpI-gV03eC6NtmYsgRWGnBvfjX1E7hCX4RO22A5TXHU2DkMi9DjOw8z8OSX57Oc6jTZ9AhD1zVonAqMqRmgRDOQE2tP2vpLEk7bLwMogrltK4NaWq686tZprF0cyjAY8wZWjTPVMi3rTH2i21JN-VL5NfircvO8LdOKUnoFez5rN7nW2vsLrUp6bNwx1dGUavebbvW8Tv2Jf9EGpWWyfKi7HZuwzHvHXD2cI77ecB8eescQbpdmNMAsjJXkeQ9HcWx-X8eN0Dwzy6nUfK13mcFRr50D1zcEniPGMIljxlC1XaetfPdd211Dswy3oPr7Pm-N9vLN93vwr52xR-F6PGYZgMpmAvjPS2c91q206tLCmj8natxfhAt+a46K913mzP2+cdL-1CgZEy1NQFII7JAm2YktoJykvA1eKdL4b3du-NBp0v6YP3rdYKuCqqG2NiiMwNoLYkOvlA8hZNl6OxoYguhr8GGoJOluHOGlkZcwqpwkuMgQ5h2QFFcBgjCYx1vjAyhTc1wSOflI5BMjaJyN5Cw3OP8A7TVUYAkYfCMraMVlfPRN9oEULEdQ1yZidH0yBkw+RtjFH4GwAIYwqMg7VVcbxCOHj6E13FqTBuCNjFkT-DTZJ0jO6MOsZ8BRJVIlYGiajHoTiZKyGmLeLs-FXaeNSe1OO9sZb+NkoEvJFiCmyJ7swjBdiaBRJidzapbZ5DyCVA04hVtsLCIloYvxGdyLdKafQvpViBlhKGRE0ZOs4lzUUOMSeNU5mkNrj40RmSV45LbgI4JjtQk2L2aUg5gcJkGQRDwqMuMem6JaQvO+sDE5bzWecIJ6ct4vOKeE955SxmFxbM4zG1M5AXKEWQpZvjbniPuZiyxw01boJ9t-EZiLbpDyLng+J-NeL-I2dIoFBjcXdXxV0yFAKnnwNhWNVhwoPmH2HgAjGodULpFPoSll1yMnss6RlB5HcQlFP5cM8gHy-4itpXNcYih6koCleYwFCzsXpKXnihVtCoUoO2SSwZZKBUUoqewHB2quHDC0CHBl0rTVXJEXKh+qyCXGp5RnPlJT2YfI4e6tRyAzCKAvl2Rl7dml+rSW0++HTg2ctyUy3pKqdmvMdeqspLqVGxucZeSMXYrw2q8Ys817S4E5sVYSrZxKs4Oo9OSjVlL2COMrTUzgEr1G+u+v6nFNz5Wtutdy6FhSi1wowSQAI3w+A4F+FAPgLg1CJAgEc4YCaznaBjF24sMqA0WpneCgJrlYW2s7TvR1q64Drs3UQFw26YgHq+VxLQYwGWNLMJGVa6bWmL2bWC9+wwZn3pQCBw6zyUD0s-iutd2AN2ei-XwH9ABaeAEABBwF-UOtsihvV-MaYBmK4HgXLMtTmpN8GcigeyoW+1uyX0YawFhz9JBv0kYIyR4jEA8O8YAG4kbcIelDig4MjGmNR89j46OsunUG29mU5IPqJUzFTy7uNvswx+wgOH8OEdE3h4k6ArqyfjRMXip6P5gYnRmyDWaW1aepjaAzj79PPp7YQV977sMCdw0JjAJBcB4FIzSj16jRgokUM5iobGsQNrNZm0FVCmN9TS0h3lqrWYhZM2FwTYmosxaE5J6TcB7PdCiukFLynMKXqnYG7N3n8tFP857QL1Zgs8b42Z8L+Gqs4Fi9Z7Atn6t-rhBGBTNVWu0bcxBkFRi7naYLGewr4bissNK7x0z-x2Da3s5UZjqJx1i3Wwxm9MG715tTZsjjBn+VHZG6dg59nFRXd+fW9rTbPPQZMSG+tHaAtoaM6F4q7AcB0HQA1hEAGgNZQy0D7Lm2OX7XR8WSH-XodBc+x+qIdAYDoBYPYBg9mFSjq0b51k0xLnuY2ys7rOm5HM7693TjxbifDdJ3QPgCA7AbvYAgcpO6SDI9+ZFMBhqrwpLU7K69mnHtaJ68gBESv8lvYG0VIbxnju-CiBQSbJH7OyBOcl1LCH0sXpV1eqDuWtMKdVIh8yBPu6oe9gL43fGzcW7EwARwoFAVgDXPfJsaZwL1bWncdbV11jXNaWNx4d-2b3d45Amz94NknvxWBYCi1ANQDXZD6BNsmpJ+b9DjBZ3dtl6uwfIGrygE2OiG885c6S-3sOwBAkt-N2Deq0d3mtwntb9Hm8p9b7jifef2PIeQL7vvBfBe-GMGodAJHot8AANa-Yo7xTvHel85G55lydwOctZJPrxdEigL-6Cv9niNh3N-4G37viA++D94Y-5768YH7sBwAbrQARYNZYyaIjrLQ67VBaAIiN4z4aZz7ZIjDJbogIGuhIELr9IIhdohyGb95lbf477AGH6AEUF-4gFgGSC4DQH168RmzZA4GLBaCKAoHqadZeYa5XbwG67ICcH4HbKEGIHM4fZf4NAwDsCYB0CsAUA-oNYUYnrUZKiua3aoG8Gg4YHt7aYVAaHL5FZLpSEB4fpXRSZxYooYzjCUaSouxGrvCcDcGq4u734MiTxn7a5GE5AuE94f7obmG-AkB0ACBYBRDsACC4hW7yD04mS7abhcFYo35Y7s4a4+aJHvDJF6aE756G6F4cxhERFRG4h4Z8C2BR7TD6HLYxioSaH6JuEg6u4a7042j1HGH7amElZf6hHhGRHRF4B4Y04j4obTDxHLScY5GY4eZ35baZG945A5Hv4HZBGw59ElGDFwB4aSAjFkZIQhzxEK47LzLT48HJ58Gt4LGhJhowqrEw5kEwC8bD77GPQJHKgtYxiZ6uHO7NEeEGRa40YDQrHdGf7BH4BPF8BCZRDGBQC8ZQDBZzavFzSXhXafGgTfEpGs73Yt4YFXY2iYm5G87vY9HgmQlCasBwBvoV51K27UaEkzFs6MZab4lfF7Z3GglrGPFYCSAvHxZxoAYKbonZB8xT5aHnHuFbZtHoiile6Fpr7dob7gmU7HZ8k2EMg65nJKbogKmO5nFNFzEcrXEoZCH47ymmn85Kmw4qkboUkRCIlR5p5aLHEKmV4-FJ6SlGla6um3GLqukN5mHWlwm2liZPEQA2AQB4gXbjDPTakT4Wnum37Y6dLGmr4JkBEmkG6NCFE2lTZh4R4Na27ohlximNG-GGmdLSk55EJykr655ZmeiFGRkR5qn6wYxKBLZxm6aMk4noEySpl86iFPpE5WlkGxTWFtlticBNYd525LpYlN5oGXEYEDl+ZEmLFcakEm6RLYRiZRBRCMANZKBqFZH2g9mz7Ln9mAlrkgmDmBljm7l4axR1RVLImlzGydkrYNHeLlnJk5qrnsmLp3mkmw6i5QBRAH6tnHyeETzj4im3jfmNppHMmtFa6ynAnmkNlECFGi4MBQDEb2aEH060l3jALVD8yJnIUPat6Twe4WwUUZlpnkUBkgVkGeDbqS64UTnQX4Lx5-KvBsG+F6nikGl-kc47Z3hOGdEcnAVgmw7sUi4l4I6hlYDhkMBRmjEjB2GTx8VsECKqb6m-npGt5Jac7a76VDlQ75HZlf7sUIDGANZx6fmnkY6J5JnGUrnXmAX9KyVcnbkUB8CUlEY2ABUcBehgEQHl6aV1QZSJouWEGUWzFiUZFObxVZ764jkFFf6hUiYhWBXsDhXgGeBqDWZYAkbIqTlITjzxHeGcbIELnaEXG6FXnKgprnr1XrmBEPH+WBW5URD5WFUME4D2YoSxXHH2oJUNUSl-HzFeWuiTWdX3Fbl8Y5XBX9VhWnZwBDWlXlUjVkUfHjVdoLXnlLnNUMgAXzXpUr6+XdV8YSaqU4Dh4kByE2AxAID3DcWiptg-JClzmDlTWiUeUtUSW6a3kklyVkH3UQCPUuAvV0BvUfV4a5lQVfX4I-IMoCUAoGUiVGUoXz6AkWWMU3XLUfpQ0w3PXyEI0MBPm7kqGIgoihxP4XyIVZZJVA1hRa5xW1kmHE2jnblk1PVw1U2VZ2AQUo06qlwTDopdlY2JVMnUUYEL46JXU83g1+V3UPWC2U2ICI0BVgVi2fUS0yBx4nkbnY1lkekzVelmX-WLWcm3UfqMCqVwDw4BVQky7RXjDnIfHyCY07JaBy29mXnnVzXvAB1E1q2OqtDF6CBbrS57ri0JYqje3NZ-VrknU6EtFXGh3SVAWR1BbR28YCDlYRaG1J1IFOl8QykMluVUW4kyTu7V3eXbK6mWmG6F2x38YVbCZEaJ1xrTkzlt6+1smbjh3X7YkXlnUAk20O5j1g1YX7gx3F1d2l091Wa1YQAybRXP4np+2cZj0Z1NVZ2eU23npz0ZXWWegd3L2jbd2WZCY2Z2bRX6Ap2zl71n2B2T3H3A0sb72WV5Hr7t3UBL0l0WYiYP0zZXQBUUBuCR7RUIiKCxnv2sgH211s140n0g1yLn3XX52DbX2gORa2bVZl1xqKgKaM0YkoOf2nXf1tiAmz3-3EkL0EMr3jbEPB7iZ8BWFb1vkyD16-XIOj00OZ3-FPy-0f0R0sPANF2EOVYcNTaP1In8moq1SCMuVjAiNH1iMIJdgaM4Oq3SMkAgNsNEPRacNKPQOwPQGD0pZCNh1aOekpmP4bkGNdG81APGOyNw7nbb2nLnw3YW3uUYM-3PaPJMNm0kGDalr5yvkqMYwnKTxe2BM-mW0Vn-lzp16+k+V4OeMmPhU-aaV1KV3jXhMA240K3OSZMvZ664ML2lofJxPqlITFO8SlPVxoPy3129SSIQ4X2AONCsPhUI5I7b3yBXYy0rRnmdNB1T1cRK3NS505P1MRIwRghNOVXVQpYTPUYKTlNpPJX40217N20eODMyOd1k4U5U7KX2ZaBxHGSM6bhX6H1OMZOn1M4RNdUF0XPL1k4i5i63SS4CDS7I6oby7YGmmnE40HPs1IS0WQvKp1OZXnNeOXPm6xb2aNRanAY12GWwshMMiN2kWEkgmt1RN5PeNB55nh5wN8Pa73N0nFl8Us2pHoOVMMhOmqgZ7N3DT1kotX2-NF4l62Zl4V5mCwEkVd6ONW2dL6G1UCLd6nO5OosmOD5kB93OLkNOaNIKClmpPBMcstPeknNksJn8qsPGAUCECFnKiMvVkWyYwyvpNaZtoOvVBOuMX8uLC54UuqveNAG0GH42OEJ1rn6shKuvOytMb07HHP4RtfNLX4NCvkG-7-7UFpt0FFWQExANYv1nIjpIKyAdVRsusa76H8LkUdXz2ugUUWspuBvpuNtZtDV5tj4Vwpr0X+Hj2LmiNbb6GdvkXds1uLB1usyWs0H-5nYowV5V7Ja17o3zXQtBN119n0NRjwHM2GrZN2oquCtovL3NuH7sCFP0tyBaCaJIHYFbvmXOuHN4lnKbvVBIiJv20-MHu-AyFw2KHKHRWhxIMxhCXm0GurvB1IQVuAe8tWUDP7smOWGasYyV76HuLmWsjyB3twv-pYGSUCLodSMCsTRwfFEDExHRXTLxFtznrdulv3uhNPPOGvtnOwfeMbEkdDEVHDXRV8yV2TP02rYwuGvdNIRVkVAdEZYjsweEcsfEelFDF7HxOTIPPKjvGhLTEzNf06OmISOsjLH9OKmUud2seyfbG7GkNVpKcQsbnLsgfstCfiMGFyI7vDmX1Sed3klmcYygLyt-V4sCegdzNzQMNQcAP6f+tufPF7mwnwkOnRWyDlyp30n6tIW2drvT1YOsbBfMMEeL3ePud4aUnUmaXjDyAZS8e+crspdgfVRBfc3uN7uufL1PG8keeeE0ZdhzkStJes1dOpfzNoU3mYXZesPI0tctP6AGpD26vpk9uNVvPiUsbkuMXkv1sfv4Ajf5f2lP30uKDjwBPxnkXWfJc9dVe6MLdCFulLfncsUsLDfBlTZhkRkaX0sxlOnCmZn8cVfHcBdacOdMW1ccnLfjspvrf5l0sKcGTR6zmx41mssT20OaeGpa4ln-eLreuSc5ed3NlBVW6OZoQaPAdHezN0NUw53id6ebnJurfjlHn2EzBfnTP4uCe9ene-e20SehfMeY+Pn7mHnb2v2Tf48YeEsk8fMo-LNDcpvjk02Jgvk0+m3dnqfw+zWi8YXIsucY-L362QWjdcTYtMukXp2K99s479eZf7cS+rdcX4XKPNPzPhgM2177WjuRtG-aNbYIukX0VKtmvMV+uc-L0KWcW3OaUpbD0+2NJSWuWM-+fE-2eqiR9mlq-o+sOB9KXU0PfqVg+29whIETflx6Vddstfex9zQLOodi+7tGMmN2UOXRXGzy+9YzfTVlvZ0q9LOV8W8mOrUCB5UbVkARXFWEVmzNbjXpbHWu9zf8GpVUOXWMf1ca+-Dd+98FWbWRU7UQAVU8XVTdATEj3ZFC9GvVfKd78GC6dJ8c8NeL+9VrWhUr-99bWMGaVEWJIn-a4E-ddE8I+YEz3Psq11dV-eMl+61O-rdAf44B1+m-VGvMwQYv8Z+iwcftH0q7fcZANXeAX-xkrz9WGAtWGtrXeryds+pcZ-M5Uib7MmeJ3H7vR3b7Odk+KbbARTVeo61qaI3BrEbFjLUZCaTfQGsLz6420OB7PCngZ2Xp0ChajAsTNTz-bFdFoYbNvDe2EqfdP+W2Uyuly5qq9DGnfbxsINwGI0teCHXmPIBxbEJ3+RfBQSb14Fm9vmlPExpoIYF4CxMetUWtr2Ry2M06hfOHsb2cZt8ye5-AQWF2XpO1IyrtPgO7UcrVEHer-evAfzs6Bcow4Q73uTzboEAycoRTethQCBR5noxZLtHVEiHM8KBmQj1ugNR5ZCEhpuOgMkNNxqBt0I1Eri42yALRXQ2Q0gTHy-6pl6hPrQof0jaEyASh+AJIQwF+A98qSfAEaog1qHdCChOQ8gU9m5bFDX2XQlxH716FlD+ha3SILNhGqpo9G1ZCYU0KQEl88h2whoR0O2TzDshY0PoSkMjJZ9NmcIE5BkMOHtDJhyA7bOnlmFetZh5w5YSkICoXCnu4PLiDt3uF1C3hnAiplEIOHAidhdtU4T0IuG-BGAxgBoIRRqExCHh3Qp4fsOmH5Cjhcwj4WdDhH4A1ApAUIrz3pYIMgR4wnEbsOL4tCkeIIkEjCMWGUkWgAgfAOBRiDoBlKEuUIpxzPYaJT8NoVkBiNpE20hRRNIUWNGZEUBWRcAAAFZwAogXIhADyJYGUMuwplCoGKNBEEtD+LPQUZuEY4SizoTxBAFEG-zWt2AxeSMoqKwDC52AvGYvFEGpw69dUleXiNIOnIesXeiAmkcr3S6eiGhcQuskIWnKLCTRZoo9qAQEB0AFC7AFgDYFJH-C5oCIcFuHGLJicR0wov0engzHVtC0hbBocgTGjhi1uNgj6paJLwIkro1wrfrqn2pdgT8d4HbtUH1RZiOU8rJ-F2lbGMUYB81LgsWJLxmitBDACsaaOFxQlFRfwggTMHqFbDsgKEZ9nh21FkDnhQpJ-GJwRBLiQSvY+Af2ONGDjIkcAFshAHYB0ArCAmKKmexTGTxWCiuFsS8wn7RstMZybwuwQ7xv54hYYg8cqNsAFUI8cYtSomOnFaU3RqIuobmLbEeD-REEr1hBIHGmj8AP426NGNjHxi6AQEm4ZLRvBjDrshYyCe82gkes8xdZOCfuIQlW9iMp488WK2iqLRsCmIGqPhPm6-dNxHrD8SvlYkNDJCZEs0cwB3x0BjsLAzibWmLKOtvRfnPYV-1ZI54xJcwkMdd13gli+J6AASeLn8GIBCKfCHCQGJ9biT5BGnbMb9x0kyAgxJhYyVpUWHqTPQMYq6NunYAvgh+dEnPBfkYnUiTBcrbSS5PYlmT5Jlk52tZLKFHi+A8OScNGQm7eEEKMwJiahTAkoY2Jckr0X5MjLCtS8agVITb0wkyBT4sBYsr5LckGTra-ovKdCN8ljQrJ+AYvKlN6GVDhh8DXHnOJMmJT8pSvQqenmKkMjSpZ0cqZVNFZpTBh4BMFhSK0pNTlxzQwydy3an5jOpX8bqSKwvGrCIA6w6KkbBqIejipNHTDnqNykjSOpiUsqf5IqlzSy8h4msVALhA659Cy0cyaGOanuCCJbUnaVNL2ldSDpPU+aQiKRFP8Lw2k9aY+Jb6YMHpgYhKUDP2nJTDpVUokSQBJEXZh+KAnPL9J9HuT7pRkyacGOekzSDp8HE8cLmRxqi0xklU0kuI2ncC4QXhRFpuC3GfjQZBAVjrDXZFvpg+23cZldnt5NiNxekmzr6I5QFjlB7MuflhXKm0znqcohUYzKTGlw7C1MWvPG1dAoRopJlMvjLMWByz8OLncqVCRwCMAGAoBf5mAGiyKjCKmwxHvDJGnEzdREIxqUDK9bTTd46suAJrO1lgEKcOAS8eLIMChDYpimU2X9No7rt-RvhG6SVPRm2yDpZ4vfGXnhzUAMptY0uEpiGk7jDUanRGQVKgksYE52uM-iYXTkIMkpBANwELj4B6yIit0KIDYHepW4bcePEgaNMknjTBeqsyTuVPzmlDC5+s26Gs1OlG0h6sMxTLHhOZmzwR+M-0aaypkvSwZzcpYa3OLkS4OG0BesTIEbFMJuxNcrmanJGC157Uy8-gT0Kbn2yW5RcxUa7QgC1Sz20wPjs1ifyRS28sgeWXiTz7Syr5W80eRjPHl7zaAqlUXOwFLl0By5dffnm93nIrykZzEygV4LUFqyDpE8wfJvXbksRac58lAH3NcG9s3e3MibtyxHneCd5kCt+dAs-kTYGsJkZ6IvJOjLyB5uQp7BikWJPysFuc34FAo-m3RHqx8whWH3WT6oWxN826ags6RUKuwD8zhfzII67yP0bgf5hwG-m-yz2JyX6vTyj4STV5yM0BYn3AWNycFoihUcLg4AdzqhzYquXUP7k+zNppcdBcWUwWqKL+Ii+hZovyoELlpSghedIM3lcKgFKc5GVQqXkuLt5dCxCW-LEVaKj5J8t2VpRTGZMOFsslxeQqmHrzYB84x+V4ufkhywZVkl6nAHupwAMJMcgwAGIanDSrZrilqWvImmPS0ZIMgoPADsASASQ1vFACAHsACYEA8gM7CHiDCqB2gMAewLUoABKAAcQABCAAQQlYSsQAdwfpClk3kTw6gToq6LUp6DyYQAnwIAA"));
+        return JSON.parse(__webpack_require__(/*! global-compression */ "./src/js/core/lzstring.js").decompressX64("N4IgZgTghgtgpgZxALlAgDhAlgF0QegCM4AbHIgVyzPzAHsIB3KCAEwH0BGAOnQDsA5ilCRYcYSAAeKAKwBmAEwAaEAE8UAThWMUAFgAMKgBZ6AHAF8VEOjih5WKMFBII4KnNhjwHyDxTcgGNh4AMp0FBAAxnAhWABe4qhSeirqyIYgOsgGxmaWgeFRMfGJoFm6prnZFvlBuATENIRUNPRMLByc+ryCEqLwEtLInLoKnKkolZl6GSbV+da29o7Oru6e3ih+AXWhhdGxCYMpaigZ5bN5Kgj7xUdJ5VNzFea1mPUIRKTkzdTkbcw2FwePwhEl+qVksNdAA2ADsE2G+imFyqLysNjscB8ThcAQ8WC82K2EH813eewiBxKx2yiPOMzRFmut0OkMeTNe5OCDW+lD+tAYgM6Ch6YJE0AGSSGnBk+i0pyRKMZIGezJAiyxONW+I2xN8pJ2FJirJp0pOaQZ2Uu8xZVLu7LMnLePM+jR+LX+Qo6XDkYr6kshMpkMnGiq6yutnIxS31uLWIAJRJ82259TC9rZtN09O0KrVtVN9zKTtVeRdHy+TU9gvaQNFoIDYlpnAUGhkiMjOTLto1mOWyHjusJmwNZMCxozRSz5rpiqt3YLdunZpL1Wdabwbr5v1a3qBfsb4MDLcUykVMi7NvRfdj2rx6xH+tTE55U+pxahOfneajPZvNyZqu0zrv+NSbry1YCgCPq6P6x7NrOnCKB24bIr+i5XLeWorA+iZ6imhoQe+DrZrmIGYb2gErp+HJgVyr6Vu6-J7nWHAyPBEqIaAMpyPCiIRhh17qpqA5Do+yYkuOuwmkBn5DN+lpCdGBRyY6oEFhWW5Vh60H7hwMKceAJ5IXximyFeKmiXGOoSaOL4ySRM48RaZzKfRy4fupFQbox2nMbuXpsewcJGRCp5yAiiqWR52FibZ+FPoR0mTkWQauek7lLqpNHeU85YQduUGscK7CmGFJkucMkUKmkMXZdZ94Jkm9lEX5sm5WRP4UcJhZqRIdGaYVOksUFpUaBV3FQiM+gwoil5ZVhjW4c1BFSUab5pV1Sk9Sp1FeQNpZDe1RW6TQJBwGAOBcJNUpVZwGj6HIAkwmG5Tfs8ugLP2Nl4S1z5tY5W2zhkaTfu9aJfZ5pEPEdBUnSNgX4BdV1cN0R5cXd036HCz3hm9egfYT313itw6SWOG3psDVWgycEP-lDOUHbDGnwzJp2jcjl3XZwIK9AhWMynztUoHzGFE9kTPLYOCX-clVOUp1IOIuDhOQ31ytrj59FaZBZ3kCjvMNgLmPpcMnAwqhaTixRku6NLP1NeTrUpZt-Uq4qatSxr0PORR+XzHrnNI0bvq3ebra6KLwzngzn0kzhst-WtlPETTUJ03O8fE37wGDezxohzWYcm+KxlTTKGjRy9BM+4zifxSnSXrenHu06rEu+8zMPa4HLzB4jJc8+wh6mxXQsoDCj0Cd7DvdzL4mJRTDmpe3med3b3f7b3Ae+RzQ8CmHcEYxP5u43N4Zz-bjuk8nq0t2n7VOcBQxZ9f28ZwXQfDQFw+oxxU+4VZymAUFnWUXcG4xiTkveWrdn4ZzfpvHOUtNYsz7vvIuh9zoj0MkAyqUJTCmBjrbFBDtG6-QfivQGa8tYby9pAhOedaJwx-gjP+R8R6hXwZXTQchrZizrvPKBcVKEuwBm7am68kEMK3iIne-tv4D1-juf+11yo8MnsgDQpgww2yETfChzs7ISMVh1dB9CwaMNzj3RRrDlHsNUZw1GE1NGR30AoKK+jrGoOgU3KhrszEv3km5WRZCmYKPzvY8CjjirkGwAIIwvMI4tgMCQ0h6sRGLzlqnVe7s6EKWQZkphtiolszYQfDhNAElJLRikpCMJFCIhhJfcJRiyYmIVm3ApGUP7yK-tEhilSnHVKwIk3m-Ny7APujIDQ54batOKTY7JzdqGSKVhYwpYSlm+NKSw8pDjhlxPwDU429T7rTy8YIvpJSVkBNMd0zZvSfHkOYXlTBrpsHxLGbU5C5zppwl0HjfRNzllOw6cvQJjzd5bKsXIkpkT9k62Okcg2JyfnXTLk2LRsoNDAsEXHHZrzRHGMhQ8hB0jnnwpsYi95usVHHNOaPf5MpGnpMJfXW54L77iK6RSnpc44VtLeYdA5MTUVcyZSfce0zpoOymGkV6Lzb4wJyY-PJUiBXmWzkSiJAyxVDKwVU754z2CAJlQQmU0dtUwg5cIrld9YG5Jofkp5gr6a6rQbvJR4qjUjJNbUvBFreHDBkN2RVdrDF+LEZ0+BQNKXup1Zyml+rkWF0+ca9FpruHBpxXKcBizk27LubyuNtC3XatBbs2loq00VL9YyjFZUWVizDZfBZyr2k8tjU-eNWqilFuJTW1mdbDkNrRUy1xubI6XnbVPSNC9uVOvVS6zVFaB32pTevH1hqM0kH8O8PgOBPhQD4M4VQCQIAtotjjREYCoo7ujaSuBvby0wtCTtR9ey6UoqNfuuAh7j1EGcKe6IV63G0lMJFASMgH2TCig1Jdaq1lBMQbIciWRTAIawsOtcGhL6-r3Qe7AR63Qgb4GBgAtPACAAg4DgenS2Txc7Q1weyNh3sJae0ao2e+4YGG9AcYAqm-uvqiMAZI0Bwg5GqM0boxASjWA+AADd6OuGvVh-FSI2OjpEkh1ZUL+VuqzguUTXq7EGsHoQf9gGyMkFA-R6j9H5OUYJOgC617kIKAEaGrs-c4RduXSh6F-sZGfvsQFkVI6zNWZs5JuzDmFNycc25i6FA+AUFcKwTznitOCT3v+SLJKIUvp4+YvjJmML+fM2U3Tu6mJxaU1JmTjmMAkFwHgBjUzLVi0ej5+9GEhN6cdchwzfa3V6NCeUIbNWkUxd-o10jwH7MUda+5jrjmlOqYgOpiDs4NBwhY7KHTZmn0ledes8roWP1TcGVFjB9L2GLeaytqjbWNsKdS3ATzMJb2KjAX5tERWuNkr5eNirAkqtA9mz+9NDXiNNYS6thT72cCddc9gdzcB0uZexJ5uEf20gA6h4VwLo3yXg+u5lcMJPnhFdwwVwj8OJOI50uwI2nmoN5dtZ2s73bQdltdRD7Zg69XbsGbFhHS33TsFOde21BbefFf56V1dvGqeVqVwzndkuWfS++OwHAdB0CedGD547i1OP6fuWDt9GuBN-mytriXC2pdAciHQGA6AWB2AYNewFPnfu070DIMnBmKd29fjd6nSjQ-3cZ3D-yz3Pge74AgWwR72AIDGWekgOXbbeJAnxRdI3w+26F1TljVpi-9PF5Z13ev3cUDR-R-3phtVdDY1hqy1vS2vor1H5APmrTd9is77RBHE8NGT-gSIzf0cAEcKBQGy3tqqkUs4DZApwOEM2+dBbG5HkJyArkx7Frvva+qHrniZ0nt3nxWBYDa1AVQ+PdCTeGEH6l2QYRh5t4LtdPjeZFABdf8X-ePHXBvWzWgP4VvNfKEGQHncMWDX8OZHvUvf-fvQA+3bqLINAsffVfDD5ZnaAowVQdAejdrPgAAa3lxaRg1-AUBvz0HAOVwPwjwH2P2QkhxAiYLRFYPHzq111IPIMoKU2oMozIIoIgCoOoPYDgCPWgFW2vRDEDztUn20TkD-z7zK2CUjgd1hCqDxRh1rUDnw3qzv0b0+CkLEJoMkNEJkPEPkMkFwHlxrkVEaR8TmW0O4zVyu0H2AKTU3W0QUBMOiyMN-2EPi3wBsMcJoPZx5nxxrzBjxiyDkDDDmH4R8IFywPV0Hw-1bF-HSKqCyIgJdye3vxiIcNkNlwxXx3kGaSKIyJQFKLYPJ3L2wPyKOw5WKJ7FaMEPmwqKsPwHqBgHYEwDoFYAoDAxyzbHmi7FQkQwwJ0L8L0NpECIXEWJwxE2IMsOgIum2083wzy04EjH4TRE4GyNV0uzWNnBYx6K2OyEuLKPryGP2LoAECwEiHYAECxGvQUDkA7xOzRFCP33aIALyOP0qwT2yFBO-VMN2On0qJIA+K+J+KxEoz4BsB+zlBgy7DxiWNVTLwhP8OPy0wXAJO2LryEKgOiJRM+O+N+LwEoz93gKGDkCgwYJhNGCuIu1QwTWhKUThIGMRLdBn3pLRKZLgEo0kFZMYxAV0EDyEX7hVX8RWJuLQ2p3CwOTFzoUgLeOiJgCUzgPlKqmIR8xQIoj3zaOJNyNJP0NwME0v2pMGMqRnyNL4Ec0iCMCgCUygGs2+zZM0DxXmh02tJB2uP5IFQ-wXGtJFMezdMqI9Mc1YDgAA083lA-0tOm3QKJMwN0M1JjMG2dL1PKMTOGKNMkBNO6xDStiO2zMmAVEJLVN8I1ITXJN-GIRLIsTwI0LHXE2gO9ya2rOxXNjDRji317NzJbJyILIFIdyIIILr0XNvyROGKHKPRTPCADP+NMCVNQI0Orl5JXTbIFUFM0EPN1J7IvIiIsLXMHN9M3KSywAgGsAgDxyDOQBhF0FP0nJvNigjL5JC0H3PIn27O9X-NXLFMqI3MX2X1X1NOmlHyJz+yyFOOaKt2WNbKjLdQ7O310XAos2v1FKIBn3fJXxHMFkji3xQuBIAt72wuAqhIMNO3hPCITL-UqOsi61HJbBxnrLoubJjVnNWM1NArqxeJpINNZ24so0iEiEYAzIBIElQruxtPzNEvnMdINUktdM4uGNkuslOPRkQt4kJxANUp0vUvVJwuF21IkrYoeygtIsqPTygEiGoMorNkg2g3+0sq7PoqwpEtPNwodwCqd0IL7LExIOiPTwYCgDo2vVhBjlmU7MlnMLBNtLnIFSrzStvJeJXIvLvOguGI8FPWzzip4qopbEaQVTFkLXOMCrzJsqYvNlAsaoipdJIus0qLKrTyfyN2fNfIYA-NMt608I8LOPtmG2asYqMz4xGAd0BMItqz0oHOiLKoQCME834V-MsocsApPNsqp3EtYvjOcp6uGPS1TNo2sGuvYBlwUI8Ff0-J3wCptj4JhI5OPOC3mpOpUuD2QG+t0u6pn2uuczur4A4EesUNUFcywHoyxWqtnCBTyznn7i0Myo0pCrsvQ25Mxscu5Oir2OiPBtuvCChoeoNzgBcJwCOO4PDDGEBuBusrmspxApYpKPVHOqnxKugLJoEEhuhuptpvhsRqOI0BjmEW-hZsOt+vZuYu0rrRZp5vrXWtZ2UxfJwGXxIHGOsGiAQBuCqu8qQiYIEsBpvDlsP04Las5qXNLNePLOgM1ogG1ucD1roANqNso1gq8rPlSX4mQK7Gmp+uts6OP21QXBDpBo4vVqWxdrdt1omK9oYEo24vx2rlVjriZqapnMjNatSQdxzs6odqkqduiITp1o9pTpR1sA8r9tlWDFSqDpeRmrzqAr+sH0jtbrCKct5pcuGMrvduTsQG9vSzcvruNv9qQh3zy32tYqto4PDttqVrOp2NjpitZ0YBfLgEN3S09Lz1erhEtJQsB1Jyxpas7sVvsuqxjoupaEf0EBPVzwvQbp6xCPNqJtDqXshJXpvpWrm26ofqUwECRxmM-OnnN38vDIYuCuOsH2H07LjMiqAeoEftAeW0Syc1ozfpDWMr2q7CE2B1gfzqvodPsqId7q-qs2AafsweR2wZcy2zU0DLGuhBPosrPrp2-o6N-tpFOuhzvv7t3HQbAcc2S0+0xw81eqYLnq4cEx4ZJNuI7lXsEcJv1MqVoYwek1e3EecxSykexwyyy08zlAIYtuIaCtIYVr-tuwOXp3XvvrQZAbEZR3WxbynsbrFj3PuPQitLUcXt4ftJbAMMoaEbVqYi0dcco1R3R2YZ21YZrJxUinNwWm5MsdmrgYLs9n-vPvUbLKNSifobe3cfRy+1MY4eQGJ3ScUbtOUcsTFgsaoY0cKecboZ0awdiYMawCxxxxMdeqtnMZqYvrZqP1sf42GfycdtaZIFEbZw5yPuQvqtAIdUyesbGf4Y3SjSmbLvHS5jDhMqScjjhCWc-xWbBSsY7psc2ZF2CKHUceEaKZlzl0-Ngw70LTudVOEvWZtu2g9VF2aYKYzX9SzVqUOd4tnDeZeiV0CaUc1M12-3ua6o3v8ieYNyNxN1etONPwbMdyWhIauY2ZRoMN6nCf7KYhBZgiBHBeRvumxdDMt0toJaOuyaqm7t2ntuvOmYzSKY9y9x90Gvl3bGaVMzRDj1ZqybIZudyeeHFdVvJdRbaYwdTzcsz2zwEFzzb0CMWqLz7K+efUJd+buKWr1cBe5ciaVZT3n1wZxX0FOLvWgenO+cNeXtpEQZAlHxLq5cKoicVdmZcdn2tYUyXxX051Pwt23wv1zudZZaldnFPytB32Qbr2IpRYaCKcf2fxerYctmFfDC-zIVYNhbqc1MCPOZ-zNd2Z5ctZgLIBtfPkVIdbYxnmjYNdjeuchYXNJamZ9YVfTZraMAoEIE80RAJ1-FOMllOPFeLeyvXRFwnaqCnbNdTbmGv2KpYjmdiNkLDZIQLZAOYIrZGclY7fujy0YIPdhErbWotf9boa3fEPsOkJqKeqUOiHlyemaXLeMKPZ+dddnA2K8IJtVvMJoYHeqIffvfiJptcM-LAQ-fzarQ0GeIld-b4f-fmi8OQ+A8iN-iKcg7kIWZzZhFObY16MyP1fO3baJfugElSJaIwsBKvdQdvYwfw9qPGXxzAVHaaJKIo5VxdbQ4uVo5476KvIgvNb9bmdGI9qmPAZzZmgZYokeKZcuao6NaqgA6U4Adh19f7ZY8+AOPrZbCw3DftaL3tn0Fqdnb41-KKIs6Y7TbdCKYlMZL+NevbwEnkaeKs80rPLtueCw4ed06c5rZc-ROZKxLpoGf0FSfxKdbbfluo6hDwvKEpKoiC77ZC-0+RlRNc+ZLlKOfWI8-DEEr0DhJnd8+M387K4c6cey7C6lJlIK4haqjhDzcVWVJLzWYE+CZybsdHTE4syrZvbmeTM8ffoejDSbeLNbco8S-U+mlCe04RMc43YDbG7kp9L9J3M-Orm1VxZ-Pi7m7DsE8W6VuTdLuvck-W+NIU1TPTNev0FGEU5zNm-47U7-Zo-O+W-Yrq9G6wCrPG5DUBXDdxaISO-e-m8+6-DCrXuXKivXZEYDd9qB60T4k-qnLe-YKCfqbCzsd7e5pQdW6R7oZR8o1YG3OkZzdOaVRAh9aPJ-Z69x+jytHp8G7KXp5w-YSKbJ6NOGvfIQsK5Ru-Jg2bYR8Z4+9O7x7PzAs5fE4J8R558fLgtDdeodfHYIqx-BJLfbId3Qp+7XBXceZrfIpuqUox7Uoq5xv+tUbl6G6u707mfTt29xhUtK8wu68l965UZlapMu+Y6d5+gU3ksUpkcqb-Ksqt-gevv67h-9+J6KcMp+mMs81bAt8j+Zah6l5Z4tsJ+Rb+4DYns8tR-NjmTqqqf8oXsz5O+95h+0vB7t454R9A+y8qoSsSZa+S85IvAVEw3SqLer5-tr6GFyo9f77Nc58V5rb6oqsFdethBOKKOU7bpjaz+H5z6L2X9q+N+y5n4GtTr57fNGqF-ujmVPzhDrmWq16ysq4WvZbSOjp2Yd6y7mc2u2qxcO1F9z58+t45tt69fE7DdrudDAWkLSppkB5CsNf4voBgECQFAc8DjLLUH449CyANfxn0Tz7x8C+IAqGhDQprC0IBL7OGjgARoQAkaJtdfFfxthhkQSP-aPuQyngzdngwpDLsTUd4BtQB+A8AddGg5Rc2GcHLOMV1e6ZEV+CXGvszwmYUMua2-YLmtxwE3VBaXAx6qLRIHi0BmpzIFEwJaKiDjuQ-CQUWXQEiCZBmXOQRgyHpJ19ao9ZrrS2mitg567vFTp7zX4SCBGjfQBgnxrbmDq6VghTCjxyyf8LwwdCHtjzhYJp7+RKTAVyyAHsC6GXgkeobVTrO82GpgegvjEYIYVHB7dL3voPCFVMMhkQwAc-1MGfA4hlghIbXXcrF9TGDNG2GkzIQ6DIe4g+FgYUf7ys2BL-ANqUM9o+DKM49OulUPn7mUK+DghoSEJ15+d-+fvKIUUJJ4YNt675PenwAPpJVu+heYQSwToGsszuNsLQYeyf4kUPcKJHbAPSOJPdmkbGMzqu1GHa9rONvbUpcO8bLtA4pxddocIYAp5VAp6MNh-hrxoVnh1wm-r-xj4y8HhwwAoURX+GvC6ARwz4ILTTJ8BOch3Erhr0XYAjsa9A6VnY1BEvCXi2I9obPmhHvD8A6ACIFjk5yB0O0+FVEZsLjY+8sRkI3EZCMHhvDjhAvTnEh0RC-DvG1IiXs4LEp68GRUzPEVCJhH4B0sLI4-p3xlBEJw2haYUbyKaFaV7hgo8fMKOZGEjjhjAIwPUE5w7470KInsDiJQ5M9+R2leUUKKZHDQWRnwVQKQBRKh8c2j0WUQaKuE0iT2DTEESqKvyWiEYqZZoAIHwDuVog6AQalnhRJ8CT+00SWv1jtYYQ0QbopLtLwXDxjJK8YweH6IoABi4AAAKzgCRBQxCAcMfjk142w-G5QFMcaOyGmj7KFYwQmmOGhGkEAkQGIkO3YCP53y+YrAHQD4DsAlMj+SIL7hL6QZbO2+DQpbATELckx47McQISvwzj12jY5sWxwEB0BJi7AFgNYAdGRihgULGnNvjS7IQJx0PKcfuMXZAcr8B4rQoPEXHEiyhRtNsU-n9IXRBeUo7xnqP+wcoFAgcNsEeOz5VN9RvBb8RoDNZNI+ioRa8U-mbHxD7xmbVPJ6XzGSibBMoQ7FLUjDKU+ilnBUXoM1L9ZGCaXOQJhKmagTMi4EhsZBJORwAKKEAdgHQG2z2Zs2247xnIBjghldWVQbzL+PX5fk4BRRDQhxLJb4ibxhYmwA9RXzrjhqW418UPneqNNTxhogmlHy2Eni0Kl45dqpIglNj8Awk66CuLXEbi6AkkpCVPDOF7iVJZ4ziS4L16qTcR6ksiZpLb50YaJdEl-CO0VB0cgaNoWUBZOrF2MCJi7OVvqj8mGjQ8Gk5scwHIJ0AmsRxQwheHck6tV2A-VTnyITQGC0Kk7WcSm3nGhT8A4U9AJFMzzzDEApjCctOMXaJSnBioiYfcPnG4ispw0QqW6FXEXRT07AIcPjnDbjsD2XkrCSgITTatOp-k5dnVIRgNSiATUyiT2O2D00eCeBQaT1NCECoz2dPOaUKOGkHxRpmbdzC-hOGfk5AWmDlJbDKneSlRWImqatKOmDwNpT+LaaoFnyfCERrzD-AdLOmKTaRHoxNmdNVFrSsEV0rNvgDhEKEhWAEtCi9OQELSquZoz6XOIun1Sd6D+a6fROJGkiqejE2OPtNKmGjypWQ5KVVNOlHTapMMkaXDPwCbTEZbI+fk9IxkJTjpuMkEVDMymEz1pxM0mdtK1E6iBmJzREC2xBn4zKxOMiGdVN5lfTGZP05mQjO2m2iSA9oo4kgTSC4lRxvM16e6OUn1UhZ0MzGeu1GmGdqJ3YznMxLgHV4+yhEpWYmMYH-ZeJaIQiW0M1nEyXO7tIMQBjn7U93xcs9yehMyJYzV+lUibClxAL4SMpWA-ulrNy7u0cxeYp2ajInan5fKWQT6nMABI0yJsuQuOX7OMH4jRpnpHAIwAYByFU8YAdrPmIzK4SFZGs+aeMIFl4zS550jWZdOJmZzs5EAOQnAC9w4AGJUkh6AXj0C99W0issGeXIWp69Hi44gmTXNhnvlPgtEygi-kNzUAO+Rk4YCD07DV4D2igRObjRl7ESWiLAuvJvKBqkSiZ48rSXAHdzdj85Xxa6JEGsCG1U+4feesEJuG387hsfA3tQzHkEBXAJ8vgGfPzGtT9IpuEMG73HbdsTZk43rHr27bWza5h8j+SnlPkFzroqOYsSxM649gfxZc24X-xtjdzykaC-Yat1GkwKCRX8+BXvQgAPTqez3Dwp+KbIgFgJ6Cx+fkRITYK5iqCuhXgucoELj5nwMAC+XTzsBL5dAa+bt3QmliRha8p+TLwcqQK35nwQhTwp2zXQqWL4+eZbD3IqVIwXQe+YCIxFIQY4ibCBawJtnQKuFMBBRVnncZhtT8o+b+LgpAXHjo8D0QGrgukUHz35Ji+RXwu1pkLixR2K0CwvjlsK7Ff4xxeGGYU0KqmbClxUzOMVAZXAqeDgAIqEU5scY9g7-vQqBHjNRWbgnTiYM4WxK8x3YjgEop+zH1oW2+YBX3IwVcE9FQCl+S00+R5LZFBSymogoGYHZOw7kutLYsqUMLgRISmxZEsMVQK3F+S+JaQvIWRzNM80QtP4toXiLGFAkMJexMGX58g5xMhqXrTgCa04AhkigVGK-HzQ4poMpKd7PXkfS1ZDMmufkHgC2AJAhIdvigBAB2B7MCAfQOzgXz+gVAbQGAHYEeUAAlAAOIAAhAAIJEIiEIAa4GUjARdLECtQAcRdEeXdBvMIAV4EAA"));
     })()
 
 /***/ }),
@@ -18362,1413 +18418,1441 @@ module.exports = (function() {
 
 
 atlas0_mq.png
-size: 2048,1024
+size: 4096, 512
 format: RGBA8888
-filter: Nearest,Nearest
+filter: Nearest, Nearest
 repeat: none
 sprites/belt/built/forward_1
   rotate: false
-  xy: 453, 209
+  xy: 1655, 28
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/forward_10
   rotate: false
-  xy: 693, 159
+  xy: 3674, 229
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/forward_11
   rotate: false
-  xy: 857, 355
+  xy: 3754, 229
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/forward_12
   rotate: false
-  xy: 858, 257
+  xy: 3834, 231
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/forward_13
   rotate: false
-  xy: 862, 159
+  xy: 3587, 130
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/forward_2
   rotate: false
-  xy: 453, 111
+  xy: 1904, 28
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/forward_3
   rotate: false
-  xy: 533, 211
+  xy: 2909, 233
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/forward_4
   rotate: false
-  xy: 533, 113
+  xy: 2989, 224
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/forward_5
   rotate: false
-  xy: 608, 309
+  xy: 2784, 135
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/forward_6
   rotate: false
-  xy: 613, 211
+  xy: 3069, 265
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/forward_7
   rotate: false
-  xy: 613, 113
+  xy: 2864, 135
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/forward_8
   rotate: false
-  xy: 688, 355
+  xy: 3010, 37
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/forward_9
   rotate: false
-  xy: 693, 257
+  xy: 3594, 228
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/left_1
   rotate: false
-  xy: 1299, 278
+  xy: 3542, 326
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/belt/built/left_10
   rotate: false
-  xy: 1894, 544
+  xy: 2466, 64
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/belt/built/left_11
   rotate: false
-  xy: 1495, 458
+  xy: 2819, 331
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/belt/built/left_12
   rotate: false
-  xy: 1584, 458
+  xy: 2908, 331
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/belt/built/left_13
   rotate: false
-  xy: 1673, 455
+  xy: 2820, 242
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/belt/built/left_2
   rotate: false
-  xy: 1032, 188
+  xy: 2687, 233
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/belt/built/left_3
   rotate: false
-  xy: 1194, 198
+  xy: 2497, 229
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/belt/built/left_4
   rotate: false
-  xy: 1377, 551
+  xy: 2399, 155
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/belt/built/left_5
   rotate: false
-  xy: 1538, 547
+  xy: 2586, 174
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/belt/built/left_6
   rotate: false
-  xy: 1627, 547
+  xy: 2675, 144
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/belt/built/left_7
   rotate: false
-  xy: 1716, 544
+  xy: 2582, 85
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/belt/built/left_8
   rotate: false
-  xy: 1805, 544
+  xy: 2671, 55
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/belt/built/left_9
   rotate: false
-  xy: 1406, 462
+  xy: 2377, 66
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/belt/built/right_1
   rotate: false
-  xy: 1762, 455
+  xy: 3149, 254
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_10
   rotate: false
-  xy: 1851, 366
+  xy: 3231, 163
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_11
   rotate: false
-  xy: 1940, 364
+  xy: 3320, 155
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_12
   rotate: false
-  xy: 1283, 113
+  xy: 3409, 148
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_13
   rotate: false
-  xy: 1372, 113
+  xy: 3498, 148
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_2
   rotate: false
-  xy: 1851, 455
+  xy: 3238, 252
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_3
   rotate: false
-  xy: 1030, 40
+  xy: 3327, 244
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_4
   rotate: false
-  xy: 1192, 109
+  xy: 3416, 237
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_5
   rotate: false
-  xy: 1406, 373
+  xy: 3505, 237
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_6
   rotate: false
-  xy: 1495, 369
+  xy: 2832, 46
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_7
   rotate: false
-  xy: 1584, 369
+  xy: 2984, 135
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_8
   rotate: false
-  xy: 1673, 366
+  xy: 2921, 46
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_9
   rotate: false
-  xy: 1762, 366
+  xy: 3142, 165
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/blueprints/analyzer
   rotate: false
-  xy: 1446, 829
+  xy: 1996, 415
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/blueprints/balancer
   rotate: false
-  xy: 922, 731
+  xy: 1469, 317
   size: 172, 96
   orig: 192, 96
   offset: 11, 0
   index: -1
 sprites/blueprints/balancer-merger
   rotate: false
-  xy: 1542, 636
+  xy: 3264, 418
   size: 93, 93
   orig: 96, 96
   offset: 3, 2
   index: -1
 sprites/blueprints/balancer-merger-inverse
   rotate: false
-  xy: 1952, 734
+  xy: 2207, 222
   size: 95, 93
   orig: 96, 96
   offset: 0, 2
   index: -1
 sprites/blueprints/balancer-merger-triple
   rotate: false
-  xy: 369, 636
-  size: 96, 93
+  xy: 2582, 419
+  size: 96, 92
   orig: 96, 96
-  offset: 0, 2
+  offset: 0, 3
+  index: -1
+sprites/blueprints/balancer-merger-tripleunused
+  rotate: false
+  xy: 1188, 125
+  size: 96, 92
+  orig: 96, 96
+  offset: 0, 3
   index: -1
 sprites/blueprints/balancer-splitter
   rotate: false
-  xy: 1637, 636
+  xy: 3359, 418
   size: 93, 93
   orig: 96, 96
   offset: 3, 2
   index: -1
 sprites/blueprints/balancer-splitter-inverse
   rotate: false
-  xy: 1952, 639
+  xy: 2403, 320
   size: 95, 93
   orig: 96, 96
   offset: 0, 2
   index: -1
 sprites/blueprints/balancer-splitter-triple
   rotate: false
-  xy: 467, 636
-  size: 96, 93
+  xy: 2680, 419
+  size: 96, 92
   orig: 96, 96
-  offset: 0, 2
+  offset: 0, 1
+  index: -1
+sprites/blueprints/balancer-splitter-tripleunused
+  rotate: false
+  xy: 1286, 125
+  size: 96, 92
+  orig: 96, 96
+  offset: 0, 1
   index: -1
 sprites/blueprints/belt_left
   rotate: false
-  xy: 1027, 277
+  xy: 2158, 41
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/blueprints/belt_right
   rotate: false
-  xy: 1116, 290
+  xy: 3453, 326
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/blueprints/belt_top
   rotate: false
-  xy: 448, 307
+  xy: 2249, 124
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/blueprints/comparator
   rotate: false
-  xy: 1346, 640
+  xy: 1676, 128
   size: 96, 89
   orig: 96, 96
   offset: 0, 7
   index: -1
 sprites/blueprints/constant_signal
   rotate: false
-  xy: 1121, 201
+  xy: 849, 35
   size: 71, 87
   orig: 96, 96
   offset: 13, 9
   index: -1
 sprites/blueprints/cutter
   rotate: false
-  xy: 1272, 829
+  xy: 1447, 219
   size: 172, 96
   orig: 192, 96
   offset: 11, 0
   index: -1
 sprites/blueprints/cutter-quad
   rotate: false
-  xy: 1, 460
+  xy: 369, 317
   size: 351, 96
   orig: 384, 96
   offset: 16, 0
   index: -1
 sprites/blueprints/display
   rotate: false
-  xy: 1026, 366
+  xy: 1984, 38
   size: 86, 91
   orig: 96, 96
   offset: 5, 0
   index: -1
 sprites/blueprints/filter
   rotate: false
-  xy: 563, 731
+  xy: 1110, 317
   size: 180, 96
   orig: 192, 96
   offset: 10, 0
   index: -1
 sprites/blueprints/hyperlink
   rotate: false
-  xy: 1940, 453
-  size: 42, 89
+  xy: 2776, 235
+  size: 42, 90
   orig: 96, 96
-  offset: 27, 5
+  offset: 27, 3
   index: -1
 sprites/blueprints/hyperlink-hyperlink_entrance
   rotate: false
-  xy: 448, 405
-  size: 67, 144
-  orig: 75, 150
-  offset: 4, 0
+  xy: 3642, 327
+  size: 91, 184
+  orig: 96, 192
+  offset: 4, 8
   index: -1
 sprites/blueprints/hyperlink-hyperlink_exit
   rotate: false
-  xy: 517, 407
-  size: 67, 142
-  orig: 75, 150
-  offset: 4, 0
+  xy: 3827, 329
+  size: 86, 182
+  orig: 96, 192
+  offset: 5, 0
+  index: -1
+sprites/blueprints/hyperlink_left
+  rotate: false
+  xy: 3367, 79
+  size: 60, 67
+  orig: 96, 96
+  offset: 3, 3
+  index: -1
+sprites/blueprints/hyperlink_right
+  rotate: false
+  xy: 3429, 79
+  size: 60, 67
+  orig: 96, 96
+  offset: 33, 3
   index: -1
 sprites/blueprints/item_producer
   rotate: false
-  xy: 749, 453
+  xy: 1189, 28
   size: 88, 95
   orig: 96, 96
   offset: 5, 1
   index: -1
 sprites/blueprints/lever
   rotate: false
-  xy: 1119, 48
+  xy: 3158, 84
   size: 68, 79
   orig: 96, 96
   offset: 14, 12
   index: -1
 sprites/blueprints/logic_gate
   rotate: false
-  xy: 362, 552
+  xy: 460, 45
   size: 96, 82
   orig: 96, 96
   offset: 0, 14
   index: -1
 sprites/blueprints/logic_gate-not
   rotate: false
-  xy: 773, 257
+  xy: 1735, 28
   size: 83, 96
   orig: 96, 96
   offset: 7, 0
   index: -1
 sprites/blueprints/logic_gate-or
   rotate: false
-  xy: 460, 551
+  xy: 656, 43
   size: 96, 83
   orig: 96, 96
   offset: 0, 13
   index: -1
 sprites/blueprints/logic_gate-xor
   rotate: false
-  xy: 761, 550
+  xy: 2062, 131
   size: 96, 86
   orig: 96, 96
   offset: 0, 10
   index: -1
 sprites/blueprints/miner
   rotate: false
-  xy: 1732, 633
+  xy: 3454, 415
   size: 92, 96
   orig: 96, 96
   offset: 3, 0
   index: -1
 sprites/blueprints/miner-chainable
   rotate: false
-  xy: 1826, 633
+  xy: 3548, 415
   size: 92, 96
   orig: 96, 96
   offset: 3, 0
   index: -1
 sprites/blueprints/miner-deep
   rotate: false
-  xy: 1147, 541
+  xy: 1016, 26
   size: 91, 95
   orig: 96, 96
   offset: 3, 1
   index: -1
 sprites/blueprints/mixer
   rotate: false
-  xy: 1118, 927
+  xy: 1470, 415
   size: 175, 96
   orig: 192, 96
   offset: 8, 0
   index: -1
 sprites/blueprints/painter
   rotate: false
-  xy: 730, 927
+  xy: 1082, 415
   size: 192, 96
   orig: 192, 96
   offset: 0, 0
   index: -1
 sprites/blueprints/painter-double
   rotate: false
-  xy: 1, 271
+  xy: 563, 128
   size: 192, 187
   orig: 192, 192
   offset: 0, 5
   index: -1
 sprites/blueprints/painter-mirrored
   rotate: false
-  xy: 721, 829
+  xy: 1276, 415
   size: 192, 96
   orig: 192, 96
   offset: 0, 0
   index: -1
 sprites/blueprints/painter-quad
   rotate: false
-  xy: 1, 558
+  xy: 369, 415
   size: 359, 96
   orig: 384, 96
   offset: 8, 0
   index: -1
 sprites/blueprints/reader
   rotate: false
-  xy: 1838, 829
+  xy: 2388, 415
   size: 95, 96
   orig: 96, 96
   offset: 1, 0
   index: -1
 sprites/blueprints/rotater
   rotate: false
-  xy: 1742, 927
+  xy: 2094, 415
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/blueprints/rotater-ccw
   rotate: false
-  xy: 1367, 731
+  xy: 1914, 317
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/blueprints/rotater-rotate180
   rotate: false
-  xy: 1642, 829
+  xy: 1817, 219
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/blueprints/stacker
   rotate: false
-  xy: 745, 731
+  xy: 1292, 317
   size: 175, 96
   orig: 192, 96
   offset: 8, 0
   index: -1
 sprites/blueprints/storage
   rotate: false
-  xy: 195, 266
+  xy: 923, 123
   size: 165, 192
   orig: 192, 192
   offset: 14, 0
   index: -1
 sprites/blueprints/transistor
   rotate: false
-  xy: 586, 454
+  xy: 2997, 322
   size: 68, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/blueprints/transistor-mirrored
   rotate: false
-  xy: 961, 61
+  xy: 3073, 167
   size: 67, 96
   orig: 96, 96
   offset: 29, 0
   index: -1
 sprites/blueprints/trash
   rotate: false
-  xy: 1465, 731
+  xy: 1915, 219
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/blueprints/underground_belt_entry
   rotate: false
-  xy: 97, 6
+  xy: 3169, 343
   size: 93, 75
   orig: 96, 96
   offset: 2, 0
   index: -1
 sprites/blueprints/underground_belt_entry-tier2
   rotate: false
-  xy: 1018, 459
+  xy: 754, 38
   size: 93, 84
   orig: 96, 96
   offset: 2, 0
   index: -1
 sprites/blueprints/underground_belt_exit
   rotate: false
-  xy: 1113, 464
+  xy: 3264, 341
   size: 93, 75
   orig: 96, 96
   offset: 2, 21
   index: -1
 sprites/blueprints/underground_belt_exit-tier2
   rotate: false
-  xy: 1, 6
+  xy: 4001, 436
   size: 94, 75
   orig: 96, 96
   offset: 2, 21
   index: -1
 sprites/blueprints/virtual_processor
   rotate: false
-  xy: 565, 635
+  xy: 2305, 319
   size: 96, 94
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/blueprints/virtual_processor-painter
   rotate: false
-  xy: 768, 355
+  xy: 1388, 28
   size: 87, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/blueprints/virtual_processor-rotater
   rotate: false
-  xy: 1365, 443
+  xy: 2336, 64
   size: 39, 96
   orig: 96, 96
   offset: 29, 0
   index: -1
 sprites/blueprints/virtual_processor-stacker
   rotate: false
-  xy: 937, 355
+  xy: 1566, 28
   size: 87, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/blueprints/virtual_processor-unstacker
   rotate: false
-  xy: 1938, 927
+  xy: 2110, 317
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/blueprints/wire_tunnel
   rotate: false
-  xy: 1052, 545
+  xy: 1869, 126
   size: 93, 91
   orig: 96, 96
   offset: 2, 3
   index: -1
 sprites/buildings/analyzer
   rotate: false
-  xy: 1644, 927
+  xy: 1621, 219
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/buildings/balancer
   rotate: false
-  xy: 1471, 927
+  xy: 1823, 415
   size: 171, 96
   orig: 192, 96
   offset: 11, 0
   index: -1
 sprites/buildings/balancer-merger
   rotate: false
-  xy: 693, 66
+  xy: 3169, 420
   size: 93, 91
   orig: 96, 96
   offset: 3, 3
   index: -1
 sprites/buildings/balancer-merger-inverse
   rotate: false
-  xy: 1250, 638
+  xy: 1580, 126
   size: 94, 91
   orig: 96, 96
   offset: 0, 3
   index: -1
 sprites/buildings/balancer-merger-triple
   rotate: false
-  xy: 761, 638
+  xy: 2778, 420
   size: 96, 91
   orig: 96, 96
   offset: 0, 3
   index: -1
 sprites/buildings/balancer-merger-tripleunused
   rotate: false
-  xy: 859, 638
+  xy: 1384, 126
   size: 96, 91
   orig: 96, 96
   offset: 0, 3
   index: -1
 sprites/buildings/balancer-splitter
   rotate: false
-  xy: 957, 545
+  xy: 1774, 126
   size: 93, 91
   orig: 96, 96
   offset: 3, 3
   index: -1
 sprites/buildings/balancer-splitter-inverse
   rotate: false
-  xy: 1153, 638
+  xy: 2974, 420
   size: 95, 91
   orig: 96, 96
   offset: 0, 3
   index: -1
 sprites/buildings/balancer-splitter-triple
   rotate: false
-  xy: 957, 638
+  xy: 2876, 420
   size: 96, 91
   orig: 96, 96
   offset: 0, 1
   index: -1
 sprites/buildings/balancer-splitter-tripleunused
   rotate: false
-  xy: 1055, 638
+  xy: 1482, 126
   size: 96, 91
   orig: 96, 96
   offset: 0, 1
   index: -1
 sprites/buildings/belt_left
   rotate: false
-  xy: 1208, 452
+  xy: 2160, 130
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/belt/built/left_0
   rotate: false
-  xy: 1208, 452
+  xy: 2160, 130
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/buildings/belt_right
   rotate: false
-  xy: 1208, 363
+  xy: 2247, 35
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_0
   rotate: false
-  xy: 1208, 363
+  xy: 2247, 35
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/buildings/belt_top
   rotate: false
-  xy: 528, 309
+  xy: 1109, 25
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/forward_0
   rotate: false
-  xy: 528, 309
+  xy: 1109, 25
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/buildings/comparator
   rotate: false
-  xy: 1444, 640
+  xy: 3071, 422
   size: 96, 89
   orig: 96, 96
   offset: 0, 7
   index: -1
 sprites/buildings/constant_signal
   rotate: false
-  xy: 1466, 552
+  xy: 2760, 47
   size: 70, 86
   orig: 96, 96
   offset: 13, 10
   index: -1
 sprites/buildings/cutter
   rotate: false
-  xy: 1096, 731
+  xy: 1643, 317
   size: 171, 96
   orig: 192, 96
   offset: 11, 0
   index: -1
 sprites/buildings/cutter-quad
   rotate: false
-  xy: 369, 829
+  xy: 730, 415
   size: 350, 96
   orig: 384, 96
   offset: 16, 0
   index: -1
 sprites/buildings/display
   rotate: false
-  xy: 932, 453
+  xy: 2072, 39
   size: 84, 90
   orig: 96, 96
   offset: 6, 0
   index: -1
 sprites/buildings/filter
   rotate: false
-  xy: 915, 829
+  xy: 1090, 219
   size: 179, 96
   orig: 192, 96
   offset: 11, 0
   index: -1
 sprites/buildings/hub
   rotate: false
-  xy: 1, 656
+  xy: 1, 144
   size: 366, 367
   orig: 384, 384
   offset: 9, 7
   index: -1
 sprites/buildings/hyperlink
   rotate: false
-  xy: 1333, 541
+  xy: 2775, 327
   size: 42, 90
   orig: 96, 96
   offset: 27, 3
   index: -1
 sprites/buildings/hyperlink-hyperlink_entrance
   rotate: false
-  xy: 361, 80
+  xy: 3735, 327
   size: 90, 184
   orig: 96, 192
   offset: 5, 8
   index: -1
 sprites/buildings/hyperlink-hyperlink_exit
   rotate: false
-  xy: 362, 277
+  xy: 3915, 330
   size: 84, 181
   orig: 96, 192
   offset: 6, 0
   index: -1
 sprites/buildings/hyperlink_left
   rotate: false
-  xy: 1983, 571
+  xy: 3296, 8
   size: 60, 66
   orig: 96, 96
   offset: 3, 3
   index: -1
 sprites/buildings/hyperlink_right
   rotate: false
-  xy: 1130, 133
+  xy: 3491, 80
   size: 60, 66
   orig: 96, 96
   offset: 33, 3
   index: -1
 sprites/buildings/item_producer
   rotate: false
-  xy: 788, 62
+  xy: 2500, 318
   size: 87, 95
   orig: 96, 96
   offset: 5, 1
   index: -1
 sprites/buildings/lever
   rotate: false
-  xy: 432, 1
+  xy: 3299, 76
   size: 66, 77
   orig: 96, 96
   offset: 15, 13
   index: -1
 sprites/buildings/logic_gate
   rotate: false
-  xy: 558, 552
+  xy: 362, 46
   size: 96, 81
   orig: 96, 96
   offset: 0, 15
   index: -1
 sprites/buildings/logic_gate-not
   rotate: false
-  xy: 877, 61
+  xy: 1820, 28
   size: 82, 96
   orig: 96, 96
   offset: 8, 0
   index: -1
 sprites/buildings/logic_gate-or
   rotate: false
-  xy: 656, 550
+  xy: 558, 43
   size: 96, 83
   orig: 96, 96
   offset: 0, 13
   index: -1
 sprites/buildings/logic_gate-xor
   rotate: false
-  xy: 859, 550
+  xy: 1964, 131
   size: 96, 86
   orig: 96, 96
   offset: 0, 10
   index: -1
 sprites/buildings/miner
   rotate: false
-  xy: 656, 453
+  xy: 4001, 339
   size: 91, 95
   orig: 96, 96
   offset: 3, 1
   index: -1
 sprites/buildings/miner-chainable
   rotate: false
-  xy: 839, 453
+  xy: 2589, 322
   size: 91, 95
   orig: 96, 96
   offset: 3, 1
   index: -1
 sprites/buildings/miner-deep
   rotate: false
-  xy: 1240, 541
+  xy: 2682, 322
   size: 91, 95
   orig: 96, 96
   offset: 3, 1
   index: -1
 sprites/buildings/mixer
   rotate: false
-  xy: 1096, 829
+  xy: 1271, 219
   size: 174, 96
   orig: 192, 96
   offset: 9, 0
   index: -1
 sprites/buildings/painter
   rotate: false
-  xy: 369, 731
+  xy: 722, 317
   size: 192, 96
   orig: 192, 96
   offset: 0, 0
   index: -1
 sprites/buildings/painter-double
   rotate: false
-  xy: 1, 83
+  xy: 369, 129
   size: 192, 186
   orig: 192, 192
   offset: 0, 6
   index: -1
 sprites/buildings/painter-mirrored
   rotate: false
-  xy: 924, 927
+  xy: 916, 317
   size: 192, 96
   orig: 192, 96
   offset: 0, 0
   index: -1
 sprites/buildings/painter-quad
   rotate: false
-  xy: 369, 927
+  xy: 1, 46
   size: 359, 96
   orig: 384, 96
   offset: 8, 0
   index: -1
 sprites/buildings/reader
   rotate: false
-  xy: 1661, 731
+  xy: 2013, 219
   size: 95, 96
   orig: 96, 96
   offset: 1, 0
   index: -1
 sprites/buildings/rotater
   rotate: false
-  xy: 1935, 829
+  xy: 2208, 317
   size: 95, 96
   orig: 96, 96
   offset: 1, 0
   index: -1
 sprites/buildings/rotater-ccw
   rotate: false
-  xy: 1758, 731
+  xy: 2110, 219
   size: 95, 96
   orig: 96, 96
   offset: 1, 0
   index: -1
 sprites/buildings/rotater-rotate180
   rotate: false
-  xy: 1855, 731
+  xy: 2485, 415
   size: 95, 96
   orig: 96, 96
   offset: 1, 0
   index: -1
 sprites/buildings/stacker
   rotate: false
-  xy: 1295, 927
+  xy: 1647, 415
   size: 174, 96
   orig: 192, 96
   offset: 9, 0
   index: -1
 sprites/buildings/storage
   rotate: false
-  xy: 195, 73
+  xy: 757, 124
   size: 164, 191
   orig: 192, 192
   offset: 14, 0
   index: -1
 sprites/buildings/transistor
   rotate: false
-  xy: 942, 159
+  xy: 2329, 162
   size: 68, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/buildings/transistor-mirrored
   rotate: false
-  xy: 1297, 443
+  xy: 3090, 37
   size: 66, 96
   orig: 96, 96
   offset: 30, 0
   index: -1
 sprites/buildings/trash
   rotate: false
-  xy: 1740, 829
+  xy: 2012, 317
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/buildings/underground_belt_entry
   rotate: false
-  xy: 1205, 287
+  xy: 4001, 263
   size: 92, 74
   orig: 96, 96
   offset: 3, 0
   index: -1
 sprites/buildings/underground_belt_entry-tier2
   rotate: false
-  xy: 1114, 379
+  xy: 3359, 333
   size: 92, 83
   orig: 96, 96
   offset: 3, 0
   index: -1
 sprites/buildings/underground_belt_exit
   rotate: false
-  xy: 1297, 367
+  xy: 2403, 244
   size: 92, 74
   orig: 96, 96
   offset: 3, 22
   index: -1
 sprites/buildings/underground_belt_exit-tier2
   rotate: false
-  xy: 1283, 202
+  xy: 2488, 153
   size: 92, 74
   orig: 96, 96
   offset: 3, 22
   index: -1
 sprites/buildings/virtual_processor
   rotate: false
-  xy: 663, 635
+  xy: 1090, 123
   size: 96, 94
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/buildings/virtual_processor-painter
   rotate: false
-  xy: 773, 159
+  xy: 1279, 27
   size: 87, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/buildings/virtual_processor-rotater
   rotate: false
-  xy: 1984, 473
+  xy: 2944, 135
   size: 38, 96
   orig: 96, 96
   offset: 30, 0
   index: -1
 sprites/buildings/virtual_processor-stacker
   rotate: false
-  xy: 938, 257
+  xy: 1477, 28
   size: 87, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/buildings/virtual_processor-unstacker
   rotate: false
-  xy: 1563, 731
+  xy: 2290, 415
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/buildings/wire_tunnel
   rotate: false
-  xy: 354, 460
+  xy: 922, 31
   size: 92, 90
   orig: 96, 96
   offset: 3, 3
   index: -1
 sprites/colors/blue
   rotate: false
-  xy: 745, 30
+  xy: 1, 10
   size: 36, 34
   orig: 36, 36
   offset: 0, 0
   index: -1
 sprites/colors/cyan
   rotate: false
-  xy: 829, 26
+  xy: 39, 10
   size: 36, 34
   orig: 36, 36
   offset: 0, 0
   index: -1
 sprites/colors/green
   rotate: false
-  xy: 867, 25
+  xy: 77, 10
   size: 36, 34
   orig: 36, 36
   offset: 0, 0
   index: -1
 sprites/colors/purple
   rotate: false
-  xy: 905, 25
+  xy: 115, 10
   size: 36, 34
   orig: 36, 36
   offset: 0, 0
   index: -1
 sprites/colors/red
   rotate: false
-  xy: 943, 25
+  xy: 153, 10
   size: 36, 34
   orig: 36, 36
   offset: 0, 0
   index: -1
 sprites/colors/uncolored
   rotate: false
-  xy: 981, 25
+  xy: 191, 10
   size: 36, 34
   orig: 36, 36
   offset: 0, 0
   index: -1
 sprites/colors/white
   rotate: false
-  xy: 1261, 73
+  xy: 229, 10
   size: 36, 34
   orig: 36, 36
   offset: 0, 0
   index: -1
 sprites/colors/yellow
   rotate: false
-  xy: 1299, 77
+  xy: 267, 10
   size: 36, 34
   orig: 36, 36
   offset: 0, 0
   index: -1
 sprites/debug/acceptor_slot
   rotate: false
-  xy: 1377, 541
+  xy: 305, 1
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
 sprites/debug/ejector_slot
   rotate: false
-  xy: 523, 67
+  xy: 315, 1
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
 sprites/misc/hub_direction_indicator
   rotate: false
-  xy: 1307, 43
+  xy: 3553, 114
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 sprites/misc/hyperlink_good_arrow
   rotate: false
-  xy: 629, 426
+  xy: 2466, 36
   size: 24, 26
   orig: 26, 26
   offset: 1, 0
   index: -1
 sprites/misc/processor_disabled
   rotate: false
-  xy: 690, 9
+  xy: 3587, 73
   size: 53, 55
   orig: 64, 64
   offset: 6, 3
   index: -1
 sprites/misc/processor_disconnected
   rotate: false
-  xy: 783, 3
+  xy: 3642, 71
   size: 44, 57
   orig: 64, 64
   offset: 11, 2
   index: -1
 sprites/misc/reader_overlay
   rotate: false
-  xy: 1189, 60
+  xy: 3158, 35
   size: 70, 47
   orig: 96, 96
   offset: 13, 24
   index: -1
 sprites/misc/slot_bad_arrow
   rotate: false
-  xy: 479, 85
+  xy: 2518, 38
   size: 24, 24
   orig: 26, 26
   offset: 1, 1
   index: -1
 sprites/misc/slot_good_arrow
   rotate: false
-  xy: 453, 83
+  xy: 2492, 36
   size: 24, 26
   orig: 26, 26
   offset: 1, 0
   index: -1
 sprites/misc/storage_overlay
   rotate: false
-  xy: 631, 81
+  xy: 3073, 135
   size: 60, 30
   orig: 60, 30
   offset: 0, 0
   index: -1
 sprites/misc/waypoint
   rotate: false
-  xy: 505, 77
+  xy: 509, 1
   size: 26, 32
   orig: 32, 32
   offset: 3, 0
   index: -1
 sprites/misc/waypoint_wires
   rotate: false
-  xy: 1307, 9
+  xy: 3553, 80
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 sprites/wires/boolean_false
   rotate: false
-  xy: 500, 47
+  xy: 3135, 135
   size: 21, 28
   orig: 32, 32
   offset: 6, 1
   index: -1
 sprites/wires/boolean_true
   rotate: false
-  xy: 2032, 897
+  xy: 2449, 36
   size: 15, 28
   orig: 32, 32
   offset: 7, 1
   index: -1
 sprites/wires/display/blue
   rotate: false
-  xy: 1337, 78
+  xy: 2634, 50
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
   index: -1
 sprites/wires/display/cyan
   rotate: false
-  xy: 1372, 78
+  xy: 305, 11
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
   index: -1
 sprites/wires/display/green
   rotate: false
-  xy: 1407, 78
+  xy: 340, 11
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
   index: -1
 sprites/wires/display/purple
   rotate: false
-  xy: 1442, 78
+  xy: 375, 11
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
   index: -1
 sprites/wires/display/red
   rotate: false
-  xy: 500, 12
+  xy: 410, 11
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
   index: -1
 sprites/wires/display/white
   rotate: false
-  xy: 535, 19
+  xy: 2379, 31
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
   index: -1
 sprites/wires/display/yellow
   rotate: false
-  xy: 570, 19
+  xy: 2414, 31
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
   index: -1
 sprites/wires/lever_on
   rotate: false
-  xy: 361, 1
+  xy: 3228, 84
   size: 69, 77
   orig: 96, 96
   offset: 13, 13
   index: -1
 sprites/wires/logical_acceptor
   rotate: false
-  xy: 1377, 205
+  xy: 3667, 155
   size: 42, 71
   orig: 96, 96
   offset: 28, 25
   index: -1
 sprites/wires/logical_ejector
   rotate: false
-  xy: 586, 407
+  xy: 2336, 17
   size: 41, 45
   orig: 96, 96
   offset: 29, 51
   index: -1
 sprites/wires/network_conflict
   rotate: false
-  xy: 1341, 12
+  xy: 2634, 18
   size: 32, 30
   orig: 32, 32
   offset: 0, 1
   index: -1
 sprites/wires/network_empty
   rotate: false
-  xy: 655, 419
+  xy: 479, 1
   size: 28, 32
   orig: 32, 32
   offset: 3, 0
   index: -1
 sprites/wires/overlay_tile
   rotate: false
-  xy: 290, 7
+  xy: 3230, 18
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 sprites/wires/sets/conflict_cross
   rotate: false
-  xy: 1269, 731
+  xy: 1816, 317
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/wires/sets/conflict_forward
   rotate: false
-  xy: 1920, 633
+  xy: 1368, 27
   size: 18, 96
   orig: 96, 96
   offset: 39, 0
   index: -1
 sprites/wires/sets/conflict_split
   rotate: false
-  xy: 192, 14
+  xy: 3071, 363
   size: 96, 57
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/wires/sets/conflict_turn
   rotate: false
-  xy: 1189, 1
+  xy: 2575, 26
   size: 57, 57
   orig: 96, 96
   offset: 39, 0
   index: -1
 sprites/wires/sets/first_cross
   rotate: false
-  xy: 1544, 829
+  xy: 1719, 219
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/wires/sets/first_forward
   rotate: false
-  xy: 1012, 159
+  xy: 2764, 135
   size: 18, 96
   orig: 96, 96
   offset: 39, 0
   index: -1
 sprites/wires/sets/first_split
   rotate: false
-  xy: 1032, 129
+  xy: 2589, 263
   size: 96, 57
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/wires/sets/first_turn
   rotate: false
-  xy: 1248, 1
+  xy: 3711, 170
   size: 57, 57
   orig: 96, 96
   offset: 39, 0
   index: -1
 sprites/wires/sets/second_cross
   rotate: false
-  xy: 1840, 927
+  xy: 2192, 415
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/wires/sets/second_forward
   rotate: false
-  xy: 2029, 473
+  xy: 2555, 55
   size: 18, 96
   orig: 96, 96
   offset: 39, 0
   index: -1
 sprites/wires/sets/second_split
   rotate: false
-  xy: 533, 54
+  xy: 2305, 260
   size: 96, 57
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/wires/sets/second_turn
   rotate: false
-  xy: 631, 22
+  xy: 3770, 170
   size: 57, 57
   orig: 96, 96
   offset: 39, 0
   index: -1
 sprites/wires/wires_preview
   rotate: false
-  xy: 1341, 44
+  xy: 445, 1
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
@@ -19785,7 +19869,7 @@ sprites/wires/wires_preview
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = (function() {
-        return JSON.parse(__webpack_require__(/*! global-compression */ "./src/js/core/lzstring.js").decompressX64("N4IgZgTghgtgpgZxALlAgDhAlgF0QegCM4AbHIgVyzPzAHsIB3KCAEwH0BGAOnQDsA5ilCRYcYSAAeKACwBWAMwAaEAE8UAJgAMAThWMUAdgAcKgBYodANgC+KiHRxQ8rFGCgkEcFTmwx4rsi+FN4gGNh4AMp0FBAAxnCRWABe4qhSlirqyFr6RqYgFsjWdmEx8YkpaaAGxVbmlral4bgExDSEVDT0TCwcnFq8ghKi8BLSyFY6ymoonHJ6ILUmDXWlDk4ubh5ePn4BKMGhLVHlCUmp45mzOXnIK4WNzWeVl+m11qslzZitCESkcidajkHrMNhcHj8ITpUbVDLIYxyQxZFAKORyO4PIoleyOZxwQLuTyhXxYfyEw4QEIqE6JF4XeETRbZXJLfJfWy0hlVCQfeqPNY-CJtQGUEG0Bjg-oaIYwkTQMbpCZIgrZDTIrEFHFckAbAlEnak-aUoLU46-U6xc685XXVlaznPa2veH8p3Cv4AjpdUFSvpcBRykaKpkoYxWDSo5DzRbLbVPPGbU3E3YgMkUwJHWmW+kuxlXYrRtnxp3c-O2mqND05kX-dpA32S3oQ2XQkNiQvyGbZTh9x2C3F6-FbZCp43kg5mmlhXPRCtvUDM4sDnXOioF97VwdNWtehvi7r+iFB9uw0OFxQ9zT99n3BNrJMG7YkvaT03Z2ci+cbysIlkoCWHI7uuNqLnenwgZ6eD1mKwJHi2HAyMG56dnayBXtGfYzKWIFPqO45vpmVIznSP5gWGRY3EB95lmUC5utua7QaKPoSmCAZyChCpoUuKBWFoaporoq6JsOyaGq+6Ymlm5p7lav7gcu1GiY+9GKYxdQ1l++5wU2HEQlY3HgBe6FWJw17IBot64Wu+EpkaRFTp+ZE8kp9qAapQ4IG5mmQcx8msY27HHhwhjGXChbmZZ2Febq+oEY50nvrJpFzr5hYAbcd7YmJPkMXyTFPCxsFsQh0rsMYEWmXxkzGEJyDopiOUPkOCUOVJGbOXJOkKRRmUri1dH5RphVaVBgWlcF5UBjo1W8QiUyWRqKJDXh4nPmOSVdR+PWuQV6FZTRuVqSN-VbuNAW9UFh7kCQcBgDgXDzUqtWcBoOhZRoDy1MYq1FH96wjh1aY7alFrfhl6Fstkcbhv98Oga6Y3+cVk3etNd0PU9AwvZRnDGDoMjRnIMjE3ef2rID9mSaDMkkRDrTkcj0PRnDiIIxzSOblWl1o9dU23fg92PZCeOFpwMg6M12TyAUv2c9TG2JZ19PTozfUs7VMPXArVOGNzf7uhNAsY0LIs422wyoa9CLzMY5Oy3I8vw-rQMSS+dMpQzgXMzzCI61ReuCkrZ1axBApXXSgvwVjosWeL6GcFYhiWfIzXBwDBs057E7EervtQ9rbN3JTIfZ+p5286jQrowesfC9j7BW-KJkLRMAwKFGNwEy7HNuznW2q97BfXX7f4TIH7Nl1nhvgcbUe5jHTYW+wp7Wzxtsd5wRNYTofcz4jg+Ecl+cuelB3Fzc0+KxXYf+wv-PR2bDer8hZ6b-jCiGKt2QYpwpdb7u02ifMGPsx5FwDiXCmQDyyjQujXb4dc9ISlXlxD+bct5zEUA1Umq1M5H2ViDPO3U0qQ0vlA6+gCB6V3Do-Wupt64rybkZDBkUk6Rl-igPB1Dy7AJVl7M+e0L7wKvrDXhs84FVwjtpZ+TDUFN3CmwmqdtDDJxJmTCRhD2q0xIbtMhTNIGT2gQQrmUi6FFQYXIlBNBV5VWUe3OYxgtAy24ZomBNCdG5ycvojWeZRGUPER4vh5iH6WKQYwmxccnpzQcVgmMMgtACllpGLRZiiG6J8eDQuFDjFUOCZI2hYS+ZWKXi-Js2ABBmBxonN6hhUk3HTmkpWXih6CNIX48e7kqJBNMaHSB9CInWLKuQSp1SuCDDifjJEACbgKCsAKPpFdWmgLVufchATlK9NdiEopRtwm7kiSM-AYycZQg3pg-GRNA7zPJks-hxCsngP2psjyQcdmFPvvskpQyynyJoKcrgLcOzxPesYGKFlmnLOBpk0+HScmvJ6brD5hCvnzwOTYEq5SJSAoTlMiW39u69khQU7RMLvFwt8Qi6RWzkX912Wivykcn5-KiScrAVSnrApttMuQsynYZxReklZ201nCI2TSt5N8aGMpRsy0pdZsUAo5eM9erd2FvS0AoQOiSoUPNhWA0eLzJVIvefSz5AyMVYv+aMlVT134XI1XbHeRK5giVJcK8lbS9HZIgbkqVerQnfMQYc4ZmN2WcvYOgx1KiO6JOSWiVOgaMkUsNeswx-rTXSoZZan5obWXHMBawmNjiEnS2jPM7NhSRXDyEQYzW-taVmsPuk2VCD5W-MVTaiN4ylEltBc7R2aIpjJpre0qlfrEVZSrai3NIbMXIMLXayqtS7Yp0svMxZQqWletWSPdNDaJ4Bo9f0ihgz81drZYC2J-b8b1NdY1BZo7d2iv3eKjNU6THbrvnOjtF79wkBCL8PgOB-hQD4B4VQqQICrrjTIBNiIPp3HncfV9dbOlGM8ipGR6023Vz-QuxhgG4DAdA0QDw4GEgwfxYdDQD7U6zNqJwQw3c7Ipu9U8o1IiTW3gdHeZjrG8q5pdbIv5xHSP1go3wKjABaeAEABBwGo7eiWpMH1WHmchmYOIFD6tTWK+t-iTUxS018XTQb0V5sI3I8T2AQOSZIJRpTcmlOKYgDJrAfAABuSmvCwbmNLejCg7mWGajpvTHHKW+uNeHPJvZkNhcsOZvZln53Wts55sjhApOyfk25mTZJ0D3X84+rKGmt0-OS2On1zzuOxaw-FnD4WLNMtE12jL9nyOOek85jAJBcB4GU+q2NcwNNcMmJpiC2mksRb3eh6l9XGpYVM4OZLeGmssva0BuzWWcu9aKwN5znmfMQD8zRt6gXowafZuW1bs20PwsnSawOjHQtmbnq1k2NntuZYc059zfXDvucK8V87CJ4PjfK8hjtVWX21sezFxtDW5jQ-ey1uVbWAM-c6w2dgFsSsDG+tGb6+Dv33fhxOxHR7srbPNbOs9Vq64day4CdgpyCd9gQx9GiLad0e0i2m99h7unTuTet891mxPY5Z2QdgOA6DoBK2TBq2rSe0XWtVzjB6jOLaOnFD7GOvtS5Izt-4cQ6AwHQCwZwDACfBYQ1YXVG3EQ6HJ+O6LdWkc06w-QwmBv22Y5gkQZnZu6B8AQE4ED7AEAcogyQDn1lidaFe-cWZ1a4fu9qxKxbJK+PLDT-TgJEv0vS7NxQHAg2CffQfcYJD-GWN0U11FrPH6eP8p93MBvuHhM6EEwqrHJvfv4DiOXwbMmACOFAoCsAJ9GeDNF0QF7Uk3wXhmun4wQwvvlw1c0KAdoHtoIf8CsCwH1qAqgCdaA0AhzdpcO2cDdzVrj2eveuIwnfr4D-0cB6N1twfnWwAQQlMSs5ANNowGM7gCY2Q2MV8DMMNM0BhBomNnEd8GcYxe8D96wj8zBVB0AlN+s+AABrAna5OfRQO4GQPvP3VDCnD3F-anInG4buWoSgqmV3b-fDTA4PUvfAHAvAiAAgwgmTPg-AzzQg9gOAEDaAHrJXGQBqRJQVSYTmSWGQR-LXIXHXL3IdSYO4FOVYFQ-3XmQwRLGMOQLQSXP-CTXg3A0Qog4QmwgQsQiQyQXAEA5jOfLQNXPQwUSWDQNQ5vZ-VvRbbQvubwooXwwwnKEw+Ycwkvf-MjVoGAdgTAOgVgCgKjErQwKWMgnCcMVqOQfw1feAxFN-HnfIyI4vJnHg+6E7DnHeOfUIh8Qwdg9jObBHT3anSWEmXQpolo8XRnIjaougAQLAOIdgAQAkEreZB9DEZgyxWvQouAhbL3QOGiGuBYjg53TtAfKwkgYY0Y8YgkGTPgRwTIpNJgzUCmabZfDPJ-bXdfQscbHna47yX9LgwgI-PYkYsYiYvAGTW3MHCYefEmbfZ3cFRYt9NfTDb3bKX3NbN43-HY03YWfYn4o4yQAElTdCepdvDCMw1HEOeKW49QqEzNVYgkgGXUfoqzOIqwmATzYAwEzvLuK7BQXI4oPvNqYkgI+46EyyNYzkqkhExeSw5E+kvgZzOIMwKATzKAD4uAAnWvB3Nk5DQUiE+bJ7Rbfk1U1AovAY77eI-4cU5zVgOAEjDnGQcbUmFPHQJfaWdU9o+g7pbUiCO0gozYyowYw0-AekyQRkrEt6PsBqXvNXZjEwrk-nNoynDo7pBqGiMM3U6RJjDAxEoPD4ngq3TLf04bUtVOKeRg5MtUmgzPQI4XSick-jFMtjakkTVMw-DMmUkDE0mIeU2fJgtRSAqspxaFSMh7aMp08spAgLPvAmH9NA2s8I3vCwpEofTMps9zekiABwCAQkTIxPG4WvdmCcsSWAyE4o57Ic9AoslLTSbc-vNMo-OcsfSfafNsv+Z2O4dERYGA7koo5Y6nOMx8hYRMixRqffOsrAnglc6fbMkFaZPfaMTchLRvV8pYzUr3XEtY8MoUtAtLKo709qIbMCiWLIh9EMiknc2Cvc987pCsiXD0-U43KwzCmTOIOIRgO3bw7ICArYok3s2glvMswsMijFCimk9C6i4GdzdqKAgnR3GvOvci1ovsugoIlYw8lDE8w3EUmczrCPKAOIQg0CnlR4+QcAhQFPBMjXIijUqnWMw8oy6snvNU2k5EiPBgKARTEgt-a-CrZOaIqc4su4jQh4pObQ+MqwDyvwvis8l1aci8ng3wcDGPeyrCnS9CZ2BDeQELOqGC9iks3kskw8qwVqFCvU-ir0qwqK8PU-eXBcrAJchgVcpkuoXE8yXQzmCMkBGSzizQhgvXO8MIoTVCgjWyofKKhAMwAneDN-FiqS3c0ymMwc7DKS6ktCwq5EigPgU0hTBwJajgXHSQ3wC-GqnQSHFbIoYwh0-suShg4nG064o6vi+ag0qw9a1zNa5a9gTaqQ1QArLAJTblT+CWZPeQ78qbKmVQrykk-cxbB9d6A68MIGpSn-FSiK70+61amIJ6zalwnAOotOR3SG+4d06Sji0stq7pB9NYy63Gua3qgSxa5ah65Gja1nOANG96z6u8-iZDcmQ63Giax006omhS9mowMm4UzbVSsjLzCqnAKfEgZIhwBIBAHyOK76hKwK1kxQxBaGrmk6ri1mJggi4oaG8m94o-MWiACWjwaWugWW+WmTK87SxW2qepFXDENJJqgRby0kz9GaoVV4nqw2ng4202qWlIy2hgGTTCxit-MmdkhQZ8wi9Kt20Gr3OvPPNEGO06IW88+s70-2yW824OgHJwTS22y5TKb+CtJ2j1F2x5Hkny6Ejq0xb2-Km6qi5E7Os2oOxAK2pa9SwuhW4upOaYYMgs3ivGjKmurKz2qza6imhaofRgCquAOXJaiU+PGqgYOQGYvSgGwcL-Ee+OkiyiB9OY4oF4neg2gCw8E-QQMDOPKDIup1DuR3bQ-C1i462SrWsRDvSemGzg8++CS+gQP7HrXu++uYS03E5+pjDs4yuOkG-eiWRCyAqBqy8crsjO+sLof+wB3LVzO+kbSYaYK7CrAh7e1+1q3y2qZabG20ioyirtDBzzABrrf7FzBTI7bzXzBU1ejUQODTPuXeEh4G6u92g8nWiCfm4oU+9O7YtM+hq+phoBlh-LEHThgMhEHE1kvh+-Uhgm8hwJTQXW6hqe942Rxh7LbrbB1h4HbAIrOAJaigLwGfGqpEMrCCrYnejWt+wm6a9UAxyRn23+kxrB-bfrCvXB0taWK0zej4E+7RzKxFShrenEPxxu6euRQJ+R2TQHUJ9zY7Dhjncgm4Xh6CgR3e2B+C6nQOI+27JJmhgqtJ6gTBjJ4JoHArax0HVR5kS47IIptx2JsexFHVXx2ppuuhhphhoJgHA7bJ1prAGxuxhxy-cu7p1xwZdxky7m9+vR5AFKxBZJpM2h-cdJ3HfHLhwSMgo+3nHs5q-GuJkR2nS54Z1JgtcNVeSZDpuYbQP6i52BUpoRhOipr9OnVtKR-9GRsZuR3HdnU5lXMAk9K512spsyyiUXOFx594q9ZdN5nM0FT5itWF+5QRt88pkXQFh5oxgJ8F0x1neXRXGq9elXd1WyWO650e4R3XQ8k6Bu-Zup55oWAyDgLF7ChKjQBl9mTltillve4l5Fjl3KtFilkgRp83S3a3Mq4a9xbpp3X3Fojxsh6Enikpag7+l+61dJ83cPSPJ6GPAQOPYap9G4WYrEaA8MCVhFv5uBpOF05YZ1xEPK7lkZw5ylsvbJy-SCZigyxBu011quolpF+BiypB7q-Ks86RtoM10fZzG8xx950rSCyStEfE6ByVxFqaiWTfL8n1rl38vfcR1N9BoN4-U-Irc-EraYB9bsUuWt8wwluCuNsyK7Ttr4bt41z0+pxV8Z2gIA4BvB20t-KC+vVOyug1Xt0tpOBBhdn84pFN0FtNhtswCgQgFmyYUAx8+1ooeZeFmNldgcgaHuBfM94dMc-Kmt1YGt8K3d8duRkQxwogu3FUh1mQFPVgwcYd3VnR6Exg7Idk4DnEYds+uGj9xp79wQ+w-gwQiQqQpzKY+qjctYn1gmdW9ZzWrxy8BS-Dh2eVycvw01vdhwlD5Dpwhm1wmq6Y4nH+Qdnw4wNZmB916VqKLCFPf88Irjyj4c99+tz9xhhjogvHbGEg8FEmKB2oASVYBZPptlr3ZaLwn1tT8lhDiTpDujpwqFnN7CF7f95TnT6N5d4ivj9Cf99UbT1Tv138gNsFyT-4RI82tIjImqkwBqBpeuzmojzx3RiYUo52wW-x-Ti+idmosJ+JGQFknuXQ+VH+dT-57peYAdzqtLp9-1p50ZjzlE74w4vAEAh8h19e3WkTnt2zvtj+2E+YvZ1zwrwN4rr4g434uAY404px9jwpwT48sD25xbT8imY8+D4W9zxpzrtEv4zE7FyiQKhDDENY+VcEuryam97W5Ow1+E6L6bxDuL1EsrnrjE6d0tZxkE9bqmaz-Ter1dxr27wk0TtB2LuR40y7+JFbnI5DN0jLj1ihhSgHvTo7gzidr72i6U2U1spx6Ov710r4YLnj2Np7hEL1ywUHkdg5mbyHhk9zU080rhp3P+QD-75HwHuz4Hie20ynsH97v+-Hv077-GXQBDedyB2t+7gXa9nmmVie5jbn2p7d8Tj7xhm21nwsStfSwy1Bpdh77b-n7iiy+XlzrdtXsXpnuRyXmTVgFs9ppbiWSC9k0KiMKnhrrZ+M1BgmdX75UKqcmj4r3Xxc5c6qnN3vJ+oeo8tK4t3jy3uLT+0XkKzXp3xp3XrN7D6db3p833t1tHnb2qcb2oWP7vNAl9hVxp4ClasSnD8Nm05Ci39HjuBSwvhnut8X-4MO1e6YOd-N4oMv35hP5XpOUvzd4NNrvHuRmiuihi1e4whqMat7It+PvnzZkv2nxvqbxn9JmikS5xRUpZowCNiCRvkb-pnjNvtPlJ4xht7urSqXpOD6N-CBzvYXrbjZkjw6BN8-nHn3zPid2KxylRo3-u0a03rGnwwxpvsfq-t6bQwyp-0nItcNeI5R3nXHSbFUYqarXasB17D-VlOcrC-sRzC7I4muqVbfgV137FcoBpVEOq7yqrZtX+b0D6ONkjqpc4+V7R7onwx4GsH2adQ7jPwbYDUhq-fUnuGHr6KV1+GnAFrTwIzl8d2EPORojQECPU6asuLahAB2qmdtALlMuB8D7xZEi+NAiYMtCqaKD9aILLXukxEFiDnq9NV6kzQgBfU+6gZLonMmaI6kQ4sOVHr-1QFLYe47JVBptzv5udjuwg6mkjXWr6CJBaNKvHtTxZq5UGSg5AaFz5IKUNBb3Cvtr0Ya6DaaPgp6ExxwBGCTBIDGMCK2WhX4rBh1QjrYOoEt8aee3YIZoMYHRD0mrdQOjLQ7qLchWtUBZJZA0yq0O0uQv3s33H5oCqmzQqIYIMr74AKhudaoe5kl5nEYoCAr2jzyjJhDM0ddcYd0O0ENt+h7dOWiHWr6md942hS0lHSQE-98h7QxqAa1cbIMd+D-ORosKqHLD86GlA-q21cbqhLi9dCYS1XA7TDDyLaKtsUjcFCDGGZwi2oMJkxd0C61w1eqAUshD8v63AzLt40-qKVp+ZQhtnPRXKL0+Ay9KYqTDnwqcIInJUDiFz1aZoN02QywHBy0FYpzcexU7NwRf61C1Gm9KDve1fYtDR+uwv-lsyPqTZz2JQ59vKnmRi9SRDAM3KoHAwlZ526oCrGyLRAMiqBSvPYZU1Pb0jamYox9DyLoBkj-gogs0nwCFFMVNAihBUcFmUEFCWRsowUHqL4q6iehvI8kegFiA2NW2LiYnDqK5ESibOUo5kYHyshGj2R8orkeaOVF8iTk7vYgf+CS72iPR4o-UdKOJyhjGoHI7lmaKVEqj8AS1C0QGKpHMguOIYu8LqKdGK9L+9gmUZmMdFejX2PohMYwDMCtAq8efZflGJNE7CXReYyMQWLlGmjvR8Yv0aoFIB7E++Mgz6OATVxZjwxrojoTWJjHVtWxWKU0p0AED4ANKCQdAGVWjx7F0aq9b+JE0E5UxBxDYieg+GMC1MdxYvScRQGnFwAAAVnADiALiEAS4kAhoAaFq59xoQ3EQM1eEbi+K+4rFPSQQBxBeCB7dgCfhXIXisAYedgJ5hPxxAbch-N6KrjnxR0+8XcTcfq0PLJdz2wVO-shLRDUd0Yn478dJ3EICA6AqRdgCwAcDdjAxEwSMFlEoIVYNA4ja-AhIQKHkaJqwOiXxWvzMSeh2E-AEsPlp-jT8cpe6EQNTH8QdAU8O4AUyKAYh6JiKB3GJOuKSS+KQA-iKoQ-Gn5vx3EhgLxK-Fh4JSF4lMfFXtoKc5kFBcRsiCklt5uid4dxBJPy6-lFJkwZSVhNUn+iQKEAdgHQBOyOZpBZEuYATDKzHQfWlpMyTnmWiKFDAAUmyR8M74EBOJV4xwM9WnxETKqpEoSds0sEblFCTEwUDRKCkIVlsd4TKUUGymsT5UdElSV+PwCxSno+EwicRLoDJT9J4OAptkEMm1ACpmgR4Tcw3455GJtEu3pZjYlZSOJTkp-opjckeSW2NVDTLiXTGdUfW2qHKbwL24Yjz2RItAstOEhi9OJzAXAnQEywgE7RNwAbq1K5GoSIRQPDHoxJOnyi4JmE02FtPPzoBdpUeBEYgDtyeFAW6ExqKdJxHPDnxE9T6fBNNE3SxeL0+sARPujgZ2A44faTqjVzrlCpu4x8b9JNQ347g8MzQIjLQnAysUoMogODLgCQyjgJWbQMl2akBD+MJhEVgtO6TjZTelMzGdSQBm3Tn4uMk-GflUAUi-242H6GiGuJslqZUI9Af+3PYHdn2fM3TDjPnr-A2ZzbDmXEAFEaiVxXeZin3GFm8yBZKvf6eLPlHazJZK5aWU208n4A1RkhYau9MOmqztZSM0bvJS1mvtRZsY3WejFZmGzz8XE60YbxSkqF6Mls+2RrN26f01ZjUB2dWydmmwXZ7M-0YJIanhctAL2VkVbLrG5jEJds40SHOKRBz+ZesggDLKNlliKxdLdEHvEfKJyzp1PK3iXL9mmiw5LMqWY20jkdiSAXYkAmFOLmZjS5P0m2YtMDmJzGZNcspLjPi6uSw82HXEinhHSCh0u1srqQhQaG6FU6U81wVFP+CDzUSZtWcSRhgGmdVxSeRQjByMDcdWhdgiDsn1kCKCQBHfLgqvO+Jm1Tx54red5IwgRgPCaucnoKHkD+zaoSdT+m-KKAfyBBIMuuRKRwCMAGA4hc1mAH6wXi7cb83sKyLgnYi8h9YlOY1hT4ILrpr7ZmQPKAVwAQFYCiQpbhwBeSUpgVCOvUXykPhAZSclAeEInoitMFGC40VgsVS4z3J+Bc-HLmoCUiY5mgESeAV0LiNHcn8iuZ1UEWjjikdkoRdnP+BeAyMECqBU9DiAOA5alYrKGCK4GdyZ53c9ATCOJHOy65si0PHwEgWjEno-LEgtoFZKm9thZcgPinQsrbDYRPQ3GYYuHxh4TFF46PFMwsVYQdm8qUydPJ4GkUK0N2fxRFMvnn0XFuCoxR4qegS0IAis0zr5Lym1BLi1k4RaoKygI87waS7hOEtSzLz8AUSsjIAVOyKLlFCAAnKTBCKcD+B1CqYX9KKF1KnFgC-WRVOiWTsylUM0KJfgho9wxhMYGxZoqCWURsle3AmO3wKVXyDFHS0pRHi8UhNL8pMj5qEtWABL6lT4u5vYudzrKWl0i9pSUoqrzL4liSx+e9DkIpK8layy9s6OTl4isl7MXJRhHyWfYYuxSmReeLDwcAlFdAFRavQdj5kghdS2xcXzQEvcjhWAyJTMrIxeBzWHAcxTVW0DfzUp1iygbcpoX3KHFky15eDyKXQqPlcKhZcxxzaYQAOutdZSCpUFoDsl9CXZXovDn4r2lhKk5SVimnE4j6TyilcMshHS8HlYkzmHStKHOK65oM6WnADFpwB6pdtO2MFlxLuI0FDCwJTyoDlCzgZQMhhYRngBOAJA5IZ-igBADOBHMCALQOwBgDj5gwKgHoDAGcD6qAASgAHEAAQgAEF6o9UEALSG+TaALlPhK-PrXAn3R9VgwOQCAExRAA"));
+        return JSON.parse(__webpack_require__(/*! global-compression */ "./src/js/core/lzstring.js").decompressX64("N4IgZgTghgtgpgZxALlAgDhAlgF0QegCM4AbHIgVyzPzAHsIB3KCAEwH0BGAOnQDsA5ilCRYcYSAAeKTgDYArPIA0IAJ4oATAA4VjFAHYdIABYoAnLIC+KiHRxQ8rFGCgkEcFTmwx4T5F4oPEAxsPABlOgoIAGM4MKwAL3FUKXMVdWQABl0DI1NkC2tgyJi4xOTQPQLZFXzCopDcAmIaQioaeiYWDk5M3kEJUXgJaWQAZll9ABZ0zQ0zHORDWvMrGzsHOD8XNyCvLB8tlACgxvCS2PikkbS1FGyQKuWTVYaLsuuUqosV6ssGzBNBBEUjkNrUcidZhsLg8fhCFJDCqpcb6eQzO7IDTzRbPOprEC2eyOZyudyeby+Y4QQIqM5xd5XZGjBaYh5PPKvOmM8oSb41F5-AGhZqgygQ2gMaE9DT9BEiaDDFKjMZaMYYjIaMacXGcv7rYlHZA7ckgfaHPwnOmA85RS685W3DLs3K-Qrcu0fZH8t1WYVAkGtdqQqXdLhjOWDRXMlBjeRafSzZCcMYupZ692EjYk41kvaUo1W4I2hmepk3ApJtN4rnFMsOyqrX3-a0i4EtMHByVdGGy+FRsQVzhmTIazRGDnNg2bbZ5ikHKn+GmnEsReufUAsqu6qd10rlr5NwX1VsBjvijqhmER-uI6MV+aZVmasZjHfHglEmek3bzi3U2lixFNd9wbFFn3ud98TeddvSPaD-TwdsxXBS8ew4KZIzvQdHSxMwtAgrENAxScPyKL8cxNfMF0LZdT1tUCN3A7dHldMiPUYuDqmbRDRSDCUoTDeQsIVHDN00Qwx2TOMoNrCijSov9FyLekQPtJitzZWT9T3dSuJ+MjeOQ-i0OldhZBE8B71w1NZEIjQFG0zN5NnX8zQLS06KApo1K9CtCOrDMCQQHkmJ9Qz6L4zsBKvDh9EspEHy0WQpJTZRWPTXcXJ-U1zWUrzVNCmNKy0jKax0kLYL5eDXiMwNotMsMtAS6zxPGTJeiTMZEzKoLyOzBS53cmjPMAwqqtwgKnOCorqu4iLvKQ+qLxDdD2DMFqxJROMzCk7EJzY6Dp0ooa8tosbV1myaWNIo7dL8w95oQyLjIa8gSDgMAcC4TalTauMpg0LqHMWBNfgTfrDVc3KPIAldgKutqHgyVkqjBwUIY4vS5oM57Fqilb8A+r6uD6W9RL+lFiNkAUMhS0GevyTGsyhnLqP-JcLoRiakaTVGUHRpn9BgzicYFPH6Vewnie+zg4QGbDKdGbRhy67UGfB4XjsGtyztG+GfMRlFkduNHGYFrX7oPRsntql7ltQ97PtlvsFYp4rHyMDJXx1DLBYtyHv1zXXYc5g2GOx3CTZKs3NZFyObdxu38alx2ied8Nfo9rQNGj4igb983kGZ7Lg5hka4ci3zreNvmNYxy3KtFx6k6Fe3zzTmX2Fd+UrK25XZHRl830LuPteh9n8q5w2edrzF+eLovmabhOMtbk8U4drsu5vN2+6VzQpjMHrNRxUeG8Dk6Q4rsOq6N0Zo4X-3F-jh7E-F5PJa3iUu8w8n949mMMwhFOCKHrkLS+Oty4cxUpdWeD867nwgVjN+a8P5t03h3beGdhL-0SrhDQ8ZaYyGmOAgO482ZKXOuHUszdebzzIS-FBNdwoSxLKnbBJMLJ4NalTSY6UMicCmCRC2Y8WZB0UsNGBBU4F0LnijRhy8jasM-uw7+NAu7xR4f3TQ8YC4ZC0OlWOF8KFl0ntQu+8DIIMKQeQq2YEVEYK-lgn+GdmraIPliSYvsMhgNsUw8RV9oFTxodXMCCCbHGOQfYsKNUnFqJcRojOG0PGAP0CfFANNFGW1LpIvWld8ZhI0tYhR-ilGz0cRvZxKEuzYAEMYWWWcKzaiPkmQhIjF5iNyadUOsDuZyM0qUqJdiV6oMqX6duNSJR1IaaTJpNktQ+JkLIEewyAndOvtI6eEdUGDNNqIkxMT9LoKqQkqZNAZmy3lr3fB-0xi5yTKAoxBzokbOCRYwp98nT7M6Yc0ZLC4mnLbOo8glyuA9wHJ49UT5HlTAOr815A0J5UP1pYgZ3yY4vJGcowFEzMHnNBVgepstd43N4SqI+XsZBwuyZA5FUiQlotXnszFCLsUVNxS2fFJlCXEu7vM-6WoqVYnkAXNZJckWUIZR88a6KSpDKxQE-5DjOV1USby2ZpLIXFVfBoDJWJhG0tMXk3pMj+nMoxU-JejccW23icC9V+AwV-z3rc7aUw5BtO6kawJUDzGos+VY+VPzn7lLkeMrl1SeVOqJbM3BrryWxnkJkARmhvVlJyZKsxKKCmyotcG1loabUcrtUCs8BKY18u4QmnRWI1T6JQFMAU4rM2s2zdKgNebdmWp9cq2Jpa8VRrepW2ZWia2ePmFoVKMkM10qlfk2+ga5WEStWIvtxyeKTOjWC9x46PZmA0Es5ATafVvP9bm2R+aV29ttevQdZzt2xu+ikvdzShENuTI5Wdxqek3z6TPZdiCW2vwBQOyNCSSCBEBHwHAwIoB8FcKoJIEABUomHAZDIHrnlgZ-ZsxlS783RzTHekDKqwNqsg3AaDsGiCuHg7EFDqShxNsItqHqVROD6ALndM9ObF1dprqMOWN0SHcdrOuuaw4xP2rPJR6j7Y6N8AYwAWngBAAQcBGOvoWfTTEHr4VmBHnUMYc720Lv-TswTsZHmLEM26EzzCyMkYo1B7AMGFMkHo5p1TmmNMQGU1gPgAA3TT7hUPK1zvq7EYrzDpWM6Zk1f6zUAcIzZtecXzAOaOWLTdmC5NuZo4QRTKm1N+eU-sdAH1wu6JzkmD1C914aAS7+rZoSvlZDS5Uprjn+3OfbvlwLhXivedK95irH0KB8AoO4Vg1XkycC0MKzghDbMnO676+l5nkuWfCSUmQq23TrYky3E596HUDfc7RzzSnvMYBILgPAWmyW1tfPIQi+nbNGcy81vDMrL3dvGJ1zL9nSO9dO+B87rnBsea8-5u7D3vOBZCxAMLTGCFTEyCPb2Dz0sg9w+8zt-2rMdcxL7b4GWChZeO+-XLziLtDeuyp+HOBHvlewJVuAc2HJaGjvVg7x51u8Y7Re81APo6rMBUd294OXNUYKzDm7cPKsI-8+NuAk3ptbDm8t5KjyVtoMOz9gnIuUti66vzuoUuS19by1Dy7HZ2Ayy56A4VHrT1ZsS61plZvImKrDavCNsv5P1XYJcub6p5BY9jCDb9G352mu2bQq9QG-fFvDaq-rdvCugnYDgOg6AufERAcRaaRvz38aJ7tgtgVdzU4NwtOnWfgTRDoDAdALAHAMG15MYhyZtAW4FmYMvfGLNJ5986Afxch89Y3Q3iDTf8At74AgewMH2AICJQhkgc2p2sew-oX2iK22e-wwJqvKYRNLEP+y9P5HM9y+h4vigLPNPa+EVF1WGVOPSech7lrp-K9il5tL9v9a9bUpNad58H9Ltohn9WcABHCgKAWbNHf6OyLqTjRYOMa-HSIXLbRPIpYqT1UqKobAsAktVUDENhSHaAmjVgLAO7KAVQbXfCKSVUUGE5TgYfYXCvUXYnVNZAbDXXY8LgmfHLOfGg4PMACEV-VAtDOWcXTAr-HnLKP-X7QnPg8-IjRYBbB4O6OvDjA9SAyQ+XfAYwVQdATTe7PgAAay53SV7y1Gw0BjdEyG4PwLayDT1XNwyhcOPDcLEJO2MNkwX3MMsIgGsJsOUzCKsMCxsPYDgBg2gBu3DxSg-XuXY3MBwIWymHcIT08LlSkmI2yKnVB1n3yCkwhxCNoOBBiIiLiOiIsNiNsISMkFwHDxzn1XuSfnQQW0FzUON14NN34MeTTGEIqJzjKPEIqIPSqKWkIHp1qKaPqJaKdzkJVAmH1X0AXlkD0MyVbQkX-z+00KAKjy8UWF2N+EmCmKCIkOqODzqMiNDyfXD0BkIm2IuL2OQGuPx3L1H0IOaTOJjyqEuMFB+Oy1uOoPuNMKaBgHYEwDoFYAoAY21wW3snhUWzdHkDyKSwIPawELGIzGxMCJpzuPmMWPTmR3DxdyTCnQuL1G2JxK9wIwByESTGw0Hl+EZJJPryhPJIXxIDoAECwGiHYAEE2DmybV52w1bkmN+JH22zH2J20N5IFit1vxt0bxqKJiFJFLFM2GUz4DsG130BnU1AxK+1wIGL+MVIBNwn1TGMtMzAMIz1t21MFOFNFPFLwGUy73WMyXkF7ymAlztTVCZIAJOOKhVMcTDJ5MD3v2Dw9L1O9LgGU0kD9O0zalzlkA-RTDJziWSnDOOOGKr2jILJmmtxlwTNMJgEC1kMzPdXRDq1AVsx-0-GtIVLxKDTOOIzbJuNJL5OaApNrL4G82iGMCgECygAWM539PGHRFdxbLXj7PlJ4P+Pax7NbPII1KrLdODxHO81YDgCo21w6kcObSyKxKLI0JLNOMvzMBwLMGJIhIHNURMMf1rMkHrOe08SEX0F5yXI4zRFUOPyOJvJ2yAOFTTE4wp2dPAKMLJKHIX3b0G2-O1SHEyFqz00ApkAQp4w7LXNtPazLOTDwvE3gr7KD1MJQpg0PMiBnLm0DLOJ1x0LIuTAlVAvUJNwgqjJALYoWzTwD1wuk0qKosfxotZ1rIgFsAgC1znOW30CDJwtIpXLjzM3yO92VL4tUpdJUuCP5O1Iku80QOQNSPe2Up2hAsOK4qGJ4orCgqwLe23KEvGDpMQvbApNkuQLQsVkAUxOwplNgvbM4sGPXKDSPWIyCv7NVJkwMuD3kie3QoISfCkiw0n1-xCptK7LlRIpIzjNdK1PioGn82iGiEYBYLZMxDY3SuCustCqIqDVyvB3yrvz3NMISuU3kl0O1y0CUM1E-wjVXI8M0tLPvOapfJirLTitMJXygGiBsJ8vdiHHmHSKUKAqiqGo0pZOJwcq-2AvYgmsMMourMfxXwYCgA0zmwPWYq1B0K-RmP6Mys7IKPzUqony-3uuEuiqOt+FEpOsuy8Hgw3zOsSt8ofGAS6OxHpKsqCSypevH2sRBL6has1KgOD0BuXwYLz38ykpkrkobJVEyFNMeUmAuKLgyrqrhpGqALPnepBPJorJ3P0qQu1MBoQGMAqoEMPQa3GrwK2rPyAKaucrGQKrRtMMmyPPU1sAlvYAd0SK8GYLnO1HQKquDM+y5OfL5txPhuJw-UPXVsFDRG+tFvfMuwlt82lr4A4DlqSNUHKywE0whTBvtKbKqoM0tNKM2u1upo9j1wNqZlyJRt3MKvFqtotsiCttlpzzgDaJwHDwcjYLdzXktKNq9uZIFt9pIOB0NufN0tRtNpo3NqlojutujtjvtsdslMyA6jqwmFsyoIME1oIuGu2qrw-WIwbqWFzul2Zo8oXyCywAgBwCQJIHhNsFiAQBClBqWoIVTAEO1B5rdEDrUpP2LLsqjjaXSuXrzuDrFsfwHqHpHrHroAnqnuUyMunoASHFVGFX738Qpthuep9v8kv2fjgsrN7qIApIPuHtcGPtPoYE6uKq51fF7101INZHwqesIuyvzVpsRtjEgfIo-vcq-v7sHt-tHoRIAbh3sHmsWqvtwlASyUxDvrWQfr9SftbqAKmnvsZpcvzuhP3owaPuwcQDPsm1mvwcvrdWVgUIwMyJwxXrAu4qVNGqzqEZ3s-oWIX0YEHrgFz0m1HO33kuSmLwvMpzdFEOEZsrCrlT1v9qyONtaucXaHoMEDgy3yQwId4eWX1tIYGs5TTojNvN4okbysOpNrPDMcCwEAVxRNUduoCp0IPxhsoZgZ1vPwipCcfPoZFr0tQdQnMb8au1hx83UxscTXGDkHexx2+CdO0a1vTsAJ1U3uTq0eMcYfmJ8YsdScV3SbKyR1C1nIJpkHjGjmWw0d2gqecbXrEcFrKe+E7ofMqd3odRqZSaK0ZxG18zG3ZyqznL1WeEwzycBUKebv5pKYrDznSu0akcSYmf8ZmYydV3mfVymxm210oL1y6c4OvNEbtPoU1F2dGekcObqaZ2Vxfx4ayc41IVJ2BOzrqHWegZbozuaUGaBaMaDreeoGSaOaV3u2+YC2C2aa52PlStWYKFgpBcpqofBY3tIdsxxdeYObhd8YReU2Z1ZzVy5wTCDKxfXlxcfoiefsJcwxeZhbJZIHhY+duy+ZpbOY10ufkrhVzMBdLWZfCbBa2fZcbU5c8ZMYSXeYdzWNaaxDkA6dTHd1Bc2cjO2ZTzZSVR7sSYrS7jJnVcPVBMEW1djyKZcfXqeZDWtVJcHPbBVZzzD0WeIi6KEJdd6fAv6eKmvVj32bdZBRHW+gtZ-I9h9a6j9a6Q2e9uoeDcNaLVdbfO8fJdqYdzzwL3kt6Hsn32Rp0fqtgYB1odumQaZtNejUEhhGjaSragUKLdLwDYefa0rcOmrYYbGazZ5YpcX1b3b2gGxvDyJqPUBhi1DOn1LappTYNfcfQQIgzdiuaHeaX1mrXw3wEC33sOtcbUEf-PBlqpZZlf1aIc3LKi+MLK5fDaScHdgO+e7zVqqrWpIVifudsqDaHGib2s-ZaogO5d5afYQKQJQPVdNIAuwzjC+Ioc2z1dcaHF7zTFg+FtA2ueA8HfoMYMVstaJvSKfmGYCLnfxdlbajAdBmI9XamvXezZSekLIEydrULbzkceTA+IOvtb6cefkJAM4-0IothYHdqeMAoEIG11hQ6QmHQU2K-b0eT1J1Q5IfyDk5asw9U9KLVXeceLiPsP2ux0Eb8LqBI+48Dd4+Vi6MWGM-MBI7Dczeqfo6WPCMiMaJc7iISKSK83D1NPnu8LXi+JyPk4arlQJNs0C89sVdbj+swR0+WNc905aJjvaKVofPnttbRk7oWylYQ+TYJYo8eXzOLiy96tXZi9Mac7MPi487VZjeaXmF73hVBPyBpmC-LeJyBMEea8yTidAyqbo5E5ScS-iK9fVfVAfNpLTG6++NPelcQ8de2k68+KuN66cz7cc8G+BFhOPqRICcteTUUIxPJqbt1by-I5RDC-vu7pQfvfeY+ipKVvmHeI0ZU4MAOLPfm5-aIYEJe-QXSRo7O37d5aTK9IlKVpzLq1ufBhy-jzO4vadZJxjL2ZNdu8q5B-1J9KNLjsCbzgxNUrM47aDV2rRh0pR4c4G+B91NB59IzLq9wkUFdxDNlKywJ+-Ys720R4LKpzJ7XfdbR6p4x9TPTJ+ZY4sGnSK9lNm9y+Kfh-kQQdDNW7B2E95YPJF88QxxrqqqAVs0fJO7xdZYXZsnvN14B7mIp8HdV+U3HMnIQwYsWfjFYyhrXhN-bbZ43ON6vLvfJ7582-wEt6PJPMWcHnSKd++Bd9I4N-y+2g9+PGu5rdR998-OY9-L1SPW5pCeGal9h5l6Q+ugkc40z+MaA4T95Yvrmy41WsEeL7kiTZz4W4iTpuEvQ7I2r954vFL5t9Z1YHooWbG5VsETPh+sFAWyz-Urh9z4R+gv4tvcVdb-K+Vcq4vtU0Hrxog7p7agfN72qq-zYvg+z4da+8n9YtJ5LVb9o59479Qv8xMrX6bbQ0h8cqQatNO7r8P5RGJ6TSf-ftvw0+9-b8Ha8qS0ucHUIEuxyfJhNpeB-dnsmHvIbUou63c3rUwSqF5MKAjYlhAP348d2sf7cnM3yV5YckBxVK3mVWdydQHGDWOAazwU6slYBeA8on-wfaEDDQ-mLqjzi5xwoBCaVXHFx1r5QDsBtAg6vZzb6MCUmXDBamryIIpR9UXAoCoX1d7UDicXbDjnINn679AeG3XliDQuotN1+KINEPqmWwdI5AWXEZvIJC6vVUod1Ewcj1P78VZi2nSrhjWBpjtFm3REmtO05I8CX+fAxqpfk8GCcbuDA95k4KxqANcaDAfGroMJojguoXXXmrwKwHdkSKr3CqDz3P7-9ambNDmosw6iV8aqbXSJgMyXZ0DpiQQyrkXQECW1S6ZATzgrSrqa9NQKyLcobWXpUDzBAOIEtOzYrTBTeDg33hUKqFR0ah8tCAHbRwAO0IATtGencicpa8me0mWMhH3PYT9o+pOeYeDG56BDhB7zAYSXSGHfRku2PS1hjiBKGplyXJVoQkPM7u93G0mHoV722HlCw6xdGWnLXLrjDK6izOFEtkjzND8g9wpYZ92gFXtvgdw7emkPUGICUmP9VhuPXYa087+QmJ8B0yCaVJLh3gxITlUhalpwRWw9ISIOBAwi-6bDSeoAzL7yU9U9kQRm-VH6r1rhQaJQTSN6Htx3mRIrBnCNJEsDgGizXaNOhg4ls2h7XKvLa0b6uUShkJMob7zZH-14RuDOauILfzpI2kR3DAWP1f7QDGRDNZkbF0q7SiSRHDZfHgwVHesYhwTSarSJEZu9fBxQwQRCLN4X9B2cjWSooz4DKMrqTvb2BLx-ymcrhhPOVGcXWH+FtRX8FvIKRRxoMdBiI-bEpywKyd0R+vZYfXw57Ts66godUMY1TGqdIRzeOgGGObyqB4M4eEBMp1+DpizBQoooc8wyiZjYwuIn-rJ2zFDs8x+ASoceT4Dl8DBJYtMfGI+7j8kxJOKsaQTjEZiGx9opsQwGBDoAogHOVEgITIFDjSxPYubn2Lf4N9NAsYxcSONLGNjQxE4p1JEKjHJhfhMY6scOPLGFC3Gg42MGeMVY1jxgO43MXuMmy7jZKt-Z2s2wm4niFx3YgoWywR4pibxulO8RMDHEvjgQjAYwE0ELzFiNxP488X+Ll5YhYJqnOsS5WAkPjmxqgUgIKXKpB9OxyE2sb+MN7-iCJ4wVCfE3QljijybQAQPgDmqxB0A2NdfIKSOFRDYwKaIHMXHBhESo+a4znlxIxjGM9QWgKiXABon4A4AAAKzgDRAmJCAFidSTnGgxuJ8E4iYhLGIqTFWwkscbWQQDRAzC4ndgPQVkqySsAdAPgOwECz0FogneCQc0kUDMVKqpBaTPch4nnc+JqHFyeqTQleSdJDBfScNzFJ0BES7AFgLYFwnHCSG3sDRiXkFAOQ3JsvITJflin5B4pLVGPKlMbG6T9J+ohgEZIYLTkPob46YdtHjBbEQyx4-IIoASkrDRglHDKJVJQDVSWqumFrrkTqjZT8AuUiAPlL0nmTRyskg8e+O2hpEkwoTXwp3XkDvdlx6o7AUemcKTTBK8TVqZknan2xOpgAzTOwDoDI5PMeHNidk3jDxtcQXxKYNNMgGYjXqQJffKdKWl9cEBwITqfJLsCy1kCoU6SnQAikHTCEC2LqPChSmHwap-Yo9EVwBkGpjGGUzQFlP8n4Bnp30AQMFI4BhTPp7AhCtFMWBgy0pgIlcdAJwGHxfgWM3SpDK8R+S9JsM7GtoO2m7SmC47YmmsI5JfFUwQM1cRzym6My7OtqabkzI6kwzmAFhOgINkYowpScGM2To9QTFAibhoo4ma5PU6+SeZZMvmegAFlr4nRiAcPA5Mm5YFfJqk3iazO1mljvJFE+WfbDVnthgpH0eDOwCojUkzSMgGdFUHsapSRJus9yZkh8KOycC2gDMSbM3hmyiAFsuAFbJODsDWkVVDRkuWdnMzoBVnL-BTm9lyzDZY4-2Th0qxMEIxXOFZFJGTRYFLSr4aOcRUvyvhSxmwn-nnJMx1QU5DBNOaoEXwFj2xStDiaTiK7Fy0xLPX0VaKxESNW5qnUuWhPLnJz5GwIVOXtJbGyVEirxDpi3IHmuzEp+s6sTPNvEDzK5Q8-ACPPTlTiIAM4pWgZxkDTyS5Bc60aKJ7mxg+5FE5eabNXnrza5r4yUmQMET7y25h8rucfMXlASL5fsq+dXNHkQSoJrgzjp6NzkHzZ5tU+eaQTfm2oT54wCuZfNkrDzv56crCSQBwnsC3qsYR+b3OfmpZu5ECigh-K-j+z7uW08yfHTvoGIOkKtf4edMwH0i5UF+TEC9yf7-cHh6QwhVTz-r0SqMLgvvqTVJx+IqgNnK-FgoBxkL5egig-MGLURsLPSf9KSTJO4XfTQGjyIzjgSmB69exs0rwkoKTr5A1Fki4FP7NHI4BGADAeIkvjAD3ZZJmc9UI8nhT3JSxPojEbQuwWCIDZaYjmRQV9kELV5RikxRAHiJwA28OAfaYeLOkgIMZeoWWdjM0X+jkpkSo2Rhy8VSLV5O0qwkwVzzUBIxw0lUFqA6ZNdO6KUYRVpQkYrTvi5E0DKUsKUry4FsMuADRnMWWLvo0QWwJPR6rEFPRgjDxoKIvGLtRRHjIQawtXnuB6l5kixSKW+j1tiphDZthMFvpV8BRHchQcKKUG-TbReIxsf7OGU5i+AYy2Sevi+a0yj0EwJnugimlFLxG3sReoKDOUsKNlQyupdst2XfRh6EABuft13nnEGpRcG5dEp8H+jWMC8Kab8B+UDK7lNSrZbQEHor52AzSugK0vkoH57IYA+IU4r9EuL5e-Su0dUoIAQrpCKOCZbFH3Z8idCCy1FZ3PzTa98+JbUFYPPBUPLIV+K-ZUiy5wO82kTQmKj8u6UIS+JlKxxCCqxWwKcV9KvFdCpeVvKDp3UYTKTmPZfLgV1CtUX8opUArFgQK65XdLW6f1Nl9K9wEvg4Cwr4VlrIDphmUpdLFl7Q4pX0vGo0rsVwICFTqvMkcBJlLKvxL4mwyrKoGEsnGRuRWXUqBVn8ulTRntWR1mcIDJuY0OIynL5VdItFQjXGBXKqp6q-AeGy1WBqZJDqxRq8p84yrBEMqqoKqoTXnLTiyq2VWqv0UBh-ZZssenAAHpwAvpoStRZxPsVpjxZGixVbGs8lJzE5za-4EUHgD2AJABwbQSgBAAOBPMCATIOwBgDwFIwKgToDAAcDDqAASgAHEAAQgAEFFsi2EAHSDIwY5W48gZbA0BskfRh1fQeQCAH+BAA"));
     })()
 
 /***/ }),
@@ -45433,7 +45517,7 @@ class HUDDebugInfo extends _base_hud_part__WEBPACK_IMPORTED_MODULE_0__["BaseHUDP
      */
     onModeChanged(mode) {
         this.element.setAttribute("data-mode", mode);
-        this.versionElement.innerText = `${"1.2.2"} @ ${"dev"} @ ${"5def6b85"}`;
+        this.versionElement.innerText = `${"1.2.2"} @ ${"dev"} @ ${"752a911f"}`;
     }
 
     /**
@@ -58403,6 +58487,7 @@ class HyperlinkEjectorSystem extends _game_system_with_filter__WEBPACK_IMPORTED_
                 if ( true && _core_config__WEBPACK_IMPORTED_MODULE_0__["globalConfig"].debug.disableEjectorProcessing) {
                     sourceSlot.progress = 1.0;
                 }
+                
             
                 // Check if we are still in the process of ejecting, can't proceed then
                 if (sourceSlot.progress < 1.0) {
@@ -63276,8 +63361,8 @@ if (window.coreThreadLoadedCb) {
 // }
 
 console.log(
-    `%cshapez.io ️%c\n© 2020 Tobias Springer IT Solutions\nCommit %c${"5def6b85"}%c on %c${new Date(
-        1608844926673
+    `%cshapez.io ️%c\n© 2020 Tobias Springer IT Solutions\nCommit %c${"752a911f"}%c on %c${new Date(
+        1608847635154
     ).toLocaleString()}\n`,
     "font-size: 35px; font-family: Arial;font-weight: bold; padding: 10px 0;",
     "color: #aaa",
@@ -72078,7 +72163,7 @@ class PreloadState extends _core_game_state__WEBPACK_IMPORTED_MODULE_3__["GameSt
 
                     <div class="lower">
                         <button class="resetApp styledButton">Reset App</button>
-                        <i>Build ${"1.2.2"} @ ${"5def6b85"}</i>
+                        <i>Build ${"1.2.2"} @ ${"752a911f"}</i>
                     </div>
                 </div>
         `;
@@ -72210,14 +72295,14 @@ class SettingsState extends _core_textual_game_state__WEBPACK_IMPORTED_MODULE_0_
 
     renderBuildText() {
         const labelVersion = this.htmlElement.querySelector(".buildVersion");
-        const lastBuildMs = new Date().getTime() - 1608844926673;
+        const lastBuildMs = new Date().getTime() - 1608847635154;
         const lastBuildText = Object(_core_utils__WEBPACK_IMPORTED_MODULE_1__["formatSecondsToTimeAgo"])(lastBuildMs / 1000.0);
 
         const version = _translations__WEBPACK_IMPORTED_MODULE_3__["T"].settings.versionBadges["dev"];
 
         labelVersion.innerHTML = `
             <span class='version'>
-                ${"1.2.2"} @ ${version} @ ${"5def6b85"}
+                ${"1.2.2"} @ ${version} @ ${"752a911f"}
             </span>
             <span class='buildTime'>
                 ${_translations__WEBPACK_IMPORTED_MODULE_3__["T"].settings.buildDate.replace("<at-date>", lastBuildText)}<br />
