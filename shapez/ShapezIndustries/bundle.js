@@ -15472,1421 +15472,1435 @@ filter: Nearest, Nearest
 repeat: none
 sprites/belt/built/forward_1
   rotate: false
-  xy: 250, 489
+  xy: 250, 490
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_10
   rotate: false
-  xy: 3605, 1328
+  xy: 741, 219
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_11
   rotate: false
-  xy: 3723, 1329
+  xy: 740, 73
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_12
   rotate: false
-  xy: 3756, 1607
+  xy: 3638, 1608
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_13
   rotate: false
-  xy: 3874, 1610
+  xy: 3605, 1329
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_2
   rotate: false
-  xy: 250, 343
+  xy: 250, 344
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_3
   rotate: false
-  xy: 368, 516
+  xy: 368, 517
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_4
   rotate: false
-  xy: 368, 370
+  xy: 368, 371
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_5
   rotate: false
-  xy: 373, 224
+  xy: 373, 225
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_6
   rotate: false
-  xy: 380, 78
+  xy: 380, 79
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_7
   rotate: false
-  xy: 751, 226
+  xy: 623, 228
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_8
   rotate: false
-  xy: 869, 226
+  xy: 622, 82
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_9
   rotate: false
-  xy: 3638, 1607
+  xy: 744, 365
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/left_1
   rotate: false
-  xy: 3342, 1485
+  xy: 3714, 1476
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_10
   rotate: false
-  xy: 847, 656
+  xy: 862, 248
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_11
   rotate: false
-  xy: 847, 524
+  xy: 859, 116
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_12
   rotate: false
-  xy: 944, 392
+  xy: 832, 1333
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_13
   rotate: false
-  xy: 987, 260
+  xy: 964, 1335
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_2
   rotate: false
-  xy: 3474, 1476
+  xy: 3723, 1344
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_3
   rotate: false
-  xy: 3473, 1344
+  xy: 3814, 1625
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_4
   rotate: false
-  xy: 3714, 1475
+  xy: 3846, 1493
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_5
   rotate: false
-  xy: 3846, 1475
+  xy: 3855, 1361
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_6
   rotate: false
-  xy: 3841, 1343
+  xy: 3855, 1229
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_7
   rotate: false
-  xy: 810, 920
+  xy: 3723, 1212
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_8
   rotate: false
-  xy: 3841, 1211
+  xy: 3855, 1097
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_9
   rotate: false
-  xy: 810, 788
+  xy: 862, 380
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/right_1
   rotate: false
-  xy: 987, 128
+  xy: 1096, 1334
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_10
   rotate: false
-  xy: 3468, 1212
+  xy: 2284, 1334
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_11
   rotate: false
-  xy: 3600, 1196
+  xy: 2416, 1334
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_12
   rotate: false
-  xy: 2612, 1234
+  xy: 2548, 1367
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_13
   rotate: false
-  xy: 2744, 1234
+  xy: 2680, 1367
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_2
   rotate: false
-  xy: 2480, 1477
+  xy: 1228, 1329
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_3
   rotate: false
-  xy: 2480, 1345
+  xy: 1360, 1329
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_4
   rotate: false
-  xy: 2612, 1366
+  xy: 1492, 1329
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_5
   rotate: false
-  xy: 2744, 1366
+  xy: 1624, 1328
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_6
   rotate: false
-  xy: 2876, 1317
+  xy: 1756, 1328
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_7
   rotate: false
-  xy: 3008, 1290
+  xy: 1888, 1328
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_8
   rotate: false
-  xy: 3140, 1267
+  xy: 2020, 1328
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_9
   rotate: false
-  xy: 3272, 1240
+  xy: 2152, 1334
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/blueprints/analyzer
   rotate: false
-  xy: 3543, 1895
+  xy: 3543, 1896
   size: 144, 144
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/blueprints/balancer
   rotate: false
-  xy: 3025, 1895
+  xy: 3025, 1896
   size: 257, 144
   orig: 288, 144
   offset: 17, 0
   index: -1
+sprites/blueprints/balancer-belt-crossover
+  rotate: false
+  xy: 715, 637
+  size: 124, 124
+  orig: 144, 144
+  offset: 13, 13
+  index: -1
 sprites/blueprints/balancer-merger
   rotate: false
-  xy: 1824, 1465
+  xy: 1824, 1466
   size: 139, 138
   orig: 144, 144
   offset: 5, 4
   index: -1
 sprites/blueprints/balancer-merger-inverse
   rotate: false
-  xy: 697, 1464
+  xy: 697, 1465
   size: 142, 138
   orig: 144, 144
   offset: 0, 4
   index: -1
 sprites/blueprints/balancer-merger-triple
   rotate: false
-  xy: 3766, 1756
+  xy: 3766, 1757
   size: 144, 137
   orig: 144, 144
   offset: 0, 5
   index: -1
 sprites/blueprints/balancer-splitter
   rotate: false
-  xy: 2348, 1609
+  xy: 2348, 1610
   size: 139, 138
   orig: 144, 144
   offset: 5, 4
   index: -1
 sprites/blueprints/balancer-splitter-inverse
   rotate: false
-  xy: 1133, 1465
+  xy: 1133, 1466
   size: 142, 138
   orig: 144, 144
   offset: 0, 4
   index: -1
 sprites/blueprints/balancer-splitter-triple
   rotate: false
-  xy: 841, 1466
+  xy: 841, 1467
   size: 144, 137
   orig: 144, 144
   offset: 0, 2
   index: -1
 sprites/blueprints/belt_left
   rotate: false
-  xy: 3345, 1617
+  xy: 3345, 1618
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/blueprints/belt_right
   rotate: false
-  xy: 680, 372
+  xy: 3474, 1477
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/blueprints/belt_top
   rotate: false
-  xy: 1706, 1459
+  xy: 1706, 1460
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/blueprints/comparator
   rotate: false
-  xy: 541, 1331
+  xy: 541, 1332
   size: 144, 133
   orig: 144, 144
   offset: 0, 11
   index: -1
 sprites/blueprints/constant_signal
   rotate: false
-  xy: 3606, 1474
+  xy: 3606, 1475
   size: 106, 130
   orig: 144, 144
   offset: 19, 14
   index: -1
 sprites/blueprints/cutter
   rotate: false
-  xy: 3284, 1895
+  xy: 3284, 1896
   size: 257, 144
   orig: 288, 144
   offset: 17, 0
   index: -1
 sprites/blueprints/cutter-laser
   rotate: false
-  xy: 841, 1605
+  xy: 841, 1606
   size: 279, 143
   orig: 288, 144
   offset: 9, 0
   index: -1
 sprites/blueprints/cutter-quad
   rotate: false
-  xy: 1, 1198
+  xy: 1, 1199
   size: 526, 144
   orig: 576, 144
   offset: 24, 0
   index: -1
 sprites/blueprints/display
   rotate: false
-  xy: 486, 373
+  xy: 486, 374
   size: 128, 136
   orig: 144, 144
   offset: 8, 0
   index: -1
 sprites/blueprints/filter
   rotate: false
-  xy: 1960, 1895
+  xy: 1960, 1896
   size: 268, 144
   orig: 288, 144
   offset: 16, 0
   index: -1
 sprites/blueprints/hyperlink
   rotate: false
-  xy: 616, 375
+  xy: 810, 917
   size: 62, 134
   orig: 144, 144
   offset: 41, 5
   index: -1
 sprites/blueprints/hyperlink-hyperlink_entrance
   rotate: false
-  xy: 291, 930
+  xy: 291, 931
   size: 138, 266
   orig: 144, 288
   offset: 3, 11
   index: -1
 sprites/blueprints/hyperlink-hyperlink_exit
   rotate: false
-  xy: 291, 662
+  xy: 291, 663
   size: 138, 266
   orig: 144, 288
   offset: 3, 11
   index: -1
 sprites/blueprints/hyperlink_left
   rotate: false
-  xy: 3973, 1137
+  xy: 2812, 1400
   size: 89, 99
   orig: 144, 144
   offset: 5, 5
   index: -1
 sprites/blueprints/hyperlink_right
   rotate: false
-  xy: 832, 1363
+  xy: 2903, 1349
   size: 89, 99
   orig: 144, 144
   offset: 50, 5
   index: -1
 sprites/blueprints/item_producer
   rotate: false
-  xy: 3477, 1608
+  xy: 3477, 1609
   size: 131, 142
   orig: 144, 144
   offset: 8, 2
   index: -1
 sprites/blueprints/lever
   rotate: false
-  xy: 3973, 1354
+  xy: 3978, 1509
   size: 100, 116
   orig: 144, 144
   offset: 22, 19
   index: -1
 sprites/blueprints/logic_gate
   rotate: false
-  xy: 569, 638
+  xy: 569, 639
   size: 144, 122
   orig: 144, 144
   offset: 0, 22
   index: -1
 sprites/blueprints/logic_gate-not
   rotate: false
-  xy: 248, 197
+  xy: 248, 198
   size: 123, 144
   orig: 144, 144
   offset: 11, 0
   index: -1
 sprites/blueprints/logic_gate-or
   rotate: false
-  xy: 2909, 1623
+  xy: 2909, 1624
   size: 144, 124
   orig: 144, 144
   offset: 0, 20
   index: -1
 sprites/blueprints/logic_gate-xor
   rotate: false
-  xy: 529, 1200
+  xy: 529, 1201
   size: 144, 129
   orig: 144, 144
   offset: 0, 15
   index: -1
 sprites/blueprints/miner
   rotate: false
-  xy: 671, 907
+  xy: 671, 908
   size: 137, 143
   orig: 144, 144
   offset: 4, 1
   index: -1
 sprites/blueprints/miner-chainable
   rotate: false
-  xy: 670, 762
+  xy: 670, 763
   size: 137, 143
   orig: 144, 144
   offset: 4, 1
   index: -1
 sprites/blueprints/miner-deep
   rotate: false
-  xy: 3188, 1749
+  xy: 3188, 1750
   size: 141, 144
   orig: 144, 144
   offset: 3, 0
   index: -1
 sprites/blueprints/mixer
   rotate: false
-  xy: 2499, 1895
+  xy: 2499, 1896
   size: 261, 144
   orig: 288, 144
   offset: 13, 0
   index: -1
 sprites/blueprints/painter
   rotate: false
-  xy: 1090, 1895
+  xy: 1090, 1896
   size: 288, 144
   orig: 288, 144
   offset: 0, 0
   index: -1
 sprites/blueprints/painter-double
   rotate: false
-  xy: 1, 916
+  xy: 1, 917
   size: 288, 280
   orig: 288, 288
   offset: 0, 8
   index: -1
 sprites/blueprints/painter-mirrored
   rotate: false
-  xy: 1380, 1895
+  xy: 1380, 1896
   size: 288, 144
   orig: 288, 144
   offset: 0, 0
   index: -1
 sprites/blueprints/painter-quad
   rotate: false
-  xy: 1, 1344
+  xy: 1, 1345
   size: 538, 144
   orig: 576, 144
   offset: 12, 0
   index: -1
 sprites/blueprints/reader
   rotate: false
-  xy: 3044, 1749
+  xy: 3044, 1750
   size: 142, 144
   orig: 144, 144
   offset: 1, 0
   index: -1
 sprites/blueprints/rotater
   rotate: false
-  xy: 2609, 1749
+  xy: 2609, 1750
   size: 143, 144
   orig: 144, 144
   offset: 1, 0
   index: -1
 sprites/blueprints/rotater-ccw
   rotate: false
-  xy: 2754, 1749
+  xy: 2754, 1750
   size: 143, 144
   orig: 144, 144
   offset: 1, 0
   index: -1
 sprites/blueprints/rotater-rotate180
   rotate: false
-  xy: 2899, 1749
+  xy: 2899, 1750
   size: 143, 144
   orig: 144, 144
   offset: 1, 0
   index: -1
 sprites/blueprints/stacker
   rotate: false
-  xy: 2762, 1895
+  xy: 2762, 1896
   size: 261, 144
   orig: 288, 144
   offset: 13, 0
   index: -1
 sprites/blueprints/storage
   rotate: false
-  xy: 1, 346
+  xy: 1, 347
   size: 247, 287
   orig: 288, 288
   offset: 21, 0
   index: -1
 sprites/blueprints/transistor
   rotate: false
-  xy: 3981, 1895
+  xy: 3981, 1896
   size: 102, 144
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/blueprints/transistor-mirrored
   rotate: false
-  xy: 569, 908
+  xy: 569, 909
   size: 100, 144
   orig: 144, 144
   offset: 44, 0
   index: -1
 sprites/blueprints/trash
   rotate: false
-  xy: 2171, 1749
+  xy: 2171, 1750
   size: 144, 144
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/blueprints/underground_belt_entry
   rotate: false
-  xy: 2630, 1498
+  xy: 2630, 1499
   size: 138, 112
   orig: 144, 144
   offset: 4, 0
   index: -1
 sprites/blueprints/underground_belt_entry-tier2
   rotate: false
-  xy: 546, 511
+  xy: 546, 512
   size: 138, 125
   orig: 144, 144
   offset: 4, 0
   index: -1
 sprites/blueprints/underground_belt_exit
   rotate: false
-  xy: 3055, 1422
+  xy: 3055, 1423
   size: 138, 112
   orig: 144, 144
   offset: 4, 32
   index: -1
 sprites/blueprints/underground_belt_exit-tier2
   rotate: false
-  xy: 3201, 1512
+  xy: 3201, 1513
   size: 139, 112
   orig: 144, 144
   offset: 4, 32
   index: -1
 sprites/blueprints/virtual_processor
   rotate: false
-  xy: 3474, 1752
+  xy: 3474, 1753
   size: 144, 141
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/blueprints/virtual_processor-painter
   rotate: false
-  xy: 2083, 1465
+  xy: 2083, 1466
   size: 131, 144
   orig: 144, 144
   offset: 13, 0
   index: -1
 sprites/blueprints/virtual_processor-rotater
   rotate: false
-  xy: 486, 520
+  xy: 486, 521
   size: 58, 144
   orig: 144, 144
   offset: 44, 0
   index: -1
 sprites/blueprints/virtual_processor-stacker
   rotate: false
-  xy: 248, 51
+  xy: 248, 52
   size: 130, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/blueprints/virtual_processor-unstacker
   rotate: false
-  xy: 2463, 1749
+  xy: 2463, 1750
   size: 144, 144
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/blueprints/wire_tunnel
   rotate: false
-  xy: 2630, 1612
+  xy: 2630, 1613
   size: 138, 135
   orig: 144, 144
   offset: 4, 5
   index: -1
 sprites/buildings/analyzer
   rotate: false
-  xy: 3689, 1895
+  xy: 3689, 1896
   size: 144, 144
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/buildings/balancer
   rotate: false
-  xy: 1621, 1750
+  xy: 1621, 1751
   size: 256, 143
   orig: 288, 144
   offset: 17, 1
   index: -1
+sprites/buildings/balancer-belt-crossover
+  rotate: false
+  xy: 825, 512
+  size: 123, 123
+  orig: 144, 144
+  offset: 13, 13
+  index: -1
 sprites/buildings/balancer-merger
   rotate: false
-  xy: 2207, 1611
+  xy: 2207, 1612
   size: 139, 136
   orig: 144, 144
   offset: 5, 5
   index: -1
 sprites/buildings/balancer-merger-inverse
   rotate: false
-  xy: 2064, 1611
+  xy: 2064, 1612
   size: 141, 136
   orig: 144, 144
   offset: 0, 5
   index: -1
 sprites/buildings/balancer-merger-triple
   rotate: false
-  xy: 551, 1466
+  xy: 551, 1467
   size: 144, 136
   orig: 144, 144
   offset: 0, 5
   index: -1
 sprites/buildings/balancer-splitter
   rotate: false
-  xy: 2489, 1611
+  xy: 2489, 1612
   size: 139, 136
   orig: 144, 144
   offset: 5, 5
   index: -1
 sprites/buildings/balancer-splitter-inverse
   rotate: false
-  xy: 3912, 1757
+  xy: 3912, 1758
   size: 142, 136
   orig: 144, 144
   offset: 0, 5
   index: -1
 sprites/buildings/balancer-splitter-triple
   rotate: false
-  xy: 987, 1467
+  xy: 987, 1468
   size: 144, 136
   orig: 144, 144
   offset: 0, 2
   index: -1
 sprites/buildings/belt_left
   rotate: false
-  xy: 715, 630
+  xy: 3342, 1486
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_0
   rotate: false
-  xy: 715, 630
+  xy: 3342, 1486
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/buildings/belt_right
   rotate: false
-  xy: 812, 372
+  xy: 3473, 1345
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_0
   rotate: false
-  xy: 812, 372
+  xy: 3473, 1345
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/buildings/belt_top
   rotate: false
-  xy: 1965, 1459
+  xy: 1965, 1460
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_0
   rotate: false
-  xy: 1965, 1459
+  xy: 1965, 1460
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/buildings/comparator
   rotate: false
-  xy: 687, 1329
+  xy: 687, 1330
   size: 143, 133
   orig: 144, 144
   offset: 1, 11
   index: -1
 sprites/buildings/constant_signal
   rotate: false
-  xy: 3978, 1472
+  xy: 3946, 1627
   size: 104, 129
   orig: 144, 144
   offset: 20, 15
   index: -1
 sprites/buildings/cutter
   rotate: false
-  xy: 1384, 1605
+  xy: 1384, 1606
   size: 256, 143
   orig: 288, 144
   offset: 17, 1
   index: -1
 sprites/buildings/cutter-laser
   rotate: false
-  xy: 1077, 1750
+  xy: 1077, 1751
   size: 280, 143
   orig: 288, 144
   offset: 8, 0
   index: -1
 sprites/buildings/cutter-quad
   rotate: false
-  xy: 551, 1750
+  xy: 551, 1751
   size: 524, 143
   orig: 576, 144
   offset: 25, 1
   index: -1
 sprites/buildings/display
   rotate: false
-  xy: 623, 235
+  xy: 616, 374
   size: 126, 135
   orig: 144, 144
   offset: 9, 0
   index: -1
 sprites/buildings/filter
   rotate: false
-  xy: 2230, 1895
+  xy: 2230, 1896
   size: 267, 144
   orig: 288, 144
   offset: 17, 0
   index: -1
 sprites/buildings/hub
   rotate: false
-  xy: 1, 1490
+  xy: 1, 1491
   size: 548, 549
   orig: 576, 576
   offset: 14, 11
   index: -1
 sprites/buildings/hyperlink
   rotate: false
-  xy: 3992, 1621
+  xy: 2480, 1474
   size: 62, 134
   orig: 144, 144
   offset: 41, 5
   index: -1
 sprites/buildings/hyperlink-hyperlink_entrance
   rotate: false
-  xy: 431, 932
+  xy: 431, 933
   size: 136, 264
   orig: 144, 288
   offset: 4, 12
   index: -1
 sprites/buildings/hyperlink-hyperlink_exit
   rotate: false
-  xy: 431, 666
+  xy: 431, 667
   size: 136, 264
   orig: 144, 288
   offset: 4, 12
   index: -1
 sprites/buildings/hyperlink_left
   rotate: false
-  xy: 820, 1228
+  xy: 858, 15
   size: 88, 99
   orig: 144, 144
   offset: 5, 5
   index: -1
 sprites/buildings/hyperlink_right
   rotate: false
-  xy: 923, 1365
+  xy: 948, 15
   size: 88, 99
   orig: 144, 144
   offset: 51, 5
   index: -1
 sprites/buildings/item_producer
   rotate: false
-  xy: 2348, 1465
+  xy: 2348, 1466
   size: 130, 142
   orig: 144, 144
   offset: 8, 2
   index: -1
 sprites/buildings/lever
   rotate: false
-  xy: 3732, 1213
+  xy: 3987, 1393
   size: 98, 114
   orig: 144, 144
   offset: 23, 20
   index: -1
 sprites/buildings/logic_gate
   rotate: false
-  xy: 3200, 1626
+  xy: 3200, 1627
   size: 143, 121
   orig: 144, 144
   offset: 1, 23
   index: -1
 sprites/buildings/logic_gate-not
   rotate: false
-  xy: 498, 81
+  xy: 498, 82
   size: 122, 144
   orig: 144, 144
   offset: 12, 0
   index: -1
 sprites/buildings/logic_gate-or
   rotate: false
-  xy: 3055, 1623
+  xy: 3055, 1624
   size: 143, 124
   orig: 144, 144
   offset: 1, 20
   index: -1
 sprites/buildings/logic_gate-xor
   rotate: false
-  xy: 675, 1198
+  xy: 675, 1199
   size: 143, 129
   orig: 144, 144
   offset: 1, 15
   index: -1
 sprites/buildings/miner
   rotate: false
-  xy: 1788, 1605
+  xy: 1788, 1606
   size: 136, 142
   orig: 144, 144
   offset: 5, 2
   index: -1
 sprites/buildings/miner-chainable
   rotate: false
-  xy: 1926, 1605
+  xy: 1926, 1606
   size: 136, 142
   orig: 144, 144
   offset: 5, 2
   index: -1
 sprites/buildings/miner-deep
   rotate: false
-  xy: 671, 1052
+  xy: 671, 1053
   size: 140, 144
   orig: 144, 144
   offset: 4, 0
   index: -1
 sprites/buildings/mixer
   rotate: false
-  xy: 1359, 1750
+  xy: 1359, 1751
   size: 260, 143
   orig: 288, 144
   offset: 14, 1
   index: -1
 sprites/buildings/painter
   rotate: false
-  xy: 551, 1604
+  xy: 551, 1605
   size: 288, 144
   orig: 288, 144
   offset: 0, 0
   index: -1
 sprites/buildings/painter-double
   rotate: false
-  xy: 1, 635
+  xy: 1, 636
   size: 288, 279
   orig: 288, 288
   offset: 0, 9
   index: -1
 sprites/buildings/painter-mirrored
   rotate: false
-  xy: 1670, 1895
+  xy: 1670, 1896
   size: 288, 144
   orig: 288, 144
   offset: 0, 0
   index: -1
 sprites/buildings/painter-quad
   rotate: false
-  xy: 551, 1895
+  xy: 551, 1896
   size: 537, 144
   orig: 576, 144
   offset: 13, 0
   index: -1
 sprites/buildings/reader
   rotate: false
-  xy: 3331, 1749
+  xy: 3331, 1750
   size: 141, 144
   orig: 144, 144
   offset: 2, 0
   index: -1
 sprites/buildings/rotater
   rotate: false
-  xy: 1277, 1460
+  xy: 1277, 1461
   size: 141, 143
   orig: 144, 144
   offset: 2, 1
   index: -1
 sprites/buildings/rotater-ccw
   rotate: false
-  xy: 1420, 1460
+  xy: 1420, 1461
   size: 141, 143
   orig: 144, 144
   offset: 2, 1
   index: -1
 sprites/buildings/rotater-rotate180
   rotate: false
-  xy: 1563, 1460
+  xy: 1563, 1461
   size: 141, 143
   orig: 144, 144
   offset: 2, 1
   index: -1
 sprites/buildings/stacker
   rotate: false
-  xy: 1122, 1605
+  xy: 1122, 1606
   size: 260, 143
   orig: 288, 144
   offset: 14, 1
   index: -1
 sprites/buildings/storage
   rotate: false
-  xy: 1, 58
+  xy: 1, 59
   size: 245, 286
   orig: 288, 288
   offset: 22, 0
   index: -1
 sprites/buildings/transistor
   rotate: false
-  xy: 569, 1054
+  xy: 569, 1055
   size: 100, 144
   orig: 144, 144
   offset: 1, 0
   index: -1
 sprites/buildings/transistor-mirrored
   rotate: false
-  xy: 569, 762
+  xy: 569, 763
   size: 99, 144
   orig: 144, 144
   offset: 45, 0
   index: -1
 sprites/buildings/trash
   rotate: false
-  xy: 2317, 1749
+  xy: 2317, 1750
   size: 144, 144
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/buildings/underground_belt_entry
   rotate: false
-  xy: 2770, 1500
+  xy: 2770, 1501
   size: 137, 111
   orig: 144, 144
   offset: 5, 0
   index: -1
 sprites/buildings/underground_belt_entry-tier2
   rotate: false
-  xy: 686, 504
+  xy: 686, 511
   size: 137, 124
   orig: 144, 144
   offset: 5, 0
   index: -1
 sprites/buildings/underground_belt_exit
   rotate: false
-  xy: 3195, 1399
+  xy: 3195, 1400
   size: 137, 111
   orig: 144, 144
   offset: 5, 33
   index: -1
 sprites/buildings/underground_belt_exit-tier2
   rotate: false
-  xy: 3334, 1372
+  xy: 3334, 1373
   size: 137, 111
   orig: 144, 144
   offset: 5, 33
   index: -1
 sprites/buildings/virtual_processor
   rotate: false
-  xy: 3620, 1753
+  xy: 3620, 1754
   size: 144, 140
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/buildings/virtual_processor-painter
   rotate: false
-  xy: 2216, 1465
+  xy: 2216, 1466
   size: 130, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/buildings/virtual_processor-rotater
   rotate: false
-  xy: 813, 1052
+  xy: 3756, 1608
   size: 56, 144
   orig: 144, 144
   offset: 45, 0
   index: -1
 sprites/buildings/virtual_processor-stacker
   rotate: false
-  xy: 491, 227
+  xy: 491, 228
   size: 130, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/buildings/virtual_processor-unstacker
   rotate: false
-  xy: 1642, 1605
+  xy: 1642, 1606
   size: 144, 143
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/buildings/wire_tunnel
   rotate: false
-  xy: 2770, 1613
+  xy: 2770, 1614
   size: 137, 134
   orig: 144, 144
   offset: 5, 5
   index: -1
 sprites/colors/blue
   rotate: false
-  xy: 3080, 1239
+  xy: 2994, 1399
   size: 54, 49
   orig: 54, 54
   offset: 0, 1
   index: -1
 sprites/colors/cyan
   rotate: false
-  xy: 1483, 1409
+  xy: 2994, 1348
   size: 54, 49
   orig: 54, 54
   offset: 0, 1
   index: -1
 sprites/colors/green
   rotate: false
-  xy: 1539, 1409
+  xy: 92, 8
   size: 54, 49
   orig: 54, 54
   offset: 0, 1
   index: -1
 sprites/colors/purple
   rotate: false
-  xy: 1595, 1409
+  xy: 148, 8
   size: 54, 49
   orig: 54, 54
   offset: 0, 1
   index: -1
 sprites/colors/red
   rotate: false
-  xy: 92, 7
+  xy: 247, 1
   size: 54, 49
   orig: 54, 54
   offset: 0, 1
   index: -1
 sprites/colors/uncolored
   rotate: false
-  xy: 148, 7
+  xy: 303, 1
   size: 54, 49
   orig: 54, 54
   offset: 0, 1
   index: -1
 sprites/colors/white
   rotate: false
-  xy: 1701, 1408
+  xy: 2809, 1266
   size: 54, 49
   orig: 54, 54
   offset: 0, 1
   index: -1
 sprites/colors/yellow
   rotate: false
-  xy: 1757, 1408
+  xy: 3179, 1349
   size: 54, 49
   orig: 54, 54
   offset: 0, 1
   index: -1
 sprites/debug/acceptor_slot
   rotate: false
-  xy: 291, 648
+  xy: 291, 649
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 sprites/debug/ejector_slot
   rotate: false
-  xy: 546, 652
+  xy: 546, 653
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 sprites/misc/hub_direction_indicator
   rotate: false
-  xy: 1651, 1410
+  xy: 3235, 1350
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/misc/hyperlink_good_arrow
   rotate: false
-  xy: 3234, 1226
+  xy: 4052, 1659
   size: 35, 39
   orig: 39, 39
   offset: 2, 0
   index: -1
 sprites/misc/processor_disabled
   rotate: false
-  xy: 1274, 1377
+  xy: 2812, 1317
   size: 78, 81
   orig: 96, 96
   offset: 10, 5
   index: -1
 sprites/misc/processor_disconnected
   rotate: false
-  xy: 1354, 1374
+  xy: 3050, 1337
   size: 65, 84
   orig: 96, 96
   offset: 17, 4
   index: -1
 sprites/misc/reader_overlay
   rotate: false
-  xy: 2974, 1218
+  xy: 3987, 1205
   size: 104, 70
   orig: 144, 144
   offset: 20, 36
   index: -1
 sprites/misc/slot_bad_arrow
   rotate: false
-  xy: 1618, 1372
+  xy: 3514, 1308
   size: 35, 35
   orig: 39, 39
   offset: 2, 2
   index: -1
 sprites/misc/slot_good_arrow
   rotate: false
-  xy: 1581, 1368
+  xy: 3432, 1332
   size: 35, 39
   orig: 39, 39
   offset: 2, 0
   index: -1
 sprites/misc/storage_overlay
   rotate: false
-  xy: 1, 12
+  xy: 1, 13
   size: 89, 44
   orig: 90, 45
   offset: 1, 0
   index: -1
 sprites/misc/waypoint
   rotate: false
-  xy: 347, 1
+  xy: 4052, 1700
   size: 38, 48
   orig: 48, 48
   offset: 5, 0
   index: -1
 sprites/misc/waypoint_wires
   rotate: false
-  xy: 247, 1
+  xy: 380, 29
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/wires/boolean_false
   rotate: false
-  xy: 2876, 1457
+  xy: 3481, 1302
   size: 31, 41
   orig: 48, 48
   offset: 9, 2
   index: -1
 sprites/wires/boolean_true
   rotate: false
-  xy: 1655, 1367
+  xy: 480, 36
   size: 22, 41
   orig: 48, 48
   offset: 11, 2
   index: -1
 sprites/wires/display/blue
   rotate: false
-  xy: 3404, 1215
+  xy: 3285, 1351
   size: 47, 47
   orig: 49, 49
   offset: 1, 1
   index: -1
 sprites/wires/display/cyan
   rotate: false
-  xy: 3136, 1218
+  xy: 2865, 1268
   size: 47, 47
   orig: 49, 49
   offset: 1, 1
   index: -1
 sprites/wires/display/green
   rotate: false
-  xy: 3185, 1218
+  xy: 3334, 1324
   size: 47, 47
   orig: 49, 49
   offset: 1, 1
   index: -1
 sprites/wires/display/purple
   rotate: false
-  xy: 387, 29
+  xy: 3383, 1324
   size: 47, 47
   orig: 49, 49
   offset: 1, 1
   index: -1
 sprites/wires/display/red
   rotate: false
-  xy: 436, 29
+  xy: 3334, 1275
   size: 47, 47
   orig: 49, 49
   offset: 1, 1
   index: -1
 sprites/wires/display/white
   rotate: false
-  xy: 1483, 1360
+  xy: 3383, 1275
   size: 47, 47
   orig: 49, 49
   offset: 1, 1
   index: -1
 sprites/wires/display/yellow
   rotate: false
-  xy: 1532, 1360
+  xy: 3432, 1283
   size: 47, 47
   orig: 49, 49
   offset: 1, 1
   index: -1
 sprites/wires/lever_on
   rotate: false
-  xy: 3973, 1238
+  xy: 3987, 1277
   size: 102, 114
   orig: 144, 144
   offset: 21, 20
   index: -1
 sprites/wires/logical_acceptor
   rotate: false
-  xy: 3404, 1264
+  xy: 2544, 1504
   size: 62, 106
   orig: 144, 144
   offset: 43, 38
   index: -1
 sprites/wires/logical_ejector
   rotate: false
-  xy: 1421, 1391
+  xy: 3117, 1354
   size: 60, 67
   orig: 144, 144
   offset: 44, 77
   index: -1
 sprites/wires/network_conflict
   rotate: false
-  xy: 3080, 1193
+  xy: 3285, 1305
   size: 47, 44
   orig: 48, 48
   offset: 1, 2
   index: -1
 sprites/wires/network_empty
   rotate: false
-  xy: 204, 8
+  xy: 204, 9
   size: 41, 48
   orig: 48, 48
   offset: 5, 0
   index: -1
 sprites/wires/overlay_tile
   rotate: false
-  xy: 2876, 1219
+  xy: 3987, 1107
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/wires/sets/conflict_cross
   rotate: false
-  xy: 3835, 1895
+  xy: 3835, 1896
   size: 144, 144
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/wires/sets/conflict_forward
   rotate: false
-  xy: 4056, 1749
+  xy: 4056, 1750
   size: 26, 144
   orig: 144, 144
   offset: 59, 0
   index: -1
 sprites/wires/sets/conflict_split
   rotate: false
-  xy: 2909, 1536
+  xy: 2909, 1537
   size: 144, 85
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/wires/sets/conflict_turn
   rotate: false
-  xy: 1013, 1380
+  xy: 2548, 1280
   size: 85, 85
   orig: 144, 144
   offset: 59, 0
   index: -1
 sprites/wires/sets/first_cross
   rotate: false
-  xy: 1879, 1749
+  xy: 1879, 1750
   size: 144, 144
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/wires/sets/first_forward
   rotate: false
-  xy: 3610, 1606
+  xy: 3610, 1607
   size: 26, 144
   orig: 144, 144
   offset: 59, 0
   index: -1
 sprites/wires/sets/first_split
   rotate: false
-  xy: 3055, 1536
+  xy: 3055, 1537
   size: 144, 85
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/wires/sets/first_turn
   rotate: false
-  xy: 1100, 1378
+  xy: 2635, 1280
   size: 85, 85
   orig: 144, 144
   offset: 59, 0
   index: -1
 sprites/wires/sets/second_cross
   rotate: false
-  xy: 2025, 1749
+  xy: 2025, 1750
   size: 144, 144
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/wires/sets/second_forward
   rotate: false
-  xy: 4056, 1603
+  xy: 813, 1053
   size: 26, 144
   orig: 144, 144
   offset: 59, 0
   index: -1
 sprites/wires/sets/second_split
   rotate: false
-  xy: 2909, 1449
+  xy: 2909, 1450
   size: 144, 85
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/wires/sets/second_turn
   rotate: false
-  xy: 1187, 1378
+  xy: 2722, 1280
   size: 85, 85
   orig: 144, 144
   offset: 59, 0
   index: -1
 sprites/wires/wires_preview
   rotate: false
-  xy: 297, 1
+  xy: 430, 29
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
@@ -16903,7 +16917,7 @@ sprites/wires/wires_preview
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = (function() {
-        return JSON.parse(__webpack_require__(/*! global-compression */ "./src/js/core/lzstring.js").decompressX64("N4IgZgTghgtgpgZxALlAgDhAlgF0QegCM4AbHIgVyzPzAHsIB3KCAEwH0BGAOnQDsA5ilCRYcYSAAeKAEwBWAAwAaEAE8UAFgAcAThWMUnTgDYVAC0MaNAXxUQ6OKHlYowUEgjgqc2GPBfIPhReIBjYeADKdBQQAMZwEVgAXuKoUpYq6sjKIAbIRqYgFvlWtqHRcQnJqaB5nFbmljZlYbgExDSEVDT0TCwcnAq8ghKi8BLSyADMxgpymYZTMlr6hiaNJTZ2Dk5wAW4eIT5YfnsoQSGtkRXxiSkTGWooOXXrRU0tN1X3aXUN75trC1MG0EERSOQutRyL1mGwuDx+EI0mMaulpgB2GRTBb5JZ6XJrQrFepbED2RzOVzuTzeXz+c4QYIqK4JL53NGTeq4l5Ejakz4xW7VCR-DT80rA8LtCGUaG0BhwgYyYbIkTQcZpSZTDFyQpZEwKDGrfJvEmlbaUs7IA60kDHU4BC4skHXIXfTmPLK803Ej4s9ki35NCXNF3SsEdSHdGGK-pcKaq0Yaz3TLQY8VPfLGQYmgqhsoU3b7GlHenW52hV1s90ch4lHl5s3+8q1oO1EMAgVS0HgzoxhV9eEqpHJsT1+Q5LJTDQ4wm+guW4vUw50k4MwJMy7VqJtn6gLmZ71Nv2AgN7tFigs9vCR2VQnpx+GJ0colP1mYrLNyN6vU8CpcqRtUs10dRlmSraVd0qOstS9Z4T0XVsYPbedSWvcNeyjOVHyHDgNCTN9xzg6ZjC-acMR9fMuwtckdiA20y3XCst0wt0UP3dFuSzKjmzPZDhU4q8aLDSCsPvAdYXjORCPVYiDxQHU5yyGQZEzP8kKLBiQPtcsnVYsT2ME1NuOPNC+IAgSPVFTtzVE1k737eUpPhYxZPAd8SKmLQpxQDEvw0kTC3o61GNAjdK1ZaDjPrUyEPM-9aIQQMhNsj4bxlJzcKVdgMXc1F611ThcVUwpArs4KrRLVddOY-SIKilKTKPeLypbZKLxszYMMMzLo2cp8OC0fLPIU5AtGMAkVJkMq+SCwDQp0h0IoMxrOpIuLskQ+arNgjtuqCjLHP67L4x0Eb5PRGZvNxQ1jQSzSQuqu1lpYhqdya2KWq2h6do6jjLzSwEjr7E7yBIOAwBwLgLs1MaphnGRbu0eY0KmHISXRyrl2AmrXvq7coM+kjfIbNGMcWBRBQBrr0MOti+pw8HIehwZYdTLQNHurJjD1PN0f5LGFuepiwM3d6ifWsbSe4uoBa7IXdtQ4SKpB7CH2ZqGEXZ+tOe5lA5DU-mKbxKnhZXF69PAwm2mi6ySeR43BbNpXUoO1WGeOpn8AhrXOBHEYiLh9EdH+acdCR8nnex7S8at8WbaM+3pcdqOFZd-6YuDd30s90Hvd91mX0DuTg8mHR0xK2YnfTmPFrjurrYZu29vRGX1Mp6Pzxp7O6Y93qvY1n2WfYAO1Q8y7tS5776gxWbTa7uiqot0WVol23iZTrNZc72vu6z-a+9zgf86Hwv2GL8eCq8rnlMWf45ZNzhFa0+vLcbhPm83tvU8fxfM+Tmhf4-cHKnwHOfAir5S6ph1JtWeqM-57yXjjMKtUxaRQ+lLH+28O4LyQQA1uKtj6gPVuAkeMkoETzLopTm+pLC6hrpjF2r8RbhTeonGsPct4Glwc-J+isCHKyBt2POpD5TnzcpQ6+8NObFW3jOOciCmF11YWgteHCW6oUmO3RhlNqYHyAZmEB1ZB5kK1nlKRo10RaFzFmCOVF5bKPNrjd+6DVqYK4dgnhujTb6MAUQ4GoiJLiJHsNSxk8aEaDkQaGQRgfF8JUSvNhBMv5YO0b-XeTjXaAxzoEk+YiaDn3OuE6h41bFZH8gFTJejnGoPxk3XqmjOLpJwfEgR38AkiPycEmg2ABBmFZjrEiFd9b5GWG05hT0klqPYakzxh4Ml4KyYIt2R88kkJ6eQPpAyuBDBKTAjQZFbqxMjkompyDY6uPUXMgxCzWlp2WR04RkoglZS2VgfprNEQlyoTA2YMtOA6HnnwxeLDpn1M-o07+dzvEPPOSsnJayukbLefgbZrMx5jlKTNf2xyZwTMSS41esyoVpPgmTM5vj97+OefZExYD5TooTEMsaMgMwz2xLwxx5ywVEuSQ0ta8zyU7yWfCp5uTkX0oKe8z5o8WXojUj5ZGGJ7qUoSbUpa8cMGSyFWTWFar2lYM6S87pqKmWXyxamRVMsZwIOqVSi5b9iUpNJbquBXL+EZ3FUik1KKwZoo+TsyBPzpEKpzJHA0MxgXcodbyupWr3E6tucKj1-9vXAOIVKzZAbZUUJDVYyYbKw6LGMNGz1hL40f21RvMlerHgGq9Ua2lQJXn+qZZI-NETkDLDnrdKYnBVX2vVY61RELq1J1bjC+tQ7DWeONXSiMDLemBuhhYztpT0YKHIoYGQOgHHlo1Q3Nx68J1aJTQS6lhDm1q2zUysJ66YH1BljNQdorY1TL5TMl1grk11opTOxtc7r2tu9ky4pD6PxsojTujQ+7QUfsrcejR0Lz1wodQi2mGb1lSpIMEEEfAcBgigHwdwqgUgQHldqOQs5bq6DtRK2icbNVVsTTW3VpMqJYcshh3uXHfU4bw9gAjkZ3DEfiBR-ZH4FDyFozoej8h7oVUPVcklP7AFclGT6BTSEeP7WWF+Yxi7CC4bgPhwjRBRN8HEwAWngBAAQcAJMQY2loI2ODeb8wJJjLQFbmNIZuepg2JVPOCx85eoRDGF1YRM2ZkTJAxOOds45hzEBrNYD4AAN0c54SjKBJqjPqMYXhGhI7ed80e65rrf2k1OZYUriwwvZMw0YzNRmYtCfM4QSzNm7Mpes8cdAENcuYlLbdXUwKuM6nKyp79HjqvBcMYLDEfir2RZbfk9r6XOvdcSxgEguA8BOavgW2QM5t3ZgUASOWXmGvTedQKubgXkCoxUiFhWjXdOLfphtwTW24sJdS3tg7iX0tZYgDlyTG1n53xKB5oB9W8SNaYxV1Tj3J3xVe-D0LK2Is+qi7eIgm3hMWfi1Z3bg3gepYG0NyHY1ZHI1G19zGy3lP3chWp9HP0sj0aRVN8Lqy+P4-aETzrEJ2CF2GwjDQL3DA5lfSCpByOZsPaTU9nRaHh2ffnetkhIvjrsHRcNsipMdS1bfcOpXbPx2cN-e6i9TXeMtew2137xOozsBwHQdAw2B0KDoSUOQV25pKZHeChNJ6bdPc2rxRKZItfAZ+6ZjrYJYh0BgOgFgTgGDDeo9ExY-a8yTamHd-l7O0dnq561YRCMccC6d5Kl3Se-v4FT3wBAjgCPsAQB8kjJBJezH97PXhfv4PL0-WO1jp7mmGCmlX-II-8Hpvr-xxvsWW8UBwIdyXywZ50ZNNpnalvS-W6aSZTT++5CKfauK-TPVdeu-M7EDfh3rPxc8Edy1usom3VmPJjEN2Shi9Wdj9J9I9OdZ98h99-8JQgCHc9MtADNWtosH8U9n9EsABHCgKAVgH3W6QFKpZ7GaR6MfRDSrDnCvNzMyPIQ2WPWvHJS-WgtWPXfAVgLAPbKAVQYbbQf3JSPMcZBWYwEvL9FXNjX9c7Ag-2RAvEQQ-nRFQXHXATJvYnMAaERzH3IFGWPfecGaKQyyI-YQsvVXTnN4Kg2QI5P6G-BAu-RQtfMwVQdARzfbPgAAayNxMMUgYXnGMAR2fjJH0Inwj1P3rG-2-BNG8MFjjyX2sNX2T3wDsIcIgCcOcOs3iMcPS2cPYDgAI2gDJ2G13Tz2QB0HljlikJmhkND3H3D2Q1rRhziTRlKNLToOaw2H0wUJiOb1SMSPSJSPsLSJcMyMkFwDyJ0AKNLTN2fgaPKP8KqIC051qLkRKJaMaNkOaIBFaKYJQLiN6K6P6Il1pyuh0AxHmJ1BNF0A2B0B0CEICOqN1Rl2QFg1OIAIuKaMd2iOQKUPM06KSINxXWGy0CWD7WMEURQDOIBGeOAIMJPxQ2e1JgePnFBOKHBLgKZyQIJ2M02LaBgHYEwDoFYAoHE0ly5gK1mAkILxohkCuJmKqye3OwcTkXNApJWNeO+3vw+LBAhjB0l0ONqKmGozzAUCfhMEpJY0COhNUlxCD3n0FPKPjzWw2LZJ9joAECwFiHYAEF2Bz0mlxCBIkK41UmFP82pM5w40L3r31KZMPnkPlLXxICVJVLVN2Gsz4AcDyO0FukOL4LnBD2mJFJuNtwKKomxB0yiJZJsNiNtOVNVPVLwGs2z32MLT3QgJMCDJRLGT8IQz8zIPL2n0rx+k6TUheMtOXyF0jGYIjPtOjLgGs0kDjOczGkNiTJkAFNNP5F3QNKzKMIrxNNTP9kuItJ7JX3eLXxgHSzUPjLywxAKL3XlxOJolgJ9MNPIJzO+gcSv0AMLIHJLMJ02JHL4ES1iDMCgHSygGMzgCN0olxDnnGNnPNHnIzJR1m07OXMbDRjXPqFgNlLxzaKHNiN3MS1YDgFM0l04CsO3gzElPqHpJbAXI7NEKexh04ygv4k-KtNEWYJHMkDHLrIVQ0AuNk3kxzGIJQUzNRyfJMgQv30IosKbW7VAsMx-Obwzy2ywuOy7UGD3Xwv3zougvvOV0MLguNJfLyFv2oqA1ot0MHLROYKYoI3-OiFPNwLsV-FkG4tosmRIJIsfIEq7KEpUtKJ8g3OEtUvWLQs2JkpfxHIgHsAgD2B928k0Lky4okvTI0ofJEKn1TG7KMucsMr0reKkrMqPNktS0wOwMUsjQfgNhukP14qt1AKCI2mgzzKip8v7OoN7VDPaOJxsuwJYs-y8gUGLXyHAsLx8MY1ipANFNrQDNKuDJoq-OtNiNfg-yDitVmCTJKqAS9J4tcr4qhOqt0sALqrEoatMoVOaus1iFiEYDyN1Bnk6r+G6v4hgtIu0pzJqq6uGoMW10aubwmtfhAr2WwsLV0A6twsLyWr0IqshPiuhI2sWq2ppTlLGrX3bygFiGcLytaonCvM4u0Kou9OuuuNmIr2fkGpxUetWxEvooCoVPbwYCgAc3CsUkOX3y5haPTHbNWo8onAKIWNkHRrWMxrSr8qJp812uJx8GI273hpaugQ-Arjxq0LqGkyIsuTiqqvY0GsGDKsiPqtQsTzXyprbzYM91S0sustsvHOey1LsS3X5KfnKt6o5r9KeyKqombNEu2oT1ZKFugAQDMDyIHTxoWubQhOBqNJ0p4hbK1qetGsFtiIoD4AAvs3sCdo4HdyyJ8E4Olpmnlh4Qrn5l0P9ixq0pxpIm+gBPqP5BDpJueodub3duSzdudvYE9uyNUH6ywEc0xW+pImo39x-HxsR1bLkFDvcrAIrxngguipJHkF8vjt1sduduTuiFTs9sGJwElzmDuPqHFOjq7FjoqNIOxsrufOtoHpJCHpQuLO-NhrXyTtdrbo9rFzgE7qzpzu3wUDxp-GvIAKMEZOHs0oroSrGhXLeynsPpnv8uF02IyywAgBwCwJIGxPsHiAQGSjpt+Q-GnjG0NhtvNE4HLv4vDu4UUgAcsCAbjvtqbub3vsfuftfroHfs-us3Mq+vppIibP+IZx5zJMBuVsqtVuMIorRiQu4xDJhtvoVPgafvcCQZQYYGs2aq4ImlxENh9DkFSqPrcpAbHtTHVpNC4chtxwFtgeJ1ocQZxMYcB0cA+owe-qwbdO-GLoVwIeIt4f6rdXPo1ySkodROobX0kfoekcQFQadrevka-tDULUOVqNNrW3NqpKXM8u5vkOgbEbDOb0YAfrgA9ydr3L719qBJlnDSDsFjLqcd9JBvHqyC5V0N5IbpgalW6FYMECI17zIwUZscUjIiTOZrNp4b6tutrS8sKevsyqwlSfSwEH+zJ2sZO2zFiT-q0z5jnOAa0dt3P20LadvIbuhoMcjGqfSZJwByS3s2ycadUiNB-zqOu0FimKBucezNTDuOBLxH3pmCSc8aM2GdqdGfqfGb61B2yzPN9r9xnhzFUZCMxkWcIZus5vmyzHWcgoWe2dnrVj2bqZ62S0S2pzOeOoNh-AZwm3ry2aicXJWfrBNwgekPeZvqGeoDSf2a61JxsyB030ma7UVSTKuYvpLQ6ZKduNxBeamE2ZlP0edyqaRZqe+fJ320xdSxOfBwBdYo3RGKSoHUv1qoEMJcebVxJZ5dufhcqbRK+YOfRYp0Zf62wEG1ZfyrGhGQZ3l0mzuY0eKf5cEqzFBbeY8Y+dEXFfdz2MBeQEnLuJCftxWrDv4ehcWTUbFX5v1dNX9XPiOrZdTDNe1OKIAz5eIatv1R9b1YRZwmRf10N2lpsSStN0taWeictvWpnlTUX0deDelRzR2TdYVesVxWeaxBjfuYtpca+jtZjU10pYb2pZIFDdBg9y93ULhx4UD22nUfZqIZieam5osj0ZTdFcZiHhcg4EzbzrGkBQbcsCbd+hbadTbfjY7YnramQvLckvaHFdT3T0zzFqN0rnkV3QusFjvILeWbItijccupryDd7cRardpZbzoDbw72hm7wEF7y5P8mVXGMKtbL7KKZVvbYnDKfnzNO-Yqaoaveraf0Zbss5h-zmAv0SgPfVd-dndim6eEt6csA-MsJ8s+ZpZGYg5fzfyxdKUGBVRaa4sVoQ9bYeb9ZzPO2LuWAo-6dUorbFdw-2fw4wKwJwOlrkGBbAsUCEbcz6YhdgtAYVTuM4aE4w4boYNTfFdYPYJ9pNe8Jh2xB5yIIVkiZ-ZnaLeGQlL4P-ESYvdA5DZvZULICI6tWxAcoIrfKVsQ506hY2lQ7MLs75rEoGapdY+vZGbMAoEIGRpKA4vnGoykOo2-atZPrusuaEeUeKHC5k4yvi7njnpXbY7BC+PSK5Ijh-2aa8J8JnF9b-YjoKPo3CIVnc+1sbpSfS62ISKSJ6Pq-SMyOyISy4LJKyCKOvNPBmhcoc+o+K7PuOX5h66KxFeKBMvyXFcy5cMa76IyLXqGOltnFGMZzllG766o8Lac6G+3m66WMq7tqw0m5IWm+2O+ONfdd1ibOOX4LyFUqRMi74dPvRDuLhPu6kKRJA8GdM98-O+a-DZNYjh5Lhw+-OIi9jchePfzoKPe5BM++A6Xa3IfGrcxKQbxIJN9rO1wfiRKyK+Q5IlpNx6vqR9S7A5vY5Ms4-COM5diXWcDsHs2+nYG4J9ZVqJ9AZ6nsO9W2Sd2dq-LKjI1OlqWE1oNG8Im0utiXx905HdPdbKgeRJ2oNf57tMF5jOdK7uW4Z6yBsT4N5ul5264iSsDP1+M5+5R4p9V4dJjNrKu4Kt49y5eZoy7ALJE9Hpe65Dl5d+59EaddO5V8jOt6rJrIaa7WME8INHwL3Zd4h8PbjZl64i97rsR57ZM4t5Gb-ND+I8qRg7wcSkPqe86aewk5G4lBJ9T-N-Fcz8msPOPIUulsBQ07F9g7Rnz4N+h-rO5pmDL-G8r9q+r4AqAulvD7xrmHGLhKndHSPbWoEbccVp97rzk-76wEwqz-IonYNF1C02rnabd+tY9-JW38Y7js85Y7S58-2fQbX-rF47xtmFwVP-s62+n7E5aVMPEpEbdkf+R-Fav+s1YHko04TWoxXkk5RaL-52+M-W1vO1JoTcIBJ-YyggTJ6-dL+QVCyg-UlrcdgB4fGzmAJipx8oeUAh2DAI-620oazHZduTxGZ-9QqWAu3vWT44GgCmz2G8j1X67bcO+XEUhtQVYGLsaKsnS9igLBA5UXakuBGCbXOpAJyGT-ZnhwKIGso3G0ghfnIT941cL+wgkKNf0Sqkd3MiFGApANf6yBFB+gs3l53P7VsJqU1Gag3xKztwd+fwaQZR1kEv8bWWDYwbv0V4601BFgzQcwxCiHUfceoWoocj0EeDC+RLX9Mb0LyODe+Zgqgfs0safUtBI7f2Jy1-yUVj+2nFngnynTJVu0O-YTp4NIFp9xWtNRGvK2HaJ9vwBBNSKjAm4TQDBrg1lElTNy1CMaFLGip5xO7eCb2wtGmpux46y0DQcwYfPP0aEH9ICJAwYGMNMFn94hYIPoaLSYYS0GAUtE1nqAgK-V5weFfAewJcETDpcg1HYSHm+5xChB+AKmgbTyL9oCsDjL8nvyi6lM3Gs9WYZQPOGL0BAKdFemQBa7e1ZqF5beIoFXIx0Fe4QzVhXjWaks3yRgWIXMPeEt0l67tNOqvQzob0IAudTBmNDIiF1P2r5Vskzyn7x9DekwO4jdzxHe9YRbw9Pvsw+FfDkRPwxbprxNb9pHK8iHYXLGhGgjIeonJoa9y76cjKRP-WrrSOXr0joYjItERiMUbwwpcfaPNuSKnpciCBPIiYSXwVFrAFepwuEdSLBDGMX6pjD+rbyzbahvCMsXUE72XzqU9hRIzgW-00Cwsn0go5ATqPwB6iGGZjJhlfzyKxJB8hyPBjMKyFyDDBf6ODGQN95L91Broh+nQ31Fv0PRqWFhhGzBrbwx+QjWgg8Oe7QlDhJA9DnwJGo7NK21bN0QaNQaJCqeEdEYiVDZS48CRYeG0fIK4g6M1U3bfMaoL56RjixcYw0algsZyMkhPuIrGkJb7GonBhIwgcGJlgOjZwTonDpGJ8Y2V-GfAQJv8NCbJiORERcYdCTuJ4M3yhXV4VuVTy2lwc25CoZiKuhbpn0ZLWLhsFwqbinhWYXBHyQBC3i46T4+LgeLoBHiU8qgYjD7m0DBDLs1458bH2tHjjeRdo+4kBOKAviihb4g2B+K-H4BPhgFPgIEKvE4JAJIXJ3DBLBE0dXGD4qCZoBT5iU4Jz2BCQwDBDoAYgcrQIayJ4SYTqC2EkCc-3rETjcQj4piTJydzUZkBh4iiWijWH0CQ4SVV9KRJwncj3e0JWEoRPuLESqupEniSDD4nHinaykwScaMsDnZRJnEjMUXy1ZxMZJME2UgpPInHjGAZgNoD7koh41YMBBMScxOcGsTwJGOe0VhJvFySnqJk3iZ+P4mqBSAtpawcAN1AFZbJhkhyWOJVFST2JYUriRsEUl5wAKXQAQPgHerxB0AYtLvLaSZFCSEyoxZRnUB8IF8JJ+-KKVMMKlJNypIMRKRQGSlwAAAVnAFiAZSEAWUnPKjW1b-00I5U3SREIFZlTWyFUgaSDBHIIBYgcRfzuwFYI2UmpWAO9uwHSysFYgWeZIVxF5g2TbEeQOLpoCRzFTHhXNEgVtPuIfZxUh07QMgJGljSZuGRAQHQFxLsAWA9gQKTlMUicpbu88UAQCDJZ3jdUUQ+cB9OKBfS466EgGZcWGlsExpJYhgJNLYInkIYdAjSWMgzByjX0b7AEDYm+m24ZYPoVGcUHRlx0gU5xQQmDNGn4BIZEAaGaNLvZ7kmp6kyoVyF5IzwdQuCOHLjNrGVEnJEwgdLiAIIsyQSygrqATLBJEy84F0gSblXJl0Awc8WJTs9O7SHEOUIFfkk7kogYynsZI6cBIVxHFAVZ+486eDPwAtSHAadbAvdKsp0AnpCMkwIrPkTyi8g-0xSFp1wmDcFUC2O2XUIdkN1gZikUGSLP1mGzoYN0u6Q9PNmBDde8icwm7I2CAzAx+wsUoNXtnTAPJq2L2YnL1kkyyhDmdgJLMcIcFAuObe7gARkERTJJA1beI8RvH8zs4wXaCWXWJljTmA9hOgFtkJIFYTQtdbaarM5xqi7ZUhM6XHVOnk1fZJMhuegCbmd55xiAV0q3PnADzO5-rOfLPP7m9zB5J8CeZGFukQxiM7ARiHkXTC+juWf0pClEjnk5kIC9GfBpoE1EnTl5yAteUQA3lwAt5FwAcQ73Dmvp+60EpUaBMinVVSu++BHMfKXk3iV5oCO+Qp0GwcETxhJXETEk4D0ZCa0ElnDHI5l3VboJoBBZoCQWylJB0En2avN8ZghwF0slvD+NQnC9n4g+WJAQQwX3EkFTs1nlUINDoK1yXMBujgqIm3yCFLBNghAtUBISbKWRYCloF7pULmFN4uhbtMzGlymFM8lhVgpOmFy8FoCrhUQsgVUSIANE4XtuxUiSkaFrCnqeCPWpoLZF4ithYos4U2VCFPC4hTZXhl0zNA3fLMLuxMXPiJFyokuW6mMWbS5FZi9yRYoICqK+F5kyyTYJwbhyfQeitxd-I8W24vFmC0xf3PMUgwwF1iyBX5JIABS0JnLGYBEp8UGK8JJ7MuS4sQW+LgJ-i9knADBxZyyFzI7knik1k+F6gJ8q1KP35KNLK5RZYNnfIF70NUppmAYcyNgwcoisYRHwn7maXBFuBeWMZR0NbFdKuFPSl+vVMakDLZZfdPGmS2LoFCJyEyiOk2Lywmxw+M4vOHfL3I4BGADADIq3jAD7Ymp3dJVNvEBTrM9FbMkeiVOkVGDilmgDpTPJvnJKuFZyi5RAAW7p4cAMshGU2W+jUKj5O09xe8uJYHSYVbCv5Scq4XZzEiHBD3NQFPHSiFUe845IChNCCzESarFiWBImEAdiVKAIFA3SpWFFhZ+CyxQbLgCP472NylUtDFiD2AP6kuf4r3WYH3DkF5K0qe-0FVai3hd8zwKyr4Dsqmp28waFwTmCD4HGGnSfnWOFW1oN+c+VVdfgr5nDJVLKlPGytuWPspWwxTCQaDkCOKAkwi3ZWA2ewQUsMtq3Wf8qZVSqjVMqk1f4wgA1K1l29Hkg8vu7uzxojsyRXpIhFnzJSwijYM6qKG89ewBq8zCoXBycruVCAH3OmDOqOqXhQqn+ftNFXuM41BYgnImrBDJr288qvCP3nKSy4F8wldMbmpiXF8IC2-T-ioPmVurDVtAB+hWoxbd1X5lq61UDFjX0KchLkh1bC1jXiqtypa7tSmu9W+rLZ0wuUQQWjVozQ1cKvab+i1UTr4SwaqdaT1dUEB3VzK1vBwC5V0AeV5zGTGBUkHa58lzsiCZxhzXTrylzK8zJ4DPWVqlQiqtps33WY6rlqYa3qV3JbWUU21qxEzrOs-V3sOAfa32omWRh3rh1G66JfCqebc5s1MarTq+qPVggT1MG1Ok-R9U+4QKBWHUKuv3WoayVea7dZGtOJUbjljKggGvNfqVLs6Fs+xXLOnmbSb5D6hhU+vQV8aihs89bPAEcASATg5QlACACcBv4FA7AMwOgSTAqBegMAJwDJoABKAAcQABCAAQQQIIEQALICLLBjpWQqPsS0iGDJqGC6gQAQIIAA"));
+        return JSON.parse(__webpack_require__(/*! global-compression */ "./src/js/core/lzstring.js").decompressX64("N4IgZgTghgtgpgZxALlAgDhAlgF0QegCM4AbHIgVyzPzAHsIB3KCAEwH0BGAOnQDsA5ilCRYcYSAAeKAEwBWAAwAaEAE8UAFgCcykIxSdOANhUALAxo0BfFRDo4oeVijBQSCOCpzYY8Z8m8KTxAMbDwAZToKCABjOHCsAC9xVCkLFXVkXX1kQxMQc1zLGxCo2PiklNAczkszC2sS0NwCYhpCKhp6JhYOTgVeQQlReAlpZAB2DU4M2U4tFRrjeqLrW3tHOH9Xd2DvLF8tlEDg5oiyuITksfS1FGyDZYKGpouK69SauufVqybMFoIIikcgdajkbrMNhcHj8ISpEZVNKTDS6TITADMi0e+UKtTWIDsDicLjcHi8Pj8xwgQRUZ3ibyuSPGtVmWWxuSeeOKdMZlQkXw0K3xfzpALwQLaoM6EIYUL6MkG8JE0FGqXGGKMGIAHGzjApdXoccKeYSNiTkDtySB9od-CcxWEGdFLvz1bdMg9ObiXryXe8kYKTY1HYDge0ZbQ5b0uBilcNVcyUJqFHI9RiZAsjd7gyUiZttmS9pSjgEaadxc7ykybkU2V68rm-dW3dUGrn-k7JSDKOCoz1oYq4QmxLX5Gjk98lj7futiaWrcWDlSy7SQpXIv6a+663d2dnGz8Rc3XR826sO6GJeHpX3ITG48OEYna5rDZk5JwJhzD9yCfmLUXCll1LB11ydTcWzPZFWT3BsuV9Uot1bA9vj-UVwLDKVey6aNoQ0eNn1HHc3zZDEJhmA8ENnM150LXZgLtak13pSDTyTXdPR-ajjyQqDA3bI9ik7LCezBXCBw4ORCJVYjQA1TE2RkeRuJnXiAIXItGJXMDWL5aCWSFODVKbPj2IFQT0JE69sPE2VJPYIwZPAF8SO1CdJizadTI0+jrVtHTyyvKtzJ3WCuKotTTQQfSBIvISQ0wmyxMje9oQmZzEVrIwZCxPdlMNbyErzc1NIYm0S3tIKkpCgNa3C+4TOKk86s+SyXms1oUrvPCOG1TLXPklAcpkNltVGyKfNKvylyY1cKwg2L6qMiKivQlrt3PfFLxq7sIx6hytAGuTkSmFbkyMNNJua2iC1JcqAtA6q9OQgyPUa671rM1qtrQjrgr228aBIOAwBwLhjrVIbkHIhqigmfIagxXQ8WRkq6Pu-zKuYhaWjYn7kQ82CkZRgw0Y2lCg2KzrAZw8gQbBrgBifWSoeRbUcqUjRCrJ0ncnJ27AK0iqQKqliNyWnciaMknhQFmLXri7bqYBm86fwBnwcMSGOO1OQs0yQ9ZaPAXfMx2bAvFxbFdraWf2RuWFFeG22viqzVdsyNNa4IchiItnxm1DN0wxPLjdRp25zuy1hcesXcfOF3obtg8HZNyPvs21CjPd3a1bsjXQa1x8-dZjitCMc7+YxK7w959Ho6AkW5t0iWk8JvUZd5x3nf4iy3f+vPPb7b3feVFyToU3L0ynbv04boWHux+bgvxrPxhTuv+YzhW+9d5Xc-pWmC+9kvx6yty4eMFTU75zhTem83tKeq28cl5PO-tu-5ff7OdqP-OXsi7sAIizCeAdkzag0PkQ22gw5zwjgvMqWNRY41Xr-Den9b49wptBKmh9KzHyAYzaSYCL7Qx1HIK6htNSUS3vfDOZsY5L1QSvGqa8UKYL3MTBB9dcFKz+r8GmgCR7AKcmQwayJKHUIMMpLyvDt5IJms-eO6D25cNgV-HBmdKbtSER7bqwNgEZQkZPZMExp7cJkJwCa9CH4Y2YSgluz0257w-twru29tG71Cr9HOg8AHDyMYzfqpiIEwz1jI3ICgtDfmwfPKOi8nGWwTrVdeH1NHxMQfw-uB8AmEJEcE8GR0wm605nuHUDY07ZMFsgi2L9UkcLevuTJdid6-3wfkrshTyDYAEKYLWOt6oxJgWTDEniGHaKYU3OOaD2EYPeruNpvdfF-xVkPQxvSsD9K1szUu4COIFSrvfcZWiEm1OUc3FJai3EwWORM6pfCdF4L0SKYRQStk7JhEMncMhpijOrg87+jDH6OPqao+Z6jFk8K8ecnxBNOn6I2ftGgfSBk+x+dDeQ3N0xGDicsxJdSVFzJercwyWCCXPIEf4pFgTNn4DRcXTFyIZBGHcri-FCiGFKKflchpNzVnko8Wcmp8Ks6IreQYlFnz0VjxHOEmxMh3xk0zCKp50zY7L1btbMl0KgXeI6a84SUqgYyvBmfeVHF75GCJhmeRsKakapYc41+iddWcVuJSsVuiB60oKR8hl2z0WgP2eQu5WgJo0NVVk9VoKZlapcTqwVeq1WKJyfvQRkrkWmsDV80hobJEshyscjMPMHWxocfG1h2q35Qo9UsrlP924SuNdm9WjLHLMpZBMOQAL75KtTdywllzZlsNJcm+tMLJlwsNb6rNdLpW5vRSYgtZjcjag3emAdMa00XN5aOmtbqJ1X31TO5tRrEoLpzR20Jq7wkyAUA+rdZbp2OrjZq6tiba3upPYOpttyW2Xv9fSjtJS72HM4HISNYzT1vsrR+l1jSFmTtg0871Ly52tsCSQIIAI+A4CBFAPgbhVDJAgF25McgNB5UNtqCuP5M2midck-lkL3UeQbIxgk6HqX-39ThuAeGCNEDcERuI5HSmvkfVEzgdHEayDkHEr6zHwUktcceuJq0FNKcQjx-uSrDQEO6YQATQnJSib4OJgAtFKKzMQ7AIBigANzgBJ8DtYKJRK1Jy3IfzhR-J5WC4lY71MExZDRlAPmbE0uiyshFF6MLYdw9gfD5mSBidc1Z+AEABCuYo+uvzHijDyf5lmVG2pAtVsQwKsLKAom2LJmVsmFX01+L48Z0zKXhOEAs9Z7LuWIBWawHwFzEAPD5aMLEzul0GMTXK5VhD1y2MTo8g1ooc3mtxfFQl95nXhvdd65l-rmX9joBBvl8ixW9Q9qi5m8iC3nVLfHbVlpsgGMxfu61tZRmsJ7dSyJ9LlnMsYBILgPAbnz6FtkOM5VuQjD9Htk1-mLW91Bb5RC576TkD1cR3LFHemM0xaw-x5L+20sZcGyDsHmXhujfG5JsKJzpsldqBt5HD2WMY9C1j1bs28dbZ9Xkv1HXSf-Z64D6zVOcDg6s6d87DPoZQMorAvF725YTA56pkLSaXseVrq8z7VLclccSyTwTXXAbsE1hd8ZMn4cvsebulTwXD1pM4Rkz1jb2nnsw0BkX5uyc3nYIyi7GgpidwmFFx3Q7UdVae9z93KG-3e4Aztj2f3usgnYDgOg6B8tfgUH26B8Eor-nfY91jmPE9wxL6ZAnbX1lJYD-9mIdAYDoBYI4Bg+WqPK7GWtoXJzNcu6-Ue3X9Y1cmwxALjDg-if+7M-gVvfAEAOHw+wBA2ziMkAuzaovPafyF6meXznamddY-mBPg8R+z2p996bhfFul8UGl3lhXUilXHLkxyeQOmaLO-RzP2-Q0yvxyF-zr1nQM3a1+1F2ExiBfxl3Sw8Ah0tVrCVz1D3x-wmCR1qGn2HX3QTVdTd2aQNgMCwJwOoxnziigMbzN0X3gNf0GwAEcKAoBWB889R5h7UoNS9h9ADtdgCXtCstNsdWUICfdFNeDdtYCgRWAsAQcoBVB8tuYAVyIJlt1UYjA+CD1R9iDdYxofwNCyYtCvtAMH8YDm9hMwBwQ393MwoK4iZv9sxWVDNEIACdCiCmkrUAUvQXDxC78aCfsbIM8gRTBVB0BXNQc+AABrfLbUBHPcLQL8DkcpVGMveDCvLnc-RPaYNkfXZAVIsmbjWdOfP3CwxfMIiIiAKI6IqzSoyI4baI9gOAfDaAIHfLTMPvZALQDEOhZrFYVlEw2PRbSvBPZpCLTke2Vw5AQYqg43GlAzcw4ImQ-Aeo6oxouo8IhomI5oyQXADopItkYreBZHAY4rbQwgpDOtCYwwKYs4oY+vb7WQDdJY1oEI1YrY9YnY63d-cYJVGxTuBQL0OjFYLQLQC4z9Tw5DKJVEDkEEn4MEuYwnaA5Yyw0Iz4mo4PINHAA4hQG48Ze1eEwoRE-AtHDwq491RQNkWE7MIklAEko3ZE2gx-QPFoGAdgTAOgVgCgcTUPSPDAmJe2SibkGQCE6rZbF7WHKpYUiwUU0wtPIed4kGUbC7WJWHSDQU6-O+YwMU+PbI5pZSNke1fobUh4kok3aQtEjWOgAQLAGIdgAQTYHvSbI4jEY0zNZSXU0Y-UjiDjSfPET0+U+-S0xfEgG0u0h0zYKzPgewDonFbhLQF9SxZTE-LXV3Lw+qLohsZM3Tc0onMo1E0M8M+0x0vAKzbvX42QHQUguHQrCVALUkuPb0wQnnUA15BsxkhvIIt4lYsM20ksqMyQCsuw6GKDGsmxBQPoudTML0rIlsxPP0p43zcEoM0o14yUd4mAYbWwyHNdPFLonQB3P-XA2coAsfLHKuKpY8yg1ci09PFYrcvgTLGIUwKAYbKAEzOACbCYDyBGE4++a8vA4YzIs8vQ2sS8+2QCpErsrpcop-R8zLVgOAQTC7WTdUntTjGU--VMkfKE64tsooLC3iR4swkM+CrASQHc1A35bQccpwsA+HKaDI0-AQ886vCY3wxim6Ei546Y+dOgp-DvfbKi-2K1GJRw+jZwzdG6dwy4mrVs4yKSvi6KSA6S7sjclYoS-DRCqIT8jgxI5IpSgY9yU81isCqWAiwI54lPVZMAtS3i9cogd4rSmXLciAOwCALYfPSpPUei3ipixuEYucti5pRcuy5S4on3Ky4XOCwPFyzLFgtg-SmhDQfIuQHUAKpJNM3QjMsKaDfcHIdKiK6C7MSQlEnsq0zytgkSsuKTb4Q2DCvnGSnC-g9M5DLMpqr6Hi4M+8yq0qFA0SscG1ccxq1CPKFM5i7KvCn9Ai3A-w2yhUpvRfDSQbGIGIRgDontY5Uar4catwlq8k+S6vWa6jea+LHqxUlYlaqzDSWTPZXc+9OjEaqksazKolVqnK9qk6vamibqtcsiwPVfKAGIaImqg5McBGfK2TSShioipjA6uSiUi-Din-Lirq1S4qgG-7VfBgKAXLZKycHzP5P-JVDXRsoK0C3KrFLoqc4m4ysmzsoyn4RYrG4TbwIjTfHGga2qkiRMmmvy6JNndSBGyEiklbWax9M67bC6pap-dmlfeQnPQbNyjyryys7HF0xIzUmoIEt6kdRGqvZpeqj6HWu+FSn3f63qxfdmhAUwDor8GmnahLcmkCsyqmjuRSsw28-MxykzFYigPgJCnLOwAOjgKUZo1opQ9W1lNOWBMEu4o8GxUytqutKuYOVOPipO728qjSq00O1zAQEOwO9gcOlo7wVQWXLAVzOVQancKjAFT8AfDKo8eQZOz61OvUY05ugMuQEq0iq2p-fO4OqIYu0uvYnE9W5GKhTuSxJGTOuU4ClilO91CCjO4ULOxm-uy6vOwOguousOrPOAceyu6ui7B9Gmz8f8t09ehe2S0Wo6o22a6+xOhev6u87exfJzLACAHAVgkgDkuwOIRzYch6jicZcPbhHtf8xjTgNu6a8Wipf0iwWB7O5k2K-7L+n+v+gBugIBmKQbeK7m8G35A0G46BFnXovWgg++pG9ip+uGyKu-S2j+p-TB3+twHBvBhgG6-q5QjmPI6xDkOQYql2pe9ule1ewqkRzexagSwPNh7BzkrhynBwEGsGsNP4+Mj8Jus29IwK125e49SRrlc2ph9+2W+R7+9h-+pRxAfBqzAOoGtRohjR2QaBG4p2+-URqasW8fT252mRmWuR-7Rgb+uAbPAOp8nfaOrUImeHK+vimuOB3xi86khO1GXu1B9SnCOQwQQjbfUjdRqHGGNlOimGgJu+8Uw230k6n2rJ2CmyToXJgQcnIHFx4p6+R2z8H-XtE0ICypvU+c5pQykQ+QKKIC7q6K-i4zJp4bFpgHCnGzEEOzBzZzIptdcaKJRuwwn6mxfpkWqpsYq1CYpM3Z3KPu2RmZ6gZp1pvrAu9Z+9B9TTAweHJunAzUZJh+jiKJK+95s0i28x-1WZvJhZtprLe5wbWnVzenEcllQvY5V5hjIij57x3ClJhcsiJFuWf5sxn295YF+Z8XRZ47QbOXL89WqhGm6BW7D7IYgZ5skKmpxBpc61C5oJq5kgG50FyXM7andptdP5eEw2RF1OP5z52h5pH53HE2HFha9lrCAl254HXlxgobEbaF8l2FjUJIqGntF9DQIWlFxenxr522TF1CQ12V865hwJRV7l5V0HVVsl-LRM55ooNlJB-mOlg5wZxls1vcFnO7K16Wm1oF65uZy3H4rV5McZKGlQ5PcV6p-11pL3Nl0N4zelb2e66iihWNzufhndGPel4K8y9xFN8tXdN+vFj2O18OkPSesPfE1KhN1Fj6+Bl7X9Qt-9OV9N0SRdDtbN2uihRtmefI19CtfRsR9ti-e5FtwJ3txp8NkF8OnPPPdW+YGbIrWvZqyatF01sKYxnMbivMnOnpfseUdgQdnm6GDdmTYvJqCaydk1iVq1Q938XMgF6toeO11vdvTvJWibbUN1k5TjXZ0ORNo5+qb6uWCZk9tBxdzliNpfOgFfNfcGTfAQbfVU6BDAmQKLBQGLGc1tw6l9scMKgwAj-zFc+dwFjlrlhg8HbyqBAUkrMZvpiDn0+qN13w3poSWDqK+ymKhD+jhAzLJAh5sS-kyB7pqSs2-Z3dtt9F5pdUn-dlPjtlqZ+fBVpd+ZhjhK1g9gilmThqmTwqwrbkeTp9vd0j35KJL0KDInfju-Mq+D1oO1uQhQqO6Ngop4TINQwwtSJJ4jg2yDncGs40sQk2TJmjr921nToEawsgCTscXKCS1j1XHdqzxT-dm97j1G68xhuVzTgstz+L1YigQgAmooQ40q+MwoKjaj4tym9qhFoRururbQNllz+rhGX2u1tYmouMtT2BCBnIQo-mPRrK6zpNncXIvcfI8b++Qr612j7TxDkFgbjYzbnYsutouIZQyhxI0Oe2GcVlSb96kjmb6GY5Ju07yuNNwRFmmtsr7b2o173Y-Y9W6jLo4rKPO787-Wmhq75EG7k7s45bkNx7l4-Fl7jExoq3IuOI4RvUfIwThkprt26E6k4E6Yhkqt098SLl97+t7zrQLRgwVH3Hxrn1hl0t5EYzzQHH0E6j-H1zyUO1tknB7k3k6OmHZnQdA1jjoZ-Q-xit1nB72LsN9b+Z5U5L3moD9MHojkRM9egH6hw5zj35G4r0FXxOiHwXVb4TpDvsiM0szV0B18B9OJvDhjM5lB416b0Lm96Dlu+31n7Jwn434syMssmMie7z7QWHcaQwoW+GhTy7p3mCfK7M0P-X2fQ30r6XoEE3gcsskBnNqRVMO3OsiwM5tXskkLzX530XualuuP3jNnnJr3-sn3uAKzIc-l8JPFGTLg23qjoXv1sKF3gMlnuDj3u1hCxvq1CYaS4Vm-JGKKW+mnkt928YOzsHoSV+vvhpxPrlwfuzV898vS9diNPtTA1OSfjvunufp+w-+poT1fpD9fpClC9W-cvUVMaB3Ro-2fzQE65-8-6ZtbtfiiuXm9muZ6rTRtTsdguQPSPkKlGbAD1OQZYrn1zK6EMe8DPOHKmFU7SMMehjPxqM0E7EUMaBPO1oQysysBdK8ubzj901CoCBi2BF-shnI4zFBOeHXvgJ2mJPdv28At8tpWVrf1VahnUgXijS4UDMuU3bLjZzLYm1-Kx7JgXgLYHCVmCBnRAfzXKbY5yIVDAvmAKL4wQUapVZQRIOc4IwpBSfBlHAGqpD9XwocLpphRUFNkZ+yGaPlix0E9sE+7PMritXzx4dgO0CKcrUDhqWchBEfdQX8ROreCJe+grltdTWobV12BraWFxS+BBDQBGvYXmOECEgCYuIQpDtdVuruR88vaMhjEOQYpD0B4jCdLYNQhxDUhlfT3iCycag0TBjOQ0twn34MU5O1AutDXlRrNCYB2ArTkbyqFK08a5vDPiyDyL2o-kV0QoEqm9bh9C+iQ35PlTWyjDjKwbH1NFRYFxcDB8tTmgBwpaa1DYWfQ-B-wd7CDgeQwkvrrXsErdJedHJDhsMVrcMVaDANWt517Q1k-yyvCgvnysHNdU68-bMPHXOGQ9Lh3-a4dAFtodFeiwHTxmuXiG+tj+HuAqgE3d4r8nBBgoeoXRHoH0yAEdcuptR-Io9JykFdevb0KHTtE8PzK+seUMDBCKhdrVEfvRLqH1I6J9CADXWvbIg2UDdW4qnGPIdliRSnb5kpCvL+Zy+8xNISC1pHoj6RmIo+p92869EtAd7M4UjApFEjp+Xwykk-WVFUj++ZXcUaHUlHgxpROAJkSyOIa5tTk3CciOSMJEtD1RJfbQXiEpGf9uhl-EFgow4a2NgGtQihDlCJhbVPWtQEFFMLUEzDRByACZIxhsoXDRR8zN0TY0AZ2NuGCA6OtYiLxXZC2YfLLn4JDF3In6BwxERf2RFctYxnDBMYNhcGT0e0e-A0EI14LQjaer-MMT8MKq1jyh2ogwcWI9H2Nqhf-EHjV0yAFQBeHwimpj1aFvto8pjBwYCJ6ExirGijeMZ6IcaodgaNQ-PJXChqNCjUPgi7tMM76hjPBjGJzpOOjFAhQmnlCJnwCiY4i4mU6e0UURtETotmBIk2MKKZLZNW8YZMbE5SCAHEyeivbgjSk651jrBdaDyJ4iowrBAJgTcCT8CoyOV3xDAIEDEFUBEYfxJaeMoVQAnU8gxCQ3cR7UyBgTMJXXGlLBOETwTPxhdZCnwBdb5Uy00EwoJBN5E5c8Jb-WrhBMYHOdiJJXRCXQA-FAh0A0QM7AMKHZ3Ig+bXNifeMwEsSMJ4koMnRI65wSeJCEwwTwIt40VgOYkn4AxNVEjj2MaTViZpPYlys5J2OLich14n4AA6ZEx4apIoR4k9QGk+iVhMzE7jYRr2MMQ5M0CGTzqxkkiarDIknjTALQDou5HHKDEPJYYpyb4JckNjQJ4UyCd1R8mmT-J+AVQKQDDIRDZRX4ccgSTimRTtxwY3CRoikkdcZJUEziY5SQodABA+AYGnEHQBK0N8YZf3jZJZR9jho2gQwv5gkkKURCAJFummyFqilhElUigNVLgAAArOADEAakIAmpPeHDgG3SqdT+pQEtUQg16mDSBpXU4RFuQQAxByuhAdgHIU8rTSsAKHdgMNjkIxAu8Xoj-DXHTAvUcg7XMMSjkYkiDmJ8Il6RBPxyzpnp3MRyrtP2nvcBAdALkuwBYB2AMpLU8YKiCgwYF9YHIe6T8DdLdTE8JQnIEjMKAoygyz9LGeCR2nyF9pnYhgEdPkIfkQYKkwYc8T6k0JDKOQEfisHiKozhmRML0AzJ+BMygyklYkloQJl7T8AxMiAKTL2kocny006yVTJhiphbU2gsbmMJQBQJmZw-AwtmE3aFBFZXMmcBXABmEzDBxg9gHQFGzpYvO0M5MK6z1APox2lHH4D+SVlkcyIL6a2YUFtlOjTJgM-ALNPsAl02C4M9ynQChmSya4V8ZGGWkxmUY7ZvyJSIjPlkwxou3VXGWbJ1n8zPZ4MEGWDIhn+zQ86dGhOnQxkxzsZhwrMYVLeyi8w5MMLydLQTnlyk5+0rmv0INlGzFCVXe+HCSRwZiopBU1yTTVbkQSXx54HQBBN7p8z9pzAcInQH2zKFUwurRUZAm+kRzRyBFbupoB+k+4-pFWYefgFHnoBx56+U8YgAuzDcqyHINefPI+legT5QZE+cIj3mShQZIMIjOwEXCh54i6YSWtmEO70SVR2EmEQ2JrL5EP5mgN3r9OmL-Tr5YTW+TxKMF8Bs85YPhh5HIHOE2c0wU+SyC6L5F6hn8tllfNVg3z8AHnM7IoS-FCTWRGoJVDJiDnHy-8YeFBWQW4SUKIJDNbqh1IMmOVcF+C42UvmQlUTo6HMGTH4WzBh4GFNC3IPZIEVULGFv0tufjJwXgK8F8hAhaoHwAUSWiNuc0VGk8SCLNJDNN6ccNoWGx6FWirBVItYWyL2FhC-iRAEEk24g4W6DReIuEXdyxFQiy+cYrAWeVZC8ijhZ5UpnCSNQocG7gficWGLVpOk49KIqen2KXF4ktxQQDMWKLGAgUvANYpuJ4d8imi+idou0kYCL84SzQJEsCbMLHJJi9xXIs84pS0pmchttnNkQ2KglGShxbkrDH5KmFrimRSUtl5CyUOqpBXlYik460hatQYRYI24QNg35DovuSy2dEnjZFKfDhrVMExbDvO2KY5IoE8SLdC8wi06qL3WVLD4+U4ggLgtmX-0JpU0xZabJhiGBgONcNZXzDxSbLD2UAwoHctdnFKCAT5HAIwAYBNFl8YAUHNNLPp6xX5aSqhUOIMZFCO2UcupZoAmVPSQF68tpW8rgAfKvlzRdvDgBNmSyH0Vce1HN3omvSsl4KrHE2MAVzzL5cK15UCENmRFFC2eagMQtNFSJzZ3CfoD5m5n0lJhzkzuTFIIpsruiuyuKLyu1kxKgQHgOAih1+V2lwY9mOgI5gPlIzaMigqEYXOik0DamUtA3vsumUlLRV3EvgBKummPzeok83jiZ04qWDhx2S0kTWTNX-CNVp7XBTquQ56q-l6HFVriXHLpUaWjM6LjovAFwiEZS5PWFqKRGbzZFjqn5S6oiYQBuFSyqjOqSVTAkY5QakJZaslZ-zCSSauOcvwLGhrtVSKhLt-VXzsBpVsq9dkB2eqcY6myqrlaqpL4m4Xlwqj2fmtoCFrwYaUHxSQougJEx+RNFsb6v8F1ZrVqNdVXsvtVhrm11hMbK6sdYXY9h3CT1Z62TXVqcJrkvXO6RpRLr8xX-a8A6onWtqo1Ma85THT4VqccggKjmT6oJUki01wwuEpmuDU5rd1wmDwMvg4AlqEAHRaTNdkekVMr1fI5NmIK8atiQ1T6kVVNJQ4cB21cRFuSMqWnOE+1f6piXPyHXwaR1FfbJqBqbWvqN8bq6OtWU7g-rfUS6-tdmKKnY5113qh9duoOXjrn14G4ur-WjWbV6hhsBNXeso0prCVVq29bSXvUNqEVWqxAAAzgBf04AAc3xZoFjpHyBF5KzjdeqZYiEL5BS8lRhHgAOAJABwfoSgBACOAkCCgdgKYCYLxgVA3QGAI4G00AAlAAOIAAhAAIIboN0IAOkD6lRC8qsV+Oa6SDG00DAe0IAP4EAA"));
     })()
 
 /***/ }),
@@ -16928,1427 +16942,1441 @@ module.exports = (function() {
 
 
 atlas0_lq.png
-size: 2048, 256
+size: 4096, 256
 format: RGBA8888
 filter: Nearest, Nearest
 repeat: none
 sprites/belt/built/forward_1
   rotate: false
-  xy: 863, 8
+  xy: 1762, 157
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_10
   rotate: false
-  xy: 1678, 107
+  xy: 2140, 156
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_11
   rotate: false
-  xy: 1950, 72
+  xy: 2182, 156
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_12
   rotate: false
-  xy: 1628, 57
+  xy: 2224, 156
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_13
   rotate: false
-  xy: 1670, 57
+  xy: 2266, 156
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_2
   rotate: false
-  xy: 905, 10
+  xy: 1804, 157
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_3
   rotate: false
-  xy: 947, 10
+  xy: 1846, 157
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_4
   rotate: false
-  xy: 998, 57
+  xy: 1888, 157
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_5
   rotate: false
-  xy: 1040, 65
+  xy: 1930, 157
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_6
   rotate: false
-  xy: 1082, 65
+  xy: 1972, 157
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_7
   rotate: false
-  xy: 1124, 65
+  xy: 2014, 157
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_8
   rotate: false
-  xy: 1166, 65
+  xy: 2056, 156
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_9
   rotate: false
-  xy: 1636, 108
+  xy: 2098, 156
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/left_1
   rotate: false
-  xy: 1812, 162
+  xy: 1469, 110
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_10
   rotate: false
-  xy: 1370, 65
+  xy: 3483, 210
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_11
   rotate: false
-  xy: 1416, 65
+  xy: 3529, 210
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_12
   rotate: false
-  xy: 1524, 63
+  xy: 3575, 210
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_13
   rotate: false
-  xy: 1570, 61
+  xy: 3621, 210
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_2
   rotate: false
-  xy: 1858, 162
+  xy: 1515, 110
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_3
   rotate: false
-  xy: 1904, 162
+  xy: 1561, 110
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_4
   rotate: false
-  xy: 1950, 162
+  xy: 3207, 210
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_5
   rotate: false
-  xy: 1996, 161
+  xy: 3253, 210
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_6
   rotate: false
-  xy: 989, 11
+  xy: 3299, 210
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_7
   rotate: false
-  xy: 1208, 67
+  xy: 3345, 210
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_8
   rotate: false
-  xy: 1254, 67
+  xy: 3391, 210
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_9
   rotate: false
-  xy: 1300, 67
+  xy: 3437, 210
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/right_1
   rotate: false
-  xy: 1720, 76
+  xy: 3667, 210
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_10
   rotate: false
-  xy: 1850, 30
+  xy: 184, 14
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_11
   rotate: false
-  xy: 1896, 30
+  xy: 230, 14
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_12
   rotate: false
-  xy: 1942, 26
+  xy: 276, 14
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_13
   rotate: false
-  xy: 1988, 26
+  xy: 322, 14
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_2
   rotate: false
-  xy: 1766, 76
+  xy: 3713, 210
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_3
   rotate: false
-  xy: 1812, 76
+  xy: 3759, 210
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_4
   rotate: false
-  xy: 1858, 76
+  xy: 3805, 210
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_5
   rotate: false
-  xy: 1904, 76
+  xy: 3851, 210
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_6
   rotate: false
-  xy: 1992, 75
+  xy: 3897, 210
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_7
   rotate: false
-  xy: 1712, 30
+  xy: 3943, 210
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_8
   rotate: false
-  xy: 1758, 30
+  xy: 3989, 210
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_9
   rotate: false
-  xy: 1804, 30
+  xy: 4035, 210
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/blueprints/analyzer
   rotate: false
-  xy: 928, 157
+  xy: 928, 156
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/balancer
   rotate: false
-  xy: 930, 207
+  xy: 930, 206
   size: 87, 48
   orig: 96, 48
   offset: 5, 0
   index: -1
+sprites/blueprints/balancer-belt-crossover
+  rotate: false
+  xy: 854, 60
+  size: 44, 44
+  orig: 48, 48
+  offset: 3, 3
+  index: -1
 sprites/blueprints/balancer-merger
   rotate: false
-  xy: 1658, 207
+  xy: 1658, 206
   size: 47, 48
   orig: 48, 48
   offset: 1, 0
   index: -1
 sprites/blueprints/balancer-merger-inverse
   rotate: false
-  xy: 1108, 207
+  xy: 1108, 206
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/balancer-merger-triple
   rotate: false
-  xy: 1707, 208
+  xy: 1707, 207
   size: 48, 47
   orig: 48, 48
   offset: 0, 1
   index: -1
 sprites/blueprints/balancer-splitter
   rotate: false
-  xy: 604, 57
+  xy: 2056, 206
   size: 47, 48
   orig: 48, 48
   offset: 1, 0
   index: -1
 sprites/blueprints/balancer-splitter-inverse
   rotate: false
-  xy: 978, 157
+  xy: 978, 156
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/balancer-splitter-triple
   rotate: false
-  xy: 1857, 208
+  xy: 1857, 207
   size: 48, 47
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/belt_left
   rotate: false
-  xy: 733, 11
+  xy: 900, 60
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/belt_right
   rotate: false
-  xy: 1720, 162
+  xy: 1377, 110
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/blueprints/belt_top
   rotate: false
-  xy: 2007, 207
+  xy: 1678, 156
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/blueprints/comparator
   rotate: false
-  xy: 898, 60
+  xy: 555, 59
   size: 48, 45
   orig: 48, 48
   offset: 0, 3
   index: -1
 sprites/blueprints/constant_signal
   rotate: false
-  xy: 825, 11
+  xy: 2353, 163
   size: 36, 44
   orig: 48, 48
   offset: 6, 4
   index: -1
 sprites/blueprints/cutter
   rotate: false
-  xy: 831, 107
+  xy: 831, 106
   size: 87, 48
   orig: 96, 48
   offset: 5, 0
   index: -1
 sprites/blueprints/cutter-laser
   rotate: false
-  xy: 562, 157
+  xy: 562, 156
   size: 93, 48
   orig: 96, 48
   offset: 2, 0
   index: -1
 sprites/blueprints/cutter-quad
   rotate: false
-  xy: 187, 157
+  xy: 187, 156
   size: 177, 48
   orig: 192, 48
   offset: 7, 0
   index: -1
 sprites/blueprints/display
   rotate: false
-  xy: 376, 11
+  xy: 2867, 208
   size: 44, 46
   orig: 48, 48
   offset: 2, 0
   index: -1
 sprites/blueprints/filter
   rotate: false
-  xy: 745, 207
+  xy: 745, 206
   size: 92, 48
   orig: 96, 48
   offset: 4, 0
   index: -1
 sprites/blueprints/hyperlink
   rotate: false
-  xy: 1346, 65
+  xy: 1607, 108
   size: 22, 46
   orig: 48, 48
   offset: 13, 1
   index: -1
 sprites/blueprints/hyperlink-hyperlink_entrance
   rotate: false
-  xy: 1028, 115
+  xy: 1028, 114
   size: 48, 90
   orig: 48, 96
   offset: 0, 3
   index: -1
 sprites/blueprints/hyperlink-hyperlink_exit
   rotate: false
-  xy: 1128, 115
+  xy: 1128, 114
   size: 48, 90
   orig: 48, 96
   offset: 0, 3
   index: -1
 sprites/blueprints/hyperlink_left
   rotate: false
-  xy: 1440, 28
+  xy: 442, 21
   size: 31, 35
   orig: 48, 48
   offset: 1, 1
   index: -1
 sprites/blueprints/hyperlink_right
   rotate: false
-  xy: 1519, 26
+  xy: 475, 21
   size: 31, 35
   orig: 48, 48
   offset: 16, 1
   index: -1
 sprites/blueprints/item_producer
   rotate: false
-  xy: 1577, 107
+  xy: 2499, 206
   size: 45, 48
   orig: 48, 48
   offset: 2, 0
   index: -1
 sprites/blueprints/lever
   rotate: false
-  xy: 1329, 22
+  xy: 1631, 114
   size: 35, 41
   orig: 48, 48
   offset: 6, 5
   index: -1
 sprites/blueprints/logic_gate
   rotate: false
-  xy: 1228, 113
+  xy: 705, 62
   size: 48, 42
   orig: 48, 48
   offset: 0, 6
   index: -1
 sprites/blueprints/logic_gate-not
   rotate: false
-  xy: 643, 7
+  xy: 2777, 206
   size: 43, 48
   orig: 48, 48
   offset: 3, 0
   index: -1
 sprites/blueprints/logic_gate-or
   rotate: false
-  xy: 1278, 113
+  xy: 2959, 212
   size: 48, 42
   orig: 48, 48
   offset: 0, 6
   index: -1
 sprites/blueprints/logic_gate-xor
   rotate: false
-  xy: 1378, 111
+  xy: 605, 60
   size: 48, 44
   orig: 48, 48
   offset: 0, 4
   index: -1
 sprites/blueprints/miner
   rotate: false
-  xy: 653, 57
+  xy: 2105, 206
   size: 47, 48
   orig: 48, 48
   offset: 1, 0
   index: -1
 sprites/blueprints/miner-chainable
   rotate: false
-  xy: 751, 57
+  xy: 2203, 206
   size: 47, 48
   orig: 48, 48
   offset: 1, 0
   index: -1
 sprites/blueprints/miner-deep
   rotate: false
-  xy: 1208, 207
+  xy: 1208, 206
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/mixer
   rotate: false
-  xy: 650, 107
+  xy: 650, 106
   size: 89, 48
   orig: 96, 48
   offset: 3, 0
   index: -1
 sprites/blueprints/painter
   rotate: false
-  xy: 366, 157
+  xy: 366, 156
   size: 96, 48
   orig: 96, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/painter-double
   rotate: false
-  xy: 187, 61
+  xy: 187, 60
   size: 96, 94
   orig: 96, 96
   offset: 0, 2
   index: -1
 sprites/blueprints/painter-mirrored
   rotate: false
-  xy: 464, 157
+  xy: 464, 156
   size: 96, 48
   orig: 96, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/painter-quad
   rotate: false
-  xy: 1, 20
+  xy: 1, 19
   size: 181, 48
   orig: 192, 48
   offset: 3, 0
   index: -1
 sprites/blueprints/reader
   rotate: false
-  xy: 1228, 157
+  xy: 1228, 156
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/rotater
   rotate: false
-  xy: 1278, 157
+  xy: 1278, 156
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/rotater-ccw
   rotate: false
-  xy: 1328, 157
+  xy: 1328, 156
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/rotater-rotate180
   rotate: false
-  xy: 1378, 157
+  xy: 1378, 156
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/stacker
   rotate: false
-  xy: 839, 207
+  xy: 839, 206
   size: 89, 48
   orig: 96, 48
   offset: 3, 0
   index: -1
 sprites/blueprints/storage
   rotate: false
-  xy: 383, 59
+  xy: 383, 58
   size: 84, 96
   orig: 96, 96
   offset: 6, 0
   index: -1
 sprites/blueprints/transistor
   rotate: false
-  xy: 514, 9
+  xy: 1030, 64
   size: 35, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/transistor-mirrored
   rotate: false
-  xy: 1257, 17
+  xy: 1104, 64
   size: 34, 48
   orig: 48, 48
   offset: 14, 0
   index: -1
 sprites/blueprints/trash
   rotate: false
-  xy: 1508, 207
+  xy: 1508, 206
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/underground_belt_entry
   rotate: false
-  xy: 1720, 122
+  xy: 1228, 116
   size: 48, 38
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/underground_belt_entry-tier2
   rotate: false
-  xy: 1478, 112
+  xy: 655, 61
   size: 48, 43
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/underground_belt_exit
   rotate: false
-  xy: 1770, 122
+  xy: 3059, 216
   size: 48, 38
   orig: 48, 48
   offset: 0, 10
   index: -1
 sprites/blueprints/underground_belt_exit-tier2
   rotate: false
-  xy: 1820, 122
+  xy: 1278, 116
   size: 48, 38
   orig: 48, 48
   offset: 0, 10
   index: -1
 sprites/blueprints/virtual_processor
   rotate: false
-  xy: 1558, 207
+  xy: 1558, 206
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/virtual_processor-painter
   rotate: false
-  xy: 330, 11
+  xy: 2593, 206
   size: 44, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/blueprints/virtual_processor-rotater
   rotate: false
-  xy: 1473, 15
+  xy: 2403, 160
   size: 21, 48
   orig: 48, 48
   offset: 14, 0
   index: -1
 sprites/blueprints/virtual_processor-stacker
   rotate: false
-  xy: 551, 8
+  xy: 2685, 206
   size: 44, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/blueprints/virtual_processor-unstacker
   rotate: false
-  xy: 1608, 207
+  xy: 1608, 206
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/wire_tunnel
   rotate: false
-  xy: 1957, 208
+  xy: 1957, 207
   size: 48, 47
   orig: 48, 48
   offset: 0, 1
   index: -1
 sprites/buildings/analyzer
   rotate: false
-  xy: 920, 107
+  xy: 920, 106
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/balancer
   rotate: false
-  xy: 839, 157
+  xy: 839, 156
   size: 87, 48
   orig: 96, 48
   offset: 5, 0
   index: -1
+sprites/buildings/balancer-belt-crossover
+  rotate: false
+  xy: 2308, 162
+  size: 43, 43
+  orig: 48, 48
+  offset: 3, 3
+  index: -1
 sprites/buildings/balancer-merger
   rotate: false
-  xy: 555, 58
+  xy: 2007, 207
   size: 47, 47
   orig: 48, 48
   offset: 1, 1
   index: -1
 sprites/buildings/balancer-merger-inverse
   rotate: false
-  xy: 1628, 158
+  xy: 1628, 157
   size: 48, 47
   orig: 48, 48
   offset: 0, 1
   index: -1
 sprites/buildings/balancer-merger-triple
   rotate: false
-  xy: 1757, 208
+  xy: 1757, 207
   size: 48, 47
   orig: 48, 48
   offset: 0, 1
   index: -1
 sprites/buildings/balancer-splitter
   rotate: false
-  xy: 849, 58
+  xy: 2301, 207
   size: 47, 47
   orig: 48, 48
   offset: 1, 1
   index: -1
 sprites/buildings/balancer-splitter-inverse
   rotate: false
-  xy: 1807, 208
+  xy: 1807, 207
   size: 48, 47
   orig: 48, 48
   offset: 0, 1
   index: -1
 sprites/buildings/balancer-splitter-triple
   rotate: false
-  xy: 1907, 208
+  xy: 1907, 207
   size: 48, 47
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/belt_left
   rotate: false
-  xy: 779, 11
+  xy: 946, 60
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_0
   rotate: false
-  xy: 779, 11
+  xy: 946, 60
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/belt_right
   rotate: false
-  xy: 1766, 162
+  xy: 1423, 110
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_0
   rotate: false
-  xy: 1766, 162
+  xy: 1423, 110
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/buildings/belt_top
   rotate: false
-  xy: 1678, 157
+  xy: 1720, 157
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_0
   rotate: false
-  xy: 1678, 157
+  xy: 1720, 157
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/buildings/comparator
   rotate: false
-  xy: 948, 60
+  xy: 2350, 209
   size: 48, 45
   orig: 48, 48
   offset: 0, 3
   index: -1
 sprites/buildings/constant_signal
   rotate: false
-  xy: 1462, 65
+  xy: 992, 60
   size: 36, 44
   orig: 48, 48
   offset: 6, 4
   index: -1
 sprites/buildings/cutter
   rotate: false
-  xy: 1019, 207
+  xy: 1019, 206
   size: 87, 48
   orig: 96, 48
   offset: 5, 0
   index: -1
 sprites/buildings/cutter-laser
   rotate: false
-  xy: 555, 107
+  xy: 555, 106
   size: 93, 48
   orig: 96, 48
   offset: 2, 0
   index: -1
 sprites/buildings/cutter-quad
   rotate: false
-  xy: 370, 207
+  xy: 370, 206
   size: 177, 48
   orig: 192, 48
   offset: 7, 0
   index: -1
 sprites/buildings/display
   rotate: false
-  xy: 422, 11
+  xy: 2913, 208
   size: 44, 46
   orig: 48, 48
   offset: 2, 0
   index: -1
 sprites/buildings/filter
   rotate: false
-  xy: 657, 157
+  xy: 657, 156
   size: 90, 48
   orig: 96, 48
   offset: 5, 0
   index: -1
 sprites/buildings/hub
   rotate: false
-  xy: 1, 70
+  xy: 1, 69
   size: 184, 185
   orig: 192, 192
   offset: 4, 3
   index: -1
 sprites/buildings/hyperlink
   rotate: false
-  xy: 1500, 64
+  xy: 2426, 162
   size: 22, 46
   orig: 48, 48
   offset: 13, 1
   index: -1
 sprites/buildings/hyperlink-hyperlink_entrance
   rotate: false
-  xy: 1078, 115
+  xy: 1078, 114
   size: 48, 90
   orig: 48, 96
   offset: 0, 3
   index: -1
 sprites/buildings/hyperlink-hyperlink_exit
   rotate: false
-  xy: 1178, 115
+  xy: 1178, 114
   size: 48, 90
   orig: 48, 96
   offset: 0, 3
   index: -1
 sprites/buildings/hyperlink_left
   rotate: false
-  xy: 1552, 25
+  xy: 508, 22
   size: 31, 34
   orig: 48, 48
   offset: 1, 1
   index: -1
 sprites/buildings/hyperlink_right
   rotate: false
-  xy: 1644, 21
+  xy: 2450, 172
   size: 31, 34
   orig: 48, 48
   offset: 16, 1
   index: -1
 sprites/buildings/item_producer
   rotate: false
-  xy: 283, 11
+  xy: 2546, 206
   size: 45, 48
   orig: 48, 48
   offset: 2, 0
   index: -1
 sprites/buildings/lever
   rotate: false
-  xy: 1404, 23
+  xy: 406, 16
   size: 34, 40
   orig: 48, 48
   offset: 7, 6
   index: -1
 sprites/buildings/logic_gate
   rotate: false
-  xy: 184, 18
+  xy: 3009, 213
   size: 48, 41
   orig: 48, 48
   offset: 0, 7
   index: -1
 sprites/buildings/logic_gate-not
   rotate: false
-  xy: 688, 7
+  xy: 2822, 206
   size: 43, 48
   orig: 48, 48
   offset: 3, 0
   index: -1
 sprites/buildings/logic_gate-or
   rotate: false
-  xy: 1328, 113
+  xy: 755, 62
   size: 48, 42
   orig: 48, 48
   offset: 0, 6
   index: -1
 sprites/buildings/logic_gate-xor
   rotate: false
-  xy: 1428, 111
+  xy: 2400, 210
   size: 48, 44
   orig: 48, 48
   offset: 0, 4
   index: -1
 sprites/buildings/miner
   rotate: false
-  xy: 702, 57
+  xy: 2154, 206
   size: 47, 48
   orig: 48, 48
   offset: 1, 0
   index: -1
 sprites/buildings/miner-chainable
   rotate: false
-  xy: 800, 57
+  xy: 2252, 206
   size: 47, 48
   orig: 48, 48
   offset: 1, 0
   index: -1
 sprites/buildings/miner-deep
   rotate: false
-  xy: 1258, 207
+  xy: 1258, 206
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/mixer
   rotate: false
-  xy: 749, 157
+  xy: 749, 156
   size: 88, 48
   orig: 96, 48
   offset: 4, 0
   index: -1
 sprites/buildings/painter
   rotate: false
-  xy: 549, 207
+  xy: 549, 206
   size: 96, 48
   orig: 96, 48
   offset: 0, 0
   index: -1
 sprites/buildings/painter-double
   rotate: false
-  xy: 285, 61
+  xy: 285, 60
   size: 96, 94
   orig: 96, 96
   offset: 0, 2
   index: -1
 sprites/buildings/painter-mirrored
   rotate: false
-  xy: 647, 207
+  xy: 647, 206
   size: 96, 48
   orig: 96, 48
   offset: 0, 0
   index: -1
 sprites/buildings/painter-quad
   rotate: false
-  xy: 187, 207
+  xy: 187, 206
   size: 181, 48
   orig: 192, 48
   offset: 3, 0
   index: -1
 sprites/buildings/reader
   rotate: false
-  xy: 1308, 207
+  xy: 1308, 206
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/rotater
   rotate: false
-  xy: 1358, 207
+  xy: 1358, 206
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/rotater-ccw
   rotate: false
-  xy: 1408, 207
+  xy: 1408, 206
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/rotater-rotate180
   rotate: false
-  xy: 1458, 207
+  xy: 1458, 206
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/stacker
   rotate: false
-  xy: 741, 107
+  xy: 741, 106
   size: 88, 48
   orig: 96, 48
   offset: 4, 0
   index: -1
 sprites/buildings/storage
   rotate: false
-  xy: 469, 59
+  xy: 469, 58
   size: 84, 96
   orig: 96, 96
   offset: 6, 0
   index: -1
 sprites/buildings/transistor
   rotate: false
-  xy: 1220, 17
+  xy: 1067, 64
   size: 35, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/transistor-mirrored
   rotate: false
-  xy: 1293, 17
+  xy: 1140, 64
   size: 34, 48
   orig: 48, 48
   offset: 14, 0
   index: -1
 sprites/buildings/trash
   rotate: false
-  xy: 1478, 157
+  xy: 1478, 156
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/underground_belt_entry
   rotate: false
-  xy: 1870, 122
+  xy: 3109, 216
   size: 47, 38
   orig: 48, 48
   offset: 1, 0
   index: -1
 sprites/buildings/underground_belt_entry-tier2
   rotate: false
-  xy: 234, 17
+  xy: 805, 62
   size: 47, 42
   orig: 48, 48
   offset: 1, 0
   index: -1
 sprites/buildings/underground_belt_exit
   rotate: false
-  xy: 1919, 122
+  xy: 1328, 116
   size: 47, 38
   orig: 48, 48
   offset: 1, 10
   index: -1
 sprites/buildings/underground_belt_exit-tier2
   rotate: false
-  xy: 1993, 121
+  xy: 3158, 216
   size: 47, 38
   orig: 48, 48
   offset: 1, 10
   index: -1
 sprites/buildings/virtual_processor
   rotate: false
-  xy: 1528, 157
+  xy: 1528, 156
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/virtual_processor-painter
   rotate: false
-  xy: 468, 9
+  xy: 2639, 206
   size: 44, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/buildings/virtual_processor-rotater
   rotate: false
-  xy: 1496, 14
+  xy: 2703, 156
   size: 21, 48
   orig: 48, 48
   offset: 14, 0
   index: -1
 sprites/buildings/virtual_processor-stacker
   rotate: false
-  xy: 597, 7
+  xy: 2731, 206
   size: 44, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/buildings/virtual_processor-unstacker
   rotate: false
-  xy: 1578, 157
+  xy: 1578, 156
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/wire_tunnel
   rotate: false
-  xy: 1528, 109
+  xy: 2450, 208
   size: 47, 46
   orig: 48, 48
   offset: 1, 1
   index: -1
 sprites/colors/blue
   rotate: false
-  xy: 1677, 37
+  xy: 2787, 186
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 sprites/colors/cyan
   rotate: false
-  xy: 1190, 45
+  xy: 2807, 186
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 sprites/colors/green
   rotate: false
-  xy: 1677, 17
+  xy: 2827, 186
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 sprites/colors/purple
   rotate: false
-  xy: 1519, 6
+  xy: 2847, 186
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 sprites/colors/red
   rotate: false
-  xy: 1539, 1
+  xy: 2867, 188
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 sprites/colors/uncolored
   rotate: false
-  xy: 1559, 1
+  xy: 2887, 188
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 sprites/colors/white
   rotate: false
-  xy: 1579, 1
+  xy: 2907, 188
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 sprites/colors/yellow
   rotate: false
-  xy: 1599, 1
+  xy: 2927, 188
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 sprites/debug/acceptor_slot
   rotate: false
-  xy: 1020, 151
+  xy: 1020, 150
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 sprites/debug/ejector_slot
   rotate: false
-  xy: 1712, 101
+  xy: 1631, 108
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 sprites/misc/hub_direction_indicator
   rotate: false
-  xy: 87, 2
+  xy: 69, 1
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 sprites/misc/hyperlink_good_arrow
   rotate: false
-  xy: 1697, 42
+  xy: 605, 45
   size: 13, 13
   orig: 13, 13
   offset: 0, 0
   index: -1
 sprites/misc/processor_disabled
   rotate: false
-  xy: 1166, 3
+  xy: 2648, 175
   size: 28, 29
   orig: 32, 32
   offset: 2, 1
   index: -1
 sprites/misc/processor_disconnected
   rotate: false
-  xy: 1585, 29
+  xy: 2738, 174
   size: 23, 30
   orig: 32, 32
   offset: 5, 0
   index: -1
 sprites/misc/reader_overlay
   rotate: false
-  xy: 1035, 7
+  xy: 2517, 179
   size: 36, 25
   orig: 48, 48
   offset: 6, 11
   index: -1
 sprites/misc/slot_bad_arrow
   rotate: false
-  xy: 1697, 27
+  xy: 620, 45
   size: 13, 13
   orig: 13, 13
   offset: 0, 0
   index: -1
 sprites/misc/slot_good_arrow
   rotate: false
-  xy: 1220, 2
+  xy: 635, 45
   size: 13, 13
   orig: 13, 13
   offset: 0, 0
   index: -1
 sprites/misc/storage_overlay
   rotate: false
-  xy: 1, 3
+  xy: 1, 2
   size: 30, 15
   orig: 30, 15
   offset: 0, 0
   index: -1
 sprites/misc/waypoint
   rotate: false
-  xy: 1714, 12
+  xy: 541, 22
   size: 14, 16
   orig: 16, 16
   offset: 1, 0
   index: -1
 sprites/misc/waypoint_wires
   rotate: false
-  xy: 159, 2
+  xy: 141, 1
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 sprites/wires/boolean_false
   rotate: false
-  xy: 177, 1
+  xy: 2947, 191
   size: 12, 15
   orig: 16, 16
   offset: 2, 0
   index: -1
 sprites/wires/boolean_true
   rotate: false
-  xy: 2038, 104
+  xy: 594, 42
   size: 9, 15
   orig: 16, 16
   offset: 3, 0
   index: -1
 sprites/wires/display/blue
   rotate: false
-  xy: 33, 2
+  xy: 2738, 156
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 sprites/wires/display/cyan
   rotate: false
-  xy: 51, 2
+  xy: 33, 1
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 sprites/wires/display/green
   rotate: false
-  xy: 69, 2
+  xy: 51, 1
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 sprites/wires/display/purple
   rotate: false
-  xy: 123, 2
+  xy: 105, 1
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 sprites/wires/display/red
   rotate: false
-  xy: 141, 2
+  xy: 123, 1
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 sprites/wires/display/white
   rotate: false
-  xy: 1619, 5
+  xy: 159, 1
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 sprites/wires/display/yellow
   rotate: false
-  xy: 1655, 3
+  xy: 576, 41
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 sprites/wires/lever_on
   rotate: false
-  xy: 1366, 23
+  xy: 368, 16
   size: 36, 40
   orig: 48, 48
   offset: 6, 6
   index: -1
 sprites/wires/logical_acceptor
   rotate: false
-  xy: 1968, 124
+  xy: 2678, 168
   size: 23, 36
   orig: 48, 48
   offset: 13, 12
   index: -1
 sprites/wires/logical_ejector
   rotate: false
-  xy: 1196, 1
+  xy: 2763, 181
   size: 22, 23
   orig: 48, 48
   offset: 14, 25
   index: -1
 sprites/wires/network_conflict
   rotate: false
-  xy: 105, 2
+  xy: 87, 1
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 sprites/wires/network_empty
   rotate: false
-  xy: 1697, 9
+  xy: 541, 40
   size: 15, 16
   orig: 16, 16
   offset: 1, 0
   index: -1
 sprites/wires/overlay_tile
   rotate: false
-  xy: 1610, 23
+  xy: 2483, 172
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 sprites/wires/sets/conflict_cross
   rotate: false
-  xy: 970, 107
+  xy: 970, 106
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/wires/sets/conflict_forward
   rotate: false
-  xy: 1616, 57
+  xy: 4081, 206
   size: 10, 48
   orig: 48, 48
   offset: 19, 0
   index: -1
 sprites/wires/sets/conflict_split
   rotate: false
-  xy: 1040, 34
+  xy: 1176, 83
   size: 48, 29
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/wires/sets/conflict_turn
   rotate: false
-  xy: 1073, 3
+  xy: 2555, 175
   size: 29, 29
   orig: 48, 48
   offset: 19, 0
   index: -1
 sprites/wires/sets/first_cross
   rotate: false
-  xy: 1158, 207
+  xy: 1158, 206
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/wires/sets/first_forward
   rotate: false
-  xy: 1624, 107
+  xy: 2391, 159
   size: 10, 48
   orig: 48, 48
   offset: 19, 0
   index: -1
 sprites/wires/sets/first_split
   rotate: false
-  xy: 1090, 34
+  xy: 1176, 52
   size: 48, 29
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/wires/sets/first_turn
   rotate: false
-  xy: 1104, 3
+  xy: 2586, 175
   size: 29, 29
   orig: 48, 48
   offset: 19, 0
   index: -1
 sprites/wires/sets/second_cross
   rotate: false
-  xy: 1428, 157
+  xy: 1428, 156
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/wires/sets/second_forward
   rotate: false
-  xy: 2034, 25
+  xy: 2726, 156
   size: 10, 48
   orig: 48, 48
   offset: 19, 0
   index: -1
 sprites/wires/sets/second_split
   rotate: false
-  xy: 1140, 34
+  xy: 1668, 125
   size: 48, 29
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/wires/sets/second_turn
   rotate: false
-  xy: 1135, 3
+  xy: 2617, 175
   size: 29, 29
   orig: 48, 48
   offset: 19, 0
   index: -1
 sprites/wires/wires_preview
   rotate: false
-  xy: 1637, 3
+  xy: 558, 41
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
@@ -18365,7 +18393,7 @@ sprites/wires/wires_preview
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = (function() {
-        return JSON.parse(__webpack_require__(/*! global-compression */ "./src/js/core/lzstring.js").decompressX64("N4IgZgTghgtgpgZxALlAgDhAlgF0QegCM4AbHIgVyzPzAHsIB3KCAEwH0BGAOnQDsA5ilCRYcYSAAeKABwA2AMwAaEAE9ZKxigAsABhUALHTIC+KiHRxQ8rFGCgkEcFTmwx4t5K4rOQGbHgAynQUEADGcIFYAF7iqFI6KurI+iBayHqGxmZ+IeGRMXGg6doyWRmmOf64BMQ0hFQ09EwsHJy6vIISovAS0siccgDsZWoo7UOaOqlGFTkWVjZ2Dk4ubh4o3r7VQXkRUbF9iWMpUxkz2SoIewWH8SWjs6UmVZg1CESk5A3U5M3MbC4PH4QniPSKCQGAE4AKypZJDABMZ0yICepnMlmscE89kcvlcWHcOM2EB8Vzeu1C+0KRwySRQqRKFzmVxuBwhD3Kz1eAVqX0ov1oDABbURnVBImgvXi-UGiNGyRhkzS025GJAC2xuJWBPWJK8ZO2lMi7NpsuOySZarRl1y1NunOM6peFL5Hzq30afxFrS4Cgl3WlELlw3hKGVKJZz0xiwNeNWIEJxM8WzdNWCDo5dO0DNOqvOLrZWfNxWdtrmvPen3q3uFLUB4pBQbEdKhuhhefaUaLmqxS2QCb1RI2hvJfhNmfy2Yt9JO1sLFZj9unpYLpRdVbwHoFPyavsBAebYODbe0KuS3fX0Y1WoHQ7WI4NaYnfKnNLuoH6ufnPaXGuuEtP3XR5si3flayFf4-W0QMT1bWcoShRUIxVZlezveNdUfFNSXHHZTSAkNLUZP90SqM1gK5f9XVfatPUFfcGw4GE4KlBCv3GXRUWSORO2vDD+yw-EcNHF8CPfR0czzBdUXI4tVyo8tyPAndIKY0V2DkNjwFPWd2hkZETj4si7UwnURKTfVUyNdMqUU4i5ytUzWRXD8nQqTc7Igr0oIPDghh08E6U4ThER-Xj+PQmjY21ZZLOTMTbLo+z3Ok38BJitypPuZSwO8tTfI0v0ZCCvTOIGQY5DzEzMvkvs4wsxNEufZKJMoxyItIuq7UAhyJGolSCprIqfWY9goTKjjIUGBRqpOAyXOXcz4ua6y8ONN8OvS5yetcvq0tyzyaNUkbGPIEg4DAHAuCmmUKs4GQwq7OQjJKH8nm0eYhKa4dcLHTaM222dwznd7uS+hTDrLY6hpSnzzvwS7rq4Dpj3Y+6ZoUIZQdq8Gl0hhq4sHbCrKfGz8MnYGKtBn98c+iiiIGvLK2Ghi9wuq6btCu7HM4bRBhqqKdA+kXvsa1a-qSymtqZkG8zpkWIcZ-qjo3E62d3Otke5psungzG5RhcKauUddRYyQmVpJhL1oB7zJJnGmFZRC3tEJg6cph9W4YIwrEZ1-1eZC5Vcc4V3ldi+9SZainAdSr3IVpiOCZV6GQK8+H-Y5pGufYPXJV06a5RkGEUIGV6U4ZqPhLW8mNod6mk5d83I+yp2M41rOzpzwOj31jG+fbLqK7epXU5r37RNamWgbl52TkVy2289jvBvy7v2e1vPYPRovDfGWFQflKuxcnyXp7jxv5+bxfT8ttPE-X1nN61oVA9Yvfgv0pD5svORw6twnkTaOtt6723ho7Nc-Rk5AOru3Ncz8eSa3UpzFG2kv7lUhMhKEXZAH0zPiA2uUsZ7x0IqrBeyQl7uxXk3JBlQUGjVzijQKmDi7jERLocuwx77u3FsTB8ZN-riSpjfGBLcCEPyhk-FmyDX6oOYTdUqbCD4DERDCEePC4GEOtoI2ODdIFN3EXfbRUiEFKVhhvP2Pdt4o0miovmChdC4zQuPeBuiY52xEbLCht8qG8I9nQ2RDD5FMOwAIAw3Ng76SRKDIY81JF8PPjbOuwi2qiN8d+CRbjCGr0QcE2i1it5CnCZE1G0SHql1Bk4gJ-DQGpOlmQqBwEskmMSYEm+9DCkmmznWUp3NgQD33nzGQUI-4oBqaYpJRCp5CMadfTJJEwY5LMXkixPsrE9JsSUrAETdYVJmlCbQRlkiIgSSs6ZHiwFpNngnDurT-FTI6b4rpp1ik0H6UHBxIVkLlzObU5JeivHpJ8enB5xx2mPzXgUt5b8Pm7LKQXFsqjODxPGcgeJAKZkXzmaQhZYKlnULds89OrzGGI0+f3Qu39KnPROJip5dTiGXwMe1MRhKsVrI8hsl+RS4XkE+bvIZNKZql3LgyyFgLPHgO8XPRZTkIUXJJTIyxvKtnvIFQim6n9hVYLlMPPMEqlVMtmfoiBbL5UjyJbQzpMLyU50+Rg3V7DoRQhOSgIYwtl7AKuQ0vFhj2UKuWd6+BXLmaqrkXyhRnzWHOpRUMOlyRJmSuxSkkhV8A2WuySG3JQSI0hKjWErV7BlFxr5p68uybjVSuufMzNBKg3WuAWGtWoE1Xum2fCvZE0Dkl24nmKtOazG+vTayjJDarWcrzTyyN6qSA+DeHwHAHwoB8AcKoWIEBe0oDdeXTgkZO71RHSy8147E7GN2l06R0L83dI7YQedcBF3LqIA4VdEQt3fMQpM05uhXHIBkCqI9P0cVmtlXc6BEYZJnEA72FtMMxmZyKY+59Ho318A-QAWngBAAQcBP1lpCnxP5f6URAbMiBtNJ7wPkIbYAy9OhyP7WnW22d96UPYCXWhkg778PYfw3hiAmGsB8AAG74acNuyqXC8ycP-TO28lGgUypBXKhtoNZKsYAixpDc6F2cZfYQdDWGcOCcw4SdAl0pOotIycThowkFDBNaB4FtzaPnu6gxiNTnr35NvW8jjInDPGb4xgEguA8AEepXqlAch+0nAPSUJjy0lPSpuU0ox4xoPrmS9p21-m2aBa46+njGHQuWYi3xkT4mICSa-RVKEIwuyJYKTWv1GaLXqey1e8x3KtN3vokV4LpWsNhcq0JizVn6uioPb+hzsifOpuU+l-FHn8yXhRKxxb8HD2bPY-poLhV2A6yk0MBQZtLz4OrUttLdbOtrdgSmnbZLN5DaO-06zsSXpjyHZc1Ltb-X3fuRyxlvn1n9YCwd4rnp2A4DoOgKTnDbO-vkzeZzVHcUdbPcDoNsk0dg767p-bT6DMfDCHQGA6AWDWAYFJ0Z3DNPchhOj5bd3seQfW91JBzOCfhoUwN7cRA3v4HJ3wBAVgl3sAQLstdJA6fqLwWcOabdj2Y7HaCtb6KFzK+bTpruyGocvrCBQHAkW6cKHo1xf9sGsqq7A6piDLSoMZXSDb+qz2d3zV9npknh2Rcm8i5hnjTgovIscjCSuC0WvIChGbYDEsMf27c80xy7r8zpFj3BvNiH9c+9Q-703fGACOFAoCsGszby80fUW5ZZ7dwH7OncYu6+MIYtfedHU4G6ong3DcfFYFgMLUBVBSexui0KvC5B14B1jjXOO08-ZoUuKfHfvYQ8K332gvx8One0PxFHZxu+2-++19Xam1sjwXEf932evd7d7774rBhVDoHw+FvgABrazChtDorxigREIyJ4FfG7GfM-R3RxLsM4QA7kEAj3ArV7TfZ-V-CAd-D-TDZAt-ETD-dgOAJdaAMrazXQBUPBL1HldsafU-U9OfDnapTbcoCg1fXbGPKfSHR-F9TA1A7AjAl-LAz-XAyQXAazMKPdfdegisRg0AqgmjFPOkOg5gyQ+A8g1gjfdgj4TgtA47Lmazd2UGEggsC3coBQHnKQ0dag8-HHS3NRJXQBWYYwqFPzfnNg-PDQ7A9gD7abI2LvWTc5ZAQwisewtrMwmQzLCuLsH7fwuwkwpQ9fRAtQ-AGoGAdgTAOgVgCgD9azZUC8K3FEfiePARevWfCwjnNPWSPI3qPXb3YnfPS6Grb-REXBOzCI8ojITgSg4Ih3dzHHdFZo7kNopgl7A3eIkgOgAQLAMIdgAQbEazQA0Qs2JBREdo6jTo2Q+WF3WRRYgYu1OImo0Y8YyY7ETDPgSwKTOQbQC7D1FEOPCjBPVnBvGgpvC49PHQa45jfLJw1Q3YsYiYqYvATDWnTwjhJrBaTgeYjYpYtXcwiAuQlvCNTY3rPnWIoYr4-Y34uATDSQAEwjfSbGUQq7CNK2E-Do5PUIjTcQ0NSo+-QXB9TfGAETHfQE5APiJ46Pc8QSW4wo8ArojnKw2SdvBE1tHvak4XOkvgPjMIAwKAETKAB9OAU7GEKw1k-ku3VzDLQNXksjLPd4pEvPUnfAUUvjVgOAJ9GYmTOzWzHrFUlTEkwNMk5g5cGIoU2oEUrASQBk7EiqPiY+C02QRo-I+pYktU+VJ4hcUZLUl5T3J0j0YXKnILd06LF1OacfaPHPf05lSEkI202E1Mio-LHM9tB-fPWMpdQ0kIWUivbIpk-E-Mo5CEpPIMrrdYlghg5VG9GslQnYvU4swPOkiACwCAHEKTX-Eefdf9fMlLDksAqE7kpvO0jPO-N4iM5s3PaorsqUksoTEvMvazWTBcR6Wwm4goqczM4M2E-c8M0lQ+IAqk50zfAcsveMsPEKWY5reTfrII5Ym0+VOc1rAUtfKMoXO8oSUPA2PmREYEqvN89ko86QlY0k2E-nLYhA5EvUzCITMIMIRgeovdVk980wz8hsh7BCvCx0lcws1C4CzDTCR6NGD0rGCC8YXC6CgMgi1bHHH829JCj4zsv3cXKAMID-R80CukGQBQRog-AsMM4-Sc2Cr8htEMmDP03Mpc8cgtXU3iuHaAPDUfUSvMGERo13C2MZOs1UtijnLXGDIyuA2-BgjslCv3VwVdaXcXLEhM1RBUkeAyiZFoicmCwMsy2c2E4wi8lVbi+y4rRysXQfTS7DLAPshgQcxksKWbVvJXN2RTGS-y+tNbfmIK9Khw8HACmk+IxyhAAwTIs0iSy0ok1i7K9i4ikKm9MK9S4rCgPgI03DCwNqjgGHPA1wEfJKr7BaGA5ghQDKvy2qoHWgrsRnAIvLJc5q1cv3bqgTLq9q9gXq-A1QczLAfDJFYS-Sc8UQxfVjBQEy60wi+qhLckl4gqwnMi4UzfFazqkIda3qwQnAT7HGcIk6ow8alijMuCrMpsnlMau6xEoq4XZ6gQNanqr4AQ3AHavaivThH6m6vw-69M+sgKxyDi0G+ay85Clql9UTOKnAUvEgZIiwCIBAa4ECweEOMuXcqC6SiawGuSoikGkiykgsx6+I0miAcmhwKmugGmumzDbsoShm2cc7Y+fEpfNM01UyuqjnS-XhAm0KnUpa4rAWoWymlIsWhgKi4CnQs7ZraAg81yK0lbFWpvXKpsxES2h0nmtjciv3XWimkWw2oTPigSqW4ZOkGEBUvMebX7TGpWi6nGnaLnC5DWpqrWt2nWsmz2g2xAcWtq32wS+mgO-SOLEjFmxWlzSO223GhqrKUiqoxOl9RgOKuAWHNqsUuXJK2ESs+zdG88c6m2qawKrm7kbbF2tS+9RoAfQQFdWXDdf2kVfoN1b0guw8gG7GkumE3u8ugegXWoYekTAQbjXjbOqe2QMS18mDZUmq9my6jnffGOgDfk+A1S9ej0Te0ekrXe-jXDSemLZAIOy+z+0OtkpcRba2tnB4vmBC5Lfu7Uoqx+7e5+srITUzKrMTCTOUpK16HC3+rbTuoB4onurzGdcBhahO6kqBne2B1+szSbZBuiuUT1Vus0xzTB+47B0ulep4fBwmxa+iYhmB0bCrQvPej+mQbQcSiMX+sBhhoo6E-SUBvu8GwUh6je6gEe6BozEbcrcLPh4TRB2rShtykZZHAAuhhbcRrk1YyhK+vB2R-8+Rh+xRrekhnh9RwPCh6zdsWh9BmRj8s+qOtYjbe0thzWyB2xp+mHE7RktvYRyqLFQBxhyRsx4NBW3NCB6xztNBG6Wi3RukcJxXUHfCrxpenxxVX7VsxwwhhRkgJR97LVT7OQcfSPFNaJiRmczqbNBJ1ZNe2FaNYtdJp8mJGp77KJ0+xe7u5ptpa7Cum8mx8puxkaWHeHazYYHC1HZirG5W4Z6O54xcG-JJyu6k-lesTSbpg6h6BZo+vaXyhe1ZxvEZ3B-HP8+0wezhoJ6B8nSnanTSqTI5Bndukwhpkx+ClhnQaI9ptmLh0XPiyXaXAQWXHQyPSKJXBcv7TKyaq5ukCygwhF4pwq5JvcCpgvM3JK3Qbw8063E+pFvJtZ2cb+0Mm+my7F0FgPPjYPd+l1L+masc1485lZ4uiliqUow-DluOvzO+t5eljRrc8vRk7GPQn0gYNvZZiOrulF2cSsvcuV1e-LLva83msp3FgfIfAaqhnQEay7SfYx6c0xyEBfU1ri0pyZ3FsAbffhl1PiSs0cw-W535810Iql91xqoVhFh5ohp59QigQgHc+lPcwR8oR6H5wZy54B9ZpeR6C2GNyxgsTV6Nt1e+xiXF1wz-Cq3GJeEa4As1k8ujJ4-E4tnQay7ZiZnN6ZvN9Axt3A-A3jIghiyqMgttSQz1stzmpNdGxQnm4ykV4N-ARtnglAzQuAD64Qjt0KLthg3QUtoG78gdQd5dm12y7NnFht3grg-g0Jw1gYIOhfL1SIiZQksloZpVh6LsMEvwy2n-NNwY9VLh5tjw49wYJfU5fEi9vwq9tmm9hN3O+9mwowzF+6nZnV6ZxIkWtIjIxkhUCt+Wny8OouxVkD3lhCtDl97YopLh2o5llFPQEeREB9n-bkTd3J4DphzJ2TNKqjvDomoesdkY74g4vACvEc9xpcfomj+NujgpjZmdfj8Z7Vu16Z9j1Ew444z6xkuQGQcVK4+VjDrB2JyEBS9cAV5jjhoNqZp+6Tn4w41ynph6BQfQy7B9mdeE3t1dxs3B1jeE8T12-T3Fozzj9EzEp1kjyz8YCfe0wDi57l29vxcx1jSDiGulsdg0nzxyHGNPJU1TxPQTjTuUaR9VghwJgz6B2LzDCU9cmUqbY9mQZxPS+TUloD1LppkKDLrZrL6LnLj4PLo0k0pK9RfO9u9DlLkLrDsLkT7m2tiT+tp+ukt0uLzJoR0513PCuzjmnHNWySwblSgNndrhyWibylqb4lw-Vbzx2jtLzzK+u+pC4VkFsdjbzDVgMs4rjJ2cBUb+gBXblsld+b6apsmsyLo6dstbi79cnsuK-sxK49s42hscvbgT3roTuJq-CH2+1b0dpr-AS78Vis5ms4c81m4LzD6HzTs8p6P1ixDNxr3F+8jq7-Sqgxueq2uNqHw7znAbwnqDut3dp+tC7-Jmnb+5178+nB8LpnqL6DyTtnyijCrCpKvQTr7n-b6ri1i9fnzL9h21kb6BtC42uMGinQznqq38ub3n5hxzgXuRoXlXj4TO4j+LgWNlmDWb2nnH+nxbmbo3hDBH87pHlyrSnRszyEX-CJ-Syy7dmXunmr2cNFwywPu5+c7dxH3FyK5y959r1Ghaf9YKrHrl+3kPmHpXXDrdkn6ZuP6Ko23soHiVr9hoitlP-KoPjPuX8YR3y9537nmP-P6AMq02xZrrnn7xrP6XyP-Dt9sd6G2Gja+GvqiAA1u7ypb64axfJjMG6v9TzPmaGazUua3T5X1n6Bof16uGsgFt-qpGiAfa6W3lyj5P1fp4Wzu3xf2vgYGqC-o19f7L3F7f7qkfvfmdoQ5uoly8EapLP6rvvkzvYg05+grLFib034fBX+b1Ufh9UP7H8c6D0JCBW0doP8MagAnlsvxAEADc+EArhh7WFqp1aapnI5jNGNgd9e+evbvv11mr1clez-aZgQP1rU006RtDbkOUU55gvKYdDAaF3BQicq+ffFjo8yR5MCvarAoTOzwl455LwRbJ2t1zuKNNb+9tLzKgMV4BM8+T9MQUQPFrm9NuFUfSpWXkyCCqBQAn3ghUEEudA2MHLQcnUIEsDiBQmDOlYD9r6CyB87JimnwVY39-mhvdQfHQYFP0a6A5eunwEbqZE-OAwXQNwL-olsF+MTJfulwWhoDf8T-ZJuThGK1ZAKXvUgaGDVZJp-0j0aNgoM5JetgaXmIoRWEejMdKhswaoadAyEMAycqgVdMIXbAKwvUtQ8YCUOPL2d+2V9LoQMDAEeRBh9Q4aI0KyEw1jSfAeZvkNSrps201Q+IUoN8EDDFhww8NKMOsFk46AmQj4OgFCCWYchJ-MgT-1iwY91hvAvrvLw2ZbCahlwhobsKaH4ABypfSfmQMPrJCFhxQq4bjxuGRsfhSFO4Y8L2H4A2qEw4Hu8KNj+8vh6QO4csL+blC1hgIoQcCPGFPCshjAAwDUEyJDAIm+JeEZDxr6rDbhlwoEQ8PRGgjVApAEYuLy-b6V8RFwlEaYMwH-CmRVQjYZ3gpHdwjSDQAQPgH4oRB0AmlKXCMXk5ftiCx8YOuuG5C-D6eeNWUVxVlGnReRFAfkXAAABWcAMICKIQBijPsiaLiPLUVFEifBSIkTiaKULKjhodJBAGEHHaht2AA+AcjqKwB0A+A7AETAPjCA043B-QSvAAQx4LlBgcoxIUd1uHBia2S5QWFULspbJbR9o5tgIDoCpF2ALACwHSKhHjA5AjWBWD9lBLRszqCIsoWuybIFiqhRY1Ea8VBLZsExyPBwXTSdGD4iukI73nKCqjrsCw+hWYA0VDG38rWXYttL2KQoWcjCixU6HWJ0EMAmxdo90WKR1GtjchjFUuLJm4HkcjC1HFkXwOdynJoCrxJxMx1HEBFxxNowfPaLJ74Z2AdAGrDxgn5tiuIqfBEPC3KDqI+xoRcfBEQXKvjcBdbOsXqMsAbUy8aY+KpmPvEVxcxdmQodWMrFbjrh4YvctBJqGISJxZ4-AP+JujJjUx6YugKBKXFqIk+u49NohOLF9srqFQ4iVWMLG1jUJHvKAHhivE3jh84bAdgYRZD7o3x5o7XGxKBb5ZJkdQ5nChLtH4BmAL+OgEFgNEjl8xKbEArBL+FZYyx0kmoZGOolCSRJ6AMSZLmCGIBMiETfMcpJIl9CyJAw-SaiOUmnQtJHoFMZdFXTsAhwX1KAumy1bsSDJb3JvGngJFOSeJ0YsycNAslEArJcAGyVsERy6AxqM1JeEpRPYcTTysIndNGy8mE0YxdQuMR2j8l6tLMw+bIaPieJ6To2Mk6-gkNv4cUkp2YpSXlOzZpTB8GU1QCLhaEzDGS0owiXCJMmyT5RZ5EyfARKkVwKptdfvFVNvH4ApheBU4rpKDHlSXJ+vZehUI6l5oupIY8yb1PwDpSBpBwiAEcJmI5SxpsY6KQ52MnjTTJ5UhaQOT6n6sXhi4k4XKCt52YtpyUnaf0IjH7TOpPk7uJVNOlYicRKDM4Z-RumlSJp1Atkemxmkatnp1iV6dVPwDUiSAtI+ZkHU7HNT9prUsMQzz3JAzvJh03yYtKI4QArx9Ur9kmVkwUcEWm4gqSsMDQ9FnxS4ajlYJ6nHSkYexH0ZTUFFPoE+X7MZHuhNhdj9x+U69rL1CLljVBXMtISbz8lGdhamo7USzKzGVQZB8k9IFW2QDkc7plhevgrK1aKyfxw3PyWKRwCMAGAOBUXGAHCw6iiC39XKdtL+lmCAZ8M82QdO2lHSCA2s3WRABwJwBKcOAO8XhMGAQTkg3AsQjbMRnKCzyLREMUCJBlbI-J14t-MPlhzUBjhiAmaAAj0IUctWFnJWe9y8xHi7CznPNJnImQniXpi0pwEbndGGzxiN0MIBYFpofNp+l4GVohVNGFSSRtA5SvQOSZ+Si5OwvgKXJ1G2T-I8zGMUqEKEesSZiI+VF9L3K3NqZ9ss3nAGLldyjZN0MbOKKlntAeIDfZgsOIbmkzSxl4GIUOKhBCy627c2eZ3O7k3RyaEAXGSvL-RPEH2DRF8QfItmsjD4XYNcZFM3lTyMZtMjuVvlqzlzK5CAYQtryp6d8n5245GaAqEF6cCAx8l9A6z-m9zmI8zDmbXKHnJdFBo8ujBEwnmN9X2qUwuSfN-ni4pcvDIgu0JOBn9n4m8gOSSKJZULH5UC5XrAo+DwLiFF8q+WBNCjxYWJcs9+QwpoXql8Rb8h+YfM1kEKX0TgUXBwArl0Aq5EvSIW60oEjySxu0xnv4JKYAVmFaE7Ue6I4DQQ2AIUs-qck6HDyeZwfZQdgox6TzgWBc7+YQskW6KSF6jYQmvIA7o1qFyi0ienJfkbyGFn82xQQB-kOL1q7C4Qo+ImTQE+Facu2kIsiUiKNZrnGBYtIslU04ApNOALhIunZjsYcM7MQjM8WGTvFD0m2U9MOk5B4AVgCQESDolxAQA1gYPLoGOxF5AwKgZoDAGsAoAQAAAJQADiAAIQACCSnJTiACuB+ZOEPKdRHAQZm1KOg6iEAC8CAA"));
+        return JSON.parse(__webpack_require__(/*! global-compression */ "./src/js/core/lzstring.js").decompressX64("N4IgZgTghgtgpgZxALlAgDhAlgF0QegCM4AbHIgVyzPzAHsIB3KCAEwH0BGAOnQDsA5ilCRYcYSAAeKTgHYAbACYANCACeMgKyzVjFABYADKoAWBgBwBfVRDo4oeVijBQSCOKpzYY8J8i8UHiAY2HgAynQUEADGcGFYAF7iqFIGqhrIxiB6yEamFtbBkTFxicmgOfrm+blWhSG4BMQ0hFQ09EwsHJyGvIISovAS0siKnHnqWvK6BllmtYW29o7Oru6e3r4oAUEN4cWx8UnDaZOZM7lzBaoIB6XHKZXVIPNVlvWYjQhEpOSt1OQOsw2FwePwhClBuVUqNOOYVGdOJpptlZjU3jY7A44H4XG4gl4sD4cdsIIEbp99lFDmUTrl0igspUrgsbncjtCnui6hTQk1fpQAbQGMDuoo+hCRNAhikRop5foGcgkSjmdzFliVsg8esQITiX4drzGhFqfdoSNFWcmWiXtcimaORIuXaFh8+d9mn82oCRV0uABmCUDaUWlDy+QojIqi4TV5WTHLEnatYEzbJo3BSlxdm02WnDI2y7qtmOvMVCzq91fH4tH3Czog8XgkNiOlwwxW6PaWMsjEgJbY3GpjZErb+Mm7bOmkpO-P0629ksO2fl1G1KvGvCegX-dp+kFBluQ0Pt8z6KNaHTruP2wdanVpscZydbnNlh6gS1Kou31krmlPxvZ543eN8dzrIUgX9fRgxPNt5zhcxnm7a81Vdft72TR9RwNUlySzPkZ0AsMF0LJcMITADzWdStKLAwiay9QV90bDhNDgqUEK-GQAE4AyyVCKNAxMh1WfFcPHTM9nfVcgO-Rcbz7Kjbg-Tk6NA6tt1rb0oIPDh5E48BT0Q3jZARISlOXLDhwkvV00NV9GKpOTSK7RlhPtVTXNojd6K0-lINY0V2FkIyoTpRRDHGJUkTQ20RIHTVsJHezn0cgiZOImj53c84rPo0sfMeDSCgCiDdOC-1zHCkyeNGQxkVipqCsSmzxN1fUpKcrLc3kgsPNary+vUvzNPAnSWN9Nj2F42ruJhKLeJQqZPP-dqUzsrqX0y6cRrpPLf2U+p9pKsayom5i93IEg4DAHAuHmmV6vGeReNinpYytV59A1JNbM6hz8KnIjTvqwTTkqb6DF+oqSN8qpN2cwLKpuu6Hp6J7SIDKoAyVMZf2h3JYaS-6OqfPCJ120G1LpCGFyh9ESe8+GzsR-zLt3etbvu0EsbpANNEUd6zgJr6mb+sTNsB9LgbfbK53BpUrUZjDmbB4CkZkiqpvwHmMebfp4OemFBdkTR8c+m8if0EmNpwtLKekvbafnemVZhiW4ZyitzrdTmgrR3nOCPI2uJNkYAyUThLcJr3Salh3toykGTQ1kZ3fFtWTtd332fG5GdeuvX0fYQ3JWMhaRiRJEPrj7PRIfVLk7l5GFbXDPlazn6c+KvOQIuwvJuL-X2FDiuIsQ5EY8RK3VZ7xuUq2oGqdTlzWaVs4PeJ+OWZ9zWOaHq7udL2Dj3D7GouvDIxet+P7eblfnZpvuYUzu+G+oxWD4L7Xh5P3mHFz6VwjigAMihNB41FnPT2n8H7L1lqveW6dBoZG3rbXeGsXS-2zEXABD1DLAMnvVcBvERY3xgTvOByUAYU26tTNOuc35dw-gvL+a5sGDz-sfIUo8wpELqqbHGFtoH1zYfAmWTseou1fp3Le3cYa9w3j-LhuD-68NLjVARVcwEBl4jPChYjFGL1oZJHaa9ZLKLkWghRxMlH704f7I+XMNG8zmto0ByAcYBmvuGShGDqFk2lnQ8xyCmHWMhrAthe9v6OLeOVdRNBsACBMBjfm84o7yF8bCIxdiTHkzMSnMJsiBoMyicY9hQE4k8mcYHfAyTUlcF6B40icI8oxVYRUiRISiltxQWRSJVDolYNKk47hLiklYBSRjMEYcQGkUUAJWK6CbZ2xoQUx29CLHt36gMspQyKkxI4aM+JAdUb1KmY0zg5dWyeMUAoZZtjbaSybggqRDD177wUjYzpeTKmjXzqoj0iTyANIxuPW5l8LIyBWffdZwTCmt16uE0psLP5HKqScmp4y6lgrLukkhsgQ6xyeWsoJScn7SJflY1FpL7GxKxQxHF5y8UQuNtjc25C-G5OefkhFmzQl9JRXstFwymHVKZWonhkzpnsDPnM4hptzCNRJb83lCdXmSK2cUmlIq6XewZX7U5tSWWXIekAhVgjI7mE0AY7l+qNVLy1YK5FJS9VqvVuKxlCTpWgrNewQhlqdFePMGZVV88unwopYg5+jC3V5VFYckZRrsVSomX62V-Cg2eL0foKBhiHXdMRUgoV8aWERr+RigFA8xlptxf6rR2bsbLS5TkwtUbH4xqpXG3VCaHVVoRjW41zLdZ4vcU2g6hhBbhvKX8otAremut7eW2d6qB1syHam4FhASCBE+HwHA3woB8FcGoJIEACUwl4ooFayoWoSr5dG952z+n01-Ju+lxyU2Su3buuA+7D1EFcMe2IF6Wl0n4vTKKqoUDmGvG1DtbztWlt1SI8i644PLnXb7XiKIcG-r3dgA9npgN8FAwAWi9OR6ItgEC3AAG5wDAxO+cNq8ryB5WSxOnbn06q+WA2K-bk2AtrQR-9RHAOEFIxR+AEABBMcvdXeQmhb3QdjPBu8iHnWLpkbqu1+VKgaf-NhlRommJ-oAyRkgIGmPkdk-JiA5GsB8EYxAdwimZA9FU4YGD37H08eQ0u-j+V0MPv+YOrWUqLMSaszZxz9nbOEnQLdDzypZCGGyVfWMQ7ZAvKdT0pFungtvuy+iXLBqv0ieHVFwjznJPSdsxgEguA8DMYnla8MjVLwNV8-oIzmEtMFZLUF7+1cfzqaw8Jj9Prot1di2RxryWWu2ec659z4H5xmVvTGUzA3yUBZdUV0bqDBphZMxKmbtXiNAeswtxzTXluOaSyljbL0bWZYy6VjC5XHWmIXYV6lxXBO7Z++d71l1ZvXa9OwfWqXeKGHphx9t+2kOHcB8dkLgyAlitfhdiHV3JO-HYGC1LIdZDZM4P41ZeW-st2G0djutKPWfsxd+y74m5s6XYDgOg6BSdZO2-ehKmmUfaYBz24Lh01r9jB2z-HHPrvRDoDAdALAHAMFS5oLXSpNAiziZoGnGy6exs+Rjkru2DcVdZ1Vrd5mCffCV3wBA9gD3sAQFMk9JBUuLMgbFeQUCchRzhaLobJvLHBe60WIP6KpuRbE5Z-A0QKA4Fa6l8wAZ9M9F85hwqv2jeUo+eHjHaHTuwf6ypZNuG4924V4BpPKfbPWfcG1yFdJkTQrvb5-i1lBvFrDzshZ431zd9z7Lqvh9uGQ7r8n1r5GACOFAoCsFJzn7svm5Dl8N-y433bTeM+QNkosG-JteuVNe6v2kd32-wKwLATWoBqG9+YLJ+NDDPArReLfT7AsM92R3hEH+8gLO1aF+TQU+3wYAAICmr2MIsg+gJePWFw5+ue86O+heA+B0Q+OQyBiUY+eGQKNeCeJgag6ATGzWfAAA1vzp9oiG-hcPKOiEAf5qjjpujvvsSoiPQQiK8EweFhuqAZ6OAfgMQaQRAOQRQeRiIWQc5hQewHAAetAAtqToYDeh9OgjWvDl-gdqwRLmbkqAHqMpoVbiAa6Lhj+oQTFsISQdIZQZIdYWITIXIZILgKTtctth0o4kYXntvgXi+sKvTAYX7F4bLiJmYezkQfYeITDujKlrbP-jPIHjPPMILFoSweLnvrspngAWAkkWApbnwf3AIUQEIVIQ4ZQcTmarEebJbBcBnjUCkcwWLvTmwZkd1tcrUbkV4vkSEdNvLgno0DAOwJgHQKwBQKBt7voGQq-r1iIghiHn3rvkXvvh3r+LMcNKfjbuYZfkIbdK5vznUbPNvNOhhJwKkU0f3v0t1tkV0eiKccYRFhPjVrXt8CQHQAIFgNEOwAINiKlulggUoF9q8IoGcaHosRgW7FgScsCfcfwY8fHpYa8e8Z8d8XgORnwHYN7uTh9r1lAnMdxmkc0bofvvmqXrkLiesbjuDkfDsW8R8V8diORhrjAXKLxLrpbNcVVtCd4d-mjkSbsubnElyT0UUVfs8XrLSciQyZIEySxvVBxv8e+sHviecWCa+pCUap6pSXLtSdfjAM5tAbKYtD0AgWpjeJvo0aCegf0vpr+OaQUbtrbtsbqfqY5tECYFAM5lADunAN7lFCSYgWaT3vMf9oSRka0uqX1iflqZseEZYXqXwLZqwHAP+qTlFN5r1h+haQsVaf4RGZmfaXjjqWKXqZIAae1sGspvTFnhcKGkGcqZaX4W6v6UWLWaPpXvgWZk6WKarnVmWa3hkpGM1F3h2XtvWdmY2bqgKSgOPrge2SKUIT2QeomZEN6SvtkkjsPh2bxFxpqg2XxnoYpNgVuZqcokeTUGEX0ZYYubPnqRALYBADiLEfIO0kLsgDOSLmOSGRcbmYedOSORXqfu+Z2WAdftebZgvkvqTrFHrjIOYJ0aObueOfucSeqXCPBQBVqZwDgQQV2Qng+Uvn2eyu2PKILhmXWYhV+aqT+aFoyjCYUXCRYZzlhC3kRYhPcqRYCR+RRWgROUDr+X5gWVSZPtfsxdRtEIwKTuAhxQ6SCUhShnxTRQJcKQxbhZYaJVhB2JJbINJWFqgb4chfyXmVGaeUJU8Qns7lANEBQYRRfHSOnq2qaTkK2XidxfpfJRjs2TWSLLOYBf+VsSBWKc7gwFAPJqlgGOnjru-rBkTGYVmZRTmW6pHjWTFbwXgeeUAbGZzl4Meu7kFSxbZYhFOojkcWsetL3vFbxQeYpccT5dGb0UWQntlU7nfjzvFlgHeQwI+cyZ5p2EqM+bUTbFRHpV2glXplLuuDjMZQ4qZfCVldAAgCYKTpoHQaLD5pxWVcGTxQZaRFOUpbHipQFQnhQHwEmXJrYMdRwNDvIV4I-t1cqCRR9GRa6OFbJRVdtXTLFIqc9RhSZdqcJWKRdUxgIOdSdewFdQoWoORjgFgExjcqxXKdrmcPIAkScgGK9Vte5fvvTCInEmjXRTJZlddoDWdZEKDVdc4TgGFY1A5ZwE9ckUNeVRjSNljUZd9cAQ8fhoxUTSdUDSDZdUTnABTVDTDRAHDQVS9OxY9etS9XFUzb-jtazfTezbCZzapZzvRu1TgIviQEMbYLEHRjKeWZ4kiCptMetQhflnJczYZfxZsfjYWf9QnhrRAFra4LrXQPrbcI5mBflfMpFLrv6Y5augzZtW5dbW5BGYNcrfRarYdZYc7a7TrcMZ7QwORsxRMVOn7kWGMORZbW9ZjZkeNTkDnW2RsfVY7fHZrdre7SnfdvYFZTZX7fOIoPIDambWqiHZ+XLS0RHbbVHfbTNVzYBgndXcnYgF7eRsdRZQ3b7YqkpitTfGtTJbLWHfLR9bbfmcpbHYIdfowO1XANzsdQmV7ndVhT2KtfFEaj9sNbxgXQrRvWVtHQTZdG0LfoIEep7meo3XPdOVFJ9XTVxXnd3XyffYpXbYJX9VKq-c5gIPNuMXdfZUOTWXaTfT-j3W3uqTnrVb9UBdVtutA+-TdnFpRr8NRrRgxt-R1qMAJNtgCTeOSWSejavegxkvjLGAw3mk-Q7VA9QG-bA0Q3dnZkDZQ8GlFDQYvZfZGd9kwyNZVewRGf1qDvtdvSxHw3A7Zglo5qtkxutoaUpqoYiOfXEtfYzcwyA+vWAzllw4PZfgQ-w1JrdjJsI09tgMlj6afebB9pI1YyvbI+9RCQ-dIwPZA-g7wzA+o-dktg3rPVQ4stFK-pI4ozI7feHe2Ao4-cEzGS-WE4Qw48Qw9tE05i5jo+43o7BeI51t4xk9ydoekUsTbZY9U1vThU0HYxE+RgU7Ps9qU0ba0vDl4+bSY6HX43fRYzIIM9YyE0xG01zrDnddud1huR-juUA2Y2GWM-stjkmmXSKemiXLzM0mU2+ReH1Zxsk2g+YwEz8ss5M1k0fDM9DiTqffoIsnXMjl3Ws-U73dc6uiedNVM5fns3ioc70+2C8-6ZTmc74yk2vblCugcpWsoy056A80Tjznzh43-YY5I8dNCxc+s3C7bbixA3cyOsXNBCCCC-2S9OZFWUY8LhtR8yM6k4S2A8S808BSizk-w0rirmrq1d7oLFBoYDBUavkag7yQS5vI0xhN0Ui5y6o+E4nnQE7i7g9O7gIJ7nDsgRkEs2AiOSs7Tp8+CXKeqdHjjr9aSzwyQGo4njPiI8bdFA5UvU5Sg6Y8y7C-VAgS2XaWlQdVyza0q-XrPk3g66RFrggdWcPhw53a5R6yw-VCsUgTG5M7g46a09yw7va45hBcvndT4sK+vuTrnUa-G5c-VIfhcMfqXZhdhQq3uLa7fvfrdUc8LBwYvVFQi5-ni5K185FGw2qqlfK3g9M5m7QFATExWefWvkgcSxKzoVKzCN67O1NYamm-5QG7ayYBQIQFBUjaK20jUHCOK+6zCwmzCH2uuIe66Me5M1hdwXxMCT6jM6UeIRMS3X7tcQwRhLwfO3UyazCO2+M+uN+zwbc+Xda1u5ETIXYaIVEddYobEModpWoetV4X+6GX21cwJqZsEfKxefc2O6+zB8R+UYLS4afXIO4eoeeYYOc72wBxEl4mh3R5kxoRldk4G4Q6R7IXM0c8taptcQcckYa-nmW4u2NoiIEcJ2An84ala6E1x-wzxxUdMhMctbFOZB0fUaJz4eJ1hy9G0dJ50TjOByKTMwMe7aMfA625oCc6tTMSW2J2e+W4tBGaVTLsO+m5u0q7sWG5Om0b5pNRhKxzUwSd+W6plgNeiKFxyyO7Y2O4iXSSiT09S6bAjjTYEVVncWFyqaNQpaSdl2Z-64q4Q0l5KaieiZTXdTet+4vTiU53py5xJzh2Aym2x+Z4lxKfSaiYbWlyMObP8RyUOlyRhxF5OYrQYEKV5xu6V-w+Vz13AORtKZO3ckYFBv4kOrpzyQuwZ8woExa-8wp6O0p98PGf583UiHlEHbkG68M813t5J2A76zN8+2O+d66e6Z6auTVxAv-i6wYHd0yw94x8B896u5VhB4p7ax9+RkmSmafRAumebbG6s-p6D5jgZrRSS1DydzD1gKWat6RHAa2jtk5fmWN1RWWvxchBD6zuu296d-gD7ZrpMe3WeSgae-i49ydlj2+X5cEwz5x7az7XDyuS9q223UjUWEBdufR7txj7tbL3J1+rLxx4R0z6L7efeV1Uc8+diUgQL7l3uaM9h3z+u4L35YzyLx6UuTm4vnm0c3CAb1e3BY1zt-+-0p5a7+hXe3W-Fxm0z-hadZJQvZ1gA4y3GyD2qQdxSZa7jwl0H8lET+2ILMj8vcb1bZ6-tzK9g0dwn4H7a6JdEOJaTkYOn7pVzwxzH7n3H-n510n0mI5hpcqmX6bQ5yj-L579RYV5va98L0q9PdZSn-OHAZngD8gLT5z-d9zxj0XbBn375Q37a3lSFal-DRe29JFclelV35hxj0lRhilam1uer9wjM01blQK6fT5uuSVe77U-vzX6STVXX-JwXz54Q5fy1andr51Y76C0QjjBiq0XafsD1n7Wl5+Xifujj2X5KtsqC1Mvih0MYR8LapbaPj3z57gM4u3nObt8GJrA1Sa-NMgHIQhphUegNNXrEZhlqZ986LLF6J9Qmxs0OuJXBtkqwIF80waAtCGsLVhpp4VUSNDkv1lG5V8Fe1pPqkwKBLFcVGbAwhhwKIFcCSB5Hark7ykpS1AyzA2gcAxa7Kh0mmgnAbN1kH8N5BF1RQQ9GUG8DRa5A9vhQioH1FUe6AiAcKhtKSCwEP1evqwJmYj03aY9A2iPxehCwdK2PSnvlyqq986eJhGQV4Kro+C9a49VOizxq7+5nWvWGASELka7IoBWzYzP3w162tvBSdOIX4LTrJ9MSmdFAfQV949sxBzgqASXTz7v84BhDAoTXXiF11LKw-TEgcXq5PIHBznJwdTzAYwCDB1vJVi0N8ET0p69dToafW0BBCBK6Q-xtK3CE1t4+TQ-hnvQfKH0+Ax9dTsK07ZSMwO1Q7vm6kzyuDcgQ7HZiVyVyvE3MxRQIJiVXywV18NaOEHv3G4Fc+ecII9u4MNTfCb2uAm4QwAdxqBj0T+CpsqGfxVtXhfQprgMIm78V-h8wN4cEyRGwVZuQIu4cDWTJ8An89yWKFCNd4-D3hVPBEYpTRGQi72MIjEXQFuHfB0AUQNxk-ikbRhCROQCkSiK0HGtn+Xw6kaiOpEJJMR3wB8gAP67hhn8FOKfuyL5Fcj0ePIo-DKNlwcjARtI4EfgGOqYjdegAxNshElGdtlRJI0ISzURGKjk0BowUaqLuGMATAjQb3P0wJH6iZRiw03ssN5HEj+RxIi0XSPwBqBSArxCSjV2vR6joR7o2URgLdS7UDRHogEbNyTKtABA+ASyrEHQCtU3crxFQdqMA4qE6Wv4dEIaIyGgNCueYzJnmISRxiKACYuAAACs4A0QVMQgHTH7Fx+Bw4sWGPhGfDcxGEW5qWImh6kEA0QYQju3YC34HydYrACq3YDOZb80QdXP4JhBb9OCV7DsrTXzFLCc+pJWmke0uGYVlxZ-NRH2IHEqcBAdAEYuwBYC2AAxevAQWghxoyAGGIcVcS6PXFfD7xeNCBhwWRFo0EkB45nkUK9rDi78XpW6KKI35yhny22aoiBxrTCxHx9AtzqLHoLQTeIkzcBPUSfa9i78A4iYQwAAn9iVWCZOsVqLFGjBZA4VTTtvFebPVQuzouCSMBNL0EGGAkFCQ+y8ToSh4P44PkxnYB0BXM1mFtpmLlC2oKcsgUVua3DAnsZ+1fYVG0SE4dkIE0g5FvgB-ENi7AYNJfGeI6qXiBJKAJQO7FvHKhXxsE7PkxyPyGTURhk78ZhPwAqSHox408eeLoBaTiJ-uBAvASrZmS2xUkiMahQ8lKiLJGE-sdZNapr9uJvEh-Huxvi1EWQSIIyeexMlRSj2crU-EshvYG5LJgU5gCQToB1ZWe+mb9uyKJgrjjhT-ZwahUKnbjfqm4m9nuOBQ-jMp6AbKa7k2GIAy+ZwpcVuNimud4p7U6qXe13GzdmpnoE8bdGPTsBHwdolkXxBRr3VEpnUnQR3mmntFUpfUjqQkkGlEBhpcAUaTsE1zbllY1xbyloDmk89mOi47ArNNRH9S1p+9b4E22SwP57h6-cWotFInzCqpyI39qIJOFkiNx-Uy6atImjrS7pfExPKCNxH5sIWVbP6Z5JqHeTER0MpUVdMBk3Sb8d+e6WoHwDYj5CmuNqeyOhk0TjJvPI-AjLNFIyh4QMtGSDIZEQAmRN-SNlDI6nFSPhYQr4STNPzvSZANUmsBTObb1IiJoEmQJROjAMzepTM0kR2JFkfSVpvU66Q+VumUyHp1o20bMNJ6SzOZx0xXqhTZk7iAZ5MlGcDIem+iSA-ozXA8i3iLT8ZX0kqXDPJHazKpZMv+OtL84QBuJ4Mo5lHFoa1ERy1Eq2czP3xXEvZMXBSQqydkSk3aSY-9Nf1bYC4-cnbSickU+mSTYZemb3sXUYkVSPBKjUOUiTdrVjaxUc7SSRP9wEjppoHcMG+IJlxSYU6pMudQ2DkB9vg60hMjgEYAMBZCjuMAM1jrFp4Kcas5UInPAFeSfprMxme+IdlqIm5cAFuW3LkIq4cA-E4iXZ30wTB2RpVIqTDO+nBYXBV7NeRnL+HjzgU60niWQQfzc5qAT0puom1xiachOLE8BBrPlG1E7503ZKc-IGkoz3AdeFVp3I+IPQaMdAOjHDnSz-1O+Yso0Q0xWENDIeRRdaZ-Idzfyu5D0CliBOemWg38eUiflbBcpo9wxemVtEfnZa5DHZH8qefAr4A-y6xbuKJq4TNkZAIqpmGCWAoLEbMsK61RhbAJK6wLSFyrchYgsPoQA3ZhciBIjWjCQTi6h00YMhKYVrjq4pPUVsLBqDsKRhyMuWdZO4WQE3Mf88hq4RsHh9QFG862cPK+pQLrcH-fAFwsAwaLncY0-SIK30TNQD2c7X2eLIxysLERhCq4VnJIWWL2q1igpjQu6xCw2FUigxX7IgVn5gl9c3ARYogK+KHoWtARd7hUxtExF4YCRewsrldS+I0FegukpCXKK9ZqiuBWosdwcB-5gC55gYxnYZ9MlOg3atgKIUTzvF3wdwKUpsVsRMSH7CoVeycVJzN5ri-BVWw8V1UYFzSkpSqw4D+LT6kYbbBAkiXSKnxTHNxY4iUWNLD5Yy1pRMv4WCLiJLdOQJp30kKLXQGS5xeAr6Y5KQOeSqJe-NUWDTdacADWnACckCzkAWuW9PoAtmjzalJ0yMXbP+Ycz+57wQoPAHsASAiQa-FACAAcBN5DAMOOfMGFUAdAYADgSFQACUAA4gACEAAgshGQggAbglWEVnJORD1AZxt0SFb0AgQgB3gQAA"));
     })()
 
 /***/ }),
@@ -18564,7 +18592,7 @@ sprites/belt/built/left_7
   index: -1
 sprites/belt/built/left_8
   rotate: false
-  xy: 3886, 40
+  xy: 3899, 40
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
@@ -18585,84 +18613,84 @@ sprites/belt/built/right_1
   index: -1
 sprites/belt/built/right_10
   rotate: false
-  xy: 2277, 47
+  xy: 2610, 42
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_11
   rotate: false
-  xy: 2366, 47
+  xy: 2699, 51
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_12
   rotate: false
-  xy: 2455, 42
+  xy: 2788, 82
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_13
   rotate: false
-  xy: 2544, 42
+  xy: 2949, 41
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_2
   rotate: false
-  xy: 2102, 143
+  xy: 2146, 144
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_3
   rotate: false
-  xy: 2099, 54
+  xy: 3988, 40
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_4
   rotate: false
-  xy: 2328, 142
+  xy: 2235, 144
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_5
   rotate: false
-  xy: 2417, 136
+  xy: 2240, 55
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_6
   rotate: false
-  xy: 2506, 131
+  xy: 2397, 70
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_7
   rotate: false
-  xy: 2595, 131
+  xy: 2519, 131
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_8
   rotate: false
-  xy: 2684, 130
+  xy: 2608, 131
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_9
   rotate: false
-  xy: 2188, 46
+  xy: 2521, 42
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
@@ -18680,6 +18708,13 @@ sprites/blueprints/balancer
   size: 172, 96
   orig: 192, 96
   offset: 11, 0
+  index: -1
+sprites/blueprints/balancer-belt-crossover
+  rotate: false
+  xy: 4011, 133
+  size: 84, 84
+  orig: 96, 96
+  offset: 8, 8
   index: -1
 sprites/blueprints/balancer-merger
   rotate: false
@@ -18795,7 +18830,7 @@ sprites/blueprints/filter
   index: -1
 sprites/blueprints/hyperlink
   rotate: false
-  xy: 3975, 37
+  xy: 1926, 61
   size: 42, 90
   orig: 96, 96
   offset: 27, 3
@@ -18816,14 +18851,14 @@ sprites/blueprints/hyperlink-hyperlink_exit
   index: -1
 sprites/blueprints/hyperlink_left
   rotate: false
-  xy: 1268, 69
+  xy: 2397, 1
   size: 60, 67
   orig: 96, 96
   offset: 3, 3
   index: -1
 sprites/blueprints/hyperlink_right
   rotate: false
-  xy: 1330, 69
+  xy: 2459, 1
   size: 60, 67
   orig: 96, 96
   offset: 33, 3
@@ -18837,7 +18872,7 @@ sprites/blueprints/item_producer
   index: -1
 sprites/blueprints/lever
   rotate: false
-  xy: 2677, 49
+  xy: 2324, 150
   size: 68, 79
   orig: 96, 96
   offset: 14, 12
@@ -18977,7 +19012,7 @@ sprites/blueprints/transistor
   index: -1
 sprites/blueprints/transistor-mirrored
   rotate: false
-  xy: 2191, 135
+  xy: 2171, 46
   size: 67, 96
   orig: 96, 96
   offset: 29, 0
@@ -19073,6 +19108,13 @@ sprites/buildings/balancer
   orig: 192, 96
   offset: 11, 0
   index: -1
+sprites/buildings/balancer-belt-crossover
+  rotate: false
+  xy: 3744, 48
+  size: 83, 83
+  orig: 96, 96
+  offset: 8, 8
+  index: -1
 sprites/buildings/balancer-merger
   rotate: false
   xy: 460, 35
@@ -19166,7 +19208,7 @@ sprites/buildings/comparator
   index: -1
 sprites/buildings/constant_signal
   rotate: false
-  xy: 3744, 45
+  xy: 2099, 52
   size: 70, 86
   orig: 96, 96
   offset: 13, 10
@@ -19215,7 +19257,7 @@ sprites/buildings/hub
   index: -1
 sprites/buildings/hyperlink
   rotate: false
-  xy: 1926, 61
+  xy: 2102, 140
   size: 42, 90
   orig: 96, 96
   offset: 27, 3
@@ -19236,14 +19278,14 @@ sprites/buildings/hyperlink-hyperlink_exit
   index: -1
 sprites/buildings/hyperlink_left
   rotate: false
-  xy: 1392, 70
+  xy: 3082, 66
   size: 60, 66
   orig: 96, 96
   offset: 3, 3
   index: -1
 sprites/buildings/hyperlink_right
   rotate: false
-  xy: 1454, 66
+  xy: 3144, 66
   size: 60, 66
   orig: 96, 96
   offset: 33, 3
@@ -19257,7 +19299,7 @@ sprites/buildings/item_producer
   index: -1
 sprites/buildings/lever
   rotate: false
-  xy: 2747, 51
+  xy: 2697, 140
   size: 66, 77
   orig: 96, 96
   offset: 15, 13
@@ -19390,14 +19432,14 @@ sprites/buildings/storage
   index: -1
 sprites/buildings/transistor
   rotate: false
-  xy: 3816, 37
+  xy: 3829, 37
   size: 68, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/buildings/transistor-mirrored
   rotate: false
-  xy: 2260, 136
+  xy: 2329, 52
   size: 66, 96
   orig: 96, 96
   offset: 30, 0
@@ -19481,56 +19523,56 @@ sprites/buildings/wire_tunnel
   index: -1
 sprites/colors/blue
   rotate: false
-  xy: 1605, 94
+  xy: 2521, 1
   size: 36, 34
   orig: 36, 36
   offset: 0, 0
   index: -1
 sprites/colors/cyan
   rotate: false
-  xy: 63, 10
+  xy: 2559, 1
   size: 36, 34
   orig: 36, 36
   offset: 0, 0
   index: -1
 sprites/colors/green
   rotate: false
-  xy: 101, 10
+  xy: 2597, 1
   size: 36, 34
   orig: 36, 36
   offset: 0, 0
   index: -1
 sprites/colors/purple
   rotate: false
-  xy: 139, 10
+  xy: 2831, 46
   size: 36, 34
   orig: 36, 36
   offset: 0, 0
   index: -1
 sprites/colors/red
   rotate: false
-  xy: 177, 10
+  xy: 63, 10
   size: 36, 34
   orig: 36, 36
   offset: 0, 0
   index: -1
 sprites/colors/uncolored
   rotate: false
-  xy: 215, 10
+  xy: 101, 10
   size: 36, 34
   orig: 36, 36
   offset: 0, 0
   index: -1
 sprites/colors/white
   rotate: false
-  xy: 253, 10
+  xy: 139, 10
   size: 36, 34
   orig: 36, 36
   offset: 0, 0
   index: -1
 sprites/colors/yellow
   rotate: false
-  xy: 291, 10
+  xy: 177, 10
   size: 36, 34
   orig: 36, 36
   offset: 0, 0
@@ -19551,49 +19593,49 @@ sprites/debug/ejector_slot
   index: -1
 sprites/misc/hub_direction_indicator
   rotate: false
-  xy: 1605, 60
+  xy: 2635, 1
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 sprites/misc/hyperlink_good_arrow
   rotate: false
-  xy: 2850, 74
+  xy: 2486, 138
   size: 24, 26
   orig: 26, 26
   offset: 1, 0
   index: -1
 sprites/misc/processor_disabled
   rotate: false
-  xy: 1451, 9
+  xy: 3370, 69
   size: 53, 55
   orig: 64, 64
   offset: 6, 3
   index: -1
 sprites/misc/processor_disconnected
   rotate: false
-  xy: 1559, 71
+  xy: 3265, 66
   size: 44, 57
   orig: 64, 64
   offset: 11, 2
   index: -1
 sprites/misc/reader_overlay
   rotate: false
-  xy: 1261, 20
+  xy: 2877, 83
   size: 70, 47
   orig: 96, 96
   offset: 13, 24
   index: -1
 sprites/misc/slot_bad_arrow
   rotate: false
-  xy: 493, 9
+  xy: 2486, 70
   size: 24, 24
   orig: 26, 26
   offset: 1, 1
   index: -1
 sprites/misc/slot_good_arrow
   rotate: false
-  xy: 467, 7
+  xy: 355, 9
   size: 24, 26
   orig: 26, 26
   offset: 1, 0
@@ -19607,77 +19649,77 @@ sprites/misc/storage_overlay
   index: -1
 sprites/misc/waypoint
   rotate: false
-  xy: 2850, 102
+  xy: 2767, 1
   size: 26, 32
   orig: 32, 32
   offset: 3, 0
   index: -1
 sprites/misc/waypoint_wires
   rotate: false
-  xy: 359, 1
+  xy: 2669, 1
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 sprites/wires/boolean_false
   rotate: false
-  xy: 427, 1
+  xy: 2765, 141
   size: 21, 28
   orig: 32, 32
   offset: 6, 1
   index: -1
 sprites/wires/boolean_true
   rotate: false
-  xy: 450, 1
+  xy: 2765, 189
   size: 15, 28
   orig: 32, 32
   offset: 7, 1
   index: -1
 sprites/wires/display/blue
   rotate: false
-  xy: 2773, 136
+  xy: 3425, 91
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
   index: -1
 sprites/wires/display/cyan
   rotate: false
-  xy: 2808, 136
+  xy: 3425, 56
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
   index: -1
 sprites/wires/display/green
   rotate: false
-  xy: 2843, 136
+  xy: 2486, 96
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
   index: -1
 sprites/wires/display/purple
   rotate: false
-  xy: 2815, 101
+  xy: 215, 11
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
   index: -1
 sprites/wires/display/red
   rotate: false
-  xy: 2815, 66
+  xy: 250, 11
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
   index: -1
 sprites/wires/display/white
   rotate: false
-  xy: 2878, 97
+  xy: 285, 11
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
   index: -1
 sprites/wires/display/yellow
   rotate: false
-  xy: 2913, 97
+  xy: 320, 11
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
@@ -19691,35 +19733,35 @@ sprites/wires/lever_on
   index: -1
 sprites/wires/logical_acceptor
   rotate: false
-  xy: 2633, 58
+  xy: 3038, 57
   size: 42, 71
   orig: 96, 96
   offset: 28, 25
   index: -1
 sprites/wires/logical_ejector
   rotate: false
-  xy: 1516, 87
+  xy: 2788, 35
   size: 41, 45
   orig: 96, 96
   offset: 29, 51
   index: -1
 sprites/wires/network_conflict
   rotate: false
-  xy: 1516, 55
+  xy: 2795, 3
   size: 32, 30
   orig: 32, 32
   offset: 0, 1
   index: -1
 sprites/wires/network_empty
   rotate: false
-  xy: 329, 12
+  xy: 2737, 1
   size: 28, 32
   orig: 32, 32
   offset: 3, 0
   index: -1
 sprites/wires/overlay_tile
   rotate: false
-  xy: 1202, 72
+  xy: 2394, 159
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
@@ -19747,7 +19789,7 @@ sprites/wires/sets/conflict_split
   index: -1
 sprites/wires/sets/conflict_turn
   rotate: false
-  xy: 1202, 13
+  xy: 2460, 166
   size: 57, 57
   orig: 96, 96
   offset: 39, 0
@@ -19775,7 +19817,7 @@ sprites/wires/sets/first_split
   index: -1
 sprites/wires/sets/first_turn
   rotate: false
-  xy: 1333, 10
+  xy: 3206, 66
   size: 57, 57
   orig: 96, 96
   offset: 39, 0
@@ -19789,7 +19831,7 @@ sprites/wires/sets/second_cross
   index: -1
 sprites/wires/sets/second_forward
   rotate: false
-  xy: 1182, 39
+  xy: 4077, 35
   size: 18, 96
   orig: 96, 96
   offset: 39, 0
@@ -19803,14 +19845,14 @@ sprites/wires/sets/second_split
   index: -1
 sprites/wires/sets/second_turn
   rotate: false
-  xy: 1392, 11
+  xy: 3311, 67
   size: 57, 57
   orig: 96, 96
   offset: 39, 0
   index: -1
 sprites/wires/wires_preview
   rotate: false
-  xy: 393, 1
+  xy: 2703, 1
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
@@ -19827,7 +19869,7 @@ sprites/wires/wires_preview
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = (function() {
-        return JSON.parse(__webpack_require__(/*! global-compression */ "./src/js/core/lzstring.js").decompressX64("N4IgZgTghgtgpgZxALlAgDhAlgF0QegCM4AbHIgVyzPzAHsIB3KCAEwH0BGAOnQDsA5ilCRYcYSAAeKAEwBOAGwAGADQgAnik4BmVSEYoA7AA41ACxSKAvmoh0cUPKxRgoJBHDU5sMeM+TeFJ4gGNh4AMp0FBAAxnDhWABe4qhSlmqayHoGyCbmlgo2IVGx8UkpoDmK+cjWRaG4BMQ0hFQ09EwsHJxKvIISovAS0sja2sZ6mZwyCmo5eSAWtYW29o5w-q7uwd5YvhsogcENESVxCcnD6Roo2UamiwX1Z2WXqVWzj8tW9ZiNCERSORWtRyB1mGwuDx+EJUoMKmlRgAWZQZLRjOb3GrWVYOJwuNweLw+PyHCBBNQneIvC4IkZyNFZTG5B5LHHFaLncoSD7Ywq-MJNIGUUG0BgQ7oyPqwkTQIapEbaACsSMm6O0zIWbJWIDseIOyC2RJAu32-iOlL+p05rzp10ydxZfOeNtpPIKzoF-0BLTaYPFXS42mlAzldtGChkauQOg1+ixX3ZevWm0JOxJBotISt1Nd3IV9tumtZT0pNPzlQ9if5lsFAOawL9Ys6kKlMNDYiuyFVOkZMk4DPjTurRWT+MNaeJe1JAXJxxzkTzb1A9MZjq1pY5pTd7yr2p+te9DZF7QDkOD7bhYa72hkSKRfbvxeduJTBO2U7NZIp2cFi+3FaIoODrPiOZZLgivIjl6eD1sKIKni2HBIiGV6dgWoy3g+NzIDIT5Dhu3yvuORrptOmZzoe1oAcuQFrqB+7gTRkF7k8MFCr6orgoGSqobK6Erig4wYjheHYfMJZEbqawkZOJoZualG-o0-5crRq44euknsgg5a0VB+7sXBnGIRK7AKHx4DXhhuiojhOjiQmjHSfqqYfvJ5GKT+VKqbaXbAUWBHaTqukQe6yyelRHGNlxZ4cIYlnwjenCqoyDkMZuY4GqRn4zlmPl6eGAVMkFL5bmpLERdBUXGTFpmBsYiXWYJox4dG0xKhlUlZW5xqmnlSkFWFGHFVpZWhcx4XVNVymwT6dX+kh7ByE1AmImMSjtTMXVJjJ2Vyf1FHeQuhX+fRpVgeVfm7lVhk1fNJ7kCQcBgDgXCrfKLW6Cifa3syxiGDUAOjntvVkV+s7HX+p0YdGg45ADQOGC6k03dNd2zdFj34M9r1cL0l78Z9iKcAoSLFUq8MoIjXzA8R+3uYdXnztDw0tXD-2A7TyNMRVU2fBjVK1djuNvZw0L9GhxMjJwhjjIyP1DjTSx0y5b4TozCnfizKkw+zjJU8gyvUzzV07pWt1sfdx4IU9L1i22ktE+GnDGNoXOZGTnNIyDrnvn1WuQzr1F87DBve9zKOhxb6NW5jwu2zj9tBh94ZRr29lInGCNcyrps9f74MDVDuts4iHNK7nJtR9dMcC3HQsPYnovsI7MpWWtio6J1ol-ZXPv02DuVHcHuao-rOGG8bRumxN0dDrH3xGU3TYtxeTsd9LQmqthmQyNonAR3nvvqzlHkQ-lJ1lyMFc5wPZuAQZDc5gnq-JyhhOb+G2jk3Ge8H0faug9C7D2ZlFXy5ty7h37pHXmtcF71yXtbeCb88a8U-klGySpjAyF+ofGBx9gEawDp5bW4C9ZQMnoAmeNdIFPyQfHFeooW4WQwc1dahh7y-Wzibe+BdiFFxHuQ6+gVMhTyrjQuBdDWIMMbjbVBb0EpsM7kJYw4s0rKmoarfhZ8mZkMxhAwCN9oF31gQ-fSMi6jIJMnbPGjVlFb1GMYYwnxMipQIUAtWslNakKDsI8elCxFaNnhQ+hVjGHyOYcnFaDiXacIeFMTRHjJFeIZiQi+g0r4BOMVQ5Jqs57wLCTWCJKDRTYAEGYMWqcuzp2jCqYJJ9vHpOLqPQx6lCy1AaVIx+ljilyNKTQcplT8bVIwnhQwHsUBIi5qYwhqSh7nxaf4+eGkgl5JCWXIpB4Sk2PwEMsWEt26YJavvBQripkzN4WYnRB1A6X1Ztkjp4j74FOkZbWRL8mGDKwBUh2oyTlIiVD3NxuD1mNLSYIsBBiKGrOuLMzxryenvPCf03Z+yU6xJqSqXeUzQXwpSTcnxGSS4h3gbCzpYLukWORX0z5kTvm-Nbv8xE-YlCgqmFnLp8yQGLKEdCkRFK1n4vyaE3p2zUULT2T84Z68jnsJGFGOQFNHIzz4aDHlei-H8seYKuFVy5mIupYvFFdKBnkHRR-DexyWW3gSVoJEeL9WeMJc0vlQ0dXFWeWYw1lVjW0rrF8810q3roKtfK2QSJZYaM+MK-O6qBGgP0e6lZTyuU+v5pFHZkr0WsLDSo3CSolDnJjAAyl3KE28qhcmslqay3prRogk1Ab6VBsZUovNjiZCU2BeifBsbwULM1fc0uHqTFOpSfWuumaJXY3RfYjtacFDGBxSWx009tHxt0XczJDyU26opf2qlvrG3+qPGaqVjKYkLpqa7O13YY3jo3X7CtQ6d0jr3Z6tNoqaXirpSQIIfw+A4ABFAPgbh1DJAgMyxUDroyRp7lsohW7fHDtJZAnJIEEHjW-X639zb-1wEA8BogbhQNxCg5isZhhto4Xg8yWWoLnIushUmrJe71GaXo9R7DmytByEY8-fDAHsBAfrKRvg5GAC08AIACDgBR69WC+6ZFvI6OQcY2TaAHRq7dJKx57r-loZk6nsRaaPRmmaciCNEbEyQMj8npPybkxASTWA+AADd5MeGg7IOQisVNRmMz3TT2mX26daTC0RRmF7BcsGZ8xx7p1-uE254jhBxNSZk85yTux0DPR86MJQnKcK3j7ZYmQoXkPEoiwK9qxnG0VfMw2pLQnCMibSxlhzGASC4DwApuV+btCRkma1NTGm4uVduSht9aGjFCTSsZ8btR4uTqw5Z5LbXUu2fsy57rvWHNuc8xAbzlGvpZx7aNoLpnJtEqWdqvddWYvXaa1O9brWbMkbsxJrreX9sudy-l0760Ur4IC2V5FjXy1Vbu9W9DUXRj1exJD1bWzl6EGs+12q7BRYFc4EqOyiS10SKfafKb1Xlk1pKkKx9GyAmo+thjrb812D7IKzIEw7LZC6C5cxxNWrYdzf3V6g1OGT14aPIz0TzOcB0HQGzwwbK+wDh2jqXnlbWO7sp6NFXtCkW4bR5L4jMQ6AwHQCwRwDACvaDkHjxkWFEe0zkDd11Va2OU+jGpxBxgncvbW4LDbH3jd8AQA4ID7AEA-LAyQK3ChDCg65+DuParn3Q7dW7uHJbzrzHwSL3jP6DcpalzECgOA+ts7kJtBWtuhwMbKmr19em2ku3jyVHItfLoo74wJj573Mf4GL6XhzdmPD9Y7I4lKCuq8Ia0MYWL3VN1k5h+nwXF3HSuznzpb9A5u9Nol4Xo3Je+uSYAI4UCgKwGPxUD6XNGEqHPmUF+3bT5rjPpMs9CTvzxunqjsL+970z1gLAbrKAdQXHJQPzBWFVFxbETgZ3FjfnZfdpZAC7afI2RtWA33enCJQ3AEMAUEeTXHBQJUEbOjGvCYOvR-F3DXd9SnHod-GMcgjvLffjFrPfTbKXMwdQdAeTHrPgAAaytzkEMAu3dmZAdWxCUDgL51Q300p3ZztzEJ30kMwLFQL3YOI04O4IgF4L4Mk00J4Lcz4PYDgCA2gG+zAIrw0RvxYK+FlmMCkPVwQJf0F051yGM27zsN1yNUQW33FzmnR33wBH0O0MML0K4IMP4OMMkFwFx3ZzvR0AeCqA8JMAcIbxqx1VcOsOSPsJUPeV8LUI+2CJ0Ox3tliKXUZAUENjsiWFj1SPCwpwz0M1wgfWQGqJQFqNyP1wZ0CPwCKMMJZ2DVxw2gqKqL0BqLjRT0X2fxoMaKaJoxyDaNaNp3niwKsx6MaBgHYEwDoFYAoHIzZyVH3kfDXW0iVDqOm0b0i2QPoOcWxDOM6LFwKL72eiOzZ1jxIKqMkkMB9yhymNd2cKQJSkZFQPKK+G+K8MSzezYI+xIDoAECwBiHYAEHWDZwSO4QdxVkh3r3qPu3d3oMXhwQhIsz-2hOeLhIRKRPWEkz4HsDAPAL7BaLdgoMmKf3+JmMFxGzXSW03zzy6OwJ6NhPhMRORLwEk0tyBxlj81cP3kdXeTdnOPJ1xIzw9wxOphW1F1YP8JwJxnJOFKpMkHFMUxaiBRENQIJNV0oPgJkKby7BVL92phCg1KhK1J6JgDcwIIlPtTOSV0NhsKY0tOkJm1kMaPxJ30dN5MeO6PUIBDdL4AcxiDMCgDcygHRzgFx3x2jH7F9LDIVKXwBO-lDK-xWNUKjI+1jIc1YDgEIwOOwTtyjQXl-wfxZKoKcPZKQNcLU0bKkk73z1LL7zdMkA9KNJZTZTg2rzb2EOZNJ1ZOoNmyQLvTX0nKYLz2301KaG1LN1SyHIG0cWo1cOv3oz9KbOnJbOtKuLtLbyPO7OYJzKeKZ03KAwrKiFTMvzShkESK7xqFdgmJPKtKDJtLDk4xryvO-KJJulXNsP4z8PXJ6IfKPzdIgDsAgA2AKxt2LQPOApzKQz+NnODMFwvM-OXO-xjCvN3xdOjPwDgoc1P3P1xwVhaOVEHH9ObL-MuIFQXOZEYqLMKR-zXPrG1OQvP23LHzTiUDljrOsI3wtJYsDLYp1RbzUykrAtexJPIo+yylHylm-jUVcNIMQ1+JnNbLnPDAIp-QeL4qIAEr2hcxiBiEYEELoNo3HLFWwsMrPNq3xLF3MudJgooo0skyyldgJmHJliRFnwktVPnxkscPcp1VMtw28tUt8o+xDygBiD4OEq0pvSEKny4yUtctPP-KuI4pryXOch7IgqSv4p6JDwYCgDkwK3xyaOmB4RjCIK-KgoKtYvSPYxXTX3asguRxvI6oqzvKl28FAwj1qs0udhvAV3ahEgWOClzOmOMttPoNBPKqdKqssp6ImuDyAJlxcwQqQpQs9NwgHBb27mZFjynKaW6oaJcO1yHFuqIuLN7P5IoomoQDMEILUQivtKit-Nkp6rxKAv0p7L5LWIoooD4ErNkzsFho4AbGMNMNAPOp-gJxQHx0WxqGEJWrZLWrGSV1xrBPuIS2JME1JKZyRqc0RrhvYBRpMO8HUByywHkzbhEpqTGBXX3nBxM1piRAJtwoApOTfNJpViFsSqprUr71poRqiAZqZuiJwCtxNOBJaIFqWHxq6pBsevbPxKWx1opuax8uqphrhrpsVuRqBCiNwDZo5sEMr3snkGMy7ONuxIuNBozw7LdrxvJshsjM+o+3cywAgBwDPxIC2LsDiAQF0hmq-hqWEOjAPl9MbSloMsKrkoez7Eir82UsBrIuSr71DvDsjujroFjvjskyooTutRGFVCUDvT0vHV2mirSP1qKhuIkR5OIqhoDxLrDojrcArqroYACusqtwmQWtQOtzuohT1qVKevoLnrep4o+uhpDqHvLu2LHt2wcHSsytmowjdhb1LXxTbuBpiqKoFWeovvDL7qDs3sHrLpHt3sQGrthtSsPrrvDQYImQBv0s9sVIFyQPiq8pNpUpluLqZ0YDDrgHYAjr4DjOj3OtlnJkfBVS1ssAwMzoeqXoNtEglpwYLtWLpTaEAMEBAyjwgyPsTqwVdlysLukqvo7oIZMs8u4reX7ubQobcwEG22+1-sGzEpXRbpjCT0umAbzLbOb3oNlnv2vJXNItPX8L4aoc+x20c1kzofrqmSxtv2IdqFwekdWrwqQLmKMZt1IZLIiXUYEc0aEe0ey0Oy8zTIxrUSvzwj9sTBMYDOvuzrBr3h8bZFwcDosoQkoYcfSy+0yycwcwB3cZCqEn3i8dlONT8fbpxNAY4aIcLrCe2ugfrHscEakz20H2EfHyIN5vwiqG5MydYeycQILLybqZgJsY3vIeoCidKZ+x6wqdcw8zcanu8ZK1GaqA3wafusXpyfWtacsEmY6Z4aPBKccbKd+wGcSatzGBG1vHSfQOFqMvMdybcTzoKYjIidWZRpx3OqIKaJ-h538bYdmcAup1VW9UKZ7zPV2RbmCp3PDDubtygOJx-OmYCe9vwrHXedz0fsue6f4ax1Z3OvfMkf-iJ2T0aa9s7rOlyUPUgeYegtfjKWDXYD+a5rGQBhb33nReuSeaafzJxbefXWWPXuWbUfhY0ZRplzl2RecQWtlMIkvrBeeeacZcCgki4b1yftNV2W4khDJayopcYMSQFeWt1vBexZGnoMFYfverZaaFWeN1N3NyOpj33OsK9x+NMcJuObmcw3oW9yWeld4Y5YcaD1SrDwjwECjynq4Vo1QMn1phYeFfpdka7AzntaMDGIdKdbhZIB6f70P10b-qwhIOcokcUaFYXo1fYfDYUq40zd1fXsqqKZPATYHyP2H2TfzXFkcpU0YbIJ7vJutZFquIu3B2-LuI6ZLa+fZfjYRcTYGZoov3OrljHNnsLXnsHVDaJpajf3Bo-2jaUeIvGC7KLuKddYBEAOAPRuSdwkUEzPfP+jXeULwZmdFYwmLUZJPdjbNrLYHbwLIGrfHzdmKnEdliYuPJDaxdzYwg40jYkc-eXfep7fXfvY0bMAoEIDoszhVSG0QSG1BezZFYZa1fskdHg5qEQ46dXaw+XUJfA4cb6P4Nx34yvfB3EMTFPZbaOdFpZV2cUIkNvZ2siYHeI90PY9Rv2riFx1dhXTRIXmyMOdir3UyPcK-JSOlpItGutlWfY7CK0OKLgBVqGO43snlkE4k5yLPZzZebFpwiyK0+Y67wI9Y4g-CJCMiJub3Z0BsMyEDYWKXbOWE5vp1TmJv0WOc6k7A7M6I4s+KKRZs8BRXW9Jeqc+DeQ5ndtZsnc5uvC+M97YNc3fwA2Irt2P2ORYUAjdkEC2STkGbbpZ-b08RFX2oXy4S589WZeOfbTk4RG0-xesQQmRc8CdfwuxaNC+1pZe4edZWeS8FIpJFKSf+ZqVOV+iwa9ymci6K4vYngA4JPOdhbvd84BAG71NFJpNVvOp7HufrIRiwp05Q7DZPpuIO-CeW6q91MpNFMNJG7GSK0zL7gdfixo5E6CfFZkXlO89UaS-7Y0bW+u7gEkwNMqZdmXRqbTqBgi+nZm9Q7m4+7lKLZ67jYTfLNB-DfkCvwbaqEzYK6ydh+O6+nxNx4q5+43b+4cbR8kwTKTLAxfLQet33Ox5wa7fVaO9nfWmJ9Z-xbIZdYp5jPdJc0rOrMy-qRKz28sDXeh50wJ454VXxKl9J9M9WYHJq+5s4SYYnMV7Z6i7o-JUXO1558IpY9WdrrAJwU1+N6-em5Adm8CQR9A6R6RUd+V+S9rsk1YGfMBz3bHbfMNh7ddml7C1l+i-h9byt4YKd+pQD6grR1N9p-grDtOpHZs-Z2LXfZUZa4hbAfkcz9yJd7j7d4T+orPxT7u6+kqMt9vyA6zZh9t7h8RBKpyC4rXreVw4u+S8EvhtRMDfrckqnZl-r8J5JnxPyqN86b54TY0rZxmF2Yl9qDH9e9c-Y1H8le8JR4Hf8tsvsuRaGxXQwomYH+D6H7l+i3m7H-O5N87+sonv1CCrZxRDPvn-y6P9Txtb17P4R5f9b6lY340e-oyro8xkQKcdlxkN5L9WuguO+loA14-9o+mfQvvz3wDTV6qw3cli1H4z8damWgL2JBSm518ZGp-GMPx3oy4Clgl1btiBVj6ydku+1Kaqaw8bzsVMHnNVod117nkNqrAy-qWxW74A6Bh1ceidQYBnU92eEAxjoA64QMIB2fb+KZU66bhuBiXcngm2+q-U0GEyLHha1f44VaOHAhdmZXH76tlBA7eWgIHpo20yAXHCALu3L7rQiCdSQzmCQzrSDNWRPUSOk27ycIleiAhNqYPMGM1bazNawQ7QgCc1FWc7FEMWnSiadaYL3Qrif1D6c91O4nWId4JoFIC-B1tAIZYOU4xE0G4PNKEqFapXkvBOvEPh-wRz6CShGdRQZV2S6ZCka2Qt6LkJwAhCwhx9OdtUzShhUUh2tZwfEMIGJDFQhZJwWkLsbJdS6w9KOu-Tjq3d0BLKZdHelTp51+h+PBIRUMzIrCxhciVZpMJ3ox0P649M3qO0o71syuQfN-q21vrd01+kJK-kgL2Fv0DhswlzNPzQZCE6ks9VgS4N-ZfRTKGnLahcw74PDt6TwyuocP3ppVABqFXLnvEZI90LhOgt7hnmgHQsFBnzOoSCNfrTDnhn9YPAfWhHvClyffPOoiLcrL93u4fAwbULJ6EcAQcDZCog1hooMH+rtdwWaSUJZ9XBSQlTL0MsCnsaRBHY3LCWOy7U0B4QkmMoAuwQEhwQ2LDqsMxbrC9BwTWUQhxqHfo5RXwIbEKLoAiiAQMQdQKBgKwKBmqGHNUVyN+H29cInFc0bkU1FLBtRy8YUQwABBmCqyfAMAldTNHyiLRxXDDLIBtE+i7RCHWkc6NFHoBogeWcUR0JJir0pg3orUQqO-ZKiPK8zCMEGPH72ihIoY3US6L2QiDbBMsABuh0DGJjfRdvf0daNVEZieyWYiMDqL1H4BYaYYgsfMIVTV54xpYh0UmJt6DCNhudasWWODFYccxjYxgGYEaAHFTRXY7eOWIb6VjZSdYn+DhxDENi8x6gUgLCR36iCbcaUBMd2LnHD8FxM45ECuJHEEdKyrQAQPgDSpxB0AR1cPLCS242c5Y8RDTgjCBiHiiBplSSNpx7K-iLxcAK8fgDgAAArOADEAfEIAnxuOHBCNg6j-RPxZQlMXFRuJITx+AE5eG6QQAxBeiUHdgIAWQqQSsAdAPgOwDcyAEYgFuIAZ0KUDtcMO3eW8F+KGHw4GJWHIannj7gOiZOjCbCbhM44CA6AOxdgCwDsDbjCxsgWfNGFgE5B8ISwGYMxIqH5shwck2QFH0qg0Z5JtIviZRVxEMACJQBFMs9DL5tj7UDXN5kUJqBApFJVxK9syEslfBrJuRMge0SFpYSgCuEmYfHQMk4TSJcZSCa2IlEywgUxUSRjkD9ZLBiCNkgVP+2xpiEuyUU5yV2TJgEcdJXfeTOwDoBHY7MNg0yTGBmBUt1wS7aZNFPkpzEA2xU7rr-zvY6ToJ9gRmufhEmIU6A4kvKb-ChaqTcIPYggWYyUkLYVJXZO8B000lqTUpHk5AU+KRJCSOAoklqQVhRAjYb8nUhSchL7FXFlJskwaepPCgjTmiY0nCcgKOqoDMp2UkAjBw5RxcsO1HAYb1OVEI9FiugDpg9MkLuSDpzALgnQFSxs4pJe42UrtKYmrTbpAqJoo6H+kcSV2jEniY3B0nvT0An0sPAyMQBq1io4OLiSk1Kk519BaM1qDh0hkEdEZ9YISc9FAzsBSI80+QvZGZD9gag75DGZTnQpUzFGtMu0XjOXgEyiARMuACTKODzTJ2lMmvHPmZlsDyhVxBjgLJpl-iNRrM+6OzO3Z5YQCYo+XOJXU4MUlsYwOmcqRXpqz1SnE7WfjPgZbsgC8s9QP3kNEejeWTdaNJxT1mAz3+d0qkSJAdE6yV2estmQbPwByycp+AN0SYW+nFZEkqsrDnELWFrTUxAHR2UJGdnvUI5mEfWchUNk7tKKkY73hJNwhqJ22SgVGTbOFkoTMZ4c7ObWNdkyz3ZnshWchRMlBTJJHY9ooHK1HBzFRoc1CVjILkaii5jCWWUbK9njjJxvLBYGIhvwxz1Ztsq4U3PzlBycObcxuB3MTkbiSAW48vNl1qADzs5Pwv0axOtnjy7Rk8z5OzOq4QBMp5smzlKUKGtVK+YJJDj1LtkxSmiHXIDs12+5xyCAa3EereMIwMDRBJoporWSHCUdta+Awfo3NE5N9cUeNRbnq165zRd5upEemBIgnvzU5eOJgVcnCmKNAUGs5evoMjQ1A0FD8t2fHPwBxkcAjABgEYSDxgAeskE9MkguQKz1GJ10kOUDNHnRZm+dC3GexMfkAhCFxCiAEYTgCm4cAuUyua1BRl-TJIAMnOYAspwgyqZYi8GdHOlntz3ZWUngiAUQbUBox9DOdlGEyKykXJrRbqQAsYV5z7pyU9UXnj0UpS8FBADwEblInkKESb0GIHYDjox5qF4jBKhIqMWUjPctwymkoPwDsybF+ouxRQrehysK5MYxUGJEfCtUG2zFBuV4saKoi4l6IoETtUCVwBbFfAexZBPDwbN5cFveyGFJkSJTPFV8phaMEh6OSqp6-O9hkqyU5K3oEdCAIfIQXaKNE9kiRKUtXkVihIV+Q2MQSsk1K7hpbepbgTDoh52ATiugC4oxpx4xG6bDxT0vnHryCWuC4ufgqCW0AJlYSuKFbge4aI183wm6eUoMzJKuBGI2kWMu2XHY3o5TByhdhmBmlEE3Sk5SPOMWVLIqpSwUVYoBBbK8CtypkS0qGIiROxQ4QZdUvQUWN+lnSoZdsJ3nuytlHgIPBwGmWzKbO2CXbloKkZvLdBYcr-hAx+UbLrFmSv5RBNIkcBwlvHQpSpn97HKGFpyqRect8Wm10liK0lcgPJUM17lGNG3HMSLRfKL5hixlZrJKxVLIpwyvxWB2uXIqKVQK1pXlNs6uEOMOQCFRKqhXfwYV4KrpZKtZWjL3ZBM6OnAFDpwBWpQi63M1U4p4zh5eKipWxK1FyL162MpidsngAOAJAewVASgBACOBh8SgdgDAGPwhg1AHQGAI4G9UAAlAAOIAAhAAILOJnEIASkEilVCLw78yOKic9G9W9AlQIAH4EAA"));
+        return JSON.parse(__webpack_require__(/*! global-compression */ "./src/js/core/lzstring.js").decompressX64("N4IgZgTghgtgpgZxALlAgDhAlgF0QegCM4AbHIgVyzPzAHsIB3KCAEwH0BGAOnQDsA5ilCRYcYSAAeKAEwBOAGwAGADQgAnik4BmVSEYoA7AA41ACxSKAvmoh0cUPKxRgoJBHDU5sMeM+TeFJ4gGNh4AMp0FBAAxnDhWABe4qhSlmqayHoGyCbmlgo2IVGx8UkpoDmK+cjWRaG4BMQ0hFQ09EwsHJxKvIISovAS0sja2sZ6mZwyCmo5eSAWtYW29o5w-q7uwd5YvhsogcENESVxCcnD6Roo2UamiwX1Z2WXqVWzj8tW9ZiNCERSORWtRyB1mGwuDx+EJUoMKmlRgAWZQZLRjOb3GrWVYOJwuNweLw+PyHCBBNQneIvC4IkZyNFZTG5B5LHHFaLncoSD7Ywq-MJNIGUUG0BgQ7oyPqwkTQIapEbaACsSMm6O0zIWbJWIDseIOyC2RJAu32-iOlL+p05rzp10ydxZfOeNtpPIKzoF-0BLTaYPFXS42mlAzldtGChkauQOg1+ixX3ZevWm0JOxJBotISt1Nd3IV9tumtZT0pNPzlQ9if5lsFAOawL9Ys6kKlMNDYiuyFVOkZMk4DPjTurRWT+MNaeJe1JAXJxxzkTzb1A9MZjq1pY5pTd7yr2p+te9DZF7QDkOD7bhYa72hkSKRfbvxeduJTBO2U7NZIp2cFi+3FaIoODrPiOZZLgivIjl6eD1sKIKni2HBIiGV6dgWoy3g+NzIDIT5Dhu3yvuORrptOmZzoe1oAcuQFrqB+7gTRkF7k8MFCr6orgoGSqobK6Erig4wYjheHYfMJZEbqawkZOJoZualG-o0-5crRq44euknsgg5a0VB+7sXBnGIRK7AKHx4DXhhuiojhOjiQmjHSfqqYfvJ5GKT+VKqbaXbAUWBHaTqukQe6yyelRHGNlxZ4cIYlnwjenCqoyDkMZuY4GqRn4zlmPl6eGAVMkFL5bmpLERdBUXGTFpmBsYiXWYJox4dG0xKhlUlZW5xqmnlSkFWFGHFVpZWhcx4XVNVymwT6dX+kh7ByE1AmImMSjtTMXVJjJ2Vyf1FHeQuhX+fRpVgeVfm7lVhk1fNJ7kCQcBgDgXCrfKLW6Cifa3syxiGDUAOjntvVkV+s7HX+p0YdGg45ADQOGC6k03dNd2zdFj34M9r1cL0l78Z9iKcAoSLFUq8MoIjXzA8R+3uYdXnztDw0tXD-2A7TyNMRVU2fBjVK1djuNvZw0L9GhxMjJwhjjIyP1DjTSx0y5b4TozCnfizKkw+zjJU8gyvUzzV07pWt1sfdx4IU9L1i22ktE+GnDGNoXOZGTnNIyDrnvn1WuQzr1F87DBve9zKOhxb6NW5jwu2zj9tBh94ZRr29lInGCNcyrps9f74MDVDuts4iHNK7nJtR9dMcC3HQsPYnovsI7MpWWtio6J1ol-ZXPv02DuVHcHuao-rOGG8bRumxN0dDrH3xGU3TYtxeTsd9LQmqthmQyNonAR3nvvqzlHkQ-lJ1lyMFc5wPZuAQZDc5gnq-JyhhOb+G2jk3Ge8H0faug9C7D2ZlFXy5ty7h37pHXmtcF71yXtbeCb88a8U-klGySpjAyF+ofGBx9gEawDp5bW4C9ZQMnoAmeNdIFPyQfHFeooW4WQwc1dahh7y-Wzibe+BdiFFxHuQ6+gVMhTyrjQuBdDWIMMbjbVBb0EpsM7kJYw4s0rKmoarfhZ8mZkMxhAwCN9oF31gQ-fSMi6jIJMnbPGjVlFb1GMYOQxVUoEKAWrWSmtSFB2EePShYitGzwofQqxjD5HMOTitBxLtOEPCmJo9xkjPEMxIRfQaV9-HGKoUk1Wc94GhJrOElBopsACDMGLVOXZ07RhVEEk+Xi0nF1HoY9ShZaj1KkY-SxRS5ElJoGUip+MqkYRmD0BWuDcn51BiA8+zS-Hzw0oEqZtDumW1kS-JhAysDlLFhLdumCWozBcYyJU+DTGEJSUPOZQiDEUKWdcC5Hj8nSPWWEvpNj8CDIdiMo5Jh4nU0mU85JOiDqB0vqzLJ7TxH3xeWsxe7zNkRO2bslOMTqlyHJgrc5vCzGgu8ekkuId4EPI6SsrpFi3m9KRf08g3zW6-MRP2RWUwuHkqubMvRvi7kiLJcs4FeSQk9IPMUz59L14HPYYqOQxgAXdkdNPbRMyBGgP0UNKFfLHm4suXCylCLqV1i2XSnZQyP4b0OUy-ePdWWORnnw5VujwUZMhYs6FnTzGVX1SKj5C0vkmreug81UrZB3lqT3AV0y-YqpuWAnlGriowrMbqz1iDEWGuRca1FrCg0qNwtoOQHsjAKokUqqNjqfEQtLvGkx2rnlCqpd6mlYr-XsCUTmxxMgznFR0Diu1eKHVgorc6qtrrNVkojasvVqaDVHlpX61F9j21p2UHKnt7r8VNNueq0dCb3XJv5pFUVvr6XRKXdUpU-YJnroHQS+Zcad01r7Tq+tXrl6EBIEEP4fAcAAigHwNw6hkgQEZYqJEUZsXhuFUQ8thKWn3NEYFQpk6U2HrkR+uAX6f1EDcH+uIwH0WjMMNtHCSJOCQZjERsqG7BGxu3SSrQ+CQJDllpM5y+6boDlY8-dN6HMP1hw3wPDABaBsQmYh2AQLpAAbnAfDZ6MI9kY+qf62EVZIgaakmjarMmjrlba4wqnqbqYpShmaaHP3YG-fxkguHZNCfgBAAQsmQNCSVH3TIt5HRyDjGybQGnrlcsrcSyBio0rMm89iPzJmD1maRbxyzWHCACeEw5pzEAhNYD4DJiAHgXO4UxZ8Dz4GF4918-5zlTqiVj1He1cLpXLBRY9TFwWcWLOZcS8luzqW7O7HQM9PL30-5CUvQg7EMhyvRsC8O4LRiEMxnC6m8b0W0bTsbTxtrVnsM2cE3ZjAJBcB4Dk5K3N2hIyFtal5nzDWJswbvXRkLQkwsLyu7URr7G66odaxhhL1nbPpb2wduzmXsu5YI19LO1rhtefq69m7g7YMLPoyVKYdXIvIea9xo88X2u-Z2-9vrgP0u9f62D9aKUlOtV7QipbHLJuVbg7y6MPC3k0-e6N2L63vs4-muwUWeWyN2QScW+1Zb4d3Z00j2+tbkls6Q2+7Hm2GzsG+XlmQJhJn-2F-20Xt6t0S4e2OxNz6y5y+tgrxLQJ2A4DoOgVXhglAa9kAOHaOpqOqu5fd2bY6xqXVl8K+XG2sMxDoDAdALBHAMAG3IMjjIsILaBnIOHuvaP6699GLziDnHo5W59znfH8DB74AgBw372AIB2f+kgA2FCGAp-vXtteRenzF3rl1SOM5MfmPg43-jTfhPNwCGIFAcCHdV3ITaEHmQsaozezdKe28G-UZpKflHff1s47nrHgfB-D8O0JmzHgjsdkcSle3k-mPGBh7tHXc-tML695DkqORXZX5CuvuQXGNl55+wX3fdmACOFAUArA1exUB8XMOQyo3emUs+WmHuqebSMYhWiGrm0BUkfuTihmX+W+XOm2rAWAe2UA6g-OSgmKCs+mqanASet+8B9+iBj+5GxglB2eH2HOOB+eYAoIzmpOMsCgSo52pG5GrsegzkbuMad+I67e6eU+Ew407+n+aa7BP+Zg6g6Asm+2fAAA1vzh-sgcgAoL2mBtiEoNQXAUFtVkjmrrHsyEYYmCYctqwS1t-tzioWoRABoZoUJq4eoZlpoewHAN+tADtiQePhohAZYJ-rLMYKYe7uYa0mnIyOEbUJESYCwezksJxmtkoS4aoT4VoV4bke4b4f4ZILgPzmrquvLAvCkdEdBi3vPpIQbo7rkOFjUWkfQpkQHrgVht4UUVobzvbKrvmudr2nZEsDXjEeIbQY0V7kNrhJ8DkGMSgBMQ4ekZjnNO+tvvgL0R4crv6qrkiJTE9osSIcsZGs3snhITNogSJHvAscsacfocEibv7mblsY0DAOwJgHQKwBQHhqrhenMW1P9NpEqJMVNlVvEV2I-gqqCe0a8f3lsc9NlkMfhFMEqI6AoJJIYInnUZcdMdcS7LvCgORliTUDifCQ2l0fniQHQAIFgDEOwAIOsKrjoHKvvMzovDguCfTojgbtIWsUbKzi+qttST-rSfSYycyXgEJnwPYCQaQX2PcUbC9tfhcTQXEfBi0cvkrKqW-i8VSW8d0QCBKQyUyesEJpHjwVoJis0fvECjIm7DyUOpCVqQKfQk6asX3uZsaTjHSWadKXAEJpIFafJi1EqBGbHuRlya7rAbEdNhYfyedB6fqb3giT6fnjAJltwWGSTCiHof2IbB-jPjfmYQmVCTZMmREXIQaa+kaZmdmeljEGYFAJllAO+nAPzkqILk7kWQobGaWfGa6bynMV5v2ZSXWYib6VmXwHZqwHABhgCdgrHrLOFlgWqY0mWcORqs0V5uuamfPN6V9g2ZIDmcdh2g7tGIISvq-s6QjvekjnKo6LLLeV6TaeOWKdzmHu1mecfuGERs0eAVPsWZdGIRCQzhqu6e+TWWmTGCBU4dkZtt+d+nOVEB2aAWlDIA8M-vBVoKWuqVuRBTVlWXBZEYKgaRvl8J0fWT-shXvlmRAHYBABsHltHnoUBcxrhd1HGVMZqYziRZRWxvIZvhsQPvgHRQAUASAdafNiRsqcqIOKITxeBXyV7k+cyApTBYeaovuVkaJVscxcAb+VLGnEoHLCuUkXIK+bTrdq3jMYgRTtDlpQUumceT-llEfiZTeGos0deYKRuZpkOURZLiRV6m+YaVOfnh5WJjEIwFHuMiRjHv5QOQRUFapYgVBQ2uFZORme5XtOlllMIfzkiJfhZfHqBcpbyQ+UmTqUhtlaKTRdzsXlADEJocZc7NUgOAIUlc-oYNZWBVVZ7ogepcxn1c5a8oJesU0GJcXgwFAE5nlt2XMdMMzqTDDpkXiRqeWVqSlAJXwTUBtU1hxlxdRZFT-t4H+uXrNZ5R1TZPbu1CJIscFHeeLnQeGJlWSWvrWQ1WddzhdUXgQdbulgxUxSxTJf2I3nJcyDXiWalbxdtbyvICRTDV9bBTlW5X9dAAgGYPzliRThxXVTZfUVcYmWnqFatvVSJdNVsRQHwPOY5nYLTRwErgEd4MQTJT-D2cgN2eFi9n1S9XZYSdUn2FTnzWCZTWwfpb6UzbJgIIzXTewCzYEeoEJjgFgLJm3H+dUmMMSXmqLUDMZkTfiXxTuZhbzQbROT9bldzjLQzVEArSzaUTgANhGQwcqRFl8PzZtYRelQkbVQ1uSeLUdY4VNfWGJbbXLfbczZbnAE7arerRAJrV5TZOPltEWVgV7UbVtduaOruWuYHZbVTWHVsVJlgBADgEASQF8XYHEJJqGeeWnH1Uzs7v5YbQNS6cFTVXvOVWyIbRgejc4ZtqXeXZXdXXQLXbpOlhJTdV-F2KqEoHpj1dLgFQFoNQgUVCRdPDpCKUXUQGJcPRXW4GPRPQwEJh5QNoYGfvZIkpAYpTAYOfDTnZYaNBpXfegTvZLdTb6QfaPd8Sff9g4K1e1bPRhG7Pjb2lvSlZuWldVV7i-Uktvd9bvZsd-WXYfVXX-YgJPUJrTc1UAzPRajLADOdgTVBlnT7bAxleTeNfClbRjZtowGXXAFbrTbOVXjJbLFiqJPhFUKqVQd7TA0NX7d3c9tiPw8HclXpU0G0PgYIL+pXoBsA4Q6gYvdGRTeQ4I+vV2JlWFRI0eemjI5lgILjv8RzWZbrX5b1WgSvRVh3b7V2Evp3loJDUJRRVxYoRsYY3I1tn9iJkCGJhJtJko8GqMJwhY9hdTC9p6Ro4-Z3Wpacv9FE29h-QhZ49QLI8Yz43jvZrLcE7miiEztGXwwLQ0ULZWaJObYmOI-3XQwY+k0YyY11rk+lsDrJqDrmYqGomAXhPnVUyUyTRWRPCI1UOudUyk6HSeBk408Dc06rdgH1p2RzfvN0w6W8uI+3feUI9o32D3ZYGM0g5-fWF45k0lttsJgDiPnkyfnwbrWJJU2yOs5VXY5Q9-Ds6I30xLak9I-U946c74xc3vq0zlosx00JABbHj0yVmI-0wSaTVQxU1Cx83o65XUyQFM1k+cwTpc0TvMyTqC5hO7BC6swio8w-SpS89syRrs7UPs2jbU0eMc7VAMa9HlnwXMT-NemS2vW9ZS-ytLuRXS8g3Oi3ATPi2y7HvpiWucdA7E-Y2HDkhOp8xMwhOi0riruDQDHXroJy3DeS1syNI+oqs8YK4c0avOkMqKw3dUpq79Frpchs69fZRvQq-y8a9pRFXIoyzztbrbhq7Idfas4RDY3Ts8-qy1PAxJDQ1OkK58txJCJa1raMrKg9YG89QI7KxSwa-7cOK4ya180cz85k8HqHuHkDdXoBZZZnriTE3q1o-K04+slnkq9gWk2iw0wXnQEXiXm9OXgIJXqrqQRTIG48UwTCybaOh3igbkCOweS5R60il60PtiwNneN1UIS4-fbq9y06w445SvtY7OxNe4zOq2+i0u3vgflcy7OLM3REzGFvUHQ64LXC+GI-r2q7BIlZZSZNS2982294+e5JcAXlnLFeUvaMBibDTK7WzyxhKTCRcqI8Yg7BeMLpW+l6-gYQezfi-IFzXhHewZsYWOwjRqnocqYR3YYXaayq+25wWQFew427K4uB7LG-cG7ZaUy+7uwJTiVG5VD+x43++i2YBQIQPzmlGypAQoIgqdtK4FRm2G3RPZI6KdjJysci5gTUKh1IwW-+5kzsb4ayQ7hJ46LYWyPYTW9u2U38tYUOGZ5YBZzU8g16wZ-ka534azUEXEPzq7LrWya0QdakemzBzu6MokQF1RUFxp4vKdZ64WwCO5wUW4bsbHWURw+7M0f59UYF7UZZ6G3W0cuF9l5F7l051RR-jp5M+2+58y87WYzgoyNJ9DY8dJ8R0-QbkCUkUsfoYe7Q85-F9sYUbseq-iwfGyp7Mqd1618F1Z1xzZJ181zUNN9F-S6e+2x8WPb8aYzhwYUCcVsCl+zN-l7B+GZvZ+0HWV-m1V948iQx6MgoAWiZ9DYgpfW13Ew5Y-pNy9263OwPQywN6aVKSyeDfvAWRy4KWom93K0M1O1ybS+6392tzd-6UDzKXKXV-iz2Oy6uUrOOUd5swV4iCNQjHjyt-13pyaSj+aTKfXYm0ckoG4v-MS5no1k+5x4MwErDyz1R1dzR8j5KdT0GSGQQyE757c0jRD1A-JyF9Z5z0-o6b19G9R16zOXdy1NMCcjhAfHe9HtiI+08wTyd+tKFdYxd+M7+7p+i6r02S2W2ehelyBR5q7OFqb1D5m19Cb3rzz8qyr42UJvOYueDTc2VQvLpfj467LyMHnaH3xxjhb9d5k1maeSL7mvvJwufr1WH3l4b6F+Gzx1nxgQJye0J+29PSQQ14lUIce274p9kg20X9+9X+hwN9Pf72hXi1axhKB5hYbD+67FL6vcd7n3L8+SdaO+FX3xV83xT+Ja2ShcDWXaDdJfi9MIYHoZY9BRVVy0P5H3NqP6T4X039bF6634AcBxzQ9xn65mxwP7Yzn7v0bAh0caje66h+T+i4ZfTayVfU75Zf1QbxHzm7q9Qq1lS7j7wG7n0QeKNX-qji35bsd+QAkmCANj455leEA-KjFTirg1TsutUhrUH-7b97+iAmWMgJf6-dVuJfbxtFUKoTADiBhEPlUAIHwCiBHPEgdmysooCQ68fPnpkzwZtUU+HaCMmB3XZZ82eAzLUhG2cYF9hKaAmftdXmogtO+4bNEloB4ZaAvY5XUlswMAGsCtAfnKfBoIyLR5G+kRKfsfwG7-UrqZbDmjgjAJdc022fHQW6WRoOCwB3Ar1pYMBqn0QaDAMGjh1vBDtnuUHaXrN10GjAPq6jNwYJ0t7tsLq2NfnJfTAI49CaYg2FmEJ0aRDze0QhPgCAjry1o6ZAfwsrWryQccI-BCLksE4Q19CeoWbhhUKMB90shxfGId4zyFR1FaMdZWvHQ1rFUmu19W1FxWiapDx2SOZapyU-zRMohzQnIfgDaFM0OhhQ1LhjyUEkwDMfnNzPUNyBt0ABz7MIaOU2FVDm22QngbkLpqy18hCwt6EsO6GJ1cadSTODr0-yHDHBuwrUvsOK6VDGhBzXnl6x-pH1MGddAQWnAMxyoD4RZVNNsMIFOD+KCLUJF8LzbgCZ+fwjBjXSwan0y+MlThIBQgaftb+IbFgRILO6cDJG0-dFsiOPpoiCq+VHQj-xJLkYqiSlKEa8JHKZUGRm4KYZVxOH4ByRAI7BnwLV5ARisdxahOx2JppDCR2bSBt73cEDceRqIwETgy7YtV+BNIx-HgN0bDCSOxFdgZkO+GIj0WjDZiiwz4BsMDiEvPeJ2k2Hj5qhRvWoR5itGOcmhlXYPLSRyx70ggAJEbCjiHCnYtOkI7QcyMgpvMpOfoykr6K+CnZnRdAV0YPnUB-oly3aDSjJ39HQdQhzg2EUJGTFhi1OUYmMfgDloLk+AAJR7vZCTGhjw+gY7UcM0zHliNO4YpYJGOXguiGAAIdANEAWaq4wGCseSlmIrHs90x1YiMLWIwL1jMxuYlsV8j8ErCRgCgZaip17EvD+xMIwcaOORDZitO0w5sW6NppbipxdPEmEoApwJUQxEYlMSEIQHpDgxNY08euIjGbjoxE4xgGYEaD8580aUecbWM1HtcyaGYocTePCqrjGx90LcQCHUCkBaSWAlfpfXfFlj-xi48QcuNkCwSGx8I1-jmOXjzlWgAgfAC1TiDoAgaZeWkssP3Eyw5YlRAjkDBtHD86+U7SSKV3rR0TKumEigNhLgAAArOADEAIkIAiJ-OHBCMUtFKxKJfYhCUGMlHCSNOjE5eFmQQAxBtiondgPgWYpcSsAnbdgJlnwIxAI8QI6pLOLfYaVP8t4KiQ-1ZGGThSBpPuA2PGzSSCCckmrgIDoA-F2ALAOwJBOnGyASqehLLjkHwhLAZgxk4gVoBIq+TZAivSqMRj8nTCZJck3kQwEUkEF2yz0Zfu5Mwi0j9ChsDYV8AjIBSwhZHZkJlKWDZTwqhg5YuphsmyTxK8oyevFNkmdtZyXEvccnS+gzBPuypNlIVLk6D8CRvKRxiSRsJYF+ClJEqfoTKn3Ropk4oyhAHYB0BssNmbDilKwrQScIbsTUI8SRCdS7+0IjVJO1wjkYr6SwdadKOyHjSeJ9gRWsAWcmMU6AbkkiR5KYKJFHQIU3CGeK6lbSJ2xxDyTUDvCUkIpoUyridKIlMlHJHAFyddJdqP5DYT0-ySJPFE9TgpWBaGRp1+nzF-ptk-APIKczTTZpRBcTpnEW4RiLOX497u9WRqPFdAQ0smSYXKlyTmAqhOgO1jtzQCgpQ4ZGUZJhkjCOuwUmTuZJQ5mTUZFU2megHpml5DRiAVXNJ0TE+i+Z7MrUSFWzaWThsYYvmcvFFn1hHJz0P9OwFIiMy32pGZkCNj8m5ciZ0PREOxX1loEsKSsrTtZPuiqyiA6suAJrKOA6y0oziKfDDktkyzvxiBEhu7K+n0SLJys22UwwBCYc+sRBd0YoNunIhBJYiXtCJAbGs8dhS4sSQ2wTlCRkmFkl7GMEq52yw5c0gvHGKLEc0wMbtDStnKTlMiU5VYqdunMwhhiK5uckOfgHzkRyCxARA4vdMnjyVG5Xs4mby1rm9y6xjclWc3NbnqBxK7YjvtHP7Bvt45Q842e7xH7lytOmclDiPODnMVQ5BBcORPOYrJSZ5pQqYPPNXk5SBxg80+QBI3mMI85O8guU+JfEas55K8iMZXIDHVy5ZacoeSOOvmNxb5WHfAGBJIAQSV27UE+a-LPmIT5emES+cPNPmjyt5ScbLNNOLkr9bSaUTKYsTfqvc+5JsmWHMUm7YKfuryRHgQDtmA8j6uEjDNYNG5KAqimQcoXZyeFaDUxF4rUlhRIr2dcg8PcgbvXIUo8j67EziTQoWn-IoyNhNAocUgU7lJB3YSRWbz1Hx87Zs5HAIwAYB+FC8YAfbFxLtwcCteBkrToTOTmiSa5slSAoZMdGBzrZTcxBSorUUQAPOoeHAPNJnlywRi+sySGzPgmwyNU7wnyZ4p5mv8g5N85uTNPUJEErc1AKOU1KZT5p1hhsYaWTGkWmLMSWBJJcVLSWjSQliCjwEHk7ZaKGSb0cTHQEkzV54OlfalqKONqyyu6XPYkfo29B2zclg+fJdorehxsD5MSxUHc24arUHBi82vkJFkXO8yBJCigQCCaVwA8lfAApVxLLxYs7cFfKYJDXoSDTcFS8miaMHBE1A1lZPU1pMumWzK3oFdCAKgoWkFM0ofQnIIwo6nJLRhYBDKRIl2UciEFBAZpbQDLrF52AxS0pRzVrwWNwOGo4xT4pSWVKwpcfbIQcoBCcEcs7SuKANgZ4PVny-S4FRzNmLDLXBTo15QCHeUwqvlFzeKo-hanUtdlAymoXNjfGClnlWKzeW8qmXQrPlxy6IGcujmeYyOypG5SSQ2n4i3p9y2PI8p2XEK+u+y5ue8o8CF4OAPyhAF2RWla9khZDMlbaL35gqjp0wqFejM4mdsOAHSvLKqCWkeYhCKKquSYr5XZsRlubBHuMvwDqrxVWq+ZftmIldKhlO0qMO7UQSkrUVNSn8R5m2VZShVSvK7jas1UK0TlLKp1ZhF6lPF8pTy7lRxxNUdcHl0awVaqpsVkKQ51dOAKXTgA3Tw1auOhR9NajWL1lgy5HLXOll1jlZRQeAA4AkB7AFBKAEAI4APxKB2AMAf-CGDUAdAYAjgBtQACUAA4gACEAAgrKllQgBKQayVUIvDOSs4tJz0Btb0CVAgAfgQAA"));
     })()
 
 /***/ }),
@@ -20343,7 +20385,7 @@ module.exports = (function() {
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = (function() {
-        return JSON.parse(__webpack_require__(/*! global-compression */ "./src/js/core/lzstring.js").decompressX64("N4KABGBEDOAuCmBDAtgBUQc3pAXGUEEMAFgPYBOsAKvAB6y5TTGIAO8AXgHQCWpYPaGERgMKeMIBGpAK6wwkmTwA2AEx4A7DGABmiAMawKPeEKPC5pZIgRhYxCfvJJYfDcI2qwrcqX2noTW1SHQENJyRArWUATzB9K1ZlOjBmNlNhJ1JoIUR3TR1NHgRYsDpWPPUtMGtWLkgAGnBCSHVoBPJVABlNAGsAZTJKRkgAeR1C-R5EZTAAEUEO1Ubmok1YXxG5-hjZMGUeXolES2tXUncxZFMAfjAqB3ddmWFnMLsHMHIeDGJ5JIM8AAhAAdDRpdjcPgCXJfeDKRC0eBeK4STRgADuxB4+mIYGeYBYADcJOZFCovHpDMYMjoKB9jqcbMjvL5VDJDG4wCFRPArPANjjUix2NAuGAAIJmT7JEmzTQRRDQUwNBnC9JCSTwBLXGoUY6ePVvHVJOiqyr4vbE0n8aA+JBeWTyC5qgpFWy1LhgiWGpUCUL2GyYpUaADk8ngGlkv1VBJm0H41rs-B8pHZ-jKtFYF0jrhmpWQ+uTqRsgh0cXsElU8GsniEAFo1RdSvYgh8gw5lKwhIJUvoZkEgWAAOrY5KWl7NuJJ8yp-w5dWi4TySsKeAYTQaIKxvYYlSzBEIciExAk4sJZT0yvIMCNyRxOgbAyuaoW5A8Whti8UaCgjQAIRkGI21XVFuXcfoEBQUQeBJIQ430eczH4VcdBkZRZhJchAguVVFHkAl+3ceMUwROIRGrQtl0XTheH4QpsPkC1qymat9mZcggRWQgoFcWBkgAfUQVQiTyWBMFMEZIMqGYc0lESxIk6BuJaYTRI0cSsGUvAAG1VhaAAeSQAD4AEYACYwAAOXgDEwC6eA5WgAyAHoTN0ekRCMcTZh5cyADZ9kc+FlKaHiiCMsyAA5rNssBAIpIJnLc4yPOPEQ0Iw8imQQSlnwoGIuLC8LIEigBVDQDnfXKwDK1gMHIYSJCoExsNc9y6WPWtp1kbDuVCNCNCK-SIpM4ceGcIQ6tUZl2tSzqPDKDSJvhOINDi9RrnBNxhvCqBIrmRByF6MAAFk03gObdpKiqquKFl+lPddxFCkaoFunhqpZU6jqObCVJ4yB+hkVhs0oGpgTAQATckAeD-IH0gBdYqiD4wS0NgGRnBGVAEQ0davAAYQuBANIBqAATx5FGD0vbIH-ZQZHgHx1nsnhJEa8gYjJohIKQG8JVxEwSS22BXtp1AZA4Dhx3O6tuagU6ilqeXIFlsWSsezxpFoPU5eRlouENjwvBES95ELZwuMR-XIFR+ABNIdgNAEhNMf8EYHl7MDe0dyNUl6-xrpRx8Hadl2A+wPBIB9GJpFUOIiPiYnvnw+BVQASVDG9n1g1awiJUhlBJLx0VXHVkBkLdYHI31YAQZBWBXfhnCJEw7PzVIZAwLTznBY27EQI5dHgZFJAME71n4BJturRre8xBw3mzHI2eSL0AIkaBMZteIHH0E6nRqCtnAw-hpCOykr0+TLZl8YTaiD3jikEg4NF6bSoB6N-1aIV-38YAgJU2hLBGOMSY0xZgLHaBQZY+siB31UMrKOAAlUg982Aqy3uzZE6gGBR2Btg1QuDMERwEgkOW+CI5JzYgACgAOLFAABIyEkAAShVk+cEh5I5QEYfCVgdhGpcOZPDHiABfZoYjiqQAwJeMeygAH6UgJeYSQQRhdDQVUDAZNIDwHIL4cgIwACi+iKA6PsLIaAlRoALFbrPEYDQdEsU+jMfoTMjo2DMVHeoNst4TA-Io2mFiZBWLrCMXoKt3wYTcB-VWKtJD7hiSMf8HDvjRIuLEqgojCBSKUW6KuPDIAFHMZ9HhgDAY5jcdPVQEoMCkBGHJZU1ThB1JVrQKpFxVDQFqfUqOBlaCpSaZ03IrS4FQBzIrDQch4A9IaetGomhpktPqWMyAtBJnTO6a0vpAyFlTIQCMlZb1IA5kYb1WZUc5JkExsstpZzMZbN6ftXZ1y+qYCObTHMh0YgXPGfMma5FRnHNoN8x5Ix+mpQBYczB2phmDAoHg-aQy6zGR-i0d8+zTA+lUB0us8Lhh9IxZs4yN4DLIq6ailWrzumeA2Qc-FiLSrUuMniAyRKDkkraXSySOzUrsskvpXJgMjgxA-uUlo4lJAewlCk1Z08NiFxGATKgyCugqxmIyiUXQsmrNMP2dgxj+gE0wdiHQjL+iMPTgAMR1ccu0gIpKoAlATIx2SIASPddIyipB-x5HWv9PA4rbbP0KXMGs-AABqeicIaB0esTYUc6ECjVDfUQ4hiyV0vPvYQGFh42G3rkQ08rcxW09c0SA1hNCnUjDIQJLQARcyjjjRAXMbbysWYUomy0pnYBtutDEdDxAjBsnZQd1wdG4jyFgS82io4ExYFoeEpBtG+JYc4IhxQRjIJwZum2n0wawEeiSVEIx04NwRTo32Gh+gR0YesD22IhDeyEFe-2btgROMWDAr+ESo5gJxBA+YX7OhgDceQLCOjOysCoEI6A3CRh8K7IIvIcHmSPwrU1f8jaFZNQUHEAyJwLHkHrH-YyOj2akAxMqcgw4jpbi0FJCgnM8JyDVM+sAvQowYncOYcgldUiXgxKUF0zxjwUao3oocSaVyfDgDJS88ysIxu5MeVQlHKqaLAHQ0gy7xzzt8LqBaqF0KzHKHokw4R4A+KUVY494gHJynUcFWYEKdG2eetcBz8IKqcfUyMHzXH3BeYUb4p6qIKoaHEMsKOEWovZKFVAdQskMBiqUfhIw4I60VN-VAUYABpFW1ZkgIC2PCAUvbjlEX8AoudeRqsq24YYqOXQOIq0muJAlUBt1yeGKsyaAot2mAG6srAh7xKeFkutEY0nQPjZmgpirtMivlbHYU9OHGuMLyDOt6Cam1GrNbrZaaIio4RrbrVVgM0SurOYJRuqDUmqxPhXZe7jVqxoqILdjEeX4Cx00Fop7ZA7I-b+54JKbqwAJbWOeygR6PPwBMQYrLEqQ2nph-IRHZjVkIHoCMK1iAVAsnMPuhFE5jzudRDgCHUOoAk9h2F8QwNEIBGRyjVH+CGe6jPQeqm2PHwjAAJq9RLHZ3ULBNQj3cFvZnOQb5xDp7leogqbaog0cJfHKht6s6fvxQpq2YQKF8EcWNfPcdRw18kLw5gVFeFEyL+HVPldKOngxZAcPURhuK2U45dslUXFd2AZbvcOH86jhKN4BIt4R93GJYsQfSTX0LoJtsqIbhGXIMZdPqVQxks5-AKy4hjKhmorKeEYBc+i-gMFzP7Ma8Z-uI++IeQwBRnkFqMAlc1PrVLTk0LlfPcCjcJjpr+Affs6gBbon-B48h7NxPgnlu49ldsKuCn4hHfiJtu1o6sBt0AEclDru18G3Xg2evyGcAflasCfeh6gELl460p9wnP2x9N5g2BJArLJgUL4UtK83yUWRGKBBwSTBwY0DTH1PznQXSwDAFAP+322OXe30GxkmmlAkBFRUz1BCQkHSxExjw0mLCVECAwA0FVHpD1XSHPDq3hAAN7yUX61gAQPAJSy7Vd1LAuGP19xQSG3kBFTAIB0Kz1QfV7D3FzSYJzVmAEMQK0GQgZAmkD3gD0HQnkFEgZlMHFBxkiEcH9wmmQHoLLWFV+0EKSm6wFFGBy3FTZ2gKgBYIBxf2G2QJELD1zRkNYKECTC1D9kkPMErEUOrBUOUFFjAHUMZl-Gpxth0BcG3m60FE5C4MgKCXH0gDDSoijWwjcGEPaEFz2EFGfwMCQmEDzQxjeBoQMmiPzWcGMlYQXhxDxF7Fb2EFEhUEQEkHHFLk+G9XFC7UCFnl5DrhAlkzm0mwkCUy5CM2vhM0zHYG+EjEDkiKUUqTzx6Gqm4JSNWPui8DX2uA+0SxcPvz2ETinBPDPEaTz2oi8lKXeFXG9VCOjTcC0OSCVAkGcELDPFXDoEED-3AgkHpFGzVDkwmwW3uMyIuB7yMJaBBiu3gGBmQGsE5nWNsMgBHQ70uzQ2yNQKjj4TeCOgT0cFgIyCiAzAJARDgG8DImRA3wYMBhBge3e3Tg0jZA5GDySJKh4Peg02zVe0e0xJGAlFzQhAyAJFTHTEcGb3b1wKt34EzT8BOjpLewyEbDJQVS0GMi73DCULgF8DiDt0LjympDmN-Fcm1IuAwFSgeAkAVMewHkkCb3cHbzpE73AjVCMAEW+F+HkA6H9X6kBIiEjEMMhxtmsByAHwQHYP0KROSD9w0ADxn1WRQNyJeDxKUOKzbFNlIGdFCHJDUCSjAHKISErlgFSjJAkDoGfFYSHHDwkEj23gnGDCIPMDUw+EEBuEWMBhDOgAJjkAjPIGQCjM7T0L7PiDkD5Kjgf1eEcDkB+IzKzIUCUFzLkPzIMkLI0hLLPjLNoArKrOjxeCjxrMIKbkDxQkfTbKdw7JIO7NgEZL8XAVzF7P7LZMBg5MgAfJHIYATIOMgAnMTiaMQAmBgWLAqDgAT17DxMQB3IPL3LrIJAxFj3MH0FY2KDPMAMBnaMZmZg0mgCskzNujlKpifJR2RJwvkFlP3hZBiCcKWy-KJgbi9yCjlDAAsgzS5JOnpgwu+CwohKDKUXcIB0ZIVXTFZNH2SORLKmVEyg4xMNkJSzHKgE9ifXTXF2KLNl9L4rzKxHqJqEHjRAjCVFamLBzK8ASW0CpCMCNPFBxOOFxOHgxBYzb03jrPMBVN8DVNxG1APlY1XHUrkJNNVPNKBCzyz3L3IUcDJOgAAF5QwfKMBQxjJlVVVXJQrUoABqeYRqDAPANxZIQwRacCrgYKlci6eIcKqKmKuKi1a1KgJKi6YyPAM5NQIChEDMCuYIngU0X0uSIyoIAq2vEK4q-QUq6K6S1guKrVaqlyZKvARkrCZ0OYjSTg9wHkAEfwYy+EUWXqjPdsloRUBAH6Y6PRAc4dOKfav6DhENIxYhKOS64oM6X6Q6z8nIxNXOAQJiCGPIIISSyLa4HcF4ROEiMIQamQNiEQFys01FIYfg37Py1y8030kQIU-M0cLSwiZvLAf1ZkcvUjReS6FyUjdhc8loYAw9H4SLGrES9klItxeQfoUmmYTE9OeuWJedHTZUYo+0esQIzQFke6ZAKnR6-QBlEHEYQ2cUSgjSPRNUMGtU27cGEVGG8G+GmiJG7EXEesxOdGvRTGgybGvRXG-G7aogBEv6NI0gTYxFaw-Yp6w4v65vE43a0kDEKeEJIwG8Y26NG4ro8NcUGbVfEYkEhaTNT6LY7Sg67CbimnXRLMBFfof08EMgWAWjcgejWdCm58lIoxaO8GdoZwSMW7D85w6278vYS-cImqcwcoUnO3MeNmv0BGuO-Op4nQlvTMhPIMVsIQcQ2YdvK-WwODSjNKYokyrAMTF4-uQsxq7MEmPMLKeIRqZgMnNNa4COrfSMRnPPI63g76iQd3IdAWpM+0uEbexenYiQHGwMyOjGcyiBM7asUgCUFohEdo73US6MqOKgSwb4GYSUR+to6M-e9+nGg3LyT+wDOxPkZohfP+iQSY3sUvZQIcYcWQRq0kw4HeOC2ANW5Cw23iUBmYW+vkB+qB5+q1fUUmlrLQGQCSTe+SvB2YIh1o5+uSyAS0t4MCuwOh0IngO+yBxh8cWBoQeB+y16g3E408Yhjo9wIxaIQQYgcUJB9CW3PYA4IecwDBrB2AFCnJSRaRIIIdQiyAGK6AUYLCMiY-d4+AH6VgEYc6EkGFHK2ABKRc2S-BMrXK8CzBN05tfwEWKSN0ikwEXxvrTM5kJxrRLdEJ2wbqhjVZFayx1Q9qt+qAbxiQVq1wU0NrYKbCeAUYea8SYSyAbdJTP4vJxawrQQaBiUSwXJizfJrIqOKBaBiwIwesGkBa4PbHZdWReAZhaLeSrp8cRhMqOYFWOJsJtRJtZqvAhc8JuVZwZkU6w6udeZj0e6wxT8r3UrTZ2JpUBAFrOAdipmTixldAEC9ick9Co5+9VZLNXof8dahYZwBI2Na6yLZ+tcYIgJymdZ45Cmf1foPcTB4gWmihCfA4ARP5yWvoxbEqRCw9Nxgpq8lWBIVgGIbK7URFx2VtSrZ48gdF55pVXF1IBFrI2J9q3-QpVAcluuGFwGaAQF3EFrSigNKAAF4oNWyk-6Qmogb8Fly2yAI-Xgm-WmBqSXabXOk3Y5S55JDQlWSi0+DEQXeEQTUZzGDJqOH6dG8SZFmIPIJVXVyV2mTSkrKOZG67KV5qnLOmS1lWSuXlgiqAOhRqLmblqAaJjAFJ3xwinlmIQa+AcZrQCNI6aYLCtAgIcvEVdc+IX18cUSL+rC6zWmBOkVFrLUcmyAM5WAEVPAAySNlWAoUgGgegVLPaT7dgB1oGct4V0tgVqdQpZBOt+WT7cy6h2rCoKYauJtv5eARmmsVAPRXFPpyAUyV6msMAFyYl6pLtopJm-tvF2FTwcFXZXmoQCdvYtYWdgdhd1QbYFhJJyAGhWgcydhMZNnZIWJCFOwQnZSN6D1GkloeB2i00BAEingSYMp71qAeBlqZE4LLG5zMjOVRIL3Idp9kD211iotxlPC8irwAyZwOCzoYyR+IgfAjQGyegYLY6+geyZzHByAVvN9nERaktkqftHk0F6OFvOKa0tiMC3+5+lDqAVEOHIdh-Y8MCZS7wqXJ6VQRNkqHQXOhtYLMD8rJzRinWgDk8CXP2E0EDlemzMgaxz9k-fdijySVZNDmDq19T86pZ+Sgy1zVZawT8CuZALDjViUAADXTlOjKlOnsiMQjSMS6HzP6CrbAFoBXMxmcA0lOlUJqPw7k1cDgBxFI-TuROkhC9cH0D2NaBsEQBvXfXC5KjgH1D6ctoi-3cgnS67aIBQO+EbnqagAFNmCFKEDS-XUxGKGxB40+GYUkEDNQprdFI5Adcy6Iv3dQGZNWry6tqcHaoKdK5oiEFa9Wuq9bCeGFzMoKlVAVAZi0TCCPGuCS1sDG42oh2a+ooOCwna7eiy9DXhFziP1PZaAK8G+K6BhFAyE0rVpTK1DbCK2O+f1XAa6a+0b2hpyICjEGA1G67TDa6HZwpG9OLwMl1ZAB-G4TF0COn47peu5sUEAbQqmKBS7pe3fBXK9SjXenf5Ux4R+x5qGndeXx41EJ+IE28h1dZgF-ySmrSmWPwbVcHHUmZbWZ9pZaHdegBSaHYDdks0-Wu56md58F-w6vuMBmDvVDZU5fJshZCgzbJuyByl-NSB0JGueOWxGrBV8JeyGwGp8ucwtgBSZH35YSDgD9wt+p7gpiGzHWDR6gBt7t+l5wzDri+IBYQQzKllULoG6K8SM-mUNgHrEGpxBOhEHduPHMAACsZAG5ixihVQPS-gQ+Dhs0mzl9dLNq69jJuvw3c2RqtEo2HbijI-dADM1REL9FcwuHbIKDjxpbzTk-g-Q-94Fa1TzwVnjhQ6-pqJV8EWWQs1Fq4edqVm3AmckJX332CnFnjwuPweHa+OgvruztbJ9P+WXymXo0VYaxG5sNIAjEG5O2gPUXha50sX4Dft8P1gtbOQSQP7r76aZeUiH+JeQtNf7ftciBTIBIf-HxGpDS2MKZotEb7GR-++UcgO3zhouh-GPIUGqaTcoTQ-WNEKAVG3AG5VigTHb-gJHMhkILgJIXYCPlfIXB1ouVT4vQAAHmUJueIeAf5WMjTwCB9INNrAFQHFg7cHvSQIFVrxZ4WorAHNggPNIEw0+4fQ0KoAyqsDVwzA6gYvULC4EsBUAH-gAGYBI5QSoKIR7BCBQBVkUYBNQEGpRm83DccKiCHBhMjQm5J8IaULRrVgi8hQoFuAXqgQ0EswK-ORXIDZ8eB7VeqvqXLx6DKqNqCQaREBA1AEmHVdAeZWgDmhDQuBHwXQOQQBCvgkTfEgYWna4Cf+cTMhNOX04okB6cTYoqAKvJHh4hcLSvkgPPY3EnaJ4IuKYC4EZ5gqqAfoHgEtLvkjwOaG3kIDhZCBBOVgGIbDWMj+MyQmZV2qwOcBiBOg57F9KEFR4qZamw-FITgIEjpCnwzAB9FORpbHhE4oAwasun7hyYMIqAmoTn1qi10eh4NJYcQHiEAlvgjoAMJ8Cr6+d+IcQGhECFqJNEn81YLwHBRAoj9AYuA5QRbHthwsjwsSbTGmDADR9SAnA6yDkOAGgDLI-w5odGniF2gR4XgEGC2Qq6CYIeSEA4XUIaFHD8SJwtUgAAZ6wAATkJCZkRUyUPQcQRlyagZmeZPQCBU4jTtlBP-J5uNm6axIcKdkYrKGCEBhD-YuoDkVOnPZDhQBpggACyZgLB4Q1gRaGnikCZMY7Pwp8A4HuC+q9QrwY1VAF+DdBdAuouODEGYANwr4D5keRziiQV8nwKQZCxZGndIA5kH-mkKmYCQD8wkBYQTglpECUmUtPQe6K8AVAb+kAlyDSItAAkEwuoTYaUNMCoDVQoA41rjTDGGhQB66Vgby3kGOif+uA+luy2IACQjAAkPcJNCkgMs8QqoiQMWIyCcs8MrIAIG2FAFGJ9hQVPqpaXcCbCSBGLKQh5BuSaBWAcgakQaJ5Crggx3o6Qf2GfoREHRTogSMoPSFod+SGIUwPyCHA8iAmGYWgb0LZZAt5RRaTsRgPkCAs8QVYqcftygAzjJRCw9AgJAXFNp0CgJMscWGsBDxbqoAmsLdS8h8Z7AcQUgmTV3FW4PeuQO-pjRHFeijwGo+vFqLAATkNS8gGcFPH3FMRc0fYgcUOBgxxBixbYE4rACdrvc72kJHlohORCTJt+KnHMAJAxRZCR2mdWUVjmOTOxKJLLUqCgFkBrkwANEygT+AazB1coAkFduoh4nP42UiIAscQF8BdxiA-Y4svhwwZ6JjaNDVIuGlBIxpmGQgsPoSD1rFhlQBItSIpC0i+k-a8mOSOMXBIqxRsDsZ2CBRQDTZk0LoXmNZOp5Al5sOYCUApAWpaQFJvtKYrmhMlDQVYUYUSXkH-hRwcKqoQMN-CY6QBneosL-l+2cwO8DuIwZiqiWCzrszuX5UhulGTA+RfSAUBiiFG4pbcSoXPWKTYX3amQYoqJPnmlPy4ZSTM2UV2pjTtwzdOYhU+9rTFPoJTOuhSQAHhEoGPPDVP678khA3UYQPBGFwOAd8WpFaBETPFfcoS9URUl1LKm9SLs9JZqK1EGmtAvyClJQlRF8nSdwIpQAAKxtSCJJUSPstJ1z7s+ps-LaYmRClZMBi+wbIPIHRDNSIBhUSnudMBgnjSp10wpONBLGndapRdH0EtFcAnw1oG0UpNtFMlzSHRM0Y6IWFBYdcVpWwX6GdAuh9dtpRdHLgIg96UA2wduX7NUO+k8VS2TAEGAen+mqdCkwMUGKTnHQgyhpUcdbNWDlCOw38uodEMgB-EVA3g7PM6VT0+6CodG5aW7KwHU4pdIAzA4-NvWSSC9VQUCQUPhHpAAAye4JXHWjKA4u53f3i81ZYecvOdw3MP52CKpRAASYSecDI-ac2dJOp6MT5Z+jKABxJzhcEBahXApu5xRE2zTZfnALmAGtlec7ZAXfDnOACBcSVOCsudNOW3BgBUEdTaoJrOkj7wkC1FHOhdwD6VtfZJsnzmbMDnBzbZtke2WRmp6ji-8zslngrA-BthNZ6AdYOnKAR6ovZl3H2SyDznV8A5FsoOTbNDkWzqc4s1DgyLkLI5IAHA4-E9wgwNMjuEGTptpxGDmAyKESG5s5gZRwt1EEaNVLqk8DjBTaxiQ0DyH3nU9iAtvPRH-EnnKETgwRWKQRxdnjyz55AC+YjJblZzDZLDWDAejMAVDmBEw0dsgFyDyAt4sxJkUAqraqgyAjVZiBlSapBC0miTKzJT3mkPzZif8FQUyVoK3yY5vCR+X-HYlMlsWlM3GX7wKaMkpJ38jcjYN9IrtwIH+QkLgr6B4TVkp81BX0BUGfgLaZ4u+dXIzYMK347EjhdO31kFNt0UwYKD2CZrl9uhIgFhefL6D9wnQ5ChkDeGJgoQf5gvPCQb3WqXyginCohdguIEaBGBx4e5jfJfmZyDZHsT+QigkU1gIhFIqBaIJgWzhgB8C00JoqKkVpuapvZwroqwX3y3ZgA8xSQsu6+jSAWEYoojXpC8tiwgo4oEwsqwsBNA0DfxTwsCVUCaE86L0Sey4XCLQlwA8JZLQRrXdsCMSiuhQOfCvUeiEpAkl6ORAJLqKTMVJYUnSX0gaEYaJmDkqIV5Ls5YSiJcUuoLRLC4V4fgHEtgDih0lI0osOFOKJRg+y39MIRQA8XtSoAnePRA1FYmqAbx2ilToEWvl6Ka2Bij+pTHf7dLX5li1woJnGkvA-C2ssvJNAjhCA1lYmEeSln7i-yGllNPROZGaUew7lswFqJLXTjpwhF5yobgq2uXFgMYJyl-I8o7yeBJaXPd5RoqQUG8ZgtBHxdRT8Wftvu9831LjH8A-MzlFimfgk0GjPNv6jYIxCSEqhxA2gqszZN2JQkhFVF3YxRQOM+Udl1l6-LhQYurTkAR6+ZE0BWVBUkrLu-K-SThIQlGLfsTAwXkt34A5hOV6KblcRk0DFNflGrVVUKsSAirglrc7ORKoyBSqk4MqwgeaJ7AaRFV60ZVWWwOBrDNVRs+1S0JoTCrDAXSmtj0vfnud7VL6eZAwNlViZ1qCquwLhKQU3YkgxQI8PWHVXRoX6hy++T6qjWS1XVuq91aKpCXZyk1LK-1fgMDXmiQ1Uq21UwEjVrD6wgodVmnTI6JrS1Lqt1bAA9UZzM13q0tX6t0Jmq5VnzSeGiShViSR43IOQOQuLUVpVV5awrkkw67cLCkRq48Kmobh6rclYK8VdyqeUCJVRudU1cYotUhqlVqKzxYCJ5VYr9ljq18pkKJWeql12cq8hVwR5SKbw-Qs+IMOkWHzB1A4hQJmTxAsAqhYoQkeaXTihACQ0Qk4nJAFmwA8IjlQWdPlMAKpv8fxSsMeFA3YFbqXdEqtsItC7CEGqA8NccgDEnqChKagAIpUNVAja5uWKqvVvryuIap0ghp3w-rQB-6+skBtpW-FvAO+cDZ3Eg1akYNTYeDWxsoAvpjwyG-cKhu0DoafImG0MXQOw20wySh6hNTwvw2zr9meiUjYDC9VKo31Ay9gEn3DStxqgZcCgP6ktXqB+wNUGAZ8BPHsRmWyy86QK0SGYrm52KqtYDAMWJzPE56ptQavfnuaDkIPLYfvD3Bs17wYAUkUSKUKitNCMm2FvoEVY4qoAbmyJm0oJgExhwam9KeRp82JCb1GoJOEWT0Sp85SQWvAnEDC0Rbc6YoaLYDF8D5N4AFUokSet81tL6tAABvS2gzm1ETWrTlqXAhb6t5WkeJVtvaOTxIrgnRcevi1Tq-G48B6ousy1+5kAYBDIFMOZX2KLNm8dNDWLfbeBsggQZ+hQXg3Fa1QzfMIFJINxyZYOLpWATcIkDJAzUp2uQLZopnooPw8m9TVfNUJ4bhlx4RWEiE81kbOtGrV7RQqTiXg+oISdMhulcBnhn6rBJ7ZHQrlvb0pzmydQYobneiM13m7GGBIwILxC4m8EpetqCj3bmV0gwzWDrvWukuZzK4de+FMSCsXNLQNHWBNm3ErAdyTHHWqCxD47laROu7W9I0Bnajxlfb7ZTskFPqbwNOqrWd1kBMNJtzO4MfmV3bP12t-XLHefzB246qNfOoPg9pCLC7yd9ILofes+D+Mpdt7VZLhvl33z0dLqojcJFV3EL1dJXCFfWQQqi6kAatAMUIjnKr4SliBOxFQyyjihRgLG-uvrpq55C9BGwOQKfNSB01lArAonVZprEob28iO1QG1PwnPaUY89Cnrso+03zrdPCmDEqAp76q35-JZnI3EtVKLjd3Y6FlYO406kMCBhMAJlKybw7fELbLAONs+3F76ZPejnu9vm34JzKGQOgEURXaqg0RdCjcDSqbzttigMQLQt8GMCuAOAxqmULrvZVMQi0NSjvMqBNiFpuQWEHQJiLEAIAu9SiKsX3qL2M7cVPCoGcPoy3s6P5KGaIn1F-HxhVQt3PEInHbzT7QdvUQTe+vx0oZ8yI7ekESNYTigFgEwPWhpFiAh9hl28D4TNOPIt0vSiE2JQYDxAfq9Ew68lCeuf2Y7K979WDJ-oq4J77Ff+w+oAaZqqhvwDybAtIHAN9waEUB48DAbgNvtP9uYZA8waq5WbmyTRRUV2Irp4HuQ8G6-b9JWgFj-ld+g5bTAMXP6wABMXwCvBiZza39pXSjCDqs0IVNDndGrofHEOcgDNoyqQwQbcF7qVlkAaeECVgAuwE9Shr7eCHGw01XDFei5a7OqiwhHDnh+PWQRmC-7Va-+g-fABq5FKaITB0XUwJ0zPF3AnB7AjwbsN2bS8jm97Sjt5WJqyxZB3w6+QP1GBu4i+CutVCHqJGkAUuBPZAdSO1Fk9GBzlmEa0qJxKwDpK0kfvPDJxC4Scc9OtCwqqgFo5ZOigaH-m6AVA4E9Iznq-bLocQAkS-fGuyMTaH9CW++RKCshzAtMIiHwwU0P5TCRAbBpI2ABBDDtTj-od9fYD125BBZX40+eKBoQwZY9cQa4BAaFJxGKdCR9gycbOOQACan3VZK3hPXaCqA2x81mzud0H9-DlR746cdMjnHttq4UnY0UzKCJnjDxp49+Pep9x3jwB48F8eONwnTj-x8KMgtoBeJVjU2qOFZ1GDIIwTL+jrZCf2MhFDjVR5vEScgAXG5Iw4z4KtoNwx7vxwjJotIHsAYm7jLx6oz1rTh4nWDbJ9wByZJNFSiAFJ1HffNpP0mCjex6E6ydhO-GuT8yHk2iEF1vrewAp+4-mUxNx7XjOJ67h8fpAEnqjPx+E38emOX1YM3xFU74pWOqmS97pyrpqcu6ZTEOXSNUCKddp66Ljq+bhkabO2mnxT+ZbTdKZiX0gFTtOiaAYj276L75pe7aP6d2OBmKAwZ3HWGe6HImbt8eujsabelmB4zNCRM3afxPHhUzrpqIpMaR21ScjWZnhVajbP-aR9b+rtEqMiW1HeMToY4LmjOCCxqgNCiscmAEQWhVwbxL0SBBPKvEfgfwapR0dNUKoMILIYXUccdPf7dZyYUgLIbO5I8zGBezswptDQXmW0AZq9TgYRojnbQavW6kTraANpbwYARmvQe764nkzYmOU2efgQOh2z+xa8yobxXBrt0TUPs6-shN6GqMT4yIE5U+BPQMqYPT5vYHEm-ApJIe19SEVXBkkL8DocY40cmjWaU1FwDMMvORCwGWzSiPIDMBiCb6sjyO707kZ4W-d2AkoMmqxdZ0XrR9JXfi5vtx3+MTt3u2PIaZelLjySNYmS4jQtDOBSifcKYUpb3Fg6QLUAYVXPE9NHr+9lJgxU+zxIPmfNAoTGH3APPsm9T22kU3iCPM3HNyz4UoPAHdHKBNzfRgWQTo1ANmm91l8ENpcgCtxKAQeq8X4EjnsWOznFrs4UjOyhXv6SmsyyMHisYx8wCcN9X7uoLdqTVX6uCMOpq2tYB9KViaGldmBNb4LjJ8g1AFStB7SghVvzVld4sBbegxW4dZXAu1nVirp2Uq0HtqgeGZtlVtXdVcgC1X0rMoygeJcdiFh5LLaSWrOZO277+4i5msMueqA5h5CxFoPkQdG1dWjL98sa7MFTlnV8z2cw66UE6u46TtUSq1WqH53DrEdUVpnQdd6vf1bdglrzSNfOtxAK5WukpfXvF11xSzVZsnbcPiN1c1znpPXUFd5rhWxST17aZBerU8Le2N4f7vDeSth4GOkjEsFrFIA6wUZfxWlRQUIu4759fsI82Lss1NG5r+JiG3CAwDoQjoVF2w8NvERDymA5lGINuiLNjyEOF8DIWsKEieACxeehSQULbA8WNOvvA+rH3JJ0WAJEgTYWerjF1E1aHQkHuiC-UDQK+D6y4+GdTHPQxh4bHkFMLaZ1MLgzY7gbXnuacad4lw7hgZMs27NpT9pw7YICVt6DhNuaLYWJsNAYbWBjYTKeiO8Bqs9eP50HjBAX0EhVwoAs4arboPvYYNAorCDEEm7aARSSFW65gPw783OgAkBq+BbpldbSw2hptSsN-XGQGrFAVgfPz9gK2hwv5wu1KfaG3MjtIWsrdWEi1DbPFedrZY9YUm26m5-Ziu6AMeu12-Q3HeFbcxZBUqKluVSMboQp0khNAQgGhHLaYiQrmywu8rrUQVFWAltIjYXYmc9oSBHr3RindeBxG14oJjGuMMaG+3tF-sYUoBuww7Fg6n7hoQm6wM6KbxaechBTtVtsgC33wf28W6Lt+3D3X9o9vQaA70QT2ZO7gBW9+d-NwOQdvLJ5VEG0CgDhIuCF6rDq0T7Dc7wD-O51aLsvljrH16B+OSOLN5NsOoQ+1RoN2fBQBZDkMXoJMEfrrjk5Po0ttUCRCS4N2hOAfrO3rQcOkhtWjYZfu-ZquuadvKALQhH7UB4oRja3mkdfB1zAu2M5oL0FkPHQPGR2EnvLP869dgDloH3ZvHorLMCNl8vioxXMMmh8C8lb3G-qgD5EGKhB2uHrusVZ7P5r0gfqlKGUZmCgH4IKpakmBNQ+GXR7WvTJf31lbYFdkntutuLxwv8sx6BeDMKGTlCk45TrIccsPo9-yzx1PeQeNgfydDgetCp1n-yJcmI3+e8teUmGrjOd6nhY8LvkAyEsW8W6loTmRMoHHWg+kmGQciA42IbX3QU7oHV32HBoxsL+fzD6G3dzcRIf5tYnRqWrxWtCWfGCeJ9iWDjY7UlvSgpi9B9oBcKGCoDF4EKMbBPLhYaIhFRnYkQcb0PSdQALHjEshEkreYTqoC+7LJUUGqCtL4LxCwZ09Gnv4VFbldydNzS8CLLpnTzvx4fQUeFmL4r1IQA8uS7xCbDE1iARVx2C0P3A8I5QneSQMPh57pF12OQHnDX3IJeIpod4JheHSp7zgOJiXCm43IjAhcMeMeC4zPOBWJDrZc8o2Wd5tlwRAsa1BwE5P-l9wAysCuYYTkhnPjk2NRzsj3OiCMluO0U6k29CUHcEuupXeHqS0hEWAVWxaFRrERdZ-AUB-WA0D1hJz5YsgGzSqchQW6GIHl689VXgP51uVGdbK6tAgvhnld64AKvgeavFaKr8Z57boHuPrHgd+F4USZghFZ9J5DdXybfArrlFO6+ZMwNdd8uXYta8hykRMu5Vs1R4H1y8Hlcz3FXrDvN7C9DfBtpL5Ztx1Y8JUxu5n1enNTGdYzobW1IjbtYm4+Abrd9s03uzm+YEF2wLNjlIqYtItwXS3kdzbMg9jt6CpB8zWePsNjeu6Y7Fr1C4LNN1iTowkk1jHAPNEQTjI2KYMLdSLIqAmNrFarpRcbDtGRGo2VF0gFnq4FMo2bzJweo6dW7GdxdqOPbsJhnrZ35bsF8UTDdO2I3vQr9y26QlXLFn75TW+2L0E0b+NosH+x4bIs8gN7oa0gB+4FuPWBIamPdkse6lbBZd44Ie2XYB3Auzw-r8D2q+Ocs6a3HfWZ4eIoDvx49USZmwtfXBM3aNiu-CFiICAZA47FQqjUGBotJi6BcR8EHHzbDYe5IMS1e1BGuE4e8PpDofQpJy6YXgPfrhV36LoGVcJIrA91tq6kILPN3qQcfTU57Vz7c47gfVAYGX1UvUov55mOvoid3Wd9hF1UND1Nc5poe0Qj8SftAGFLyA5+geosaIetOR3GhI3g7z-dQBDm8X2d7+QHodjUW-cYCggFYGga-5H0w0oVFAwIs8q8zfMg1UJgqoug0j9wMaO0DC67csg5UKwgEd1jTnBMC5whMy-xKWxGeU5j8Vuq9hQBTRQTiPFVsEg3hQFHrpB-BqG9jmI3eIf+U6glxYAQ4R4-a6gpgiXaqZZ7iRovqr1Mn7T3-lFAa3P9kSFVyAyd7a2zvsPC7z4P1q7sVbK7Uztd6x-M-IXLPhdyJSUr60neBtGQGhMDHIDMxlQQ4HAHMEVMzHeXmTk8Z6ODHC2tlmRhLy+Wf1CBNZAHsAO9cBcPSbaW3+W-p8Xd0DUf9kWm6gOmrVnIl7iOeLdtptXauZMlkYXx5Zv9x40kPDILOV9L9oIYk6LcLFxc-t6r4YPU0SnQjvIOY7Ez3oRj6x8xvBzEh2TGbEhVO1FG+wNBkBTAnSCKL1Y2m-z6oC2hHxs5lPbTdVAnOdHdApsSG7VLihevqUKCY2M+dn17e6HwEv-beUf5gJ1oysRgfF5f0EGxDzJ4UGCL5vkSqN9vb2dnd3eZvapEPz2cD-MeAq8LlDeJNsA0KojfG2c7AKj6fBFrhFpQk7EW4ugsQAoReAyBeM2A1aUZkI7MABvU3KLClrl5mRPfQS8XAXlMCQXeA6njjlNlI9AdqIV1loUMzINDsxr0g2gTTeJX74FufnLzv7l8lAgbS6faPBPiX+DTn9kQZfT54I2TSu01+tfzLYsK3C3gDhN9r1fn1BIWBKNH8mZHEASOXfjudhQ+gdbADO3+FjwJFuEMJH-l3B0JwoSjAk+dDERA8O8y+kYvT9wyRPDFw0r9wHAayIJaaSAIAZcfCPwhcwA2PCPMTPV5W39PfWv218G8XsF7A33dCG6NKYA8WLBQBXmgmNY-R50VphjLclGNG-JoUCMUA2o0Th3xN6lYdruVW3fsa7C32gEG+JdzlNWBbv24MGLEAIFsZ0eY0WNkfDYjmN9Aekz1kvyCcmQdQBMQJkCJAtdxgkLgTUngk1wTMA7YWQNokPgO6YRmKB+RQfzqsfxEGEloEgQuH59xoK42UC00PzX896HRICWQNjOYFVBaTVUBpM6TC0BBNuQWYhI5G-KUEqMpkP1TnMI7AGmw8xAM8DjBK7ThECBKuaL2HdMnEKzKtwrJCAmYZ-FIkOtMfXwAyCqPEezZk8feQGiDu+bnVSc7WfA1CAufJFToN5nOyEs9WHT6CZsPfITy0NggUIHK4rbWoT6pyndwE2xAgVqkxoRAL9yT4DnXz12silL+yLBNfQRmwDbAu117AJvAehnA+1P4gNl5CdtB7RuZeABwBrfb81MFm8HBxygWQawCnMpPLVyMMXAA0B+tdtVeB8teLUumg0WQELVe5vefMnWwnmKwC2hpSQRHlxVvWA32DGwUwUXt07JOF6NhdE8Ub9GwLtBfBGYWBTWgKAawGD19g0cGZAIlQiDIA9eXTWuBFtea0TAQXQaB5cApPuwUkMOeQHgZ8nOBmcw00GIL2AowOEGDNhGVcDEd--T3wwhxRa22pc8Ae5jWEsDZvVIBdSYXC+JQuaoBak4gMp1kBQwXNEm8cHPYW4CSyDbxB5GsEgL0Fl5NEnWlKAtUmJDSAMd398hOafw34UickPylTlaj3P4tAOeBaCYkdTy2VRvJmENDvnQpCtQDQ+83gDi6F4HUAVvIcAUCl-SP3NJ7Q+sC-Nv7BULQlG8a02lAgwcTzeBNsVMUqArAWIFYFNaan0z19g2mksw1QDgVkdb4Ny0Pxu+OOz3cJJKSVYF69TbFwgI7bEF+B6rWFHhJIwX4KMpS+PA25o1bGgRyhiOWeinkPaFawPxng7Ymu4dferneDB3Y7VzDew3nXptDfZll89+ADuAJAtA5slNMZw0S10p+4QjCsBSwfsFnoXcH4BgppuT6QUAXifR3bBxlCf3ztvUdBQy4nQg+VU995d0LlcQXeZncpwXOsIg89pfgF8kI6Dmxp5BiUeQMYKHF3zRQHDZkDqQjSY-GTCn+R1kjAtaM0NpJqMASj0QqQQpHEogVb0UQj1UNyV64w8DCN5xfmBCKRDMFJtDwj5lSzEiQ0wWJDVh8OXyV9RVADyQL0iQUrE5lWAIJjtRNITIKBhWIgoPrQ2QNAkh5g8A3hmZDoE1iS8FyeQAIxg+GEkA5GCOtn6ADgWeDnZ-AdyUKQCMWQTYkAAUh0Qn6EKGPwlAWOhmASPRKTZlUIoIXaA9IzGygAslRdC10eAY-xktcCITSMj-AcUCaFgxRCOzCrPETRMjUnQ8JdI7cDmWv8TAh5QZhe4ZkMbxlQH8O0B5UXwGPNVwFiSLJfSTyJ6pp2TyJ5RVjT7AsCOnaAGRD02BmShYsonGUyj8wKSDyiWZXl0ZsEQIgW3Qyoo6Bxlyo3vWawjoXvRKiPeOqN4Qu4fXkpls9H6SgA1w9zHgjwMCCMnUXyKpiMB3MH829F1CMyMMUdzTwgHoQgEmB2D7cXIDbDNw2IHFA+glv0ACrEd5lupcwFaFKBz6admDF1CK6ROR1oCiUWQhI4djOgLohkwlQnac6MxRYkSyG5QtpQoBJAHozZBGBjpa6MeicZEmA+iDkJKXC0Xov6KXENIGIABiUox0WBibo+6QqZn6IdkaYEY8mU6iZjT7CyAMIUcBHhlANxG2hodZfVvkXyAAC0dMG8GVA8Y2CAJjTrd+Qsj9JNXnJjAgaHQJEOAUmINwaEIxGiMuoSxErEHAMvCvAABXoAqA9vJKLzpigSmM7Z4tNKNmIXYFVnwR0ogTEox8o2WNZYVWEqMZ9yowbCqihrIgFAU8cXZnyj0ogSF1i5Y2Yhh4reDqIt1jkCxhFh25S8KIUXyWxhrAa+ZERwiITEa1piMgNXlAU1QQ7DsgLGTukeBD9IYkwITCNBBAx6Qd4mDicCB11XM+wCVnfVOgaNG+EWgF2K6RaZYBT0QZYxWJNioWVWLPFPsZWKBg84ymVAstYzWL48cZY2PnwLeEqIziOnKuKBh5Y-HBrj84qAH-4nY2ICNj9Y66goEO4uIGbiGAOaUtjZNKdCoYWowaI2JR46hmpilUQkjusp4rAHFBhueIMPAYkHhzsiUDJkjZhpkE2C-tNHbQIVBgOcrCz0d5aBiJgwdemH+xEMWYkJiC3UXUvjDQWWFuindEa2kZoGIQFGdLEE82PM6ghVng8vzUCHTRtte+yXsmBV+CX5h4gThMwc6MVkm0XyK1GgS46SaN-NewL4NrCEVX4IATPgb2HcAb4GBL9hzAAEkkFoNGYnMx5iKzDABQ9UoHEY+GI00BJ-aXdUgS6WTZWgB-OXKFvjkSNhJ3oWE5BNCA16BGNVAK4PzQ7hXYQ0EJcMWHu1JNjOCHX0AuEu2JrYHYpZH85AgVAhni2ZPhPt9+HYIWESJzGRKINNlCNELg4+fSNI9KEZ0kMSGYZmR0NITamh9ijEwzHpBRE6FwQNDAG9gBMrYmRIsTjEjhP3ZlEoUC8SrEt2MKNbE1cALhLEmBgjiZE6XRRgHAauQnjkSfXGvBn4jTRgJWaAkTAgkk-MgOAobCdiRlegBiwdEkkk6LySMZY6BqjNHASU9IUYphPMdlCSaGIAG2ISPiT92FqGzRGk5JMvV35XaWrBlubmhmi-YvIDiAMksPk8JP8P2FNjyUFR0uAoIxqGUBzQdXl+B5rdSWp9sTCXD5D7QKYGUxBPAGidpsmbwCIjawRyMoT3AQTCWT94an3sVVwHC33cztawERCHKTMGfBh1GYDaF7ZRJgdQ4ElIjeS4mXhKWhoGLRI7hagjyPEgfxAfhNgzUSWjiYRYeFVcBZgU12qwqlHAI0EygK-HUIa+d3WgCHhBxUW49RYdRCBP9FXi6lEvDNnt4wATWVf4ffNKRfjCjLGLT9FVBAzn5SUhczoYA4wnACZgILQCXjzXdXnex4gPRHEh0QMqHWwysEWFXViCKOz9h4GJ8R0oRGSIAMpCE5NBytsE8QGHV+E5IFyd4QfoARIn-KZh8T6ZbVK1kTlKlJSSoALGPcA1U5EGN9mqECH+UTDXNDXCzgdsOrCLGeFVIEAgI6DiAPlJFI2iLUyFSbJnFW1P7hJ9cNkdcf4kTUuE9NepWiSoAVuDIIKWPVJKs40mlkmi34ycR9jSaClhaM1aPJLzo-SeOO9IPaN8B0ozAR8DKB9KfEPf8IE9xNpgGrNwCww+eBNJQQ+nF0BC1TPauANQ1E12SkM20s+ThBcQrUD6hFzZtNZdzmIBUVSjyAPW4YzApyPDCW0bQPhEdQTqElQOiADT2BRvHsOJdUgR8S1AcJcHhWpHuPg0QM28dAPbSotGpMIlPXRxleVGSOkEbTzItNXkA+eMaLpBjUzpKkhIaXNILZ31JEE6EmBRp1rETiL7GDjFCOeD4Af1UYHdtjhL1RZ9rAOAl7AvsDQGHVR-Z+ivIwyeACToU6IlNn94YvTDkAXINDJHA6McHE7TUiHDK31KxIjOqAksGdHCJDcfd1IoBEQvwc845LQBcgg8NsHhEZlUyCJFwtXaNcAz06tJKhBMe3XtUYgKxm6xHlO9MgANEOyBEzl9O6gEQJM5LkmjaaOiiI5yMo+lngsJUIDRcKXDICJ1agBeD9gWY-kBZcE+BuF8AzwEBXwjLMFRwjAF9S8FIAOPP1jyA9EacO0D9yKFU5gRGJ0BPjkCMjJahkgJ1m4YpMpGPHBgs6tk+tCjMLKjjYUiQAahHbROCgxQbM+wOTaCGdLApuU58Q0ywIRzJOgXM-1D8zaYFzPIBuybCAoBQ9NDORpkgbxkyDmkztCJYyshMDpsE5feLUl94FNM0TaxPZVUImDXFlx0q+ZrKMz1oDEJLp941vhOhNKccDnCQXQ43QDlQBxhZAFoKFNzAVHUIGQzLcX6kPp48eckSglyELWb5U+MPjbApss+2tSzRd1mHVhMoPWX0oOAtCkyZMsAHct5MnHFKIAfMqFkQYgR3RNTIAZCMEYB6Z7Org7AR8ALQtJEF2sziIo5N2kUNbLIWi8s0EjiAu4WICKygEIAPnRK4O5hgRSJSk2wy7QMiHUMPefhX-Asc-6BIymhdjHUBwGFlwQpCcjjx5BTIfyFoAGcq9nPY5uG4XgyXfA3AtTwXaQETi+oHkE91-9WnJ4cp-OayrSpE35jD4SJcgFD10AIFikz8WCMFJd7TdwF0yMwCoHlySM1NMXwQtHrOCJfPBFlx16XYBL2BohEcWpZbAJjIpEsIdMlhV30NjSBYiDfdAOBCgZECncsMqmmdz1MrwHdz8yD7NiBvst9IaZSADICaJfOfoikEU-WgH8BG4YbOtzzMAzRtFg1cwFGiIcw5IoT2ZfgDDyawn4IRDQbDnPCiLjAkFENUTNogTAgovOEm8RxNLNszo03RHt9zoXAnQBDZerKkg46diRoiJAZvJTpJopC1G4-UKOMMyQtSOMTypycrKj5Y45EH0lFLOOhnTN4DGLK4POasDz8wg1cEdjoU22OJZwo4dRMzkAXXyaz9LBRJSISY7oSMAizdQweQ6JIJNIVQgS0WZBwXXfLciRQJ2FPtAAjkS5AeQRr25idtRmLcADtReCO1f7BZCIRxwGfIlZadNgCUy9M6AF0ivne2K+S2ABOWXFkuUDGsiOk4SymiooqyJsjyzbXXptDMsL19j8yK3N3ysJOQGEDBMwGF0lLMVQBzM7QBFFlgpM1yXUhxuOgoPQsZSLIB1ELIhCEAag-9LqC3gTFzaEvMlDHYKV2eHS-CjGMeRfJ7CYjKURauRlF4EeQiDR3hYcoDVCAEqar1AxLUG1H7hxqMMJkcLUwAIZSa+FbNVcNgkfl5cwo2Qt-CusPggnRgIgqFTYtIlTnAj02CUFBg0+MplWQ9GHhVWx-JU8B+AP2KAALxY00uxXRfmKZi9ZkmKItzBIkEgkVybGNv0SLNORp2SR0A9eQHFRmWIr840wdTKYlPWGvllh8itxPsNagVgHBwVObcL7IYyV3HiRx4ZJAaLjONgEdi6oGxkKULseItYBHY5BAqSNWDot6Kqk5ou6LClbYG4x2is8DGLDWC6RaLClByDNQJiiQHmKC6WmFqBHYgeKyFHY9vRdtAXBSKPArGJVFzBJaA4uGKT85AEZIRgM4rCAuis4tGBRyKOCuKnQZFi75Z+JVC747qMOkiQa0UYCdh4UZTnehFpXkmM5vi34vyYnsOplC5YuL4qmQhBPXl142aenlrROmUox6ZgaD2AGYJAIZhGZkS7pitR6hG9KeQWGDEvb16hfuDDRFAbQAJLMEMsS34mJbcQ5ZabOLkrpYcBugTpjELOkPFIFCQF9Ra6IQDPRp4qVh2V70jtRMVtFTTibcshOx2scIOWeEFcRbOWXfpFDYzm8V2S2iV2KgPWOQdVgmWrQqiDnTxkGtptMbWVKwHDXXpBftKhyIAB7JtCY9UkMvSsU7Sm7E08x9CgAFKjWFaBGBSDIDkxSIAsmhjInDVArgDjkZQIWMTsT+GkCNTVeWnlWWfI1WQA-Et3Nww-VZCrEsnPJ1NYVodQ2MN+nRLCACtgHMr6xx3RWU+ZYLexAOxXrZQHSDIrEqwStZgJK2xw-TcyntLczBstWRmLWIDYt306gh9AWLdsqA551PSyIETLLGGYU+FK1lkUn5PoHzZ64OGza4iBEP3RsZytzkqBtYdLSikLcyljXK2sRIWqz4AWrIgIusRIU3LatGajjVii13KIFTy1qDwBfNCQBS1hwMICslOCn1j9Y+eINnjYYpOdCucwAV8rGc4uaouQAfoUMkz4tmcrEnJEAUZhdt9mRxji9jmbHTOY3-Obw15isq52ql9WZARQqbmOUindHmDFku5tcrC3+BcYf1GpK8xbCueYNEfeBBZKWQir0QsqR8WhZkWLFmf0g2WVjTLJoPACJhMvMIiwsB6QbKvyZinIEVzpITrAzZvBaBUwAtJDrBWL+KmAoRZFc75Oy4SvFJ2spIgeIoEqEWDiv34NK0CtUqZKhxiRZNS7StiYci2ADCyZkaplKYCmUyuaZ1wmLmmFcwbwsiLAQeSsH0509EDMLzYbGSMrAQY8uyZT0GVXBgHUjcILVzbMpjFlISSAH0D7iqtWJSJQaQC8pG8fwptg44ffl2l2MV9HJcNxUQWcxfYYynwwZFZwB0AIqU4z+An-aABwAXIFyA3B7AFhC4AdQFyCMBJAO0HIBzjDrFGwiqyABvFcYXoFONjIXXwSQ-Qdzk4oR6VyEQBUoGhA7oDca4EBCuQ4yDBA77Q8kICGVBACYM94TylEj8q5QnaqDIKqo4FSMFqoaiBQdqs6qgpHqqFIoQa1S0wmEFhBGrjIE9zBBUq9NCV81AMMB1cYdPdLuD3mI8QMDsElZiAxoEEDHLhK4eTKOhNlI+CXolSJvz3JrkRqnmZZ6cESAKCMQkAKqtq4BBgQ9qzk1arDq042Oq34HqqgQlgYlnAxg3Uapc97q2TE2ULBSbL9BrANiBC1EavtUKriquuG7Byq0MU2UthYGlqqrAFyHYA1hLeGuADgEJH2qg3WACOr2iE6sgBc+JmG7BIwG6u-M+EEwMQA5LfkDuqNAHszJpYgCBTaj2wb+CfFPUkhME4LMODg2rGa8eWZqyqiqp2qaquqq3BegMkk5pEAYgGUBhatquxrxa3GslqrIQ4DJI5axsAWDD4YXHxxDSaEGVAV4DJBfsvYR6uQYvAEbMlokwEUMVx4saRB59p0ZdGkKC3QkhnQk68tG9Qx5SojeyEvdrGMAtAVbFiQ4iYuu0BOpfNnRwggUurRwD0NsCrrVkHMFWxzaASS+hfg84krxkWF2isA0CmwpcZzI3uvfAOANsAHqmSjkqCAeSlpUnrqgcoO5Kx6P0H5Le9RyRd8SKBhifp92Eil4ZN6uhNuJvabOrZxuwamCUQmhLMJQ043WPMGS9dVUCaJsPMuHzkiCIUnQwfoIeE8yCva+nZ83gFGSZ9Gwb21mAKgOIF8ydEbYBerdsxqnZdUNGOMzCWEeviPsRNdvAj4AgdDEY1OrR7hDzeC1E12TegMKW8zcxIFijjVtSwvWiSjbplDNg1O0TfycKltJ+t0CBsRMg4hFKEsKKvehvioqvOaHe8hAOr1NEOg7dS+rO3SwFaYLKx4h0RGksDKs8501fHEBzQf7NfBcgXNFo4v6om0BJ00QFVsMbYMDEAw6AbUDkAuQXsAJd-EMRUbIF0fjXzA6CHRAnIUNdUPhEw3P+SRUVQoAuMELG5v2iFIoCancgU87dIFAlxP2HUATCoglsbLC-oBiBawjYHlwhAEVHQx1opcRBc-G-g0bJNpAyVtTLC7-zJBgnetRh5g6iGv-q2NIBrkB0MJoXPtlKCPnTN0uUIjrciCOg388FsrsWF03GuaB0RGEQItHyNHKG1M9QM7IDciTOYOmP9CXADHmIV9HRAlBzYREGaCbwIRjABvomFztSq-ETWfNogfCssLQGzUk6gASSKpXBbUqJr2BYJajmfxKc6Mx7UU-GlVKAFoVND6ajG-QEGabYFhuqBIoPUQ4aL693xv8KG6ivIBVQYrB+IRSYAQUxtAV+H0zsyeVTlTVonRCU15G4QuKFZqJ1JiBdNUYVUBxhCD0UIQq3uBSbhiF0rgJFABlNZA+Ab4BC4NMkx131LC48vJJ2eIJwpA4QdgAS53md7FJoGwV6hMDdk5p1W9Gm-UlYb7mlKCCgQiL5rgUQhCoL2y3lIMCuJrgYhub9IFODhMhxqDhuJx-K5USobnmX0mZcLVSwqMRDGizEuaDcSJp0QpbB3PcpIwpiDeA0ISgGL8laudOr8z6FhB4cF0o+NoBLCn6HODRks8FNhBJbYnAVAA8BnTc0RBaG6azOMoBVaBmywuQiDwglS7CLXUZpHqoKY8HObVWq5qURcmMQC3AOARagNwFcMSCcjvMpoiMNdtTdUDVkIC1w5A5GHRGbR8gYiGwi4GnJsQaIYHIHQxlm0ixdS9SRqnCdqhSGulDZgKvNiSWKW5g1ClpFJu8ytQcItNCwAcyHC16QPKQIIbkdTDXBOoP+3gBegNsAWgoMKto0DsDNTLM1QKOQlwaKwW0BBTOPDqhNcpQ3NDqQYedRqUQJyO5N2bfg5wGiEG2uYJaFHGlVPihgnD+ppB5CdvAvatoteE1b+QdnnsV-POwUVc3hFkERogCwzP4avSMfmnNDxSPTYdKtG2AQTc0PcE8AokXWR5rNAQvyddfyJ6XtRuMFvCqJ0rSwvPj6QO3Co0tQSduaFZ2iONDa4+H1qJdLmywoWDdYdCBVBUgdtjRARpPWmoT9kvTINkAAbmKJp4QlVwSI4hFG-otoG1plSEaKn0xoEKognFC58mIFDA2GdHFjxPWgHnPZmG2bKgbJaeHPbowbCnTgc3m-uDtwew0LgyQ3IxBvBAlxddH9a2aSKE0KOGtKnayToFPJK9m8fKh0Qn0yBq2FoG1cCzCNaRVInC50nkBVDUwaPgkSUWs+3RAcQF0FZDcDNWkA76bRRpV9ySCorUsjyVfFnydEX7W7EcLftWZgESBOG+15CWHMTEtmst1myi2uwXuhtKOoHmBF2uehQABER9uYwZiSoHQwBSaHjCbti4Otw8-HEwL5kYeAuBxb4slVJ0QmhAMQRF1hN9XWcPbCYJ3xZ23W1N0uZZvmFbbaWr3UwbcE+gGlX8ytHxca0ApsbxOOXV1UoeQfAOkJC+JKBMEVC88FWrH-Z33Cj+8xeJG79upSkO7UTHkDCi-8exXbxPMmnI8p03YBpth2OQkHNay+YptSAsoryzb9AwIBSBxWU7NJWg5Wwb0tUCmqeCJZf5Jg3irlKkQAXNA47LxXDtOjbV1Ah+ZFoLb7xK1GlEU8tXjtw8S-oH7hWkk6HaTLCvPgXAye0NWv8tJNXiuS2Uz-OFwmvA0C8B+wQN0QBluw+gmz2aTcAA7CdemxMdoWFimS6qlbJARgQAMRCAA"));
+        return JSON.parse(__webpack_require__(/*! global-compression */ "./src/js/core/lzstring.js").decompressX64("N4KABGBEDOAuCmBDAtgBUQc3pAXGUEEMAFgPYBOsAKvAB6y5TTGIAO8AXgHQCWpYPaGERgMKeMIBGpAK6wwkmTwA2AEx4A7DGABmiAMawKPeEKPC5pZIgRhYxCfvJJYfDcI2qwrcqX2noTW1SHQENJyRArWUATzB9K1ZlOjBmNlNhJ1JoIUR3TR1NHgRYsDpWPPUtMGtWLkgAGnBCSHVoBPJVABlNAGsAZTJKRkgAeR1C-R5EZTAAEUEO1Ubmok1YXxG5-hjZMGUeXolES2tXUncxZFMAfjAqB3ddmWFnMLsHMHIeDGJ5JIM8AAhAAdDRpdjcPgCXJfeDKRC0eBeK4STRgADuxB4+mIYGeYBYADcJOZFCovHpDMYMjoKB9jqcbMjvL5VDJDG4wCFRPArPANjjUix2NAuGAAIJmT7JEmzTQRRDQUwNBnC9JCSTwBLXGoUY6ePVvHVJOiqyr4vbE0n8aA+JBeWTyC5qgpFWy1LhgiWGpUCUL2GyYpUaADk8ngGlkv1VBJm0H41rs-B8pHZ-jKtFYF0jrhmpWQ+uTqRsgh0cXsElU8GsniEAFo1RdSvYgh8gw5lKwhIJUvoZkEgWAAOrY5KWl7NuJJ8yp-w5dWi4TySsKeAYTQaIKxvYYlSzBEIciExAk4sJZT0yvIMCNyRxOgbAyuaoW5A8Whti8UaCgjQAIRkGI21XVFuXcfoEBQUQeBJIQ430eczH4VcdBkZRZhJchAguVVFHkAl+3ceMUwROIRGrQtl0XTheH4QpsPkC1qymat9mZcggRWQgoFcWBkgAfUQVQiTyWBMFMEZIMqGYc0lESxIk6BuJaYTRI0cSsGUvAAG1VhaAAeSQAD4AEYACYwAAOXgDEwC6eA5WgAyAHoTN0ekRCMcTZh5cyADZ9kc+FlKaHiiCMsyAA5rNssBAIpIJnLc4yPOPEQ0Iw8imQQSlnwoGIuLC8LIEigBVDQDnfXKwDK1gMHIYSJCoExsNc9y6WPWtp1kbDuVCNCNCK-SIpM4ceGcIQ6tUZl2tSzqPDKDSJvhOINDi9RrnBNxhvCqBIrmRByF6MAAFk03gObdpKiqquKFl+lPddxFCkaoFunhqpZU6jqObCVJ4yB+hkVhs0oGpgTAQATckAeD-IH0gBdYqiD4wS0NgGRnBGVAEQ0davAAYQuBANIBqAATx5FGD0vbIH-ZQZHgHx1nsnhJEa8gYjJohIKQG8JVxEwSS22BXtp1AZA4Dhx3O6tuagU6ilqeXIFlsWSsezxpFoPU5eRlouENjwvBES95ELZwuMR-XIFR+ABNIdgNAEhNMf8EYHl7MDe0dyNUl6-xrpRx8Hadl2A+wPBIB9GJpFUOIiPiYnvnw+BVQASVDG9n1g1awiJUhlBJLx0VXHVkBkLdYHI31YAQZBWBXfhnCJEw7PzVIZAwLTznBY27EQI5dHgZFJAME71n4BJturRre8xBw3mzHI2eSL0AIkaBMZteIHH0E6nRqCtnAw-hpCOykr0+TLZl8YTaiD3jikEg4NF6bSoB6N-1aIV-38YAgJU2hLBGOMSY0xZgLHaBQZY+siB31UMrKOAAlUg982Aqy3uzZE6gGBR2Btg1QuDMERwEgkOW+CI5JzYgACgAOLFAABIyEkAAShVk+cEh5I5QEYfCVgdhGpcOZPDHiABfZoYjiqQAwJeMeygAH6UgJeYSQQRhdDQVUDAZNIDwHIL4cgIwACi+iKA6PsLIaAlRoALFbrPEYDQdEsU+jMfoTMjo2DMVHeoNst4TA-Io2mFiZBWLrCMXoKt3wYTcB-VWKtJD7hiSMf8HDvjRIuLEqgojCBSKUW6KuPDIAFHMZ9HhgDAY5jcdPVQEoMCkBGHJZU1ThB1JVrQKpFxVDQFqfUqOBlaCpSaZ03IrS4FQBzIrDQch4A9IaetGomhpktPqWMyAtBJnTO6a0vpAyFlTIQCMlZb1IA5kYb1WZUc5JkExsstpZzMZbN6ftXZ1y+qYCObTHMh0YgXPGfMma5FRnHNoN8x5Ix+mpQBYczB2phmDAoHg-aQy6zGR-i0d8+zTA+lUB0us8Lhh9IxZs4yN4DLIq6ailWrzumeA2Qc-FiLSrUuMniAyRKDkkraXSySOzUrsskvpXJgMjgxA-uUlo4lJAewlCk1Z08NiFxGATKgyCugqxmIyiUXQsmrNMP2dgxj+gE0wdiHQjL+iMPTgAMR1ccu0gIpKoAlATIx2SIASPddIyipB-x5HWv9PA4rbbP0KXMGs-AABqeicIaB0esTYUc6ECjVDfUQ4hiyV0vPvYQGFh42G3rkQ08rcxW09c0SA1hNCnUjDIQJLQARcyjjjRAXMbbysWYUomy0pnYBtutDEdDxAjBsnZQd1wdG4jyFgS82io4ExYFoeEpBtG+JYc4IhxQRjIJwZum2n0wawEeiSVEIx04NwRTo32Gh+gR0YesD22IhDeyEFe-2btgROMWDAr+ESo5gJxBA+YX7OhgDceQLCOjOysCoEI6A3CRh8K7IIvIcHmSPwrU1f8jaFZNQUHEAyJwLHkHrH-YyOj2akAxMqcgw4jpbi0FJCgnM8JyDVM+sAvQowYncOYcgldUiXgxKUF0zxjwUao3oocSaVyfDgDJS88ysIxu5MeVQlHKqaLAHQ0gy7xzzt8LqBaqF0KzHKHokw4R4A+KUVY494gHJynUcFWYEKdG2eetcBz8IKqcfUyMHzXH3BeYUb4p6qIKoaHEMsKOEWovZKFVAdQskMBiqUfhIw4I60VN-VAUYABpFW1ZkgIC2PCAUvbjlEX8AoudeRqsq24YYqOXQOIq0muJAlUBt1yeGKsyaAot2mAG6srAh7xKeFkutEY0nQPjZmgpirtMivlbHYU9OHGuMLyDOt6Cam1GrNbrZaaIio4RrbrVVgM0SurOYJRuqDUmqxPhXZe7jVqxoqILdjEeX4Cx00Fop7ZA7I-b+54JKbqwAJbWOeygR6PPwBMQYrLEqQ2nph-IRHZjVkIHoCMK1iAVAsnMPuhFE5jzudRDgCHUOoAk9h2F8QwNEIBGRyjVH+CGe6jPQeqm2PHwjAAJq9RLHZ3ULBNQj3cFvZnOQb5xDp7leogqbaog0cJfHKht6s6fvxQpq2YQKF8EcWNfPcdRw18kLw5gVFeFEyL+HVPldKOngxZAcPURhuK2U45dslUXFd2AZbvcOH86jhKN4BIt4R93GJYsQfSTX0LoJtsqIbhGXIMZdPqVQxks5-AKy4hjKhmorKeEYBc+i-gMFzP7Ma8Z-uI++IeQwBRnkFqMAlc1PrVLTk0LlfPcCjcJjpr+Affs6gBbon-B48h7NxPgnlu49ldsKuCn4hHfiJtu1o6sBt0AEclDru18G3Xg2evyGcAflasCfeh6gELl460p9wnP2x9N5g2BJArLJgUL4UtK83yUWRGKBBwSTBwY0DTH1PznQXSwDAFAP+322OXe30GxkmmlAkBFRUz1BCQkHSxExjw0mLCVECAwA0FVHpD1XSHPDq3hAAN7yUX61gAQPAJSy7Vd1LAuGP19xQSG3kBFTAIB0Kz1QfV7D3FzSYJzVmAEMQK0GQgZAmkD3gD0HQnkFEgZlMHFBxkiEcH9wmmQHoLLWFV+0EKSm6wFFGBy3FTZ2gKgBYIBxf2G2QJELD1zRkNYKECTC1D9kkPMErEUOrBUOUFFjAHUMZl-Gpxth0BcG3m60FE5C4MgKCXH0gDDSoijWwjcGEPaEFz2EFGfwMCQmEDzQxjeBoQMmiPzWcGMlYQXhxDxF7Fb2EFEhUEQEkHHFLk+G9XFC7UCFnl5DrhAlkzm0mwkCUy5CM2vhM0zHYG+EjEDkiKUUqTzx6Gqm4JSNWPui8DX2uA+0SxcPvz2ETinBPDPEaTz2oi8lKXeFXG9VCOjTcC0OSCVAkGcELDPFXDoEED-3AgkHpFGzVDkwmwW3uMyIuB7yMJaBBiu3gGBmQGsE5nWNsMgBHQ70uzQ2yNQKjj4TeCOgT0cFgIyCiAzAJARDgG8DImRA3wYMBhBge3e3Tg0jZA5GDySJKh4Peg02zVe0e0xJGAlFzQhAyAJFTHTEcGb3b1wKt34EzT8BOjpLewyEbDJQVS0GMi73DCULgF8DiDt0LjympDmN-Fcm1IuAwFSgeAkAVMewHkkCb3cHbzpE73AjVCMAEW+F+HkA6H9X6kBIiEjEMMhxtmsByAHwQHYP0KROSD9w0ADxn1WRQNyJeDxKUOKzbFNlIGdFCHJDUCSjAHKISErlgFSjJAkDoGfFYSHHDwkEj23gnGDCIPMDUw+EEBuEWMBhDOgAJjkAjPIGQCjM7T0L7PiDkD5Kjgf1eEcDkB+IzKzIUCUFzLkPzIMkLI0hLLPjLNoArKrOjxeCjxrMIKbkDxQkfTbKdw7JIO7NgEZL8XAVzF7P7LZMBg5MgAfJHIYATIOMgAnMTiaMQAmBgWLAqDgAT17DxMQB3IPL3LrIJAxFj3MH0FY2KDPMAMBnaMZmZg0mgCskzNujlKpifJR2RJwvkFlP3hZBiCcKWy-KJgbi9yCjlDAAsgzS5JOnpgwu+CwohKDKUXcIB0ZIVXTFZNH2SORLKmVEyg4xMNkJSzHKgE9ifXTXF2KLNl9L4rzKxHqJqEHjRAjCVFamLBzK8ASW0CpCMCNPFBxOOFxOHgxBYzb03jrPMBVN8DVNxG1APlY1XHUrkJNNVPNKBCzyz3L3IUcDJOgAAF5QwfKMBQxjJlVVVXJQrUoABqeYRqDAPANxZIQwRacCrgYKlci6eIcKqKmKuKi1a1KgJKi6YyPAM5NQIChEDMCuYIngU0X0uSIyoIAq2vEK4q-QUq6K6S1guKrVaqlyZKvARkrCZ0OYjSTg9wHkAEfwYy+EUWXqjPdsloRUBAH6Y6PRAc4dOKfav6DhENIxYhKOS64oM6X6Q6z8nIxNXOAQJiCGPIIISSyLa4HcF4ROEiMIQamQNiEQFys01FIYfg37Py1y8030kQIU-M0cLSwiZvLAf1ZkcvUjReS6FyUjdhc8loYAw9H4SLGrES9klItxeQfoUmmYTE9OeuWJedHTZUYo+0esQIzQFke6ZAKnR6-QBlEHEYQ2cUSgjSPRNUMGtU27cGEVGG8G+GmiJG7EXEesxOdGvRTGgybGvRXG-G7aogBEv6NI0gTYxFaw-Yp6w4v65vE43a0kDEKeEJIwG8Y26NG4ro8NcUGbVfEYkEhaTNT6LY7Sg67CbimnXRLMBFfof08EMgWAWjcgejWdCm58lIoxaO8GdoZwSMW7D85w6278vYS-cImqcwcoUnO3MeNmv0BGuO-Op4nQlvTMhPIMVsIQcQ2YdvK-WwODSjNKYokyrAMTF4-uQsxq7MEmPMLKeIRqZgMnNNa4COrfSMRnPPI63g76iQd3IdAWpM+0uEbexenYiQHGwMyOjGcyiBM7asUgCUFohEdo73US6MqOKgSwb4GYSUR+to6M-e9+nGg3LyT+wDOxPkZohfP+iQSY3sUvZQIcYcWQRq0kw4HeOC2ANW5Cw23iUBmYW+vkB+qB5+q1fUUmlrLQGQCSTe+SvB2YIh1o5+uSyAS0t4MCuwOh0IngO+yBxh8cWBoQeB+y16g3E408Yhjo9wIxaIQQYgcUJB9CW3PYA4IecwDBrB2AFCnJSRaRIIIdQiyAGK6AUYLCMiY-d4+AH6VgEYc6EkGFHK2ABKRc2S-BMrXK8CzBN05tfwEWKSN0ikwEXxvrTM5kJxrRLdEJ2wbqhjVZFayx1Q9qt+qAbxiQVq1wU0NrYKbCeAUYea8SYSyAbdJTP4vJxawrQQaBiUSwXJizfJrIqOKBaBiwIwesGkBa4PbHZdWReAZhaLeSrp8cRhMqOYFWOJsJtRJtZqvAhc8JuVZwZkU6w6udeZj0e6wxT8r3UrTZ2JpUBAFrOAdipmTixldAEC9ick9Co5+9VZLNXof8dahYZwBI2Na6yLZ+tcYIgJymdZ45Cmf1foPcTB4gWmihCfA4ARP5yWvoxbEqRCw9Nxgpq8lWBIVgGIbK7URFx2VtSrZ48gdF55pVXF1IBFrI2J9q3-QpVAcluuGFwGaAQF3EFrSigNKAAF4oNWyk-6Qmogb8Fly2yAI-Xgm-WmBqSXabXOk3Y5S55JDQlWSi0+DEQXeEQTUZzGDJqOH6dG8SZFmIPIJVXVyV2mTSkrKOZG67KV5qnLOmS1lWSuXlgiqAOhRqLmblqAaJjAFJ3xwinlmIQa+AcZrQCNI6aYLCtAgIcvEVdc+IX18cUSL+rC6zWmBOkVFrLUcmyAM5WAEVPAAySNlWAoUgGgegVLPaT7dgB1oGct4V0tgVqdQpZBOt+WT7cy6h2rCoKYauJtv5eARmmsVAPRXFPpyAUyV6msMAFyYl6pLtopJm-tvF2FTwcFXZXmoQCdvYtYWdgdhd1QbYFhJJyAGhWgcydhMZNnZIWJCFOwQnZSN6D1GkloeB2i00BAEingSYMp71qAeBlqZE4LLG5zMjOVRIL3Idp9kD211iotxlPC8irwAyZwOCzoYyR+IgfAjQGyegYLY6+geyZzHByAVvN9nERaktkqftHk0F6OFvOKa0tiMC3+5+lDqAVEOHIdh-Y8MCZS7wqXJ6VQRNkqHQXOhtYLMD8rJzRinWgDk8CXP2E0EDlemzMgaxz9k-fdijySVZNDmDq19T86pZ+Sgy1zVZawT8CuZALDjViUAADXTlOjKlOnsiMQjSMS6HzP6CrbAFoBXMxmcA0lOlUJqPw7k1cDgBxFI-TuROkhC9cH0D2NaBsEQBvXfXC5KjgH1D6ctoi-3cgnS67aIBQO+EbnqagAFNmCFKEDS-XUxGKGxB40+GYUkEDNQprdFI5Adcy6Iv3dQGZNWry6tqcHaoKdK5oiEFa9Wuq9bCeGFzMoKlVAVAZi0TCCPGuCS1sDG42oh2a+ooOCwna7eiy9DXhFziP1PZaAK8G+K6BhFAyE0rVpTK1DbCK2O+f1XAa6a+0b2hpyICjEGA1G67TDa6HZwpG9OLwMl1ZAB-G4TF0COn47peu5sUEAbQqmKBS7pe3fBXK9SjXenf5Ux4R+x5qGndeXx41EJ+IE28h1dZgF-ySmrSmWPwbVcHHUmZbWZ9pZaHdegBSaHYDdks0-Wu56md58F-w6vuMBmDvVDZU5fJshZCgzbJuyByl-NSB0JGueOWxGrBV8JeyGwGp8ucwtgBSZH35YSDgD9wt+p7gpiGzHWDR6gBt7t+l5wzDri+IBYQQzKllULoG6K8SM-mUNgHrEGpxBOhEHduPHMAACsZAG5ixihVQPS-gQ+Dhs0mzl9dLNq69jJuvw3c2RqtEo2HbijI-dADM1REL9FcwuHbIKDjxpbzTk-g-Q-94Fa1TzwVnjhQ6-pqJV8EWWQs1Fq4edqVm3AmckJX332CnFnjwuPweHa+OgvruztbJ9P+WXymXo0VYaxG5sNIAjEG5O2gPUXha50sX4Dft8P1gtbOQSQP7r76aZeUiH+JeQtNf7ftciBTIBIf-HxGpDS2MKZotEb7GR-++UcgO3zhouh-GPIUGqaTcoTQ-WNEKAVG3AG5VigTHb-gJHMhkILgJIXYCPlfIXB1ouVT4vQAAHmUJueIeAf5WMjTwCB9INNrAFQHFg7cHvSQIFVrxZ4WorAHNggPNIEw0+4fQ0KoAyqsDVwzA6gYvULC4EsBUAH-gAGYBI5QSoKIR7BCBQBVkUYBNQEGpRm83DccKiCHBhMjQm5J8IaULRrVgi8hQoFuAXqgQ0EswK-ORXIDZ8eB7VeqvqXLx6DKqNqCQaREBA1AEmHVdAeZWgDmhDQuBHwXQOQQBCvgkTfEgYWna4Cf+cTMhNOX04okB6cTYoqAKvJHh4hcLSvkgPPY3EnaJ4IuKYC4EZ5gqqAfoHgEtLvkjwOaG3kIDhZCBBOVgGIbDWMj+MyQmZV2qwOcBiBOg57F9KEFR4qZamw-FITgIEjpCnwzAB9FORpbHhE4oAwasun7hyYMIqAmoTn1qi10eh4NJYcQHiEAlvgjoAMJ8Cr6+d+IcQGhECFqJNEn81YLwHBRAoj9AYuA5QRbHthwsjwsSbTGmDADR9SAnA6yDkOAGgDLI-w5odGniF2gR4XgEGC2Qq6CYIeSEA4XUIaFHD8SJwtUgAAZ6wAATkJCZkRUyUPQcQRlyagZmeZPQCBU4jTtlBP-J5uNm6axIcKdkYrKGCEBhD-YuoDkVOnPZDhQBpggACyZgLB4Q1gRaGnikCZMY7Pwp8A4HuC+q9QrwY1VAF+DdBdAuouODEGYANwr4D5keRziiQV8nwKQZCxZGndIA5kH-mkKmYCQD8wkBYQTglpECUmUtPQe6K8AVAb+kAlyDSItAAkEwuoTYaUNMCoDVQoA41rjTDGGhQB66Vgby3kGOif+uA+luy2IACQjAAkPcJNCkgMs8QqoiQMWIyCcs8MrIAIG2FAFGJ9hQVPqpaXcCbCSBGLKQh5BuSaBWAcgakQaJ5Crggx3o6Qf2GfoREHRTogSMoPSFod+SGIUwPyCHA8iAmGYWgb0LZZAt5RRaTsRgPkCAs8QVYqcftygAzjJRCw9AgJAXFNp0CgJMscWGsBDxbqoAmsLdS8h8Z7AcQUgmTV3FW4PeuQO-pjRHFeijwGo+vFqLAATkNS8gGcFPH3FMRc0fYgcUOBgxxBixbYE4rACdrvc72kJHlohORCTJt+KnHMAJAxRZCR2mdWUVjmOTOxKJLLUqCgFkBrkwANEygT+AazB1coAkFduoh4nP42UiIAscQF8BdxiA-Y4svhwwZ6JjaNDVIuGlBIxpmGQgsPoSD1rFhlQBItSIpC0i+k-a8mOSOMXBIqxRsDsZ2CBRQDTZk0LoXmNZOp5Al5sOYCUApAWpaQFJvtKYrmhMlDQVYUYUSXkH-hRwcKqoQMN-CY6QBneosL-l+2cwO8DuIwZiqiWCzrszuX5UhulGTA+RfSAUBiiFG4pbcSoXPWKTYX3amQYoqJPnmlPy4ZSTM2UV2pjTtwzdOYhU+9rTFPoJTOuhSQAHhEoGPPDVP678khA3UYQPBGFwOAd8WpFaBETPFfcoS9URUl1LKm9SLs9JZqK1EGmtAvyClJQlRF8nSdwIpQAAKxtSCJJUSPstJ1z7s+ps-LaYmRClZMBi+wbIPIHRDNSIBhUSnudMBgnjSp10wpONBLGndapRdH0EtFcAnw1oG0UpNtFMlzSHRM0Y6IWFBYdcVpWwX6GdAuh9dtpRdHLgIg96UA2wduX7NUO+k8VS2TAEGAen+mqdCkwMUGKTnHQgyhpUcdbNWDlCOw38uodEMgB-EVA3g7PM6VT0+6CodG5aW7KwHU4pdIAzA4-NvWSSC9VQUCQUPhHpAAAye4JXHWjKA4u53f3i81ZYecvOdw3MP52CKpRAASYSecDI-ac2dJOp6MT5Z+jKABxJzhcEBahXApu5xRE2zTZfnALmAGtlec7ZAXfDnOACBcSVOCsudNOW3BgBUEdTaoJrOkj7wkC1FHOhdwD6VtfZJsnzmbMDnBzbZtke2WRmp6ji-8zslngrA-BthNZ6AdYOnKAR6ovZl3H2SyDznV8A5FsoOTbNDkWzqc4s1DgyLkLI5IAHA4-E9wgwNMjuEGTptpxGDmAyKESG5s5gZRwt1EEaNVLqk8DjBTaxiQ0DyH3nU9iAtvPRH-EnnKETgwRWKQRxdnjyz55AC+YjJblZzDZLDWDAeiEBojzAhQM8MwImGjtkAuQeQFvFmJMjQFVbVUGQEarMQMqTVIIWk0SZWZKe80h+bMT-gqCmStBW+THN4SPy-47Epkti0pm4y-eBTRklJOlC51zRgClduBA-yEgCFfQPCaslPkYK+gKgz8BbTPF3zq5GbZhW-HYncLp2+sgptuimDBQewTNcvt0JEDsLz5fQfuE6CoUMgbwxME8jQoAV4SDe61S+UER4WkK8FxAjQIwOPD3Mb5L8zOQbI9ifyEU0imsBEIpGwLRB8C2cMAKQWmgdFRUitNzVN7OEDFuC++W7MAFWLyFl3X0aQCwjFFEa9IXlsWEFHFBWFlWFgJoGgZBL+FISqgTQnnReiT2vCsRREuAFRLJaCNa7tgXiUV0KBz4V6j0QlIEkvRyIZJdRSZgZLCkWS+kDQjDRMx8lpCwpdnMiXRKyl1BOJYXCvD8BElsAcUFkpGlFhwpxRKMH2W-phCKA3i9qVAE7x6IGorE1QDeL0UqdAi18wxTW2MUf1KY7-Ppa-JsWuFBM40l4H4W1ll5JoEcb+Z4Elpc9+42i1BdjlajmQ2lHsR5bMBaiS1046cURVcqG4Ks7lxYDGOcpfwvKO8bysTCPJSyfLBeay86bLJmC0F-F1FQJZ+2+73zfUuMfwD80uXWKZ+CTQaM82-qNgjEJISqHEDaCqzNk3YlCSEQ0XdiVFA45pRdK2Xr9eFxi6tOQBHr5kTQFZcFRSsu7Cr9JOEhCaYt+xMDBeS3fgDmF5Udl+VxGTQMU3+UatNVYqxIBKrCWtzs5MqjIHKqTgKrCBtClVb8XVUtA7QBwNYbqqNlOqWhNCcVYYF6U1t+l789zk6pfTzIGBiqsTOtVtVyr7VZbN1XonrDaro0L9E5ffP9XFB3Vnq2AN6oznhLs5yajlUGvwEhrzR4a3Cd8rtRJAU1MawUOqzTpkck1ZatYQaobhGqClEKtuXWsDW6ErVSqz5pPDRIwqxJI8bkHICoWRqoA1wEVRWsK5JMOufCwpGauPAerDVXqyVVmvflmrv5AiVUTQuDXWqAFtqtVSWtpjMCQ+vgHICUtxWJr+FFi+QATBPUJg55zaqVdnJvXZBlQZgCoburPVlADAeITMovGkFRglut-eeFqBwng9rwGKimTtUyHnrAYhy1Qi6tfLQbl1Jq9+VeQq4I9ZFN4foWfEGFyLD5Q6gcQoF-WVC4I4oUAenFCAEhohJxOSALNgB4RHKgs6fKYAVTf4-ilYY8HRuwK3Uu6JVbYRaF2EINUBB6kqAGIQ0FDJaNCAAIpUNVAGa5uY+tQ2Ebyutqp0pxp3xihCR5pCjfWWo2Mrfi3gHfAxs7hMatSrGpsBxsM2UAX0x4HjfuD43aABNPkITaGLoEibAYZJAVUYvvkSb51+zPRPJtg0tqn1hG4ZewCT7hpW41QMuBQH9Q9gwc-YGqDAM+Anj2IzLCDZHV8D5MvNzc-FdWsBjGLE5niMlT6uC3vyitByEHlsP3h7g2a94MAKSKJFKFRWmhdzTtX0CKsCVUAQrZE06UEwCYw4QLelMU0RNst6GjUEnCLIxrqtvQWrXgTiCNbmtudMUG1vgSJCKpRIhDRVs6UbaAADUNtBkrrRtzIcbUuHq0baltI8Fbbe0cniRXB+io5QhtTlnVjVb8v3MgDAIZAph7Kpxcls3jpoaxb7bwC+tXhpxuQHGubWqGb5hApJBuOTLBxdKwCbhEgZIGahh1yAMtwZD8DlqC15bp1xiomJeGPCKwkQJWzNShpsbY631CEond-KiCOaN0rgf+ckFYKY6lEFcnHelLx2Cr75Dc70chre1NowJGBBeIXE3jlK-tQUNHeyukExaidmG10lzPZUjrfFpiQVvlpaDGK+dR4AXdcuSbC61QWIMXcrUl2o63pGgWHUeMr5jLjwXQrDTaNw03hldq2xLLICYZdaZ12MMCZJt3bP0Dt-XCnef1p2AkMNpuoPujpCJW65d9IO3YroETO7b2qyMTR7q13e751Mm4SP7rIWB6SuUK+sghRt1fq1aAYoRHOVXzlLECdiKhllHFCjB9N-dSPTVzyF6CNgcgU+akDprKBWBku1LTWN43t4OdqgNqfhMg0ox56FPA5VfPg0p775MGJUBT1e167o4zORuPFtUWx6O40LKwWZp1IYEDCYATKVkzZ10sW2WAB7dPo12Er+FOXDKhzyC0jb8E5lDIHQCKIrtVQP8-gCIA3AMqm87bYoDEC0LfBjArgDgOaplDh7uVTEItPUo7zKgTYhabkFhB0CYixACAY-S0CrHn6b5M+-hUDLv3Dajt79WDNET6i-j4wqoW7niETjt439ScS8A8mwLSAxdKGfMiO3pBEjWE4oBYBMD1oaRYgIfMZdvA+EzTjyLdL0ohISXfrwdi8FXeSgQ14HddBTOfeCBIMVdO9Tiyg4fRoNM1VQ34Bg0wJ0zPE+4NCNg8eA4NcG32JB3MPwb0NVdUtzZJooqK7EV0pDv6vROgaIBViCxgKrA8ctpjGK8DYAZ9SvBiYPrCDue25XYAqGpaEKt66gYfCcOchotEy1wxxo8NQBp4QJWAC7E72+HxNGScbDTVyOL6Cmh-KYSIEyOFGO9ZBGYBQdVpUGYD8AGrqUpoi6HC9Bh5g+4BMPYFzDqC6nqXhg1c7HtOB+mWWMUOXcCYMBowN3EXwV1qoQ9Qw0gClyd7WDPR2oj3pEOcs6jWlROJWAdJWk4D54ZOIXCTjnp1oWFVUAtHLJ0UDQQC3QCoHAl9GfFM6HEAJFQMJrcdwxy-d1vvkSgrIcwLTCIhKOXcyjIREQEwaMNgAQQw7aE-6CI32AI9uQQWV+NPnigaEMGNvXEGuAsGhSbR+XR0chPQnTI0Jgmp91WSt4EN2gqgICfNbkrwjB-aqLCAhNLGoTMJyAHCdXAy7GimZQRJibRMYnvx71PuLiboP0gCTLJokySZd1rIvE3xz3VHCs6jBkENJ-A4dpz0MnyjRGzo6yeJPsmgdckYcZ8B+0G5W9344Rk0WkD2B+TKJrE0sdO1g74l4p5vJKcgCknwoaC2U-jvvlKmVT4x7OaCaZOLHnTbJuEwaeR2ImTTNp605iaFP2m8TYpsTEGfcAum3T4ianpwkCCVc8jIx2xShm+J0S6T6pzKYhy6RqhLTrtCPRydkzcM0QFupCmYBtP5kwtDp9o8eBTMq73wauvbt5v4XKHMz5lP0+-OLMXwRd5Z7oVyfDPQtKzvYU0+3poTNn4zx4ekO2aePrLIAhQYIpztqnc6ezhSK1A8YephH1TXaJUTEpWO8YnQxwXNGcEFjVB6FFY5MAIgtCrg3iXokCCeVeI-A-gdS-Y5aoVQYQWQVu5k83jIO6zkwpAdI60CR5mNJ9O5i9aGmgstpBzMZU8wjXPO2g1et1SXW0AbS3gwAjNLQ93xFOOnEznRyC-M3sSwWvjXpy9WGu3RNQydCm+k6V0ozyFsT+5NUE9Fv2Fr7A4k34FJNr0EaQiq4MkhfgdB3GNjk0NLZJouAZhl5yITg6ucxV5AZgMQUA4Me3PUWed1+8pT6FUvqXkLYeMmmpbAM2h3SX5+QCXtjyGmUdlGFjdJaXOTnylFoZwKUT7hTDEaCom3ZBfFVzxPTASrS7ufe0CzVTAewXV1gFCYw+4wF5MyGaB2Wm8QoFpE5uWfClB4A7o5QD+dOMhWRui57fTFeu2iyfFrcSgNXqvF+BI5Gl-YnBf8P3yzspV7+r5sMtQB6rGMfMAnEI3l7qCPai1SwCqGFX3TwTbLVVav2FJWr1ehOb1sYv376T419qwkLG0h7qCM2ubSrsrjw6zqOZ07BNDauzAKoG1w84WfCuQA5rs9MISLrdKFhySNYh89DsgP9wXzNYN89UBzDyERLQfWQ3ds2tynjFp12bOPEOulaH9LVna9XtKAbWRd0O2JRpA-NS6pl0pjnSNZ+P8K-r2uwG+TuOunXSgFckXYjVj2SDHdlZqPbcPaN1dPznpCPZBd5rlWxSVV7aTVZrX8Le2N4f7rTeavRwGOkjEsFrFIA6wUZfxRlRQSEsi7v9fsUCwrtXC96W0ktSXSMPQhHQHLGWoeUwHMoxBt0JZmWQhwvgZC1hQkTwAWPH0KSChbYX7qKGYYTlY+5JeSwBIkCbDoNcYuomrQ6Eg90QfVgaBX2w3wmKzqY56GMPDY8gphbTOphcGbHcDa89zEzTvEuHcMDJKW3ZmDrFMQ7BAttvQXZtzRbDHNhoQTawMbCZT0R3gNVnr3wug8YIP+gkKuFAFnCHbmh97KxoFFYQYgk3bQCKSQow3XqCnQGFrc6ACQstrWZ-siQq1NyZrKwrTcZF7vmVWB8-P2NbaHAEXx7RJDDSteTu1jFt1YFrQNcxVd3dliNhSdrqHsEGR7oAxG5Pb9DcdEVtzFkHSuqW5VIxuheXSSE0BCAaEltpiNCubJW7yutRLyx9u5oiMrdzZz2hIERtHH5d14HEbXigk6a4wxoG3e0X+xhSgG7DDsUTrgeGh+brAzopvFp5yEO7LQLexROx102XyhO+kCTv3uHbD7eg98KTpPsyd3A1tvCwReofmqKhvLOnQ2L0HCRcEL1Z+qwX2H4d8HB1oh1TS+vo2D745I4s3k2w6hPtIPYmynboFCP9h8UYjcaZTIyPuaqgSISXGR0JwYDsO9aDhxcNq03D5ABB79mq65p28oAtCHAdQHigdNrecx18AsvTnNBegg646B4yOxu94Zs3RHtwfwJbI2t+RDioUnEqwnADeSp8CQXUre439UAaE8swhiaRU9+h6xUvv4WvSMBqUoZRmYKAfgoqlqSYE1D4YPHdamcmg62VtgV23etu54vHAALAnUAfB7Cp1kKSzl7TqJyw0+CV3AVtDtcNPYydeBGwP5KRwPTadl56FabAeruotAfKrdmAgR8E+7vz3yAZCDrUbYG2TWk5K6X3gfSTAMORAcbENmXt6d6Dx7FAHO1k6kKsX89zcRIVVtYlHhU+cpObWhLPj5PE+xLBxlDqmv9wj7940MFQGLwIUY2CePiw0RCInOxIg43oc04FYrPdljEshKkreZTqoC+7XJUUGqAdLprrMm2iXYYcV29Bk6TRzKM4kpO6Bs97J+2L0GdQSzr1IQM8uS7xDTHFLiARVx2CSP3A8I5QneT4MPhr7Yl12OQHnDgPIJeIpod4JWVz9T74PZwHExLhTcbkRgQuGPGPBcYEX+DzZSKvEn63mBBY1qDgI6eAr7gBlUFebatBPRz7+FE2NRzsgwuiCNl0e5M672ubehjDuCXXVHvD1JaQiLAA7YtCo1iIus-gNQ-rAaB6wN58sWQDZpuuhAWr5ZyWYomaqjbi6+QHOqtcvBDnwz5vXQLHUj1WBTrs5wo96FJPSV1zgi4USZghEP9HwGhWo6qfjq99e6+ZMwO1dIuXYFTrcwDOCs1Kc1Ou7pxOVzcX37XoAx1eWqpeeuS3sdst+DQrd6Iq3TEFfbmtrOw6BNbakRj2vre8WB1kB2aT4vweGuKLvbumYrM+anv8XZCg5za82zEvzndAqQVe+UfVu895d8N5ECcqfBeL0YSSaxjgHmiIJxkbFMGFupFkVAum1itVykuNg9jIjUbMy6QCz1cCmUTtym8BF6I3RsmhSRnsJhIbh31rs8Ec9CLBtrL4Zu22sOXe3OqM9z98i7bpd0C1NVm0WBg-BBQRrhYIl2lEdIDoftbiNgSGpj3YfHupWwN3eOD3uhHM1t74j3m+OdkfnXFHvQcfY9eK1GwBFp2sdDUNRIFbt19cPLfU3Bj5y-wXwEhAyCV2KhKmoMLJaTF0C2j4IOPm2BfsGb4lj9jjwZKdp8fu7lXVthrvPeP6KA1DQjzm5tcPv53MtU-bZ89fusvXNH6FeYEq66VHFvaxhaLfcD6oDA-+iV6lAIvMxgDJTtUP48gOqhoeIbnNND2iEfiEDoAs9cgYHrvH+H1PY9xoSN4O9-PUAQ5q1+zeH1NsHY1Fv3GAoIBWBdGwBR9MNKFRQMCLPKvM3zINVCYKqLoOY-cDGjtAVuu3LIOVCsJtHdYhcKGAJiguEJ-XpJS2IzynMfit1XsKAKaKCcR4DtgkG8KAo9dwv5pQ3scxG7xD-ynUEuLACHDom43UFLj+SSnl605NF9Veim7We-8oom2-u-u223zq9tQ2m9xI5eDOewvTFaH5dvM8XOpryj9T0hMiMfuFrmNAB+dsx9r3ltbnNVt8GVBDgcAcwVM6PpadduTxno4MXrd2UDG2vL5PA0IE1l4ewAaN69w9MJdo+83JLugbz-sjS3p34Naam9NhDKgBZmNGsTAK5kuu5bCIY8DWItDxpIeGQWcr6X7QQxJ0W4WLtl4P1XwwepolOsXYYfl3H3vQgX0L+ucnnnDsmM2NCqdqKN9gaDICmBOkGSXqxMvi31QFtCPiHzUt5lqqHtALhGx9j8vGHclf8C6B0jJprV1Y+qeO+mD4loMSXIf5gJ1oysSIfF5f0EGyb7WxuZ12w+1s9cA-QeeF9fkJy6P8jXX-3ObnZfapGl5Y9viXmgFAo5o1H1huwCo+nwO60JaUJOxFuLoLEAKD-WVgsTNgNWqvhWP42UtmxmX9gVbzAfoJPL8rymBILvBwTSZ6o2TVWPsHaiFdZaFDMyBM7Ma9INoE0ySUV-u7OFmC355fJQIG03X0d3a79F0Cv-MiFd8JDNCxqNfIMmxg9g-ZlmLBW4LeAHBQDduxO9UoKCQWAlGR-EzIcQAkWfcHQUpSztIvQdVgBYdfwm19dmOEGEggFO4HQlhQSjBqdnQYiEDxELL6Sa8u3SozEgcjMAPTd2PWPFpoOA4L1tcEdCX16FWAoglAtWBGLyD9BGEPwbxewXsFQ90II40pgDxYsFAFeae4w784XRWiuMtyG4x38mhYQNAUVjROHfE3qCd2u4HbZByucs-aAQb49BGK1YFujC-zB9GCLtxeN9AN4xO0FJDRA3B9AFUz1km-PYAYdQBVwLTQDkZRxgkLgTUngk1wTMA7YWQNokPgO6YRmKB+RW-zBsfxEGEloEgQuAt9xoBE2CD3jaFV-IB6E0CWQ-jOYFVAlTVUEVNlTC0CpNuQWYhI4d-KUAWMpkQNUfNi7AGmc8xAM8DjBXXWDHzNO-AKhf9dlEq12tyrJCAmYP-FIlRtTPesSk8mLU9EB95AboO74jdRpztYf1UIGN8Fneoxo86PCd0+h5bIvyxE5g4IFCByuUO1qE+qMZ3cBNsQIFaoSfBETMdifcyhK9RHdKDQciwCQIctEGJvQ7p6yTbBnB+1P4gNl5CdtB7RuZeABwAkAvC1MFm8UAUIwrAZkC8BrAW8yi9FaWIxcADQOIGXhAgd5kRpS6FjRZB6tV7m958ydbCeYrALaGlJBEeXB+9ODGEMbBTBW+ybsk4E4yt0TxHf0bAu0F8EZgEFNaAoBrAGvRhDRwZkGiVCIMgD14Ita4A+1JacwCTBBoBFwCkt7BSQw55AeBmYZdpeBjTQegvYAA0t7YRlXBDHOgOL8MIcUST9kAvEXuZ61JolrsdSRei+JQuaoBak4gUZ1kBQwXNAe8EQvYSsCSyf7xB5GsZQL0Fl5NEnWkNArv3w5lQrtxu8mYd-w34UiNUPykLlBYPP4tAOeCOCYkLz12UYw7-xr88cITjMY+A9QG+8hwZv3F9HfcGhjD6wXC3QdfQtCUbxsTPuEDBQFDDRTJevC50qArAWIFYFNaOeGRALfWmksw1QDgR784QK-BspK7MST-cpJVgVj1NsXCGLtsQX4FKBKQ+EkjAaQoylL5v1X+00NEQs4GI5Z6YHz6hHrA-CJDtia7lD96uMkIPcoddKzLoWQaG0N0N-aP39huxAkCiDmyGc0-1jLBAI-FfQHKAPDSgF3B+AYKabk+kFAF4i8d2weG2YCU3b1CwUMuTF3aVD5UIH3k+ApMHmZ3KG2yWhOPW4iUlfJCOmVsaePPxcZq1dryBhsHfnmdxmQOpCNJj8XsKf5HWSMC1pkw2kmowBKPRCpBCkcShBVvRLiPVQ3JXrjDxBI3nF+ZOIwUJwUm0cSKWVLMSJDTBYkNWHw5fJX1FUAPJSfSJBSsTmVYAgmO1E0hJgoGD0j5gwGFFI0CSHmDwDeGZkOgTWDrwXJ5AAjGD4YSQDkYI62foAOBZ4Odn8B3JQpAIxZBNiQABSHRCfoQoY-CUBY6GYBE9EpNmT4ighdoHCj2bXJUXRcbHgAQCXXXAls1oo-wHFAmhYMS4jRw0LkFJ+wRp0giXSO3A5lMAlIOeUGYXuENDG8ZUBIi-zXwDAtVwFiSLJfSWKNfgMAb4QdVConlG+NPsDIPWdoAIUPTYGZKFmGicZIaPzApIcaJZlEXDAAM9BseaK18cZLXzP1msI6DP1Zoj3jWjeELuH15KZEfR+koAREPcwOI8DEYjp1F8iqYjAdzHwtvRdQnijjjMCzV4QgEmEhD7cXIAAjCo2IHFAbg-fwYCrEd5lupcwFaFKBz6admDF1CK6ROR1oAh0xQkpM6EWRaTSmV4gnaOGM2QRgSyG5QtpP+Xth+UWJGOlEYzFC2kSYdGIOQkpJrWxicZUDQ0gYgMmN6jHRSmKRiNOM8Xy4KmZ+iHZGmDmPJlDopn0+wsgDCFHAR4ZQDcRtoJnX-1b5F8gAAtHTBvBlQMWNggJY4EyfVCSTwgHp5YwICZ0CRDgFliDcGhCMRB-HAjZpZ-MvCvAABXoAqBQfadg1jigRWM7YutfqNmIXYFVnwQBogTEowJol2NZYVWWaM18joRaIWjZoiBTxxdmCaIGiBIYONdjZiGHit4DoxPWOQLGEWHblEI0hRfJbGGsBr5kRUSKOsl9BKP0k1eCBTVBDsOyAsZO6R4FgMhiTAhMI0EEDHpB3iSuKNid4VfDjoiNToGjQuosthRFoYsBSw9+6TrVZY3YvuM9iPY-BB9jWY5nyWj-Y3gknj8XQGEjj58C3lmie49Z3nigYN2PxxF48eKjoNgDONiAI40OOuoKBXeLiAN4hgDml442mFxh5o3z0uiNiKdCoZNoo82Os84gkSviH4qzElBc0DM0PAYkSclgNptZODZhpkE2DQdXHGg3CBgOcrGH0d5aBhIdyAemH+xEMWYkliUiOBPihX4LwFlhQrbPWOs0-ScVI8gDEJHAswLXcIVY6PXC1Ah00IHWgc77JgQwSVdG+BzoxWD3RfIrUEzCYTIwdmwItewVcOpDn8ChM+BvYdwEYSW48wABJJBeyzMx5qTKLAA69UoHEY+GWs0BJ-afdQvjUuHZWgB-OXKBQTkSLRJ3oNErhNCA16DmNVAK4SrU30dlMoB4NDADe3WUjaEJBxA9ElOJrY04pZH85AgVAmVj35HTWMTLcUxNZUO4CuA8TZDHZQjRC4OPgijRPShGdIwkhmGZkn4pfWpoi48JMMx6QV2ENB+XDFhvYyTBOIcT9AWJIiSdE-dncShQApPiSc472WTRVwAuDiSYGOuLyTpTa8EiT0ZRNHfwHAcpKBt6TFmiLtKE3UCaT8yA4ApsJ2JGV6BFLB0SaToYkZIxljoFaIssBJT0h5i1Ezu2UJJoYgAbZrI2+ORIWobNHWTsE31XUElCZbm5o1YkuLyA4gMCBi534E8FBg-YaOPJQHHS4GYjGoZQHNB1eX4DlD1JPsNjM1wetXtApgZTHwh-ozTzZpwFCSMsxa9dwEEwPk-eD7CnFVcF-cJJWHWsABQhykzBnwFXRmA2he2USYHUFhJSJsUuJkMSloaBi0duxBZ3s05MH8QH4TYM1Elo4mEWERVXAWYBDdqsWpWkCNBMoCvx1CGvgL0uAwV2cVFuPURV0QgEgxV4upciLFSwATWVf4y-NKRwSl9IWMs1zAEVMloM-bfVL8IEMuMJwAmYCC0BxQAUmh4teDIFJVxIdEDKh1sMrBFh11YglLs-YbUPMBnxXSi-VAgOUP4AASHq0ETxAFXV8T4ATp3hB+gBEkICpmIpPplA0rWXOU5U-ZNNZy4n1NJSVqECEBVO6ezT3DSwb6LiA3iEpURVSBAICOg4gbRXZT-on1Pi9p8NxUTT+4F-XDYE3UcMuFItJpWlNW4MggpYQ0kYDOxG0mlnZs8EsoWqTSaClm2M1aEZLzo-SCViThk6D2jfAdKMwEfBnUgyl4wHQFXXHs3ALDD55m0lBEiYuQerRi9q4A1C8TjEKQ03Sz5OEBlCtQY8LH810ggheBRLXPxEZicMHCr12rLKIbCW0aIPhEdQTqElQOiSjT2AbvU8P5TcxIFh+SlxW5OapHuSw14M28FFTsAz5WxKOjIANNT55GSOkBXSoAJ9hqU+eO6LpBI0srSkhIaQdILYiNJEE6EmBFFVKcjpH8SBxK4xQjng+ATTVGAk7Y4V9V+4FxDgJewL7A0AVdR-2foryMMngAk6FOnFTP-dmL0w5AFyG4yRwOjHBwd0hpkEzTLYMGToQM5LHCJDcP91IoBEWf3S845LQBcgg8NsHhF5lUyCJEmtEGNcBWtJZIfZKMDPSdUYgKxm6wXlJDMgANEOyAsz-9O6gEQbM5LnZtaaOiiI4ZM3zlngsJUIBZcxXDIEl1agBeD9gdY-kGVcE+BuF8AzwUFJkiZEgi2ChIUnTCuS-WPID0QSvDckjsYVTmBEYnQaBOQJpMlqGSAnWbhjsyuY8cDKzq2DGyX1KshuKZSJABqBjtE4KDFl1PgeLNrAZE3aQBpHUkWwB1UskqiWNJMaU3SzyAbsmwgKAOvW4zkaZIG8ZJgzZKxciWCbITAlzdwGQRXHNSX3gO09F2JCmVKfWCJdDXFhF0q+VbLCz1ocUJLpXHVvhOhNKccHfCbXcEwgzlQBxhZAFoelNzAHHUIA4y-E9Wmbx48eckSglyerWb5U+MPjbA7soB2AyzRd1hV1BMJzOrgoOAtDsyHMsAAytnMnHFKIMgGhDKhZEGICz0o096FfUXpOyHRzq4OwEfAC0LSRtdOs2ggfSxCezUdT3oy8FIAToBuw7w8cwrKWxGA+dErg7mGBFIk5TATMdUn03nKEV-wAXP+hJM6JyayqEoQHUBwGZVwQoPeb+F9JTIfyFoB1cq9nPY5uG4RYzKIg3FjSyzSXMAUkAJ2xVzw+N4Df9pbJflMyiAVgDD4SJcgDr10AIFjsz8WCMGFcxTdwECyMwCoDdzpcg-l2zjKfbIMUSvBFhF1ZXOEyo143DrOpZbANTIpEsIdMnhV30QzSBZZDfdAOBCgZECvV+MqmizzvMrwDzz8yXHNiACcrDIaZSADICaJfM95TDV6FCtMbhzspPPMxotG0TDUEvGnOkiusj+PZl+AWvNhQ1ww0HcUn04m31z6o6hL2AHDHkzaIEwKqLzgHvEcR7y6c6Ux9TzoXAnQBDZRbPpkW4y6jgIt8lOnZsWLWjwqA8YBuNCz6teuPbypySbKH81QZEH0kXXDhLYyG8TeAFiyuDzmrAp-NoNXB04hlOTjc-P-BV0Is5ADD8Vs-y1TiUiGWO6EjADWyCMHkAs06T1THTUtFkQtUFALRwkUCdhAHBgI5EuQHkHW9LEIB2yBbYhcNMdIdHP3fAiEccGfy46DszYA3MoLOgAwojFygLdEtgATllxZLlAxkovZMrzkMp6KSiUopywm0QszgrPVi4-MkTzQCrCTkBFLO3OOiRI1QD7MD0WWDszXJdSHG5VC0nHULA81yVLNdJSzC8Btg4jP7gS3TTUbAmhBRSfklFKwp-dJ1TeB7cPglEP1V7CsHk+YsgU9QgwbtNM0hJDGQvnBwDGF8nsIJMpRAz8PYTwXihGNHeCZzqNUIASpFvUDEtQbUfuHGp6wixx9SGAng3uF1xDOOddQQkfkRc6o0ItHleCOqInQaIgqFTZgolTgYj02CUFBg0+MplWQ9GfhVWx-JU8B+AP2KAALwG00sCMj60KZi9ZkmYYtzBIkEgg9ybGQ-ymLNOYjOSQIM9eQHFRmMYr840wbzKYlPWGvllgNi7JLXNagB3LKK-PYCL7IYyV3HiRx4ZJEuLjONgHTi6oGxkzT7im4tYB04jbIWSNWTNLeK-gCYpeKSlbYG4wHis8H+LDWC6VuKSlByDNRASiQAhKC6WmFqB040+KyF04g-Xjtr3TyKPArGJVFzBJaTEueKYC5AEZIRgfErCAfi-EtGBRyKOGJKnQZFi75Z+JVC747qMOkiQa0UYCdh4UZTnehFpXkmM4WStkvyYnsOplC5YuZkqmQhBPXl142aenlrROmGYx6ZgaD2AGYJAIZhGYZS7pitR6hBDKeQWGRUoP16hfuDDRFAbQE1LMEMsS34mJbcQ5YZfOLkrpYcBugTpjELOkPEYFCQF9Ra6IQDPQgvKVn2VBCztXMU9FTTmxVknK4pJUxHIgF1dtlTvD2VsDWhnOVIkPxQdLaJNEqQ1Y5Z1SGs+7LrCmtPGAGyIFntUMtHVCHP3Hl0SdPMqik09L3WDFUkefVzNlhG7Ei8-GQL0fijWFaBGAFDIDj5TsjUCxjIsjXgt4DjkVwPcDrI+zOXQhQQdGRiPNLJlLE8xFWCr8shdvyHdjkLwzdcWylaCCNb1ch0SxGArYE3K+sHAKIEr1LgoYsVYUYLKsI5U9SIE-rJq2xx+grMyIM8zLM1WQVLWIAMt8EXSx-CSy3y2K1+3LGDYVBFK1hsLn5Y5GpsxuLIWZtBfJ73nVNYVQG1gkfB3PYB20ptHjz8DAVkSFZs+AHmyICDMuy02sRIRmp41HYpzyiBfCtag8ACrQkB+tYcDCArJGrJ2pwXPniDZ42GKTnRwXMAHorTnOLhOLkAH6FDJM+LZnKxJyRAFGZ47fZkcYWvY5i90zmS9Ne8NeWmH0BaK+YqYrkBaqQaw5SK9UeYMWEE12zC1O0RNK8xNSueYNEfeBBZKWXGH9QsqR8WhZkWLFjwMg2WVlNYZpPACJh+vMIg8LigxAuvdOyD3OkhOsDNm8E4FTAC0kOsWEtBKcgTyoRYCU7Lim8GnaykiAJikKoRZHK-fgSr+K2KpYL4qikuQzWMDxliZVi2AEqyZkaplKYCmPKuaYkQmLmmFcwFot+YpmcKvplxIeXHcAPsogn5sViwEFwrsmU9AVVwYFNLKqpBIOzKYxZfwviD0qoNCujpALykbwOim2Djh9+XaXYxX0UVw3FRBZzF9gQ88vHkVnAHQAipoTP4EIDoAHABcgXIDcHsAWELgB1AXIIwEkA7QcgFhMOsUbC2rIAG8VxhegaE2Mgw-BJD9B3OTiiLcXIRAFSgaEf4N7BrgBkItCwQKB0PIFAllQQBdDPeE8o7I9auUJ7qgyCOqOBUjBuqNogUHurHqoKReqhSKEFVV3ABhFgAGuVyF+rgPMEFmr00b3zUAwwb13-lweXENB14jcaqayVmIDGgQQMcuErhnMo6EsS+ZJeiVJd-PcmuRGqeZlnpwRHPwIxCQDasRrgEGBFRr2TW6oxroTLGrfgXqqBCWBiWcDCXcfq5DiQDya2TB2ULBW7L9BrANiHq1Ja-tU2rtquuG7B9q0MR2UthYGlOqrAFyDgqgRCJIOAQkNGvHVYATGvaJsayAFz4mYbsEjASa1KEbA+EFIMQAlxW+zJqNAfczJpYgaBT2j2wVXIdS80+y0E4LMODnhqra8eRtq9qg6uRqTqs6q3BegMkk5pEAYgGUBvau6uVr-a1WsDqrIQ4DJIw6vC1yDrkZ0BuR8cQ0mhBX1GNDhTG8MCCpqTCp6STBHQxXHixpEU32nRl0MeWIdCSGdCnry0b1DHlKiLHLa92sYwC0BVsWJDiJt67QE6l82dHCCBd6tHAPQ2wI+tWQcwVbHNoBJL6BpDziSvGRYXaKwD4LSi0iMQ00ud8A4A2wD+utLHSoIFdL2lQBuqA1gl0rHo-QD0rP1HJSiJIoGGJ+n3YSKXhkQalEvCMLB6CBLGDRuwamCURrClhFHCa3ZvLOSI9VUCaJnPMuHzkRAi8J0QfoIeA4sxva+gN83gFGQM88LNO1mAKgOIAKydEbYBprAcxqjVc+NeN1hsOBevj-t7NdvAj4AgdDB00NrR7mrzE3Hk009egMKTyy-02820BOTOsw24bYP6OmNumMszDU7RPAvUqXQerVj96dRP2Mg4hFKCKK5vBsRMhEiuaDi9A8DKlNEzgm1SPFD4RENaZCqx4h0R1k6jNSA6qwEnEBzQQRjNIxpbsVo5mGgWzCbdQYFTcEdEMDEAw6AbUDkAuQQGqLB+XADB5SF0KzXzA6CHRAnJeNEMPhELC30g+VAwnP2MESmvf2iFIoCancgEvR8RA1AM5b1AzciiwqKL+gGIDXCNgeXCEARUdDD+ilxG13UAcinlM2kDJRNKKKqAskHyc01GHl7qBajhsM1uGuQHQwmhYB2UoI+CaAMQWQWd00MyvF7K7ErdJprmgdERhC6Kb8lxwpsYvKjOyBRwkzmDoEA3JskVwgAAx0QJQc2ERBDgm8CEYwAQmNlck03NA3NZgNC2iAPC+Gxtg+GzUk6gASIapXBE00ZunyIg+QCXzp8RWLYg0RRvIZVSgBaFTQPmizFkr7G-UkcbjIPURcbeNNAuODbREysyygoeqJFJgBBTG0BX4YLOzJlVSIBUBvmm2F81cgZQDaF6PWakAiYgCLVGFVAcYTndFCPqt7h5m4YgbLpmHItZA+Ab4BC4ZMoryEsii3CvJJ2ePJwpA4QdgAS53md7FJoGwV6hSDNPBEyWcbYBxuqBIoalpShmW6FVyEoqgRocIgwK4muAiiv6JgU4OEyHGoXGm9Nmo1QdQHwKXQZamF5aFIoqMR-ET5tkqDcEZpSbylf3PcppQb1reA0ISgD-Vo6p9LX8z6AhpTIX0yBNoAiin6DRDPCR7N98H61ICgUGA8BjUVe1BaFeazOKxIFcyWnRB4iIIkMuPDw3f5p-qoKY8BJb5iflqURcmMQC3AOARagNwFcMSCyi8spoliMX1S1TMVkIcNw5A5GHRGbR8gYiBEjxG9ZqkaIYHIHQx4WsSwsZF6bwWKdqhQWo9DZgJfPaSWKW5lDClpeZryytQAYo5bnMMAHMgmtekDylz0pc24w1wTqCwd4AXoDbAFoKDDPaMW7K2aLrRJKDUaKwW0FCb7gjqmDd3Q3NDqQYeZJr0a9gZFOo5n8ZwGiEb2yQJaFamr1Pih8nRhppB5CdvBI7AYteBSb+QdnicUyvOwXtc3hB8Ir0IA0LO8bWMXaloDpBIRxW0bYNhNzQ9wTwCiRdZV2s0ATYsC1-Inpe1BA7IsUonvSdENBLtwVNLUDA7mhKDrrjB2uPg7a8mr5qKKO63WHQgVQetqCFAavWnkTvAPRH8ADZAAG5iiaeFJVhEuuIRRv6LaAradKGJXcQvkqSqIIXQh9N+xQwNhnRxY8VtoB5z2exprathajBelWcvvhJt5dZh2eDMOm5FPDQuDJFHCpG8ECXF10Iop7bIoZxpda0qLbJOgEvKb2bx8qHRDQyhGpLqbi1RAho1pk0HPxt5fSQMNTBo+LJMVagHdEBxAXQY0MkM1aRGhz9Ym333JJDi6RT7V38iVgraPwbsT3cgHb4ARIE4G3TYsAuxMTRaQvM8AMFYyd0FSY2ALgzg6nAFAAERaO5jBmJKgdDANSUIPLJ7rr6XjyycUgvmr0AC4DVtlzfWnRCaEAxJ4PfJ2hW5jm03gnfCg6PbH9y5lm+P1r381MbjBtwT6AaVwLK0XlxrRtmoeqUofXVSh5A5A6QkCKcHaIpyzlcjygIDASSiNG4JIRVq9hse2EFx7zgynuM0OLUnvT4n2nhvw6bkEcLL49m1IGGjsrQ-2bDqA2jxrsVoZ5m3d4tbZqngiWABV0Nma-ioety4wbydT26WTAGzEtAJptg8+BcCtRpRBLzV47cdUv6B+4bZJOhdkoou16hAXXqiNMArSTV54U7VMILhcDbwNAvAfsDHVEAOHttp0vYQXZpNwHjpGUIA-xynMl5C3WG6YIiAARgQAMRCAA"));
     })()
 
 /***/ }),
@@ -20568,11 +20610,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "CHANGELOG", function() { return CHANGELOG; });
 const CHANGELOG = [
     {
-        version: "1.2.3",
-        date: "unreleased",
+        version: "ShapezIndustries 0.1.3",
+        date: "06.01.2021",
         entries: [
-            "Fixed constant signals being editable from the regular layer",
-            "Fixed items still overlapping sometimes between buildings and belts",
+            "Added a new variant of the balancer which crosses two belts over each other independently",
+            "Refined code and fixed bugs with the hyperlink",
+            "Fixed the belt underlay for the hyperlink buidings flowing both ways",
+            "Remember - to turn on the advanced transport mod buidings, enable it in the settings.",
         ],
     },
     {
@@ -31875,6 +31919,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _translations__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../../translations */ "./src/js/translations.js");
 /* harmony import */ var _core_utils__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../../core/utils */ "./src/js/core/utils.js");
 /* harmony import */ var _components_belt_underlays__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../components/belt_underlays */ "./src/js/game/components/belt_underlays.js");
+/* harmony import */ var _theme__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../theme */ "./src/js/game/theme.js");
+
 
 
 
@@ -31895,6 +31941,7 @@ const enumBalancerVariants = {
     splitterInverse: "splitter-inverse",
     splitterTriple: "splitter-triple",
     mergerTriple: "merger-triple",
+    beltCrossover: "belt-crossover",
     //do stuff in all this code with this
 };
 
@@ -31907,6 +31954,7 @@ const overlayMatrices = {
     [enumBalancerVariants.splitterInverse]: Object(_core_utils__WEBPACK_IMPORTED_MODULE_9__["generateMatrixRotations"])([0, 1, 0, 1, 1, 0, 0, 1, 0]),
     [enumBalancerVariants.splitterTriple]: Object(_core_utils__WEBPACK_IMPORTED_MODULE_9__["generateMatrixRotations"])([0, 1, 0, 1, 1, 1, 0, 1, 0]),
     [enumBalancerVariants.mergerTriple]: Object(_core_utils__WEBPACK_IMPORTED_MODULE_9__["generateMatrixRotations"])([0, 1, 0, 1, 1, 1, 0, 1, 0]),
+    [enumBalancerVariants.beltCrossover]: Object(_core_utils__WEBPACK_IMPORTED_MODULE_9__["generateMatrixRotations"])([0, 1, 0, 1, 1, 1, 0, 1, 0]),
 };
 
 class MetaBalancerBuilding extends _meta_building__WEBPACK_IMPORTED_MODULE_5__["MetaBuilding"] {
@@ -31924,6 +31972,7 @@ class MetaBalancerBuilding extends _meta_building__WEBPACK_IMPORTED_MODULE_5__["
             case enumBalancerVariants.splitterInverse:
             case enumBalancerVariants.splitterTriple:
             case enumBalancerVariants.mergerTriple:
+            case enumBalancerVariants.beltCrossover:
                 return new _core_vector__WEBPACK_IMPORTED_MODULE_0__["Vector"](1, 1);
             default:
                 window.assert(false, "Unknown balancer variant: " + variant);
@@ -31952,8 +32001,16 @@ class MetaBalancerBuilding extends _meta_building__WEBPACK_IMPORTED_MODULE_5__["
      */
     getAdditionalStatistics(root, variant) {
         let speedMultiplier = 1;
-        if(variant == _meta_building__WEBPACK_IMPORTED_MODULE_5__["defaultBuildingVariant"]) {
-            speedMultiplier = 2;
+        switch(variant)
+        {
+            case _meta_building__WEBPACK_IMPORTED_MODULE_5__["defaultBuildingVariant"]:
+            case enumBalancerVariants.beltCrossover:
+                speedMultiplier = 2;
+                break;
+            
+            default:
+                break;
+
         }
 
         const speed =
@@ -31961,7 +32018,10 @@ class MetaBalancerBuilding extends _meta_building__WEBPACK_IMPORTED_MODULE_5__["
         return [[_translations__WEBPACK_IMPORTED_MODULE_8__["T"].ingame.buildingPlacement.infoTexts.speed, Object(_core_utils__WEBPACK_IMPORTED_MODULE_9__["formatItemsPerSecond"])(speed)]];
     }
 
-    getSilhouetteColor() {
+    getSilhouetteColor(variant) {
+        if(variant == enumBalancerVariants.beltCrossover){
+            return _theme__WEBPACK_IMPORTED_MODULE_11__["THEME"].map.chunkOverview.beltColor;
+        }
         return "#555759";
     }
 
@@ -31969,15 +32029,26 @@ class MetaBalancerBuilding extends _meta_building__WEBPACK_IMPORTED_MODULE_5__["
      * @param {GameRoot} root
      */
     getAvailableVariants(root) {
+        const advancedTransportMod = root.app.settings.getAllSettings().advancedTransportMod;
         let available = [_meta_building__WEBPACK_IMPORTED_MODULE_5__["defaultBuildingVariant"]];
+        if(advancedTransportMod) {
+            available.push(enumBalancerVariants.beltCrossover);
+        }
+
         if (root.hubGoals.isRewardUnlocked(_tutorial_goals__WEBPACK_IMPORTED_MODULE_7__["enumHubGoalRewards"].reward_merger)) {
-            //available.push(enumBalancerVariants.merger, enumBalancerVariants.mergerInverse);
-            available.push(enumBalancerVariants.mergerTriple);
+            if(advancedTransportMod) {
+                available.push(enumBalancerVariants.mergerTriple);
+            }else{
+                available.push(enumBalancerVariants.merger, enumBalancerVariants.mergerInverse);
+            }
         }
 
         if (root.hubGoals.isRewardUnlocked(_tutorial_goals__WEBPACK_IMPORTED_MODULE_7__["enumHubGoalRewards"].reward_splitter)) {
-            //available.push(enumBalancerVariants.splitter, enumBalancerVariants.splitterInverse);
-            available.push(enumBalancerVariants.splitterTriple);
+            if(advancedTransportMod) {
+                available.push(enumBalancerVariants.splitterTriple);
+            }else{
+                available.push(enumBalancerVariants.splitter, enumBalancerVariants.splitterInverse);
+            }
         }
 
         return available;
@@ -32162,6 +32233,43 @@ class MetaBalancerBuilding extends _meta_building__WEBPACK_IMPORTED_MODULE_5__["
 
                 break;
             }
+            case enumBalancerVariants.beltCrossover: {
+                entity.components.ItemProcessor.makeCharges = false;
+                entity.components.ItemAcceptor.setSlots([
+                    {
+                        pos: new _core_vector__WEBPACK_IMPORTED_MODULE_0__["Vector"](0, 0),
+                        directions: [
+                            _core_vector__WEBPACK_IMPORTED_MODULE_0__["enumDirection"].bottom]
+                    },
+                    {
+                        pos: new _core_vector__WEBPACK_IMPORTED_MODULE_0__["Vector"](0, 0),
+                        directions: [
+                            variant === enumBalancerVariants.beltCrossover
+                            ? _core_vector__WEBPACK_IMPORTED_MODULE_0__["enumDirection"].left
+                            : _core_vector__WEBPACK_IMPORTED_MODULE_0__["enumDirection"].right]
+                    },
+                ]);
+
+                entity.components.ItemEjector.setSlots([
+                    {
+                        pos: new _core_vector__WEBPACK_IMPORTED_MODULE_0__["Vector"](0, 0),
+                        direction: _core_vector__WEBPACK_IMPORTED_MODULE_0__["enumDirection"].top,
+                    },
+                    {
+                        pos: new _core_vector__WEBPACK_IMPORTED_MODULE_0__["Vector"](0, 0),
+                        direction:
+                            variant === enumBalancerVariants.beltCrossover
+                                ? _core_vector__WEBPACK_IMPORTED_MODULE_0__["enumDirection"].right
+                                : _core_vector__WEBPACK_IMPORTED_MODULE_0__["enumDirection"].left,
+                    },
+                ]);
+
+                entity.components.BeltUnderlays.underlays = [
+                    { pos: new _core_vector__WEBPACK_IMPORTED_MODULE_0__["Vector"](0, 0), direction: _core_vector__WEBPACK_IMPORTED_MODULE_0__["enumDirection"].top, requiredType: _components_belt_underlays__WEBPACK_IMPORTED_MODULE_10__["enumRequiredBeltUnderlayType"].alwaysFull },
+                    { pos: new _core_vector__WEBPACK_IMPORTED_MODULE_0__["Vector"](0, 0), direction: _core_vector__WEBPACK_IMPORTED_MODULE_0__["enumDirection"].right, requiredType: _components_belt_underlays__WEBPACK_IMPORTED_MODULE_10__["enumRequiredBeltUnderlayType"].alwaysFull },
+                ];
+                break;
+            }
             default:
                 window.assert(false, "Unknown balancer variant: " + variant);
         }
@@ -32193,6 +32301,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _meta_building__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../meta_building */ "./src/js/game/meta_building.js");
 /* harmony import */ var _root__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../root */ "./src/js/game/root.js");
 /* harmony import */ var _theme__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../theme */ "./src/js/game/theme.js");
+
 
 
 
@@ -33486,9 +33595,9 @@ class MetaHyperlinkBuilding extends _meta_building__WEBPACK_IMPORTED_MODULE_10__
                     entity.addComponent(new _components_belt_underlays__WEBPACK_IMPORTED_MODULE_15__["BeltUnderlaysComponent"]({ underlays: [] }));
                 }
                 entity.components.BeltUnderlays.underlays = [
-                    { pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](0, 1), direction: _core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].left},
-                    { pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](0, 1), direction: _core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].right},
-                    { pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](0, 1), direction: _core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].top},
+                    { pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](0, 1), direction: _core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].left, requiredType: _components_belt_underlays__WEBPACK_IMPORTED_MODULE_15__["enumRequiredBeltUnderlayType"].bottomOnly},
+                    { pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](0, 1), direction: _core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].right, requiredType: _components_belt_underlays__WEBPACK_IMPORTED_MODULE_15__["enumRequiredBeltUnderlayType"].bottomOnly},
+                    { pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](0, 1), direction: _core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].top, requiredType: _components_belt_underlays__WEBPACK_IMPORTED_MODULE_15__["enumRequiredBeltUnderlayType"].bottomOnly},
                 ];
                 break;
             }
@@ -33497,7 +33606,7 @@ class MetaHyperlinkBuilding extends _meta_building__WEBPACK_IMPORTED_MODULE_10__
                 if(entity.components.ItemAcceptor){entity.removeComponent(_components_item_acceptor__WEBPACK_IMPORTED_MODULE_3__["ItemAcceptorComponent"]);}
                 if(entity.components.HyperlinkEjector){entity.removeComponent(_components_hyperlink_ejector__WEBPACK_IMPORTED_MODULE_7__["HyperlinkEjectorComponent"]);}
                 if(!entity.components.ItemEjector){
-                    entity.addComponent(new _components_item_ejector__WEBPACK_IMPORTED_MODULE_4__["ItemEjectorComponent"]({slots: [],}))
+                    entity.addComponent(new _components_item_ejector__WEBPACK_IMPORTED_MODULE_4__["ItemEjectorComponent"]({slots: [], renderFloatingItems: false}))
                 }
                 entity.components.ItemEjector.setSlots([
                     { pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](0, 0), direction: _core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].right },
@@ -33516,9 +33625,9 @@ class MetaHyperlinkBuilding extends _meta_building__WEBPACK_IMPORTED_MODULE_10__
                     entity.addComponent(new _components_belt_underlays__WEBPACK_IMPORTED_MODULE_15__["BeltUnderlaysComponent"]({ underlays: [] }));
                 }
                 entity.components.BeltUnderlays.underlays = [
-                    { pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](0, 0), direction: _core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].left },
-                    { pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](0, 0), direction: _core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].right },
-                    { pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](0, 0), direction: _core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].top},
+                    { pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](0, 0), direction: _core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].left, requiredType: _components_belt_underlays__WEBPACK_IMPORTED_MODULE_15__["enumRequiredBeltUnderlayType"].topOnly },
+                    { pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](0, 0), direction: _core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].right, requiredType: _components_belt_underlays__WEBPACK_IMPORTED_MODULE_15__["enumRequiredBeltUnderlayType"].topOnly },
+                    { pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](0, 0), direction: _core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].top, requiredType: _components_belt_underlays__WEBPACK_IMPORTED_MODULE_15__["enumRequiredBeltUnderlayType"].topOnly},
                 ];
                 break;
             }
@@ -37717,12 +37826,13 @@ class BeltReaderComponent extends _component__WEBPACK_IMPORTED_MODULE_0__["Compo
 /*!**************************************************!*\
   !*** ./src/js/game/components/belt_underlays.js ***!
   \**************************************************/
-/*! exports provided: enumClippedBeltUnderlayType, BeltUnderlaysComponent */
+/*! exports provided: enumClippedBeltUnderlayType, enumRequiredBeltUnderlayType, BeltUnderlaysComponent */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "enumClippedBeltUnderlayType", function() { return enumClippedBeltUnderlayType; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "enumRequiredBeltUnderlayType", function() { return enumRequiredBeltUnderlayType; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "BeltUnderlaysComponent", function() { return BeltUnderlaysComponent; });
 /* harmony import */ var _core_vector__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../core/vector */ "./src/js/core/vector.js");
 /* harmony import */ var _component__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../component */ "./src/js/game/component.js");
@@ -37746,9 +37856,22 @@ const enumClippedBeltUnderlayType = {
 };
 
 /**
+ * Store which type of underlay this must be
+ * @enum {string}
+ */
+const enumRequiredBeltUnderlayType = {
+    alwaysFull: "alwaysFull",
+    alwaysBottom: "alwaysBottom",
+    alwaysTop: "alwaysTop",
+    bottomOnly: "bottomOnly",
+    topOnly: "topOnly",
+};
+
+/**
  * @typedef {{
  *   pos: Vector,
  *   direction: enumDirection,
+ *   requiredType?: enumRequiredBeltUnderlayType,
  *   cachedType?: enumClippedBeltUnderlayType
  * }} BeltUnderlayTile
  */
@@ -38201,7 +38324,6 @@ class HyperlinkEjectorComponent extends _component__WEBPACK_IMPORTED_MODULE_4__[
         this.setSlots(slots);
         this.renderFloatingItems = renderFloatingItems;
         this.lastUsedSlot = null;
-        this.isFirstSlot = null;
     }
     
     /**
@@ -38575,7 +38697,6 @@ class ItemEjectorComponent extends _component__WEBPACK_IMPORTED_MODULE_4__["Comp
         this.setSlots(slots);
         this.renderFloatingItems = renderFloatingItems;
         this.lastUsedSlot = null;
-        this.isFirstSlot = null;
     }
 
     /**
@@ -38703,15 +38824,14 @@ class ItemEjectorComponent extends _component__WEBPACK_IMPORTED_MODULE_4__["Comp
      * Tries to eject a given item
      * @param {number} slotIndex
      * @param {BaseItem} item
-     * @param {boolean} isInstant
      * @returns {boolean}
      */
-    tryEject(slotIndex, item, isInstant) {
+    tryEject(slotIndex, item) {
         if (!this.canEjectOnSlot(slotIndex)) {
             return false;
         }
         this.slots[slotIndex].item = item;
-        this.slots[slotIndex].progress = isInstant ? 0.8 : 0;
+        this.slots[slotIndex].progress = 0;
         return true;
     }
 
@@ -38754,7 +38874,6 @@ __webpack_require__.r(__webpack_exports__);
 /** @enum {string} */
 const enumItemProcessorTypes = {
     hyperlink: "hyperlink",
-    hyperlinkExit: "hyperlinkExit",
     balancer: "balancer",
     cutter: "cutter",
     cutterQuad: "cutterQuad",
@@ -38806,12 +38925,14 @@ class ItemProcessorComponent extends _component__WEBPACK_IMPORTED_MODULE_2__["Co
      * @param {enumItemProcessorTypes=} param0.processorType Which type of processor this is
      * @param {enumItemProcessorRequirements=} param0.processingRequirement Applied processing requirement
      * @param {number=} param0.inputsPerCharge How many items this machine needs until it can start working
+     * @param {boolean=} param0.makeCharges Whether or not to instantly output to required slots with no processing
      *
      */
     constructor({
         processorType = enumItemProcessorTypes.balancer,
         processingRequirement = null,
         inputsPerCharge = 1,
+        makeCharges = true,
     }) {
         super();
 
@@ -38848,6 +38969,13 @@ class ItemProcessorComponent extends _component__WEBPACK_IMPORTED_MODULE_2__["Co
          * @type {number}
          */
         this.bonusTime = 0;
+
+        /**
+         * Whether or not to make charges
+         * @type {boolean}
+         */
+        this.makeCharges = makeCharges;
+
     }
 
     /**
@@ -42207,8 +42335,7 @@ class HubGoals extends _savegame_serialization__WEBPACK_IMPORTED_MODULE_3__["Bas
             case _components_item_processor__WEBPACK_IMPORTED_MODULE_5__["enumItemProcessorTypes"].balancer:
                 return _core_config__WEBPACK_IMPORTED_MODULE_0__["globalConfig"].beltSpeedItemsPerSecond * this.upgradeImprovements.belt * 2;
             case _components_item_processor__WEBPACK_IMPORTED_MODULE_5__["enumItemProcessorTypes"].hyperlink:
-            case _components_item_processor__WEBPACK_IMPORTED_MODULE_5__["enumItemProcessorTypes"].hyperlinkExit:
-                return _core_config__WEBPACK_IMPORTED_MODULE_0__["globalConfig"].beltSpeedItemsPerSecond * this.upgradeImprovements.belt * 16;
+                return _core_config__WEBPACK_IMPORTED_MODULE_0__["globalConfig"].beltSpeedItemsPerSecond * this.upgradeImprovements.belt * 10;
             case _components_item_processor__WEBPACK_IMPORTED_MODULE_5__["enumItemProcessorTypes"].reader:
                 return _core_config__WEBPACK_IMPORTED_MODULE_0__["globalConfig"].beltSpeedItemsPerSecond * this.upgradeImprovements.belt;
 
@@ -54108,6 +54235,7 @@ class MetaBuilding {
         return [defaultBuildingVariant];
     }
 
+
     /**
      * Returns a preview sprite
      * @returns {AtlasSprite}
@@ -54377,6 +54505,7 @@ function initMetaBuildingRegistry() {
     Object(_building_codes__WEBPACK_IMPORTED_MODULE_29__["registerBuildingVariant"])(48, _buildings_balancer__WEBPACK_IMPORTED_MODULE_4__["MetaBalancerBuilding"], _buildings_balancer__WEBPACK_IMPORTED_MODULE_4__["enumBalancerVariants"].splitterInverse);
     Object(_building_codes__WEBPACK_IMPORTED_MODULE_29__["registerBuildingVariant"])(62, _buildings_balancer__WEBPACK_IMPORTED_MODULE_4__["MetaBalancerBuilding"], _buildings_balancer__WEBPACK_IMPORTED_MODULE_4__["enumBalancerVariants"].mergerTriple);
     Object(_building_codes__WEBPACK_IMPORTED_MODULE_29__["registerBuildingVariant"])(63, _buildings_balancer__WEBPACK_IMPORTED_MODULE_4__["MetaBalancerBuilding"], _buildings_balancer__WEBPACK_IMPORTED_MODULE_4__["enumBalancerVariants"].splitterTriple);
+    Object(_building_codes__WEBPACK_IMPORTED_MODULE_29__["registerBuildingVariant"])(71, _buildings_balancer__WEBPACK_IMPORTED_MODULE_4__["MetaBalancerBuilding"], _buildings_balancer__WEBPACK_IMPORTED_MODULE_4__["enumBalancerVariants"].beltCrossover);
 
     // Miner
     Object(_building_codes__WEBPACK_IMPORTED_MODULE_29__["registerBuildingVariant"])(7, _buildings_miner__WEBPACK_IMPORTED_MODULE_16__["MetaMinerBuilding"]);
@@ -55481,6 +55610,7 @@ const enumSubShape = {
     circle: "circle",
     star: "star",
     windmill: "windmill",
+    mixed: "mixed",
 };
 
 /** @enum {string} */
@@ -55489,6 +55619,7 @@ const enumSubShapeToShortcode = {
     [enumSubShape.circle]: "C",
     [enumSubShape.star]: "S",
     [enumSubShape.windmill]: "W",
+    [enumSubShape.mixed]: "M",
 };
 
 /** @enum {enumSubShape} */
@@ -55875,6 +56006,40 @@ class ShapeDefinition extends _savegame_serialization__WEBPACK_IMPORTED_MODULE_5
                         break;
                     }
 
+                    case enumSubShape.mixed: {
+                        context.beginPath();
+                        const dims = quadrantSize * layerScale;
+
+                        let originX = insetPadding - quadrantHalfSize;
+                        let originY = -insetPadding + quadrantHalfSize - dims;
+                        const moveInwards = dims * 0.1;
+                        const starPosition1 = dims * 0.35;
+                        const starPosition2 = dims * 0.55;
+                        const circleRadius = dims * 0.3;
+                        
+                        context.moveTo(originX, originY);
+                        context.arc(
+                            originX,
+                            originY + dims,
+                            dims,
+                            -Math.PI * 0.5,
+                            -Math.PI * 0.35,
+                        )
+                        context.lineTo(originX + dims * 0.9, originY + moveInwards);
+
+                        context.lineTo(originX + dims - moveInwards, originY + starPosition2);
+                        context.arc(
+                            originX,
+                            originY + dims,
+                            dims,
+                            -Math.PI * 0.13,
+                            0,
+                        )
+                        context.lineTo(originX, originY + dims);
+                        context.closePath();
+                        break;
+                    }
+
                     default: {
                         window.assert(false, "Unkown sub shape: " + subShape);
                     }
@@ -55888,7 +56053,6 @@ class ShapeDefinition extends _savegame_serialization__WEBPACK_IMPORTED_MODULE_5
             }
         }
     }
-
     /**
      * Returns a definition with only the given quadrants
      * @param {Array<number>} includeQuadrants
@@ -57331,6 +57495,17 @@ class BeltUnderlaysSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MOD
      * @returns {enumClippedBeltUnderlayType} The type of the underlay
      */
     computeBeltUnderlayType(entity, underlayTile) {
+        switch (underlayTile.requiredType)
+        {
+            case _components_belt_underlays__WEBPACK_IMPORTED_MODULE_8__["enumRequiredBeltUnderlayType"].alwaysFull:
+                return _components_belt_underlays__WEBPACK_IMPORTED_MODULE_8__["enumClippedBeltUnderlayType"].full;
+            case _components_belt_underlays__WEBPACK_IMPORTED_MODULE_8__["enumRequiredBeltUnderlayType"].alwaysBottom:
+                return _components_belt_underlays__WEBPACK_IMPORTED_MODULE_8__["enumClippedBeltUnderlayType"].bottomOnly;
+            case _components_belt_underlays__WEBPACK_IMPORTED_MODULE_8__["enumRequiredBeltUnderlayType"].alwaysTop:
+                return _components_belt_underlays__WEBPACK_IMPORTED_MODULE_8__["enumClippedBeltUnderlayType"].topOnly;
+            default:
+                break;
+        }
         if (underlayTile.cachedType) {
             return underlayTile.cachedType;
         }
@@ -57338,8 +57513,6 @@ class BeltUnderlaysSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MOD
         const staticComp = entity.components.StaticMapEntity;
 
         const transformedPos = staticComp.localTileToWorld(underlayTile.pos);
-        const destX = transformedPos.x * _core_config__WEBPACK_IMPORTED_MODULE_0__["globalConfig"].tileSize;
-        const destY = transformedPos.y * _core_config__WEBPACK_IMPORTED_MODULE_0__["globalConfig"].tileSize;
 
         // Extract direction and angle
         const worldDirection = staticComp.localDirectionToWorld(underlayTile.direction);
@@ -57359,11 +57532,11 @@ class BeltUnderlaysSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MOD
 
         let flag = _components_belt_underlays__WEBPACK_IMPORTED_MODULE_8__["enumClippedBeltUnderlayType"].none;
 
-        if (connectedTop && connectedBottom) {
+        if (connectedTop && connectedBottom && !underlayTile.requiredType) {
             flag = _components_belt_underlays__WEBPACK_IMPORTED_MODULE_8__["enumClippedBeltUnderlayType"].full;
-        } else if (connectedTop) {
+        } else if (connectedTop && underlayTile.requiredType != _components_belt_underlays__WEBPACK_IMPORTED_MODULE_8__["enumRequiredBeltUnderlayType"].bottomOnly) {
             flag = _components_belt_underlays__WEBPACK_IMPORTED_MODULE_8__["enumClippedBeltUnderlayType"].topOnly;
-        } else if (connectedBottom) {
+        } else if (connectedBottom && underlayTile.requiredType != _components_belt_underlays__WEBPACK_IMPORTED_MODULE_8__["enumRequiredBeltUnderlayType"].topOnly) {
             flag = _components_belt_underlays__WEBPACK_IMPORTED_MODULE_8__["enumClippedBeltUnderlayType"].bottomOnly;
         }
 
@@ -58747,7 +58920,7 @@ class ItemAcceptorSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MODU
 
         for (let i = 0; i < this.allEntities.length; ++i) {
             const entity = this.allEntities[i];
-            const aceptorComp = entity.components.ItemAcceptor;
+            let aceptorComp = entity.components.ItemAcceptor;
             if(!aceptorComp)
             {
                 aceptorComp = entity.components.HyperlinkAcceptor;
@@ -59319,7 +59492,6 @@ class ItemProcessorSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MOD
          */
         this.handlers = {
             [_components_item_processor__WEBPACK_IMPORTED_MODULE_2__["enumItemProcessorTypes"].hyperlink]: this.process_HYPERLINK,
-            [_components_item_processor__WEBPACK_IMPORTED_MODULE_2__["enumItemProcessorTypes"].hyperlinkExit]: this.process_HYPERLINK_EXIT,
             [_components_item_processor__WEBPACK_IMPORTED_MODULE_2__["enumItemProcessorTypes"].balancer]: this.process_BALANCER,
             [_components_item_processor__WEBPACK_IMPORTED_MODULE_2__["enumItemProcessorTypes"].cutter]: this.process_CUTTER,
             [_components_item_processor__WEBPACK_IMPORTED_MODULE_2__["enumItemProcessorTypes"].cutterQuad]: this.process_CUTTER_QUAD,
@@ -59346,128 +59518,103 @@ class ItemProcessorSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MOD
     update() {
         for (let i = 0; i < this.allEntities.length; ++i) {
             const entity = this.allEntities[i];
-
             const processorComp = entity.components.ItemProcessor;
-            const ejectorComp = entity.components.ItemEjector;
-            const hyperlinkEjectorComp = entity.components.HyperlinkEjector;
-            const isDoublePainter = entity.components.ItemProcessor.type == _components_item_processor__WEBPACK_IMPORTED_MODULE_2__["enumItemProcessorTypes"].painterDouble;
+            let ejectorComp = entity.components.HyperlinkEjector;
+            if(!ejectorComp) {
+                ejectorComp = entity.components.ItemEjector;
+            }
 
-            const currentCharge = processorComp.ongoingCharges[0];
-            if (currentCharge) {
+            for (let chargeIndex = 0; ; chargeIndex++) {
+                // Check if we have an open queue spot and can start a new charge
+                if (this.canProcess(entity)) {
+                    if(!processorComp.makeCharges && processorComp.inputSlots[0]) {
+                        for(let i = 0; i < processorComp.inputSlots.length; ++i) {
+                            const slot = processorComp.inputSlots[i].sourceSlot;
+                            const item = processorComp.inputSlots[i].item;
+                            const isOnMap = this.root.camera.getIsMapOverlayActive();
+                            const isOffWindow = !this.root.app.pageVisible;
+                            if(ejectorComp.canEjectOnSlot(slot) && (this.canAcceptOnSlot(entity, slot) || isOnMap || isOffWindow))
+                            {
+                                if(ejectorComp.tryEject(slot, item)) {
+                                    processorComp.inputSlots.splice(i, 1);
+                                }
+                            }
+                        }
+                    }
+                    else if (processorComp.ongoingCharges.length < MAX_QUEUED_CHARGES) {
+                        this.startNewCharge(entity);
+                    }
+                }
+                
+
+                if (chargeIndex >= processorComp.ongoingCharges.length) {
+                    break;
+                }
+
+                const currentCharge = processorComp.ongoingCharges[chargeIndex];
+
                 // Process next charge
                 if (currentCharge.remainingTime > 0.0) {
-                    currentCharge.remainingTime -= this.root.dynamicTickrate.deltaSeconds;
+                    const deltaTime = this.root.dynamicTickrate.deltaSeconds + processorComp.bonusTime;
+                    currentCharge.remainingTime -= deltaTime;
+                    processorComp.bonusTime = 0;
+                    if (currentCharge.remainingTime > 0.0) {
+                        // This charge is not finished, so don't process the next one
+                        break;
+                    }
                     if (currentCharge.remainingTime < 0.0) {
                         // Add bonus time, this is the time we spent too much
                         processorComp.bonusTime += -currentCharge.remainingTime;
                     }
                 }
                 // Check if it finished
-                if (currentCharge.remainingTime <= 0.0) {
+                if (chargeIndex === 0 && currentCharge.remainingTime <= 0.0) {
                     const itemsToEject = currentCharge.items;
-                    if (!hyperlinkEjectorComp) {
-                        // Go over all items and try to eject them
-                        for (let j = 0; j < itemsToEject.length; ++j) {
-                                const { item, requiredSlot, preferredSlot } = itemsToEject[j];
-                                //
-                                window.assert(ejectorComp, "To eject items, the building needs to have an ejector");
-
-                                let slot = null;
-                            
-                                if (requiredSlot !== null && requiredSlot !== undefined) 
-                                {
-                                 // We have a slot override, check if that is free
-                                    if (ejectorComp.canEjectOnSlot(requiredSlot)) 
-                                    {
-                                        slot = requiredSlot;
-                                        ejectorComp.lastUsedSlot = slot;
-                                    }
-                                    } else if (preferredSlot !== null && preferredSlot !== undefined) {
-                                        // We have a slot preference, try using it but otherwise use a free slot
-                                
-                                        if (ejectorComp.canEjectOnSlot(preferredSlot) && preferredSlot !== ejectorComp.lastUsedSlot)
-                                        {
-                                            slot = preferredSlot;
-                                            ejectorComp.lastUsedSlot = slot;
-                                        }
-                                        else 
-                                        {
-                                        if (entity.components.ItemEjector.slots[2]) 
-                                        {
-                                        slot = ejectorComp.getNextFreeSlotForTriple(preferredSlot, ejectorComp.lastUsedSlot);
-                                            if (slot !== null)
-                                            {
-                                                ejectorComp.lastUsedSlot = slot;
-                                            }
-                                        }
-                                        else
-                                        {
-                                        slot = ejectorComp.getFirstFreeSlot();
-                                        }
-                                        }
-                                } else {
-                                // We can eject on any slot
-                                slot = ejectorComp.getFirstFreeSlot();
-                                }
-                                if (slot !== null) {
-                                    // Alright, we can actually eject
-                                    if (!ejectorComp.tryEject(slot, item, isDoublePainter)) {
-                                        window.assert(false, "Failed to eject");
-                                    } else {
-                                        itemsToEject.splice(j, 1);
-                                        j -= 1;
-                                    }
-                                }
-                            }
-                        
-                    } else {
                         // Go over all items and try to eject them
                         for (let j = 0; j < itemsToEject.length; ++j) {
                             const { item, requiredSlot, preferredSlot } = itemsToEject[j];
-                            
-                            window.assert(hyperlinkEjectorComp, "To eject items, the building needs to have an ejector");
+                            //
+                            window.assert(ejectorComp, "To eject items, the building needs to have an ejector");
 
                             let slot = null;
                             
                             if (requiredSlot !== null && requiredSlot !== undefined) 
                             {
                                 // We have a slot override, check if that is free
-                                if (hyperlinkEjectorComp.canEjectOnSlot(requiredSlot)) 
+                                if (ejectorComp.canEjectOnSlot(requiredSlot)) 
                                 {
                                     slot = requiredSlot;
                                 }
-                            } 
-                            else if (preferredSlot !== null && preferredSlot !== undefined) 
-                            {
+                            } else if (preferredSlot !== null && preferredSlot !== undefined) {
                                 // We have a slot preference, try using it but otherwise use a free slot
-                                
-                                if (hyperlinkEjectorComp.canEjectOnSlot(preferredSlot) && preferredSlot !== hyperlinkEjectorComp.lastUsedSlot)
+
+                                if (ejectorComp.canEjectOnSlot(preferredSlot) && preferredSlot !== ejectorComp.lastUsedSlot)
                                 {
                                     slot = preferredSlot;
-                                    hyperlinkEjectorComp.lastUsedSlot = slot;
+                                    ejectorComp.lastUsedSlot = slot;
                                 }
                                 else 
                                 {
-                                    if (entity.components.HyperlinkEjector.slots[2]) 
+                                    if (entity.components.ItemEjector && entity.components.ItemEjector.slots[2]) 
                                     {
-                                    slot = hyperlinkEjectorComp.getNextFreeSlotForTriple(preferredSlot, hyperlinkEjectorComp.lastUsedSlot);
+                                        slot = ejectorComp.getNextFreeSlotForTriple(preferredSlot, ejectorComp.lastUsedSlot);
                                         if (slot !== null)
                                         {
-                                            hyperlinkEjectorComp.lastUsedSlot = slot;
+                                            ejectorComp.lastUsedSlot = slot;
                                         }
                                     }
                                     else
                                     {
-                                    slot = hyperlinkEjectorComp.getFirstFreeSlot();
+                                        slot = ejectorComp.getFirstFreeSlot();
                                     }
                                 }
                             } else {
                                 // We can eject on any slot
-                                slot = hyperlinkEjectorComp.getFirstFreeSlot();
+                                slot = ejectorComp.getFirstFreeSlot();
                             }
                             if (slot !== null) {
                                 // Alright, we can actually eject
-                                if (!hyperlinkEjectorComp.tryEject(slot, item)) {
+                                if (!ejectorComp.tryEject(slot, item)) {
                                     window.assert(false, "Failed to eject");
                                 } else {
                                     itemsToEject.splice(j, 1);
@@ -59476,26 +59623,38 @@ class ItemProcessorSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MOD
                             }
                         }
                         
-                    }
                     
-
+                    
                     // If the charge was entirely emptied to the outputs, start the next charge
-                    if (itemsToEject.length === 0) 
-                    {
+                    if (itemsToEject.length === 0){
                         processorComp.ongoingCharges.shift();
+                        chargeIndex--;
                     }
-                }
-            }
-
-            // Check if we have an empty queue and can start a new charge
-            if (processorComp.ongoingCharges.length < MAX_QUEUED_CHARGES) {
-                if (this.canProcess(entity)) {
-                    this.startNewCharge(entity);
                 }
             }
         }
     }
-
+    /**
+     * Returns true if a acceptor slot is currently accepting an item
+     * @param {Entity} entity
+     * @param {number} slotIndex The slot index
+     * @returns {boolean}
+     */
+    canAcceptOnSlot(entity, slotIndex) {
+        window.assert(
+            entity.components.ItemAcceptor,
+            "To accept items, the building needs to have an Item Acceptor"
+        );
+        const acceptorComp = entity.components.ItemAcceptor;
+        for(let i = 0; i < acceptorComp.itemConsumptionAnimations.length; ++i)
+        {
+            const isSlot = acceptorComp.itemConsumptionAnimations[i].slotIndex == slotIndex;
+            if (isSlot) {
+                return false;
+            }
+        }
+        return true;
+    }
 
     /**
      * Returns true if the entity should accept the given item on the given slot.
@@ -59546,6 +59705,7 @@ class ItemProcessorSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MOD
             case null: {
                 return processorComp.inputSlots.length >= processorComp.inputsPerCharge;
             }
+
 
             // QUAD PAINTER
             // For the quad painter, it might be possible to start processing earlier
@@ -59614,7 +59774,6 @@ class ItemProcessorSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MOD
      */
     startNewCharge(entity) {
         const processorComp = entity.components.ItemProcessor;
-
         // First, take items
         const items = processorComp.inputSlots;
         processorComp.inputSlots = [];
@@ -59639,29 +59798,21 @@ class ItemProcessorSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MOD
             itemsBySlot,
             outItems,
         });
-
+        
         // Track produced items
         for (let i = 0; i < outItems.length; ++i) {
             if (!outItems[i].doNotTrack) {
                 this.root.signals.itemProduced.dispatch(outItems[i].item);
             }
         }
-
         // Queue Charge
         let baseSpeed = this.root.hubGoals.getProcessorBaseSpeed(processorComp.type);
-        if(entity.components.HyperlinkAcceptor || entity.components.HyperlinkEjector)
-        {
-            baseSpeed *= 4;
+        if(entity.components.HyperlinkAcceptor || entity.components.HyperlinkEjector) {
+            baseSpeed = this.root.hubGoals.getProcessorBaseSpeed(_components_item_processor__WEBPACK_IMPORTED_MODULE_2__["enumItemProcessorTypes"].hyperlink);
         }
-        const originalTime = 1 / baseSpeed;
-
-        const bonusTimeToApply = Math.min(originalTime, processorComp.bonusTime);
-        const timeToProcess = originalTime - bonusTimeToApply;
-
-        processorComp.bonusTime -= bonusTimeToApply;
         processorComp.ongoingCharges.push({
             items: outItems,
-            remainingTime: timeToProcess,
+            remainingTime: 1 / baseSpeed,
         });
     }
 
@@ -59670,48 +59821,36 @@ class ItemProcessorSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MOD
      */
     process_HYPERLINK(payload) {
         window.assert(
-            payload.entity.components.HyperlinkEjector,
-            "To be a hyperlink, the building needs to have a hyperlink ejector"
+            payload.entity.components.HyperlinkEjector || payload.entity.components.HyperlinkAcceptor,
+            "To be a hyperlink, the building needs to have a hyperlink part"
         );
         const availableSlots = payload.entity.components.HyperlinkEjector.slots.length;
         
         const processorComp = payload.entity.components.ItemProcessor;
 
         const nextSlot = processorComp.nextOutputSlot++ % availableSlots;
-
-        for (let i = 0; i < payload.items.length; ++i) {
-            payload.outItems.push({
-                item: payload.items[i].item,
-                preferredSlot: (nextSlot + i) % availableSlots,
-                doNotTrack: true,
-            });
+        if(payload.entity.components.ItemEjector){
+            for (let i = 0; i < payload.items.length; ++i) {
+                payload.outItems.push({
+                    item: payload.items[i].item,
+                    requiredSlot: (nextSlot + i) % availableSlots,
+                    doNotTrack: true,
+                });
+            }
         }
+        else{
+            for (let i = 0; i < payload.items.length; ++i) {
+                payload.outItems.push({
+                    item: payload.items[i].item,
+                    preferredSlot: (nextSlot + i) % availableSlots,
+                    doNotTrack: true,
+                });
+            }
+        }
+        
         return true;
     }
 
-    /**
-     * @param {ProcessorImplementationPayload} payload
-     */
-    process_HYPERLINK_EXIT(payload) {
-        window.assert(
-            payload.entity.components.HyperlinkAcceptor,
-            "To be a hyperlink exit, the building needs to have a hyperlink acceptor"
-        );
-        const ejectorComp = payload.entity.components.ItemEjector;
-        let slot = 0;
-        if(ejectorComp.isFirstSlot)
-        {
-            slot = 1;
-        }
-        ejectorComp.isFirstSlot = !ejectorComp.isFirstSlot;
-        for (let i = 0; i < payload.items.length; ++i) {
-            payload.outItems.push({
-                item: payload.items[i].item,
-                requiredSlot: slot,
-            });
-        }
-        return true;
-    }
 
     process_BALANCER(payload) {
         window.assert(
@@ -61598,7 +61737,7 @@ class UndergroundBeltSystem extends _game_system_with_filter__WEBPACK_IMPORTED_M
 
                 const nextSlotIndex = ejectorComp.getFirstFreeSlot();
                 if (nextSlotIndex !== null) {
-                    if (ejectorComp.tryEject(nextSlotIndex, nextItemAndDuration[0], false)) {
+                    if (ejectorComp.tryEject(nextSlotIndex, nextItemAndDuration[0])) {
                         undergroundComp.pendingItems.shift();
                     }
                 }
@@ -63434,7 +63573,7 @@ if (window.coreThreadLoadedCb) {
 
 console.log(
     `%cshapez.io ️%c\n© 2020 Tobias Springer IT Solutions\nCommit %c${"de24d771"}%c on %c${new Date(
-        1609352882135
+        1609861916306
     ).toLocaleString()}\n`,
     "font-size: 35px; font-family: Arial;font-weight: bold; padding: 10px 0;",
     "color: #aaa",
@@ -72388,7 +72527,7 @@ class SettingsState extends _core_textual_game_state__WEBPACK_IMPORTED_MODULE_0_
 
     renderBuildText() {
         const labelVersion = this.htmlElement.querySelector(".buildVersion");
-        const lastBuildMs = new Date().getTime() - 1609352882135;
+        const lastBuildMs = new Date().getTime() - 1609861916306;
         const lastBuildText = Object(_core_utils__WEBPACK_IMPORTED_MODULE_1__["formatSecondsToTimeAgo"])(lastBuildMs / 1000.0);
 
         const version = _translations__WEBPACK_IMPORTED_MODULE_3__["T"].settings.versionBadges["dev"];
@@ -72669,7 +72808,7 @@ module.exports = function() {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\azdav\documents\github\shapez.io\src\js\main.js */"./src/js/main.js");
+module.exports = __webpack_require__(/*! C:\Users\azdav\Documents\GitHub\shapez.io\src\js\main.js */"./src/js/main.js");
 
 
 /***/ })
