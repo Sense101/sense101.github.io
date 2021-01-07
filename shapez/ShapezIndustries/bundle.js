@@ -34883,12 +34883,11 @@ class MetaRotaterBuilding extends _meta_building__WEBPACK_IMPORTED_MODULE_7__["M
 /*!******************************************!*\
   !*** ./src/js/game/buildings/stacker.js ***!
   \******************************************/
-/*! exports provided: enumStackerVariants, MetaStackerBuilding */
+/*! exports provided: MetaStackerBuilding */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "enumStackerVariants", function() { return enumStackerVariants; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "MetaStackerBuilding", function() { return MetaStackerBuilding; });
 /* harmony import */ var _core_utils__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../core/utils */ "./src/js/core/utils.js");
 /* harmony import */ var _core_vector__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../core/vector */ "./src/js/core/vector.js");
@@ -34911,11 +34910,6 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-/** @enum {string} */
-const enumStackerVariants = {
-    merger: "merger",
-    //do stuff in all this code with this
-};
 
 class MetaStackerBuilding extends _meta_building__WEBPACK_IMPORTED_MODULE_7__["MetaBuilding"] {
     constructor() {
@@ -34926,23 +34920,16 @@ class MetaStackerBuilding extends _meta_building__WEBPACK_IMPORTED_MODULE_7__["M
         return "#9fcd7d";
     }
 
-    getDimensions(variant) {
-        if(variant == enumStackerVariants.merger){
-            return new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](3, 1);
-        }
+    getDimensions() {
         return new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](2, 1);
     }
 
-    getAvailableVariants() {
-        return [_meta_building__WEBPACK_IMPORTED_MODULE_7__["defaultBuildingVariant"]];
-    }
 
     /**
      * @param {GameRoot} root
-     * @param {string} variant
      * @returns {Array<[string, string]>}
      */
-    getAdditionalStatistics(root, variant) {
+    getAdditionalStatistics(root) {
         const speed = root.hubGoals.getProcessorBaseSpeed(_components_item_processor__WEBPACK_IMPORTED_MODULE_5__["enumItemProcessorTypes"].stacker);
         return [[_translations__WEBPACK_IMPORTED_MODULE_2__["T"].ingame.buildingPlacement.infoTexts.speed, Object(_core_utils__WEBPACK_IMPORTED_MODULE_0__["formatItemsPerSecond"])(speed)]];
     }
@@ -34968,64 +34955,25 @@ class MetaStackerBuilding extends _meta_building__WEBPACK_IMPORTED_MODULE_7__["M
 
         entity.addComponent(
             new _components_item_ejector__WEBPACK_IMPORTED_MODULE_4__["ItemEjectorComponent"]({
-                slots: [],
+                slots: [{ pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](0, 0), direction: _core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].top }],
             })
         );
         entity.addComponent(
             new _components_item_acceptor__WEBPACK_IMPORTED_MODULE_3__["ItemAcceptorComponent"]({
-                slots: [],
+                slots: [
+                    {
+                        pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](0, 0),
+                        directions: [_core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].bottom],
+                        filter: "shape",
+                    },
+                    {
+                        pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](1, 0),
+                        directions: [_core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].bottom],
+                        filter: "shape",
+                    },
+                ],
             })
         );
-    }
-
-    updateVariants(entity, variant) {
-        switch(variant) {
-            case _meta_building__WEBPACK_IMPORTED_MODULE_7__["defaultBuildingVariant"]:
-                entity.components.ItemEjector.setSlots(
-                    [{ pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](0, 0), direction: _core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].top }]
-                )
-                entity.components.ItemAcceptor.setSlots(
-                    [
-                        {
-                            pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](0, 0),
-                            directions: [_core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].bottom],
-                            filter: "shape",
-                        },
-                        {
-                            pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](1, 0),
-                            directions: [_core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].bottom],
-                            filter: "shape",
-                        },
-                    ]
-                )
-                break;
-            case enumStackerVariants.merger:
-                entity.components.ItemEjector.setSlots(
-                    [{ pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](1, 0), direction: _core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].top }]
-                )
-                entity.components.ItemAcceptor.setSlots(
-                    [
-                        {
-                            pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](0, 0),
-                            directions: [_core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].bottom],
-                            filter: "shape",
-                        },
-                        {
-                            pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](1, 0),
-                            directions: [_core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].bottom],
-                            filter: "shape",
-                        },
-                        {
-                            pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](2, 0),
-                            directions: [_core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].bottom],
-                            filter: "shape",
-                        },
-                    ]
-                )
-                entity.components.ItemProcessor.inputsPerCharge = 3;
-                entity.components.ItemProcessor.processorType = _components_item_processor__WEBPACK_IMPORTED_MODULE_5__["enumItemProcessorTypes"].shapeMerger;
-                entity.components.ItemProcessor.processingRequirement = _components_item_processor__WEBPACK_IMPORTED_MODULE_5__["enumItemProcessorRequirements"].shapeMerger;
-        }
     }
 }
 
@@ -55665,7 +55613,7 @@ const enumSubShape = {
     circle: "circle",
     star: "star",
     windmill: "windmill",
-    mixed: "mixed",
+    circlerect: "circlerect",
 };
 
 /** @enum {string} */
@@ -55674,7 +55622,7 @@ const enumSubShapeToShortcode = {
     [enumSubShape.circle]: "C",
     [enumSubShape.star]: "S",
     [enumSubShape.windmill]: "W",
-    [enumSubShape.mixed]: "M",
+    [enumSubShape.circlerect]: "1",
 };
 
 /** @enum {enumSubShape} */
@@ -56061,7 +56009,7 @@ class ShapeDefinition extends _savegame_serialization__WEBPACK_IMPORTED_MODULE_5
                         break;
                     }
 
-                    case enumSubShape.mixed: {
+                    case enumSubShape.circlerect: {
                         context.beginPath();
                         const dims = quadrantSize * layerScale;
 
