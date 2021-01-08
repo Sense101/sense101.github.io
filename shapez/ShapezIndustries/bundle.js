@@ -55621,7 +55621,7 @@ const enumSubShapeToShortcode = {
     [enumSubShape.circle]: "C",
     [enumSubShape.star]: "S",
     [enumSubShape.windmill]: "W",
-    [enumSubShape.circlerect]: "1",
+    [enumSubShape.circlerect]: "M",
 };
 
 /** @enum {enumSubShape} */
