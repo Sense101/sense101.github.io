@@ -21093,6 +21093,20 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "CHANGELOG", function() { return CHANGELOG; });
 const CHANGELOG = [
     {
+        version: "ShapezIndustries 0.2.1",
+        date: "13.01.2021",
+        entries: [
+            "added a new setting for the mods",
+            "added two new variants of the balancer in place of the triple merger and splitter - the smart merger and the smart splitter",
+            "added a new building - the belt crossing with three variants",
+            "added a new variant of the storage, the mini storage",
+            "added preview images for all buildings",
+            "renamed laser cutter to smart cutter",
+            "the deep extractor is now available regardless of all settings and level",
+            "all buildings in the mod are available whatever your level is so long as the mod is turned on in the settings",
+        ],
+    },
+    {
         version: "ShapezIndustries 0.1.3",
         date: "06.01.2021",
         entries: [
