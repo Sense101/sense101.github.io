@@ -15472,462 +15472,462 @@ filter: Nearest, Nearest
 repeat: none
 sprites/belt/built/forward_1
   rotate: false
-  xy: 569, 768
+  xy: 646, 450
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_10
   rotate: false
-  xy: 386, 86
+  xy: 1186, 188
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_11
   rotate: false
-  xy: 960, 1052
+  xy: 1203, 42
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_12
   rotate: false
-  xy: 961, 769
+  xy: 1292, 480
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_13
   rotate: false
-  xy: 982, 623
+  xy: 1303, 334
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_2
   rotate: false
-  xy: 3443, 1757
+  xy: 1075, 1030
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_3
   rotate: false
-  xy: 2432, 1466
+  xy: 967, 42
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_4
   rotate: false
-  xy: 2550, 1472
+  xy: 1056, 480
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_5
   rotate: false
-  xy: 250, 497
+  xy: 1067, 334
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_6
   rotate: false
-  xy: 250, 351
+  xy: 1068, 188
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_7
   rotate: false
-  xy: 368, 524
+  xy: 1085, 42
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_8
   rotate: false
-  xy: 368, 378
+  xy: 1174, 480
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_9
   rotate: false
-  xy: 381, 232
+  xy: 1185, 334
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/left_1
   rotate: false
-  xy: 2795, 1341
+  xy: 1399, 1093
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_10
   rotate: false
-  xy: 2555, 1208
+  xy: 1795, 1115
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_11
   rotate: false
-  xy: 2793, 1209
+  xy: 1927, 1116
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_12
   rotate: false
-  xy: 2925, 1209
+  xy: 2059, 1116
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_13
   rotate: false
-  xy: 3170, 1487
+  xy: 1531, 981
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_2
   rotate: false
-  xy: 2927, 1341
+  xy: 1742, 1492
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_3
   rotate: false
-  xy: 1564, 1342
+  xy: 1766, 1247
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_4
   rotate: false
-  xy: 1696, 1342
+  xy: 1874, 1505
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_5
   rotate: false
-  xy: 1828, 1262
+  xy: 1898, 1248
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_6
   rotate: false
-  xy: 1960, 1235
+  xy: 2006, 1505
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_7
   rotate: false
-  xy: 2092, 1228
+  xy: 2030, 1248
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_8
   rotate: false
-  xy: 2224, 1227
+  xy: 1531, 1113
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_9
   rotate: false
-  xy: 2423, 1202
+  xy: 1663, 1111
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/right_1
   rotate: false
-  xy: 3404, 1486
+  xy: 1663, 979
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_10
   rotate: false
-  xy: 3556, 1222
+  xy: 1791, 728
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_11
   rotate: false
-  xy: 1564, 1210
+  xy: 1815, 524
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_12
   rotate: false
-  xy: 1696, 1210
+  xy: 1826, 392
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_13
   rotate: false
-  xy: 1828, 1130
+  xy: 1829, 260
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_2
   rotate: false
-  xy: 3059, 1339
+  xy: 1795, 983
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_3
   rotate: false
-  xy: 3057, 1207
+  xy: 1927, 984
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_4
   rotate: false
-  xy: 3292, 1341
+  xy: 2059, 984
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_5
   rotate: false
-  xy: 3424, 1354
+  xy: 1627, 630
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_6
   rotate: false
-  xy: 3536, 1486
+  xy: 1683, 498
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_7
   rotate: false
-  xy: 3556, 1354
+  xy: 1694, 366
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_8
   rotate: false
-  xy: 1308, 115
+  xy: 1697, 234
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_9
   rotate: false
-  xy: 3424, 1222
+  xy: 1735, 102
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/blueprints/analyzer
   rotate: false
-  xy: 1642, 1612
+  xy: 814, 1468
   size: 144, 144
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/blueprints/balancer
   rotate: false
-  xy: 3025, 1903
+  xy: 431, 1032
   size: 257, 144
   orig: 288, 144
   offset: 17, 0
   index: -1
 sprites/blueprints/balancer-belt-crossover
   rotate: false
-  xy: 569, 642
+  xy: 1123, 626
   size: 124, 124
   orig: 144, 144
   offset: 13, 13
   index: -1
 sprites/blueprints/balancer-merger
   rotate: false
-  xy: 2931, 1617
+  xy: 537, 20
   size: 139, 138
   orig: 144, 144
   offset: 5, 4
   index: -1
 sprites/blueprints/balancer-merger-inverse
   rotate: false
-  xy: 697, 1472
+  xy: 678, 20
   size: 142, 138
   orig: 144, 144
   offset: 0, 4
   index: -1
 sprites/blueprints/balancer-merger-triple_all
   rotate: false
-  xy: 551, 1473
+  xy: 928, 891
   size: 144, 137
   orig: 144, 144
   offset: 0, 5
   index: -1
 sprites/blueprints/balancer-merger-triple_both
   rotate: false
-  xy: 541, 1346
+  xy: 889, 764
   size: 144, 125
   orig: 144, 144
   offset: 0, 17
   index: -1
 sprites/blueprints/balancer-merger-triple_center
   rotate: false
-  xy: 248, 66
+  xy: 250, 238
   size: 136, 137
   orig: 144, 144
   offset: 5, 5
   index: -1
 sprites/blueprints/balancer-merger-triple_left
   rotate: false
-  xy: 2501, 1618
+  xy: 1074, 891
   size: 141, 137
   orig: 144, 144
   offset: 0, 5
   index: -1
 sprites/blueprints/balancer-merger-triple_right
   rotate: false
-  xy: 2150, 1473
+  xy: 1181, 752
   size: 139, 137
   orig: 144, 144
   offset: 5, 5
   index: -1
 sprites/blueprints/balancer-splitter
   rotate: false
-  xy: 2291, 1472
+  xy: 1453, 48
   size: 139, 138
   orig: 144, 144
   offset: 5, 4
   index: -1
 sprites/blueprints/balancer-splitter-inverse
   rotate: false
-  xy: 529, 1206
+  xy: 1917, 1763
   size: 142, 138
   orig: 144, 144
   offset: 0, 4
   index: -1
 sprites/blueprints/balancer-splitter-triple_all
   rotate: false
-  xy: 1133, 1474
+  xy: 1035, 752
   size: 144, 137
   orig: 144, 144
   offset: 0, 5
   index: -1
 sprites/blueprints/balancer-splitter-triple_both
   rotate: false
-  xy: 833, 1344
+  xy: 1249, 626
   size: 144, 124
   orig: 144, 144
   offset: 0, 5
   index: -1
 sprites/blueprints/balancer-splitter-triple_center
   rotate: false
-  xy: 3418, 1618
+  xy: 1217, 891
   size: 137, 137
   orig: 144, 144
   offset: 5, 5
   index: -1
 sprites/blueprints/balancer-splitter-triple_left
   rotate: false
-  xy: 673, 1207
+  xy: 2061, 1764
   size: 142, 137
   orig: 144, 144
   offset: 0, 5
   index: -1
 sprites/blueprints/balancer-splitter-triple_right
   rotate: false
-  xy: 3764, 1764
+  xy: 1322, 752
   size: 139, 137
   orig: 144, 144
   offset: 5, 5
   index: -1
 sprites/blueprints/belt_crossing
   rotate: false
-  xy: 915, 379
+  xy: 1395, 626
   size: 124, 124
   orig: 144, 144
   offset: 13, 13
   index: -1
 sprites/blueprints/belt_crossing-corner
   rotate: false
-  xy: 1960, 1110
+  xy: 1876, 1380
   size: 124, 123
   orig: 144, 144
   offset: 13, 14
   index: -1
 sprites/blueprints/belt_crossing-switcher
   rotate: false
-  xy: 1384, 1613
+  xy: 431, 596
   size: 256, 143
   orig: 288, 144
   offset: 17, 1
   index: -1
 sprites/blueprints/belt_left
   rotate: false
-  xy: 1041, 373
+  xy: 3074, 1641
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/blueprints/belt_right
   rotate: false
-  xy: 2423, 1334
+  xy: 1364, 1357
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/blueprints/belt_top
   rotate: false
-  xy: 569, 1060
+  xy: 960, 1468
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/blueprints/comparator
   rotate: false
-  xy: 695, 634
+  xy: 1479, 1768
   size: 144, 133
   orig: 144, 144
   offset: 0, 11
   index: -1
 sprites/blueprints/constant_signal
   rotate: false
-  xy: 2687, 1343
+  xy: 1496, 1499
   size: 106, 130
   orig: 144, 144
   offset: 19, 14
   index: -1
 sprites/blueprints/cutter
   rotate: false
-  xy: 3284, 1903
+  xy: 431, 886
   size: 257, 144
   orig: 288, 144
   offset: 17, 0
   index: -1
 sprites/blueprints/cutter-laser
   rotate: false
-  xy: 841, 1613
+  xy: 2926, 1904
   size: 279, 143
   orig: 288, 144
   offset: 9, 0
@@ -15941,21 +15941,21 @@ sprites/blueprints/cutter-quad
   index: -1
 sprites/blueprints/display
   rotate: false
-  xy: 907, 104
+  xy: 1360, 1621
   size: 128, 136
   orig: 144, 144
   offset: 8, 0
   index: -1
 sprites/blueprints/filter
   rotate: false
-  xy: 1960, 1903
+  xy: 3207, 1903
   size: 268, 144
   orig: 288, 144
   offset: 16, 0
   index: -1
 sprites/blueprints/hyperlink
   rotate: false
-  xy: 3072, 1622
+  xy: 1500, 1245
   size: 62, 134
   orig: 144, 144
   offset: 41, 5
@@ -15976,91 +15976,91 @@ sprites/blueprints/hyperlink-hyperlink_exit
   index: -1
 sprites/blueprints/hyperlink_left
   rotate: false
-  xy: 2415, 1101
+  xy: 1735, 1
   size: 89, 99
   orig: 144, 144
   offset: 5, 5
   index: -1
 sprites/blueprints/hyperlink_right
   rotate: false
-  xy: 2596, 1107
+  xy: 1826, 1
   size: 89, 99
   orig: 144, 144
   offset: 50, 5
   index: -1
 sprites/blueprints/item_producer
   rotate: false
-  xy: 636, 94
+  xy: 945, 1614
   size: 131, 142
   orig: 144, 144
   offset: 8, 2
   index: -1
 sprites/blueprints/lever
   rotate: false
-  xy: 982, 505
+  xy: 1496, 1381
   size: 100, 116
   orig: 144, 144
   offset: 22, 19
   index: -1
 sprites/blueprints/logic_gate
   rotate: false
-  xy: 690, 510
+  xy: 3641, 1779
   size: 144, 122
   orig: 144, 144
   offset: 0, 22
   index: -1
 sprites/blueprints/logic_gate-not
   rotate: false
-  xy: 687, 915
+  xy: 655, 160
   size: 123, 144
   orig: 144, 144
   offset: 11, 0
   index: -1
 sprites/blueprints/logic_gate-or
   rotate: false
-  xy: 836, 505
+  xy: 2790, 1778
   size: 144, 124
   orig: 144, 144
   offset: 0, 20
   index: -1
 sprites/blueprints/logic_gate-xor
   rotate: false
-  xy: 1859, 1481
+  xy: 2936, 1773
   size: 144, 129
   orig: 144, 144
   offset: 0, 15
   index: -1
 sprites/blueprints/miner
   rotate: false
-  xy: 2223, 1612
+  xy: 1077, 1758
   size: 137, 143
   orig: 144, 144
   offset: 4, 1
   index: -1
 sprites/blueprints/miner-chainable
   rotate: false
-  xy: 2362, 1612
+  xy: 1078, 1613
   size: 137, 143
   orig: 144, 144
   offset: 4, 1
   index: -1
 sprites/blueprints/miner-deep
   rotate: false
-  xy: 3300, 1757
+  xy: 248, 92
   size: 141, 144
   orig: 144, 144
   offset: 3, 0
   index: -1
 sprites/blueprints/mixer
   rotate: false
-  xy: 2499, 1903
+  xy: 3746, 1903
   size: 261, 144
   orig: 288, 144
   offset: 13, 0
   index: -1
 sprites/blueprints/painter
   rotate: false
-  xy: 1090, 1903
+  xy: 1484, 1903
   size: 288, 144
   orig: 288, 144
   offset: 0, 0
@@ -16074,7 +16074,7 @@ sprites/blueprints/painter-double
   index: -1
 sprites/blueprints/painter-mirrored
   rotate: false
-  xy: 1380, 1903
+  xy: 2064, 1903
   size: 288, 144
   orig: 288, 144
   offset: 0, 0
@@ -16088,38 +16088,45 @@ sprites/blueprints/painter-quad
   index: -1
 sprites/blueprints/reader
   rotate: false
-  xy: 3156, 1757
+  xy: 923, 334
   size: 142, 144
   orig: 144, 144
   offset: 1, 0
   index: -1
 sprites/blueprints/rotater
   rotate: false
-  xy: 2575, 1757
+  xy: 778, 334
   size: 143, 144
   orig: 144, 144
   offset: 1, 0
   index: -1
 sprites/blueprints/rotater-ccw
   rotate: false
-  xy: 2720, 1757
+  xy: 780, 188
   size: 143, 144
   orig: 144, 144
   offset: 1, 0
   index: -1
 sprites/blueprints/rotater-rotate180
   rotate: false
-  xy: 2865, 1757
+  xy: 822, 42
   size: 143, 144
   orig: 144, 144
   offset: 1, 0
   index: -1
 sprites/blueprints/stacker
   rotate: false
-  xy: 2762, 1903
+  xy: 551, 1468
   size: 261, 144
   orig: 288, 144
   offset: 13, 0
+  index: -1
+sprites/blueprints/stacker-smart
+  rotate: false
+  xy: 1090, 1904
+  size: 392, 143
+  orig: 432, 144
+  offset: 11, 1
   index: -1
 sprites/blueprints/storage
   rotate: false
@@ -16130,301 +16137,301 @@ sprites/blueprints/storage
   index: -1
 sprites/blueprints/storage-mini
   rotate: false
-  xy: 829, 769
+  xy: 1321, 42
   size: 130, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/blueprints/transistor
   rotate: false
-  xy: 1100, 623
+  xy: 1193, 1030
   size: 102, 144
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/blueprints/transistor-mirrored
   rotate: false
-  xy: 3302, 1473
+  xy: 1428, 188
   size: 100, 144
   orig: 144, 144
   offset: 44, 0
   index: -1
 sprites/blueprints/trash
   rotate: false
-  xy: 2137, 1757
+  xy: 391, 160
   size: 144, 144
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/blueprints/underground_belt_entry
   rotate: false
-  xy: 1084, 509
+  xy: 3351, 1658
   size: 138, 112
   orig: 144, 144
   offset: 4, 0
   index: -1
 sprites/blueprints/underground_belt_entry-tier2
   rotate: false
-  xy: 1035, 246
+  xy: 3932, 1776
   size: 138, 125
   orig: 144, 144
   offset: 4, 0
   index: -1
 sprites/blueprints/underground_belt_exit
   rotate: false
-  xy: 2005, 1367
+  xy: 3346, 1544
   size: 138, 112
   orig: 144, 144
   offset: 4, 32
   index: -1
 sprites/blueprints/underground_belt_exit-tier2
   rotate: false
-  xy: 1176, 1
+  xy: 3496, 1663
   size: 139, 112
   orig: 144, 144
   offset: 4, 32
   index: -1
 sprites/blueprints/virtual_processor
   rotate: false
-  xy: 841, 1470
+  xy: 1625, 1760
   size: 144, 141
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/blueprints/virtual_processor-painter
   rotate: false
-  xy: 248, 205
+  xy: 1103, 1176
   size: 131, 144
   orig: 144, 144
   offset: 13, 0
   index: -1
 sprites/blueprints/virtual_processor-rotater
   rotate: false
-  xy: 3704, 1758
+  xy: 4009, 1903
   size: 58, 144
   orig: 144, 144
   offset: 44, 0
   index: -1
 sprites/blueprints/virtual_processor-stacker
   rotate: false
-  xy: 504, 87
+  xy: 1410, 480
   size: 130, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/blueprints/virtual_processor-unstacker
   rotate: false
-  xy: 2429, 1757
+  xy: 910, 480
   size: 144, 144
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/blueprints/wire_tunnel
   rotate: false
-  xy: 895, 242
+  xy: 3206, 1631
   size: 138, 135
   orig: 144, 144
   offset: 4, 5
   index: -1
 sprites/buildings/analyzer
   rotate: false
-  xy: 1788, 1612
+  xy: 803, 1322
   size: 144, 144
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/buildings/balancer
   rotate: false
-  xy: 1621, 1758
+  xy: 431, 741
   size: 256, 143
   orig: 288, 144
   offset: 17, 1
   index: -1
 sprites/buildings/balancer-merger
   rotate: false
-  xy: 841, 631
+  xy: 690, 774
   size: 139, 136
   orig: 144, 144
   offset: 5, 5
   index: -1
 sprites/buildings/balancer-merger-inverse
   rotate: false
-  xy: 2788, 1619
+  xy: 2493, 1765
   size: 141, 136
   orig: 144, 144
   offset: 0, 5
   index: -1
 sprites/buildings/balancer-merger-triple_all
   rotate: false
-  xy: 1279, 1475
+  xy: 391, 22
   size: 144, 136
   orig: 144, 144
   offset: 0, 5
   index: -1
 sprites/buildings/balancer-merger-triple_both
   rotate: false
-  xy: 687, 1346
+  xy: 977, 626
   size: 144, 124
   orig: 144, 144
   offset: 0, 17
   index: -1
 sprites/buildings/balancer-merger-triple_center
   rotate: false
-  xy: 769, 100
+  xy: 1356, 895
   size: 136, 136
   orig: 144, 144
   offset: 5, 5
   index: -1
 sprites/buildings/balancer-merger-triple_left
   rotate: false
-  xy: 1571, 1474
+  xy: 1463, 757
   size: 141, 136
   orig: 144, 144
   offset: 0, 5
   index: -1
 sprites/buildings/balancer-merger-triple_right
   rotate: false
-  xy: 3905, 1765
+  xy: 1542, 488
   size: 139, 136
   orig: 144, 144
   offset: 5, 5
   index: -1
 sprites/buildings/balancer-splitter
   rotate: false
-  xy: 3136, 1619
+  xy: 1553, 350
   size: 139, 136
   orig: 144, 144
   offset: 5, 5
   index: -1
 sprites/buildings/balancer-splitter-inverse
   rotate: false
-  xy: 817, 1206
+  xy: 2205, 1765
   size: 142, 136
   orig: 144, 144
   offset: 0, 5
   index: -1
 sprites/buildings/balancer-splitter-triple_all
   rotate: false
-  xy: 1425, 1475
+  xy: 831, 626
   size: 144, 136
   orig: 144, 144
   offset: 0, 5
   index: -1
 sprites/buildings/balancer-splitter-triple_both
   rotate: false
-  xy: 544, 517
+  xy: 2644, 1779
   size: 144, 123
   orig: 144, 144
   offset: 0, 5
   index: -1
 sprites/buildings/balancer-splitter-triple_center
   rotate: false
-  xy: 486, 379
+  xy: 1558, 212
   size: 137, 136
   orig: 144, 144
   offset: 5, 5
   index: -1
 sprites/buildings/balancer-splitter-triple_left
   rotate: false
-  xy: 2644, 1619
+  xy: 2349, 1765
   size: 142, 136
   orig: 144, 144
   offset: 0, 5
   index: -1
 sprites/buildings/balancer-splitter-triple_right
   rotate: false
-  xy: 3277, 1619
+  xy: 1594, 74
   size: 139, 136
   orig: 144, 144
   offset: 5, 5
   index: -1
 sprites/buildings/belt_crossing
   rotate: false
-  xy: 2086, 1103
+  xy: 2002, 1380
   size: 123, 123
   orig: 144, 144
   offset: 13, 13
   index: -1
 sprites/buildings/belt_crossing-corner
   rotate: false
-  xy: 1440, 1238
+  xy: 1771, 1637
   size: 122, 122
   orig: 144, 144
   offset: 14, 14
   index: -1
 sprites/buildings/belt_crossing-switcher
   rotate: false
-  xy: 3543, 1904
+  xy: 388, 451
   size: 256, 143
   orig: 288, 144
   offset: 17, 1
   index: -1
 sprites/buildings/belt_left
   rotate: false
-  xy: 1176, 115
+  xy: 1364, 1489
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/belt/built/left_0
   rotate: false
-  xy: 1176, 115
+  xy: 1364, 1489
   size: 130, 130
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/buildings/belt_right
   rotate: false
-  xy: 2555, 1340
+  xy: 1368, 1225
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/right_0
   rotate: false
-  xy: 2555, 1340
+  xy: 1368, 1225
   size: 130, 130
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/buildings/belt_top
   rotate: false
-  xy: 569, 914
+  xy: 537, 160
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/belt/built/forward_0
   rotate: false
-  xy: 569, 914
+  xy: 537, 160
   size: 116, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/buildings/comparator
   rotate: false
-  xy: 1714, 1477
+  xy: 3206, 1768
   size: 143, 133
   orig: 144, 144
   offset: 1, 11
   index: -1
 sprites/buildings/constant_signal
   rotate: false
-  xy: 2687, 1212
+  xy: 1521, 626
   size: 104, 129
   orig: 144, 144
   offset: 20, 15
   index: -1
 sprites/buildings/cutter
   rotate: false
-  xy: 1879, 1758
+  xy: 388, 306
   size: 256, 143
   orig: 288, 144
   offset: 17, 1
   index: -1
 sprites/buildings/cutter-laser
   rotate: false
-  xy: 1077, 1758
+  xy: 2644, 1904
   size: 280, 143
   orig: 288, 144
   offset: 8, 0
@@ -16438,14 +16445,14 @@ sprites/buildings/cutter-quad
   index: -1
 sprites/buildings/display
   rotate: false
-  xy: 955, 915
+  xy: 1490, 1631
   size: 126, 135
   orig: 144, 144
   offset: 9, 0
   index: -1
 sprites/buildings/filter
   rotate: false
-  xy: 2230, 1903
+  xy: 3477, 1903
   size: 267, 144
   orig: 288, 144
   offset: 17, 0
@@ -16459,112 +16466,112 @@ sprites/buildings/hub
   index: -1
 sprites/buildings/hyperlink
   rotate: false
-  xy: 1173, 373
+  xy: 1702, 1243
   size: 62, 134
   orig: 144, 144
   offset: 41, 5
   index: -1
 sprites/buildings/hyperlink-hyperlink_entrance
   rotate: false
-  xy: 431, 940
+  xy: 690, 912
   size: 136, 264
   orig: 144, 288
   offset: 4, 12
   index: -1
 sprites/buildings/hyperlink-hyperlink_exit
   rotate: false
-  xy: 431, 674
+  xy: 250, 377
   size: 136, 264
   orig: 144, 288
   offset: 4, 12
   index: -1
 sprites/buildings/hyperlink_left
   rotate: false
-  xy: 2506, 1101
+  xy: 1971, 883
   size: 88, 99
   orig: 144, 144
   offset: 5, 5
   index: -1
 sprites/buildings/hyperlink_right
   rotate: false
-  xy: 2687, 1111
+  xy: 2061, 883
   size: 88, 99
   orig: 144, 144
   offset: 51, 5
   index: -1
 sprites/buildings/item_producer
   rotate: false
-  xy: 763, 238
+  xy: 646, 306
   size: 130, 142
   orig: 144, 144
   offset: 8, 2
   index: -1
 sprites/buildings/lever
   rotate: false
-  xy: 2315, 1111
+  xy: 828, 916
   size: 98, 114
   orig: 144, 144
   offset: 23, 20
   index: -1
 sprites/buildings/logic_gate
   rotate: false
-  xy: 770, 382
+  xy: 3787, 1780
   size: 143, 121
   orig: 144, 144
   offset: 1, 23
   index: -1
 sprites/buildings/logic_gate-not
   rotate: false
-  xy: 2806, 1473
+  xy: 1304, 188
   size: 122, 144
   orig: 144, 144
   offset: 12, 0
   index: -1
 sprites/buildings/logic_gate-or
   rotate: false
-  xy: 625, 384
+  xy: 3496, 1777
   size: 143, 124
   orig: 144, 144
   offset: 1, 20
   index: -1
 sprites/buildings/logic_gate-xor
   rotate: false
-  xy: 2005, 1481
+  xy: 3351, 1772
   size: 143, 129
   orig: 144, 144
   offset: 1, 15
   index: -1
 sprites/buildings/miner
   rotate: false
-  xy: 2668, 1475
+  xy: 791, 1178
   size: 136, 142
   orig: 144, 144
   offset: 5, 2
   index: -1
 sprites/buildings/miner-chainable
   rotate: false
-  xy: 2930, 1473
+  xy: 1225, 1325
   size: 136, 142
   orig: 144, 144
   offset: 5, 2
   index: -1
 sprites/buildings/miner-deep
   rotate: false
-  xy: 687, 769
+  xy: 689, 628
   size: 140, 144
   orig: 144, 144
   offset: 4, 0
   index: -1
 sprites/buildings/mixer
   rotate: false
-  xy: 1359, 1758
+  xy: 541, 1323
   size: 260, 143
   orig: 288, 144
   offset: 14, 1
   index: -1
 sprites/buildings/painter
   rotate: false
-  xy: 551, 1612
+  xy: 1774, 1903
   size: 288, 144
   orig: 288, 144
   offset: 0, 0
@@ -16578,7 +16585,7 @@ sprites/buildings/painter-double
   index: -1
 sprites/buildings/painter-mirrored
   rotate: false
-  xy: 1670, 1903
+  xy: 2354, 1903
   size: 288, 144
   orig: 288, 144
   offset: 0, 0
@@ -16592,38 +16599,45 @@ sprites/buildings/painter-quad
   index: -1
 sprites/buildings/reader
   rotate: false
-  xy: 817, 1060
+  xy: 925, 188
   size: 141, 144
   orig: 144, 144
   offset: 2, 0
   index: -1
 sprites/buildings/rotater
   rotate: false
-  xy: 812, 915
+  xy: 1078, 1468
   size: 141, 143
   orig: 144, 144
   offset: 2, 1
   index: -1
 sprites/buildings/rotater-ccw
   rotate: false
-  xy: 3561, 1759
+  xy: 1217, 1614
   size: 141, 143
   orig: 144, 144
   offset: 2, 1
   index: -1
 sprites/buildings/rotater-rotate180
   rotate: false
-  xy: 2080, 1612
+  xy: 1221, 1469
   size: 141, 143
   orig: 144, 144
   offset: 2, 1
   index: -1
 sprites/buildings/stacker
   rotate: false
-  xy: 1122, 1613
+  xy: 529, 1178
   size: 260, 143
   orig: 288, 144
   offset: 14, 1
+  index: -1
+sprites/buildings/stacker-smart
+  rotate: false
+  xy: 551, 1614
+  size: 392, 142
+  orig: 432, 144
+  offset: 11, 2
   index: -1
 sprites/buildings/storage
   rotate: false
@@ -16634,217 +16648,259 @@ sprites/buildings/storage
   index: -1
 sprites/buildings/storage-mini
   rotate: false
-  xy: 687, 1061
+  xy: 1095, 1322
   size: 128, 144
   orig: 144, 144
   offset: 15, 0
   index: -1
 sprites/buildings/transistor
   rotate: false
-  xy: 3068, 1471
+  xy: 1297, 1033
   size: 100, 144
   orig: 144, 144
   offset: 1, 0
   index: -1
 sprites/buildings/transistor-mirrored
   rotate: false
-  xy: 3191, 1341
+  xy: 828, 1032
   size: 99, 144
   orig: 144, 144
   offset: 45, 0
   index: -1
 sprites/buildings/trash
   rotate: false
-  xy: 2283, 1757
+  xy: 764, 480
   size: 144, 144
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/buildings/underground_belt_entry
   rotate: false
-  xy: 2145, 1360
+  xy: 3641, 1666
   size: 137, 111
   orig: 144, 144
   offset: 5, 0
   index: -1
+sprites/buildings/underground_belt_entry-smart_0
+  rotate: false
+  xy: 3082, 1773
+  size: 122, 129
+  orig: 144, 144
+  offset: 16, 0
+  index: -1
+sprites/buildings/underground_belt_entry-smart_2
+  rotate: false
+  xy: 1604, 1492
+  size: 136, 130
+  orig: 144, 144
+  offset: 2, 0
+  index: -1
+sprites/buildings/underground_belt_entry-smart_4
+  rotate: false
+  xy: 1564, 1247
+  size: 136, 130
+  orig: 144, 144
+  offset: 6, 0
+  index: -1
 sprites/buildings/underground_belt_entry-tier2
   rotate: false
-  xy: 1175, 247
+  xy: 1917, 1637
   size: 137, 124
   orig: 144, 144
   offset: 5, 0
   index: -1
 sprites/buildings/underground_belt_exit
   rotate: false
-  xy: 2284, 1359
+  xy: 1598, 1379
   size: 137, 111
   orig: 144, 144
   offset: 5, 33
   index: -1
+sprites/buildings/underground_belt_exit-smart_1
+  rotate: false
+  xy: 1362, 1770
+  size: 115, 132
+  orig: 144, 144
+  offset: 16, 12
+  index: -1
+sprites/buildings/underground_belt_exit-smart_3
+  rotate: false
+  xy: 1641, 860
+  size: 131, 117
+  orig: 144, 144
+  offset: 0, 12
+  index: -1
+sprites/buildings/underground_belt_exit-smart_5
+  rotate: false
+  xy: 1774, 860
+  size: 131, 117
+  orig: 144, 144
+  offset: 13, 12
+  index: -1
 sprites/buildings/underground_belt_exit-tier2
   rotate: false
-  xy: 1425, 1362
+  xy: 1737, 1379
   size: 137, 111
   orig: 144, 144
   offset: 5, 33
   index: -1
 sprites/buildings/virtual_processor
   rotate: false
-  xy: 987, 1471
+  xy: 1771, 1761
   size: 144, 140
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/buildings/virtual_processor-painter
   rotate: false
-  xy: 499, 233
+  xy: 1236, 1179
   size: 130, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/buildings/virtual_processor-rotater
   rotate: false
-  xy: 486, 528
+  xy: 831, 770
   size: 56, 144
   orig: 144, 144
   offset: 45, 0
   index: -1
 sprites/buildings/virtual_processor-stacker
   rotate: false
-  xy: 631, 238
+  xy: 1421, 334
   size: 130, 144
   orig: 144, 144
   offset: 14, 0
   index: -1
 sprites/buildings/virtual_processor-unstacker
   rotate: false
-  xy: 3010, 1758
+  xy: 1216, 1759
   size: 144, 143
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/buildings/wire_tunnel
   rotate: false
-  xy: 1037, 110
+  xy: 1618, 1624
   size: 137, 134
   orig: 144, 144
   offset: 5, 5
   index: -1
 sprites/colors/blue
   rotate: false
-  xy: 92, 15
+  xy: 1399, 1042
   size: 54, 49
   orig: 54, 54
   offset: 0, 1
   index: -1
 sprites/colors/cyan
   rotate: false
-  xy: 148, 15
+  xy: 1923, 737
   size: 54, 49
   orig: 54, 54
   offset: 0, 1
   index: -1
 sprites/colors/green
   rotate: false
-  xy: 204, 15
+  xy: 1455, 1042
   size: 54, 49
   orig: 54, 54
   offset: 0, 1
   index: -1
 sprites/colors/purple
   rotate: false
-  xy: 260, 15
+  xy: 92, 15
   size: 54, 49
   orig: 54, 54
   offset: 0, 1
   index: -1
 sprites/colors/red
   rotate: false
-  xy: 316, 15
+  xy: 148, 15
   size: 54, 49
   orig: 54, 54
   offset: 0, 1
   index: -1
 sprites/colors/uncolored
   rotate: false
-  xy: 2882, 1071
+  xy: 2010, 832
   size: 54, 49
   orig: 54, 54
   offset: 0, 1
   index: -1
 sprites/colors/white
   rotate: false
-  xy: 2938, 1071
+  xy: 2066, 832
   size: 54, 49
   orig: 54, 54
   offset: 0, 1
   index: -1
 sprites/colors/yellow
   rotate: false
-  xy: 2994, 1071
+  xy: 2010, 781
   size: 54, 49
   orig: 54, 54
   offset: 0, 1
   index: -1
 sprites/debug/acceptor_slot
   rotate: false
-  xy: 372, 52
+  xy: 764, 466
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 sprites/debug/ejector_slot
   rotate: false
-  xy: 372, 38
+  xy: 1757, 1746
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 sprites/misc/hub_direction_indicator
   rotate: false
-  xy: 1083, 1421
+  xy: 2066, 782
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/misc/hyperlink_good_arrow
   rotate: false
-  xy: 2839, 1046
+  xy: 822, 1
   size: 35, 39
   orig: 39, 39
   offset: 2, 0
   index: -1
 sprites/misc/processor_disabled
   rotate: false
-  xy: 1415, 32
+  xy: 1561, 898
   size: 78, 81
   orig: 96, 96
   offset: 10, 5
   index: -1
 sprites/misc/processor_disconnected
   rotate: false
-  xy: 2356, 1273
+  xy: 1494, 895
   size: 65, 84
   orig: 96, 96
   offset: 17, 4
   index: -1
 sprites/misc/reader_overlay
   rotate: false
-  xy: 2777, 1137
+  xy: 1759, 656
   size: 104, 70
   orig: 144, 144
   offset: 20, 36
   index: -1
 sprites/misc/slot_bad_arrow
   rotate: false
-  xy: 533, 1
+  xy: 1494, 1005
   size: 35, 35
   orig: 39, 39
   offset: 2, 2
   index: -1
 sprites/misc/slot_good_arrow
   rotate: false
-  xy: 2876, 1030
+  xy: 859, 1
   size: 35, 39
   orig: 39, 39
   offset: 2, 0
@@ -16858,210 +16914,210 @@ sprites/misc/storage_overlay
   index: -1
 sprites/misc/waypoint
   rotate: false
-  xy: 3100, 1070
+  xy: 2122, 833
   size: 38, 48
   orig: 48, 48
   offset: 5, 0
   index: -1
 sprites/misc/waypoint_wires
   rotate: false
-  xy: 3050, 1070
+  xy: 204, 16
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/wires/boolean_false
   rotate: false
-  xy: 2913, 1028
+  xy: 1692, 31
   size: 31, 41
   orig: 48, 48
   offset: 9, 2
   index: -1
 sprites/wires/boolean_true
   rotate: false
-  xy: 1828, 1434
+  xy: 4072, 1860
   size: 22, 41
   orig: 48, 48
   offset: 11, 2
   index: -1
 sprites/wires/display/blue
   rotate: false
-  xy: 3140, 1050
+  xy: 2056, 1637
   size: 47, 47
   orig: 49, 49
   offset: 1, 1
   index: -1
 sprites/wires/display/cyan
   rotate: false
-  xy: 386, 37
+  xy: 2105, 1637
   size: 47, 47
   orig: 49, 49
   offset: 1, 1
   index: -1
 sprites/wires/display/green
   rotate: false
-  xy: 435, 37
+  xy: 2162, 848
   size: 47, 47
   orig: 49, 49
   offset: 1, 1
   index: -1
 sprites/wires/display/purple
   rotate: false
-  xy: 484, 37
+  xy: 2211, 848
   size: 47, 47
   orig: 49, 49
   offset: 1, 1
   index: -1
 sprites/wires/display/red
   rotate: false
-  xy: 533, 38
+  xy: 1643, 25
   size: 47, 47
   orig: 49, 49
   offset: 1, 1
   index: -1
 sprites/wires/display/white
   rotate: false
-  xy: 582, 38
+  xy: 254, 43
   size: 47, 47
   orig: 49, 49
   offset: 1, 1
   index: -1
 sprites/wires/display/yellow
   rotate: false
-  xy: 3189, 1050
+  xy: 303, 43
   size: 47, 47
   orig: 49, 49
   offset: 1, 1
   index: -1
 sprites/wires/lever_on
   rotate: false
-  xy: 2211, 1111
+  xy: 1867, 144
   size: 102, 114
   orig: 144, 144
   offset: 21, 20
   index: -1
 sprites/wires/logical_acceptor
   rotate: false
-  xy: 3144, 1099
+  xy: 1907, 875
   size: 62, 106
   orig: 144, 144
   offset: 43, 38
   index: -1
 sprites/wires/logical_ejector
   rotate: false
-  xy: 2777, 1068
+  xy: 1865, 659
   size: 60, 67
   orig: 144, 144
   offset: 44, 77
   index: -1
 sprites/wires/network_conflict
   rotate: false
-  xy: 2356, 1227
+  xy: 1594, 28
   size: 47, 44
   orig: 48, 48
   offset: 1, 2
   index: -1
 sprites/wires/network_empty
   rotate: false
-  xy: 2839, 1087
+  xy: 388, 620
   size: 41, 48
   orig: 48, 48
   offset: 5, 0
   index: -1
 sprites/wires/overlay_tile
   rotate: false
-  xy: 1317, 17
+  xy: 1606, 762
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/wires/sets/conflict_cross
   rotate: false
-  xy: 1934, 1612
+  xy: 949, 1322
   size: 144, 144
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/wires/sets/conflict_forward
   rotate: false
-  xy: 4046, 1757
+  xy: 4069, 1903
   size: 26, 144
   orig: 144, 144
   offset: 59, 0
   index: -1
 sprites/wires/sets/conflict_split
   rotate: false
-  xy: 1859, 1394
+  xy: 2636, 1692
   size: 144, 85
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/wires/sets/conflict_turn
   rotate: false
-  xy: 2883, 1122
+  xy: 1704, 773
   size: 85, 85
   orig: 144, 144
   offset: 59, 0
   index: -1
 sprites/wires/sets/first_cross
   rotate: false
-  xy: 3801, 1903
+  xy: 929, 1176
   size: 144, 144
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/wires/sets/first_forward
   rotate: false
-  xy: 961, 1198
+  xy: 1075, 1176
   size: 26, 144
   orig: 144, 144
   offset: 59, 0
   index: -1
 sprites/wires/sets/first_split
   rotate: false
-  xy: 1133, 1387
+  xy: 2782, 1691
   size: 144, 85
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/wires/sets/first_turn
   rotate: false
-  xy: 2970, 1122
+  xy: 2151, 897
   size: 85, 85
   orig: 144, 144
   offset: 59, 0
   index: -1
 sprites/wires/sets/second_cross
   rotate: false
-  xy: 3947, 1903
+  xy: 929, 1030
   size: 144, 144
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/wires/sets/second_forward
   rotate: false
-  xy: 1079, 769
+  xy: 1530, 188
   size: 26, 144
   orig: 144, 144
   offset: 59, 0
   index: -1
 sprites/wires/sets/second_split
   rotate: false
-  xy: 1279, 1388
+  xy: 2928, 1686
   size: 144, 85
   orig: 144, 144
   offset: 0, 0
   index: -1
 sprites/wires/sets/second_turn
   rotate: false
-  xy: 3057, 1120
+  xy: 1923, 788
   size: 85, 85
   orig: 144, 144
   offset: 59, 0
   index: -1
 sprites/wires/wires_preview
   rotate: false
-  xy: 1083, 1371
+  xy: 1927, 687
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
@@ -17078,7 +17134,7 @@ sprites/wires/wires_preview
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = (function() {
-        return JSON.parse(__webpack_require__(/*! global-compression */ "./src/js/core/lzstring.js").decompressX64("N4IgZgTghgtgpgZxALlAgDhAlgF0QegCM4AbHIgVyzPzAHsIB3KCAEwH0BGAOnQDsA5ilCRYcYSAAeKAKwA2AJwAaEAE8UAdjkAOFYxSdOclQAsDAFnMBfFRDo4oeVijBQSCOCpzYY8Z8m8KTxAMbDwAZToKCABjOHCsAC9xVCkLFXVkAAY9AyNTC2sVBCjY+KSU0H1kTksCmssrGxDMXAJiGkIqGnomFg5OLN5BCVF4CWlkAGZtYzUUWdya-JAzBqKQOwcnFzcPLx8-FEDg0LbI6LiE5In0+eylwzm12o2Sy-Kb1OrX+tem4qtPAIIikchdajkXrMNhcHj8ISpMaVNLIBRyHL3QYyABMjxWL0atnsjjg-lc7mC3iwvjJxwgQUBYXipSuFVuDQyKExPwJhWa7zK1xRPzqq35AqB7TBlEhtAYMIGOOGiJE0HGqUm6M4XOQWmUIF5z35xO2dOQFP2IGptP8JyZ51ZnxRk1qup5eWN6wFTuFElF5j+jUlzJBHXB3ShCv6XCmKtG6pdKAU2jx9zkOKm+K9-1NpPJeyph3N9pazIuQvZmrumQ9yxzRJCvqrVUKQesIbaYZlEJ60dhyoRCbEHKmlizWI0Mg02fbzS2+d2lIONKOAQZpylFbZX1ArsD9zrTznxWbu8NbfF3s7wNBnUj8r6sLjQ6RiY5OPMUzTmVqcjmRonpsJI7BahYrra9KMmWjofH61acoes5XrmTZwS2F7rHON7SvecrQjG5jxm+I4ITiMgyJiv7mBoaaAShjYLqBlpFquJYbg6ERnkmiG1shhJvNx-qXgJAIwbe4ayn2T4cDIxFqqRe4oORVEoOYCgzphx4MRsTHmixEFrqWZxceh577u6-EmmhlbngG2GcbhEb4f2HByPJ4DvmRlG6lMMg6lpfLenmzHgdaxZ2hx4ksmZPFukhgUNoJsXCVhOliSZTlSVGMnsBoHnIqOOi6riB70aJIX6WFNpGVFmXbs6HLxXxiVAYKO4iiJEqOd2eHSYq7DaAVXlKdMxX3FMGi6K16WVQWy7hWxkXQfVQkIc13JWcFNkdalvzpThvXOf1MYKMNimojMAWZJmdGekBenzVaNXsStW5raNG0PDNFU7Y13xddePV3sd5AkHAYA4Fw50aqNOIaAoMi6pwY4BT8UyYi8GPziBVULS9y2buWH2oqpiHo5jBjY6eKUA2lomHSD2X4ODkNcEMr4KbDqLkRRyM4lk00U381PAWaT2sZB65vcTtOjWT8XCyhovtf9rb0910VHczrNQ4YMM8fDCgTr+AsGkrWNZDj4tLs9EVQUTsG2TxCtlVTlM1CrJP2QdwOSb2YMQ3rg4jCR3OTDiCjkfzWTm+7ItW3NtuS7VMtO7tCGu48GMJz6ctaWKDN+z2D667GBujpwGiu9omkW+71uLmB+P29Ljumc7HJZ1pOfK4nf3wer+1F1rTMByzQfsCHqqeRdEdR5pv6o9nHso-3j3J4Zr3tzFneZ8jbue6vXv5z7I+Zdr49ly+odc3F8gHkv5h3UfudJ83dtLQ7jkNYPpMHyvN+A8MJn01hfMepdJ5EU5rPcOBhFBzCfi-NeQCN4fxTtvH+JNJjd3rkfPOe8h6FzAVKS+kC2ZyRgYVdaqZpqmwzIAvujdQoty-m3LB+ccEAJ7sffuqs-6gKBqPf25CobuSoSNVEnB0QK0zEjHhqDcYSy3oTDhhD-5YkPigphNN1GCP+IzERcoy75QkXPZSscfwGBxDiIW8cdFiybgZRaUtjLvU4ZtTRjDLYEIzkQg859SEQOMZPIaZi4HIBsZ+fm8NvEN3fs4gm39oq-wwlwrxCiHH8JAYDAxxc+qBzZmdcJhtn4m2sVkZBvcfEJOqq3Nxst1HpOonE-Bui-EFwCSQ0MwSaDYAECYPWFcEJjiyI-CwixMk1McSwz+ri6ruKaTWO4eC16+LVp0hywiS5yn6YM9mwzRp+XkDEqpvDmF4zmanHeqTzLLPJvY6Z2S7K5ODPk0G+A9l63hLfWB985DjJqDiQYrS1m1NYfMtOHcOkWQyask+ejXkdneczL5XBp7DgiUYdE-MQVTPiTMy5GDVEpOwfcxWjyCXPM6hrIR4CjF9KwAMvWN8Z7UM+rQ5G2j4XryUZvFx1y1EwvJVo6pVLvZIoykEhl5A0UYrDjxDGMgDRLymHHV+Di0GJPqQsxpwreIrMpW04BLzaV5O2QUz5TL9mssxYqrI04Y51yNWCwlyiBWYNJR4g1DyNVPIlWat5FqPlougb89ll1I5WM9uYNGLrRZarqWwhp6cNmwpafi411K9rELpdKnZjLmXsEoeGyRkwxzRKxH5UV5zwVXM9atb1X0KV+vFafSVhiC2yutWIw5l0ZBTEQRMgC8beU23QSo5Jjalk+pbdo-17bA3IuDainteU+3lookOz2Mga2KPHdq5NurU1-3TYa1tWaA3D26V2Xp3ai1hNLeYo+dC8jyJ5Rc91ST2Fepnc2vdWSr25vNfSrtVqi3FKfREitgLOBRNBQmvlE6PUkunfq-9CG+FAa6XmnphASBBFaHwHAIIoB8DcKoZIEAN3wOfsjOQcHHjAcYkhw9kKblku+i1fRjZs102vbh29+HCPYGI2GNwZG4jUZKaOSp8jfwKCyBOao5FNK-UTRCwVv70OL08Spx1s0TU0tsdNQJeGCNwCIyRogEm+BSYALThnszEOwCASgADc4DSagzxeQKqUAAuQZWl4n5P38u-Sm6Faaqa6mdUCnDcHkqIqXVK8zImsBiZsyQSTXn7PwAgAILzNHInG2uvAqu2cDRY20GF5DEXj1RdPbIXUVSqtUxq+0jZPHl30os1Z8T2W7O5fy4ViA9mMueYgB4YrihdMNFokxtM1Xatsa02h6LXHlKLZFh1ozOaEtBt6+lzLhBbMOZG7l6k6BwbsDcCQYrFEyvzeU7kyaK2k3saFRtsmyDgNvc6wIjtfs+uies6dwb52vOjfs1dm7hB7AmAe7G5GY4R1mvIu9zTDbFn6p+0xhLGOAc5JS4YkHGWwdneG1Dy72BrtwHYHEYjRWZNkXMK+5A-5s45n+268LOqoW731fJrbPducaHWYDknwPjsU4h1TgrNOsB0-YLrYrKkntGE4HYhoAUsbi7rcSqdOPvstaY7rqm+u9v8eYz16VZOTuU7GxdsbsP6dfLV5wHymiNAvc9m1z2luNP1tQ8bpryBheRMqyLS3fH-FbKO5Z0HA2ctjYwCQXAeBvNsrLcpSOGuaKtZ25j4PRu9UbYj4X5Wu3Y+bN9sI+3suU-2bTxn3LE2vPTZZ6NXE-mgVZDR7UJb7Xi+G5-etsPeOC5D89tX7D8e7cy+T0N1P13W8u9pzdu7xXDBTHKfNrRf3A+sY+2t0PaTPE3Xx9HiXxOBMgYX4n8nS+HMt5wJnmHG-6fw5wIjrvqJtC74o5ij6KhYG6Tpj5n53KbY1Dvq5KgFW5x514J79ZZZN6v7v6u4M5wBM5Z52qjixrs6a7a4oxqYW4j7gGRaC7l6m49ykEB436mp36HYP4oHg5oGr5v6K7K6q5-6TByA+5OrbbKxH4Hon7Y5l4T40GijT4kEME0pMG25paP4O5y4r7p6cHr5K43bu68EoCTQArIxaCir+6yFgEoal4nrn7h5SFUwmE8417dapZCYN5HQM6uYIAZYCDFYKCe6+QIyPDBbWK6TH5Y4h4SFWEoyxYBEE5JYdKOGk6L4gxuF0BuaeHOYMB8DM4+ZNQyJcp4o-CBFApTDkHmEQHhFQGRH3BxaJZ-CZhyH7bz5KGsFgjJGpGCDN6MC4AxAmBZHZ7PoozaCwYMa+7kQNjFFmH1YC63JxRzZ1ijFBjjEIGYQmaNHOGJHhgq5Bzb5jJPaTS+7zoEpB6j6UHTFdzcIfpE6ME25OESQuFJE6HZGs6Zgo5jiYYlGTEcZNqwYAYLrJYKE3HtB3EbE4B0DoAPaKDIz95HhBSoRHEUENZUFh5fTQlJT1HW4HaKFrHKHWYxB0AwDoAsCOAMAzaIy6hyCvG15YyLFwmlEnGcZkxHh-aLEOFA716JG4l8AIAODEbsAeECDkb3a6GRI6BzYoxfiPD977pOJiFhGWEVG95HiSmAaLr-EJHYkggxAUAaHFbfiDHIyKYjEGbqYhEl5lFykzGWTLFGnWQsmRLaCmY3q3Hslanv7ZYeC4EKociDEa7DFLBGwLHvH86fEzq95xqRL+EMTMkBorFIEsFJ74CakaH2YACOFAUArA2+McaOuIqJExQZX2Yela3GsgOIuZSx1Q04qJapKBrAWAaeUAqg3hWQopYyARDpnscggZR6UxnG7OxBtiIsnZlx8h1x1Z8ZYAkIvReB60uRWIBpfp40xpohoRFhjWER26cxi5Np0Z9pqxTp6p+AJgqg6AXm6efAAA1jqc2dGkYDYksAwsrMEcuaaXSd6sjvcLARzjIWOGiYgWZliSgUeSeRAGeeefZkBaeRlueewNgd4Dlmrj4bqMbMQTMPUKWUObznVvmdphtnvoYNnO2ehb+ZScpPaQCWGHcRBSBVBeBceZBReTBZILgAhU9vwUeKhVeERXmd2cGfqnhWGQMWhf+MRYIiZuRUQJRXRdRQxTwY8XDLGhHoYFkGGdoP7goAoF2Z9jhWHhHuYHWKpfUOpSJaycgfGVRaBewA8X0REuRDiliIMHFgZVeEZdxVpePlYV7pkHpUsE5WsC5eWSZXGU-vgG0DAOwJgHQKwBQFJjNoOkhaKubg0DiJpafuUTxOzuxYlYPsZVLmyQeeDJNt4amCVA6hKavEYCleIeaR+NGuqoMOVRhbaaqdLvlXQAIFgDEOwAIKSCSWTP5IyQTsla5aldVfvAlCAUNQFblaZcFSQG1R1V1aSPZnwPYDNrXEhb4VpM8YZjSR8QWREU9keNtb9E1aOS1SgXNe1Z1d1XgPZsSUKQAdupRJ+XfvAbtdhe5VAQyVfihPAadRieJcJq1VdYtbdZIPdXJVItoMqgfNoAJcBpHJVbKWuV9ZaSARpcOQ0bGU0fGTABllOZ6WRDYnhQxlUnQbUNSSaccQiacQhICuxeTV+Dlc1XlSgXjZkWNt0VABllAPhnAGroOjeaTdnIzZTc+dTT2W+WjRbgGZjeiXuYCYkezblqwHAJZjqRjArFONUe+UudKSuWaSjYqtLTrm1HPtjQBbjVgJIATXfB+OpKGfOcsQxg9FTfCZLX+nvpuVlbxjue2ffjjcFQSeTrbX8k1LHArE7SpruTtW7bSTTfSSbTGSdX7QrRRYkcHTgfZqwFEHzZmfcFHIfMnaRWOvrS+Qnd6t9csTHWsLYlhousXXaTVmOUHdzVnXjRAHYBAGSNvjMJHUpn6TXdZO9TxftajeNaRf7b7Q3UPYJvuSgZne-qmemfnUvLiEsAOlPU+WXRLbxRtoxhPeHhxSnYupWWnRJYkd3emaHRGuWp7tulXAZtIa7eLe7XvUiSbYPmbSqWdazfGXpB6Xbd5FOIYU-RYBOHrbMrvWPXFJ-eKYZv9efUDSgQA85jEIwGrrRFrWAw0BA8PXHXtdpREXA3g9tIgxbfPf-bjGNnpFrhzJDRHLMIpdrUxqQ7CQQx9ZAbA4fRTd-X8b-TNZllyVADEOeTfTnuGQ+QpgPc7T7dvVA2-TA01F7QuXIzlY3QHZbcFVyQwFAIVqvXobun6TRGhbXEjauYiVYcCsjMY3QbYjHqnZxWRS3UIyCdAIVnlhllgMVqmL3vqKCixq-fHR7ehvTQE7EV1oFYHZlnBZyXWW49vvVWSdtT8JUi-TvYo0Q+PcWTUGkwg+bf+ZQ8FbEx4To07lgJ3QwD3UKbvnk9RAIVpFkKvIExk8E+-VYWKDk0k-kz-QDS49ZnBQgL-gw8pCQaAzrQDcNVVUbWcTw9cXLX+Y6YrQeRQHwKrQVnYKsxwBsbBRAI2UKYMHqR+bHARX8HBuY4bZY1AYCt+KcyhOcwsyRXPcsygVs1Dps2s+wDs8RnszDlgF5vKkA59EphXuYAPsfdYjIBc6+TOrBnVRC0ClC48-EedfGW8xs1EJ8zs0xTgGrk04pYOtUQi4YJNSPW5VwxyGEz3P7Q81NSzYI9ZuiwIB89sy0XADi38wC4k1oDYz3CYbS2SyNTM3TZ-Wqmc5NeQ4Uy8-Ge5hUzgGmSQOFXYHEG5hDdZele+fUwNUGJwNCxXTOmTPscxrq8i1E1o5lrKxAPK24Eq3QCqyUGNoveI8+p+OzgLC9VMGo1M8jVc3FCoz3F63SwI0FRa3Kwq7a-awwPZgAzqdXLBlONrjIFvXqyExtp03prIMm6a9NSG9Zpa9a4qxFZG6ng4KI86xEpRICutZmuw0E4Q59XFFS6stPfw306i8Ffm+G0W4gA6-Zqs8I2W4A2HU8aGSw087W60-WxS2NV0-M0G223-cFZ0d3ewPK3wJkYKSM8gKpaC1Uv7X5Cm+09c7qKKvu0i-O0g90LWYIKRgKZRuWzMTHb+MLeOy0wo200ozOxmyltm-S9Kle54c-g+01BmBrgm36ScpGYe5+59LMRB2Meo7PZoxJABze6gcvnltTkO7fQsJqwFp61HsrBhYK9M76xyBHvsWK0R8zcG3hqhwIEB07lh+NnwJNp3lu-DE++VnVbrVTMRxw6PVky7L5GboOTRwu-SvR4x5hwrpocrlvgc-6d7i9X9vx3W5w2lbM5kEawloOuJ5e9QNewx+h5DrJx-loV-gjmtaKajj9SFvI0Spkw21p3oXZ0EfpxQ+0FJyZ-LtDpgYzpnsVv41iE01zmJ96xY7Td3iJ6LuFxe552GN52wRh87uZ9wVsQc9OPnhoAfllXpxF5c1Fxotp6J9R7+7R0Jkl47jJ355-pZT2jqYpsw3IB63YWp5Oxp6NdFxNIR1jI1QU0s4l4Z4Bz52oWvjqSjA-QxvC219B0J+RzF+jLN+VxJ-+8N2h8ly-hwe-u3lNvzQ9RVliALAPnRmV5hatqR0V80q51PnF5K4N1JEZ9J+gVwZviQJu+q01M-IpTRCp7p+1++1O5p1+9MG5x2R51K0NyQE96N83tt695Zz-kjoCv5BM7UWLR14J85yDysCAVGb0wZ9DyN5t7li93JzdgF8B3TZMtpxGejOTfl+dzKZF5xhRyLXdwN881DzDyT2N0mZgbJZ92RACkMdIkIX13N9j-LItxYN+f1wTwl498T9V2T2l9oQ1zU-DKKdN713x5L9O91yV3yxzwr5D0rxty0S5ikR4YIHizT3kDIwUWw3UQVzC+hnvv2c7-j624Tzz5b+4WkbiRABzdvpYLIhxQUTITYvr8D59FWwEVHxK5z8h15+t8ZxsVb20QIB0V0T0dhxI9WnhYpkXZB4SBj4D518K7B0naX+A4h8m4Ykly0YL9OZ9FXA-ZtRcUzwbW7ybnCqOhDw9zKhPGzPQ0L23zy-ZR67Wt3+Xam5If3xeq6vd1z+b+ny0VZa3zzBRAS95TW4hup1jwb1It8W8St0g2BmimP1vxHDv0AexTPyRz61dyKmf-F2b72H72QKu6CeCb3j4VohhJvtHOH7ebutCbb3QemPvRXsPwIiwhr+hNbvBCQLpzogBDnL9JXzI7gDP6aAwfqv0-4jdcS+JQkgkwOYaB-0GgHWmw13wx8uuUiEhiLG95xEzWKHNPhqToCcluSUMPkgKTVwilcUyCVsr9Qxqz9oGYAuGFXVSYE4RBK-FPtz0IEukqeHKCMr+HA5WkEOrvfVjphr4aCpqGjZgnRzYEJlFBY2N0koKkTNlRSag6Os03L4gCgedAyYIQUHq2D6+vvBQUmWXoZkhSj2UBom0KIU1aBVfbfibVKiy0pqZ9GAd51rL1l9mW7RGBHh8IvVSyIsc9k-xZ7ep-+ARbnOe1kEGDKuRgicmQHMERxMw-dEYvwXSYV8j+sfKRHB2dqM0ImkufQZiVYFE80OJgCgIQAMYNAUwG9NnPUF3QiD0hhXTjM2mzIDCrwQwnKpELWCVlAa3ncylBW5Z749i95b8ugL5w1DHBakJ7J+QfJYwmht+Crm0Jh5LCLytFYChZV2bwUhSX4J7AoD37owvQpZTYVhW2HBDJgsGKpC8IBR4CxKjfIwecLArAjGKzFO4QR3TA5cwunFP4ZoPn4dN+YMI2unCPf6T0FhQIqShZRb6IDt+SpX8IMBUrtl-KIw3vjpRPb6ViRMg5PvkNOEjdQRm-XERHH4H2V8KmEWeiSIE7ktahkwfyBSJ8pUi8BcgtfiCFCq2soqMVIUloD3yZgUKzTUllyKFZYDRoGVAJkn1N5D9vOBVEocpE9aKVDAYZPofczeEXdn+nGbar+DrBGiXgtQIUbSNT7tDjOl1BajdX25btKBhrYqgXGd4mtRBTnY-q6AYG-VfReQ1oQ6Jh7OjrqS1FariyFJ10H6NEfYneVjqH9uROwoFJ-WTEn1oBH-LUfNSjG3U1WN-ALNHAmhHNRQzvE0cz1GFNogx9nO0WGPkFodIxoNOAPZnBr58XW+LWGvDWd7DDFRl3MYXWOsTUiNR+A7zsrU7E2V-whBX7siNl5BDlRqICPOxQbDqicxmoowZOOcwmA26vNcGAhV7j1NKOa4xcS-2sI8M4qDEdccwJzaGDHRIIbcarXVpCkWRmQYLqKGaZVie+WgtNnAy-ENiMRD4-AHjRtpTi-WMNScEmwXKuD4RR7RtknQxDhDbSLQoCTDydbgTyOfIrEC+2jpZs-RoAqXsV2-aoTs2qEwEcBIwnZ1c6B4g5mSXgZ4S0KCMM8YnUPqN0jYbgpxs3T9jecqJHdLutUy3ZGBq4+pR3pPSqH2DMB54yQeJKgG3jyJPEowVRK8EPZsJ0jX3AOkaEsSm0-rCspND4a3jZhm44CVfXWY+NDulopCQXEDakjfxhZOBoG1DFoSRuMbA7rVU74WAfadgjAR8KXERwHJyEmkY2JFGfJqGaDDBjU3kBgdIJooLydpJnTRpGScU8-lEKMGoNaG2gBAUCx5iCwFYuEzyeENskIioCiU0rmX0AkUSYeA7MRphPWhwYhalRFTFZPKlwSYOJ-RCbBL0FId7RTY4zmUz0Zujx+9A9MGjk-DyJa6sweKfqmTGX5li5gcaaRXl7JZ2JzjRScBP6keN2a3jV8dW0skCUByKYzHmmM+EGAVxbZAyZEzvEFDgJJTeJkWKZF6F+8s48gWVQkk+TjpfkgwJ-VC5yTLpf7e8TD1ullNPGlTbut4K3aetEKVad8tUHUpvSthH088fNJNpwzfpkuf6ddMBnQAhmauWxHhTHaOFWp4g4id9EJlojxxRgpliyy+ZssfmcQoaRHFqAEsrJ9PM5r6KKnwSFuE0SjuTUMAVS1pMPKmZi1Zbf9dmqgTlhAEBbDsJ+oLIluTTeoDizR3qCvAzVqJHCriq3AGSNyFlbMaZosnFrjKOZr14WvM9mYrIyEzozptBNmfzOETecdZWLNlhyxwD-NJZofUsUvAfKsz7mZs1MUqPPFWzvZNokMUFOclodO2Nrbtqq1qmjQUwopGiPDQOyl1qhiM1iV5TB61B66G4imcBIjmFtlWPbKNhhOKwO0WsgBGtsAPen+yxhEApfi21vEYy6R4csNpHILnRzo21DEufb3DwHSKyZZDmW1K+GBzZAZZJyZVJG55yI2hcktiIxqmxUnsso8JlNP3q1yDiZDUOePOblWsu2bc3tv21LZzyamylbBsQWYzeSEZ1cyuryx4xMC-pJw8MSN2Xb0412G7bYvpPsqqzHyy88kR+XZ5fyUpZvXEnNSmwX1BpxYtEDeU-JGMrw6kb+VYTJiHxoFawWBdmyQWyBgpQChgBqVUBkZQ+hBKBThhQUESHBJ06AogsIWjjksaC8PBgroDAKQQzLNWnwDxawYCF9QIhQPOJnXdkA5C9hZQsMk4Zd04lTBSAvQDRA6cfAhWGwpgX9i-Zg4q+fcF4UyKZhgi2hfQs+SCSGZehFYL+GkXILZFR0y+QaxPb9C+FKiwYWoqwX4BVmIizReApMw3lmyYZahRwvNk1jjFii0xcotQWqLhFdCqxYwBMBtBDxhBJxV4v0VwLsmakcJWpH4WXTqFQixmCIpBCqBSAc1CKRx3UqwYwlmEFxQYpTlGLccJi3JRQvMVTDgpqtLoAIHwAiM4g6ANxryTmqxiIZC2D8kFlqKRLhOPDKPszR6WMxKlFAapXAAABWcAGIA0oQBNLY20aCPtYg6VEyiJ3Co6vMrpZ9LgYeNBADEEPJdD2AtZbuuMqwAcD2AGWWsjECJIxyLBABA+NY0wiTDkFu2ThYsovzfs7lakWfIuleU8LuJo8DZVstBECA6AkVW7JUwyVaK7SVHS0WCyWB+R6gaqTpR+BNowqrwcK7NlRzWBwrGYvy-AFHIda7K6y+4uxQ9J1wUcX4U0eoHDXhXrQFYdYMlVeApXZs7KflTspirrJbKcVDAPFZso4GZFxlhK7KRHD8gP14YvuFruSu-Fz9OZ60ObNrlFV0r1ZNKRlcmGZXrLWVGi6+hAHYB0BJs2WemfYsoGikxmjTHDNXEpUSDfIxBIQWsBNUAKHuWKyZfYC+bplgVdgUFeAoHR4VoVC06YGkLcVkirGNhb1bCtyEBo0VehDSiys2X4B7VUMAFUCpYAuq1ctcB+kpjrBIr0V+SySb5PPGlTMIaasNTlVDXTBw1KqyNRtPpxarTyDZHoQLB8r+5K5F8+RX+mvkLA618q1KIpnYVQsI1Wy5gMeToDk4JuP0y0SJNzXtk2cpq5cYirHXvLksny8dd2vwC9r0A-ankk-IQBXlPKBgZsnWDnUPLfVdk+BSbV3U5Vj1jMNdUQEBXgwyM7AFiCxTwqVJtckI5Bb7MMWNr9UveT8k+t2Enrp14lc9fDjoVwBr1JwbfJyk0QUkVM0+WNBOtdB7C-SUGkOR8t-VnqKmBAGIddgbKgKJue-S0V7mqAmMYFIhV9UrKbVYglgBG5BQ4w+V1ri1o8c9ehp1UJkcFzCmpt3Pfn4a6CNEGDV9LI23LONVG2dTRr-WoaQQDGzDYwuwIlykVtPcjfxu401Bm1PCuTdm3UhmKUN3dUTXWQw2qBsV4i2iVuzZw3M4sFGtSERoKVvr96imkzUppPVCb1NaGrTYxrBkPZy52nbXNZq40LKAxPG38LJvYUCbbxqm5RfZs02xDF1QSvAA9i9Fua-NhG+TRrli2UbbNam4GPRsc2YbUl73OgK6qJWesnKuGndcpuIVSShxvGjjf5uS3BbUtImieJNk1UsaOOwKDXAaIlIyFbRXmnkaM0hKtazmba+Wor3PWRibWtSyzKQIhn7RLRqM6oAcK3UA9M1qct8rpJLF-B+8ts8BINvzE2sRlYysbWCq14tlxo02j2PwXk3ptSZAWY7QFrvmazb056zIjgEYAMBoKHJMAOnnGUC1IOpsWJHxvYXiqxBTyhTfcBfgea+t6sU9dVo034B7tj2iANBTgD4kcAuqolXjNDKCxjNiVcdR1vTHDyeFGOmdYFuQ0Q6CAFakCg2VXbUAwFRKlGBZIMBxZFVaIObVXIs0L8cm9O9EDlTZ3Kq6NNWjwDiQ4GvaOqUMTPuuoObGxRev2SZsVqzVpzv2-xG1av3PW872BfAAXeMpvWuQS5YyB+gTOUj9z91xU3zAqQXIXT0Z98kEIrrgB86Vdb27gRwVA2QSl4jwsHtDXk19UeOOGF3fLuFEW6rdquqGPK2D6Jqrl9lZMdUGhrkqfVcikjULg-Xqpw9dK4NWOO9087LdIICclNiF3uEdSmUjXFHUlRY7SFMkn9uTOT2Q6ldtACplyXV0yRvCLteykaKanwz3hC2y2Ubudom7jhN228D7rT2V7bd6hRJq5vaxo8E9rukqO7oj1ragkPeivRntXbRAGte2jSArHqk+UvVnuqXS3pj3j619k+r3T1MXUp7rMHgDkhwGF2NcCN6kjOfWub2FK++s7SXWPKJ0ghy9J+jgRwDgHgywVDlPxsgMb2HTzN0e8vG3v-3ZiG5Zuw-WXtT1Rqxl7+3knbsU4qD2sp8j3ZHuI0WyilH5CfaPv33BSZ9b+z5gHsX3gKlUBqmteyPX1oHADGB4AzvooN76S9B+89WuqVZwBZWcAHLfyq3XB6l4L025b+oL2fToCO6gQ1NVPXNB4ADgCQDSAGkoAQAjgN0lkHYAmBky8YFQL0BgCOA5DAAJQADiAAIQACC9pe0iAGKDE49K9OgWJjpCBnLwYchoYFOBABNAgAA"));
+        return JSON.parse(__webpack_require__(/*! global-compression */ "./src/js/core/lzstring.js").decompressX64("N4IgZgTghgtgpgZxALlAgDhAlgF0QegCM4AbHIgVyzPzAHsIB3KCAEwH0BGAOnQDsA5ilCRYcYSAAeKAGwAWGQBoQATxRyArAAZljFJ05KQAC31y5AX2UQ6OKHlYowUEgjjKc2GPEfJPFdxAMbDwAZToKCABjOFCsAC9xVCkzZTVkHRA9ZAMjUxzzKyCI6NiEpNBsznNlfOrLIuDcAmIaQioaeiYWDk4tXkEJUXgJaRzOAA4jdMmJ3X1DWrNLa1t7OF9nV0DPLG8NlH9AprCSmLjE0dTVFEyqxZNlxrOyy+SqmseChuUTltJyO1qOQusw2FwePwhMlhhUUjkAExaADMaXUCPm4zyT1WdgcThcbg8Xh8hwgAV+mGa4Ui53KVwKaIymNyS2+z1przhHzkbPqFkaVLwCCIAMowNoDDBvQRA2hImgI2SY04CIAnBibsg5BM7gtsezcetNoSdiSDn5ycchbEXhc4SreVq9Vi+YVfnb6e9lm6fkEbSLWoCOiCpT0uMi5UNFQ79MiUUzkcinfcDfyjfjkFsiSBdvtfEdKSFbZz7QzqkyXayvuniqWvZUfTXCoLi4GxUDOmHwbKodGxOWtAB2DRMvrxlkPOrukA2PEW7Nmvaky0U-3FmmlMvK67pKtTnF1rcNrJN6d+v7ttohyXdcGRvswmMMtUyIdMuSa1O+opz40E7ZiWXC1C3XalPTeUBHUrSc0xnBAIO5M8nlbZor2DCVQXDOQoyfAcdxyLQNGmdRdVgn8MwXU0gPzMk1z+Tc6Ug+EK2dcjmxWI8mKQ74f1Q4VRWvTDuw4DRcIVfCoP0LQ30TZN2PPX81kzRcaJXUCGMQ8snT3BTDwQ+tmJ5PiizQwSMK7O8OBkcTwGfAi+hkOYtVmPTDVnZSqMA3NzQLK1TNOQzY0ZNjT1dDiOWPIzkPZfj-iEyzpXYIdbNhQcJlHLVPzc2s-xU6ifOAvz6JtRiuW0mCwurRSPSCiRjIiuL0PFRLwwmVL7Kk8Yhx00j9zgzi8q8nM83U-ywMCqLgtY3SqoPdyDKm+qYv5JrzJa0MrPYNUOskljJky9IkxTfUKI8+cTW80aQPGzS6oc3rmTmgbIu45beMagL4os8gSDgMAcC4XalS6zhkTVNUxy0NVUSqica3jJSLoAkbfLo60Ny0gjMhmE6cnhupEdqpbvQ+xS1qDDb8D+gGuH6R8JJBlihzVQ6Fk4TKqgJuMtCR-8swK67iox8D7q6nHri5zJCd54m3tJ+oTIm76qZpwGDGB6aNXfFzqylvkifO-nVMK2jVxFyb5fFsc8bB6Wede8qFc+cmvuaztfv+9Xe0GPCmbGJENEh3WHn1hHZaN-KrrR82vrK7drZc23ufxiPFqtqqXZQt31o96mvYjTXyw0ZFOCZNUJjLuH7dTvmo9Ror0bjrHE9xlkU7tx2E8zp1XeV92bzV9gfflOy9pVHrNVxjV25rzvKMuhuzY00qW-hCWQrDmWu5PBq+8vXPB4Lh9fcZ6ahxkEjETkHWt4dheUaXZfbtXsX15t2eDbTte9+z-vD4lEPHCDMx7+30BMHqY5tCcx5l-Ouw0n5jRKpjN+YwN6sTvrXOWTtGxkz-gfSmech5iRAWlByEwK5jgRDqT+4d4GL0QTdZBosSat0lrAuh2Du6-1ijnQhR9aY2VIZ1eESIZJQKIrQ7eD8BbR0brHZW8cTxoI-tXOBXDd4rRbHwjsAjAYpWEePFASJ4YzGoc5TB89I4ILUkwi2JZWHvyTlI++XEcE9yVgQ3RgCC7tUMWAnIJcq4zAMLDSxhshoMNscLZuqDbiqPCd-N+PDVo6ISp7WmO1-HTUvrDEJBgXFYOsVE02SD7FKOYio5xajOFuO4Voi8AYAE0GwAIYw6si4OVyeXFmhSrGRMftEpuii17QWqYkne0U8G8P-vwiUrT2l006aDFmwSUBDgRBYjh0jimDNKXY2JjixltxqTs9O7iUnaNmd4lpWA2nq0hKfUB01K5s2QBoahfSImeRKULYZd0jm7nYandRdTNHTNSdc9J+AFne2WSxCYCIr7gy-Ns1xAzZFLzKYcjOxzgV21Bec+pEKrleOhbCwu2TyyIuDukJFVYO7fORpixhMSRlxJCiciZGipmK0+lCn6MK7mLJHv2AJnAWZvIrmEtFRSMUmz+QogFuKgWb1lVYol4K+X7yaXM259z2An1HmQ0G2ty4TGTnPJlxtBYxxXigwFnL8WMqSY4y5jS2zNPIBS4BTyTWiKIrSlAFdLWgvlba+R9qWEqqdWqkFtTNW8qzjMslgqKUkL9SIlUMgEQ63SDIeG3LdksqGUq1+jqZrOqta6jO7qBRpLTcKwGQjM1GJyE5PJ6hKGnPRT8vZiqo2W3cXiuNBKE0-wafWgVVMKUGNbeKmQapHrIkvl8iO4a5HP2YUO7uI6MHqsNomni2r8G6pud6pt7A-HzpyWqPNxj5I9rlX2kt+y2XKuHaq-d8azkTpJR6syeqL0GqyTe8sQ5kRvL6Kin9vbmUKrtS-B1MbK2jpdZM49ybIUEJIAEKkfAcAiigHwFwKhEgQHhWMSuj1qhORZFhmcG6sUHPZY6jeVYGOcSPe9E9KbdW4bgPhwjRAXDEZiBRqlBE5ClyhsiGDCINA6xqsWhDkakPRs-Tke9T1sgKaU-pP9mznI6s9YQATQnAyib4OJgAtEGGzUQbAIAQgANzgBJsDDlVSduQDmowVRPk1mofQ-tiHt0OJQz52++hAt1GCzyzDvdT2mfM9gAjlmSBifczZ+AEABDucoygEu2mkTt2DoTCYIXX0DvUzu5RRWmQwbBuVuMlWEs8c41OnDeG0vCcIFZ2zuX8sQBs1gPgbmIBuEK75oczk6Ucc1BVqrqmt3lNGfErUTXsoIza2CpNSW+MpZ62NvrA3stDey7sdAf12AuBINNjUc2UAUKrik5EQ5lsRtWzizTG8tsHbBh99rzsAekv48d9LInMvWfO+54bNmrs3cILYYw02JgUKZBfW2WGFOfc3di1jMa-v0YB7j4HuDePYfB4J3rGWssjYuyNxHcB2AxAIwVyTXUFN-eRFs-GaZ3t4+Y++8tMa3lNZXQbIHe3EueOpxZqH9Octw8u9ga7LO1bTb6JArUL36NV0JtLpjrL-mi9+41-XUuMMddBwBgSZmIeneh4NlXTO1c3dhVryYazkAjgly1-GRuX0rYJx+3dDXNtlat+Tjx-Lus05O3TmHI2MAkFwHgDzxqs1mBLh+PnzWDa7eN6WwdEXNPi6jzt63IO5dHYT5D-rzvsup-T9lsbE2puc5YmqCVY4L4yoKIt1rQuTdluQ+byPmch-4129xmvcf5e08V8nmzLecAZ4R+7lnd2tcojeX7kn0eVNfdD2b8PT06WH4RtLufFPOsU1S4n5ftm18b+Z+wZHOBUdd5VNQoNvmkUr84tBpg8T8WMw96sL99AYEIV4sZcbda9ANH8G8zsU9rtW83csB1dWc4B2dM8xVpoERe9dce9259NA8R8S9asy9z8K84ZyDAdq879bcutF8n9G8ldX9VcsCbtNcf9jEZIfcJV5B6Np9GCZEQ9wCz9IDicp8j9b9Y8TMkDHck8X90D19uDsDPd+D8YEQp51kPlK9DdKC31Tdx9aCLc4YA9xD4D58lD7dkC+sARWcnMEAxsBAtdwY3k-MWRYsYsQD4MwCRdzDICwZMdfDScuM-1Kcwc68FcgwXC6BnN3CHMGA+AOdPNQYIEr4wYyIqo-DERkQTCatwsKlpoosIi+QEQiiY860H8VDzJEjkjBBV9GBcAohjAMis821pMfcg5-NjFiI3Qajj98cpCQjKl9BtMXQFM4IRiFDdN0dECHCGiEi+DMj4R4wdcZh5BXsD111QCxjgiNNz90FQ1x1klJ16j68nCyB2BtCNiVQV0aNINotYNn1AijizCTjQiaNzjf1Lj-1WC4il8EicA6B0AHsZAzi6Nnozpi9TCx8fjJjY1+ozoFiri+FHCRQog6AYB0AWB7AGAtcb5-9hD88sMkxiiws1sOV2MgC4x5joj78sSGjcS+AEA7ACN2A3CBASN7sdDqhXwbYIYWRxFakESSjaSK1-8qxxSAS3VMTZlsT8AogKAND8C-ZgpeimR0cBjkA9N4TDjhdvi6sUTiDZpdNFN0TDMliF8QSn81SNSbNMs3BNSz4GR1RACXI1QtA8Zc1rDpNqS1NSj1tkAyTMQAzhimCwojNliWgVSnSN8ABHCgKAVgLXKhcU7ID5F6CQoI00mgyAwLS0orb05TDE95C+eMwMFU1gLAVPKAFQTw6EscHNPYxEYzOMGQYM77QnTTJ7ZAfPTZA2Hs2opU+PBXMAYELogghkOTYcMcX0gfJFLs9ySUmkn7c-B4Usg02Eis20tcqnB0yHYwFQdAdzNPPgAAay120HQWoRgJzQNgCJtS+KRLNO1L6MxGfIRiiMBJiLtwTIaLPIvIgCvOvJs1AsvLG2vPYFwM8Cy2m3VB9xhnz15zZCRTHNGJNI-KLJRJ8wKThjXKwpjJ4SM2BOUJuJFGgvAtgqgvPJgpvPgskFwGQtIK1DfAZRIsvl7NPwmOCkIo7NyMwt4vHOmQouuIV1oogvYHWO6PFQgyg0xAxy+Ahj4vGOROCjeTkBdFUvyHUvEsAsopWOovwBktgvuKbS10RRyJUoD0MpwtH1LzKIZG0A-D0ocrVDIonLYMh2aBgHYEwDoFYAoHEwe00DbO-TBgNzMARA0uOM-IZEHIZVisHx8qBKkqXz+gmxJOFJcl52Eq0DnkMASsLNcoIj0PLjFJKuwsrOMqyqfxIDoAECwCiHYAEHWGm2eKEKHF6UUJi3ivzPfJcrDPpIGsRCGtsOYJrKIBVOatavas6rwBsz4FsGmxkA0Cg1bPyNhmUw3JDOlJQx9yrGqJtIApZOVIaIWrao6vWBs2JJ0IDPQT6opMiLKrwoqrYR0xWjgPqsusnOypatuuWrgBs0kEeseOMRhhyL6oH0p3VA+tGrpMqhSURqMoBr8uExgDG1nK1MHD6r7w0HQoYKDOGtwuRsdUegZVJqZIupYMashxxvSJGw6KgDGygDMzgF31myivhve2jPJucuoK+vhGprIMFumomuPKooV2Zuy1YDgEE2QpoS1BnkzjStymNOFtDI5R8w401vgmZIZtZLMpxskDxo9IInewUCXITFjJkENtfPrh1qOs0zCNCl00dvOsVINLtPsOArMoJJO0tueW0gtTtpXP9sPAOr7IgJRPGsWKPKNsBLjPtNlqX2DrwJs1YAiC5szLVsCyTswt1CRpFrGtRuMWjr9prQuSrpIvRxMsDoVyzo3xxogBsAgA2GQpkho2XMjOrq1s+IpvLpRs9vrp9trQnvTtMpbvZuztTPTILpmEgxgxLmTudpsURMppQ30J+veQwoinEsUxekZuEy7vTNDv9TGA1B82OlEKNOHtdq3NCMrsH0nrrsytNoVyGndLDoIlerkmxz2pju1qoN1orTfuqBAYWmNtmodzMt-ocyiEYGm1m3QTtI+BgaHrfJHogZQygekw-uJQau-qXyQaGkmHpihqHKqqyi22wcYzAe3tHsgfHoKEYf-N9tIaurMs5KgCiGvKvuz3eQ0CEIUD5yRSdrLvwfdv1sjO9qPqluLpnubqX34cEebxgBYBwF319LtrxhRUltjv4q0vLBOsxCMebDpt9ukzENiIzqf05IYCgHy2XpQEg39JvhLqDyfvAbdvPyILHEjO8a+E2Rv0PJLsqzPpFGcegHyxyzGywE8KCfob6SYb8ZYdke3PFqfVrH+pNt4YV0Qo5IbPBL-uvoWBhlkzlPsc3t+U3P7NOKga0DqYyp4cBqfxKbcLicSY7oYG7sFM-EHNciqmKsftwefqacgM+F3L6DnhTu4cxpPOE0QoQG-xofBiEJ2rrSFv8ZfoTsIZYIxsKc6chwoD4EVryxsAuY4ASIQogGbJ0KTDEbbOJvbiPNVBkYCZmcTAl0+amoKfgZVNubhxucuY-2cIeZUARywHc1FXxutphj3olWrOIqqI0G+YOe1KXI+YxfaeWccfOcubBYiAhfudYt0eeeTByI0E+C5gBaxemZRNyYZb5C+ZOeBYaNBeubJbuahcpdhfhe6rkHyp2ILSMIWCmpMc0qSqkygfBnZcBbgdUdrIaJcywAgBwDTJICCpsBiGc0hoUpyQUz7x2a0U4CZfjuCg3nhoY0tc5dVbmvVc1e1ZcD1boANYQhG1buEbbQMHtpCTRa5mkb2ayZ+fNPkbhlDeUd8pWZFA1a1Z1Y9a9YYBs1-um10uhkjsxHeaUZlcSvwu1NZaKw3oJdOaxoTddeTeCtTZTzsE0YqZEeqD6DzwZQWfqdC0OuxYqnYbHQPPpq5bMsTbdd1drcQG9ZswuY0aEabbbR7w3h1A42Oacv2eZZtaOeIa1UJdnqXzaK7vYG1b4HSIFM2aRByILWEsPsJkxbDalJ7flayjxYRlvdja-tmQ6HrMECI35LIz9YCV1EIrk3+wmZdrXetYZETsnUdYDsDE-fcNUP-e1Jky1B6g7NmOMeYfvfXfAzfow+sYyrTtg5ai-YEEQ4Z1dw2v0dQ51y5msJXStekJRLeX5vo7qpVeI87FI-I+Vzyzb3G3c07xob-0IovhgJbdHMY4Esg8TEtwRnY8Hada44Q+f1hz48wOwJ32eY4rpRA-k6k7Mexlk+loY5g+S0A3g+-dU4o-U83x4JZ0-w2eNZfEJs4u9LRs7eq0aYg6M61DtferM8Ows+oG4+s94-h3fzZwz08KGJIPE8l307ve86Y+0uM65gFwU6WYrdM0s7I7C8Zzs+wPkrnIegldQ+tI1sk6S+7Zw986Ojk8Jky6nvfYIVy544K-fweOc4cjpb3p1HQrY4M7la6hY8lf53Lfgba7C64LnfFS2rvvcqsKq9XfDYfZG7S7jEG8C5lvtym44JXxm9GwE8m25qesDjNfE+20a6G6LZk784fsS7fY6d1T29QNX3ULfy31uxIFPe666gmBQ-zXc5WlM5W+w58++v8+W6BaU9e6bzQLT2dPf0c+QvkBoz6uDjRpGILfKorpcn1IRpsea+e5y5C5U-27UMR8+-s5wLwLvLzbpVVAlse5x8+rDNG-oOh44-M927J6s4p+bw+80N4K9mQuTDJLE4e+u+q7jpS7u-q7kMe5h847h84KF40492ssFKDkelo82+W9Z53vLw2-xi26e53ZaD2+cMcySLcMEB7tabHF51OuweqJu9FqeN1N8Nd6J8-pJ+C5IFC4SJt+aIEFSIgBZq1z6u2YFvyLEL0Pd7DNQ2HPj+VcU5V757y+D9cJSIQDaJwA6KQ-nLtPSE0HQ9i+nGx6w+S+k4cmmMjIr7MF9+JSI558t8z-QjktF8FOeJtlUqLUN9YaJwSX2Im6U-PXzlpmob+5Yl76Tn79H5l9MeG6cS5UX-N+y4D6D+cK65K9BhXRGb0Pi+rUT45VQ2ivQ224cftwn4pWn739n9hLMVNbyetTA9W9q9Bj+LXTH4z8D-J+cLglISOhYrG2TRL5tq+NXCHixBLbhQB2WXeBhPywjgh7+iLEbrHx2LgD9qkA2XrXy-5QN5o+TbnkF157-8rOuJfEoSXKbdVz2ZrCktgypJL9ZWt3ByIQwYHN9t2m-UgaF3ZL8NuSvJfkneVSZA8CefpKot5SYGFsPeAhFpqTgkEb9JuHfVUuqWi7PMS+HjbMoMTmKn8K09fWMo3w4aEdB61-dvmQLy5JlssrpIvpVTR4GMB6CzKvpk3B5y8CIIzewZLUrKt8SBpgngSoOyyL0MyIA15i5BHB84PkoORwZM3A4uCucbyF0OEI8F-oT6igswSKHrKNknmNDIUugkva+EBcr7Qftk0gL-5MeMWfIb-zb5wclB05MgNYK6jJhXOMwfug7VJqedJCUgpPnoK9qtCjBZbCmFN2MAUBCA7jAoN2hzKq18gdLeQYUIjbTQaM+pOlmuSmEZVkhXwE+k3SqGpDzKjFOijeSj6O8XI1CAfL+UJhtCCybPDlHIG-JhQThcYLhsTwt6bDQuFlG8gxTAqyUHmSFHQoug3g94JcBoJFGcJGpD9NMNGf4aJXuF+9k0klPhAMJ2EQU3hTFOCnAEpbIVFuR0VzulwhE6CY0YI9uACPkAVC-a0TWEUoJeFwViuaA7vEOB9zo4B81dRyjMLW7wgdKelNco5WV6VCSOKnckVZXuQ91FG6QOkSpXZHTCcBy-FgSNx9y6URRbIDkcQJ24+CVOAVD1qFXCrfDbafnTQe8WqDStxRzA6QUOQVYLM0+CA2HkoJyp1D4QiKQcj3n1Ldo6g1QHEZpjOouQXQDohYJCJIaPDuRVnG6ktS6rPNZs2mCVHkSwZVEHWYPGvoZ1BhsCIxRIxUU8JU7+i7qK1NalSyyHxgaMmDQaqBy3rOC8BLEPeqdTaZX8gKSYv0cDQDErUjWD-MYOL1hqYim+VRIEXg1mHlg4xQWL0ZwJSGhcUxoNcGrWKpH1jIMvVDZPRld5iinB0YlfiqE7FxZ5BnI7wRWLy7y1ZuwUVZGOFDH4i3Qeo6cVAJiEsiFWcEU0Q8K4FKirOa4hzMYHnqc0-oWuI-k7xf5Yjmwe4qIR-2gFjA4hO418QmJMEriRQV4xWsrW+GqUgeFJDts6PPywDqgkEssRsN9GrisAFtdcW5SuFPiVyO1SvlBN+J4csJTfXob2JU6+tUJdfbYvoGaEqNsB+43ATGNX4bYqJBmVOsYPLGISRQJEnOnnXvGCkmQ8gKOiRRZg4TDm7DLwQGUIlhNG6-QpQRxPbqd1BmwnTxjm1jIsShJG7ESSpPEpeDExbE-ABxICHTYtqQhSiUVlj7UT3xBYuiZ73YagClGlZVYX-1C4X0rmD2F-jMBzEFAY2TIz-qIkIYxslx2k5TlZwzaClhwIzCRg1wImSDceHKYsRFMMHwSpJWwpBlEBQYPiLS+gR2tjkNqRD3+Fk2ccYl8mJD0+XIwKXlwoaeQqGD44QWYEXRxToGqkz0oVII4JTSRWwmdlaK-HqgtxvNB2g4IakPQ8JfUzSSpMSmhd2pKebRlqwMnBCdi36KxtODfG5SZxko-aG-XmlxUMqdjIiVZziauNTuWQ3ifqUfIl1sKXkz8cYj3ryZIqEkprp-VEmSTWpY08pntMSZ8BkmIU1mE+KawjkIBNEiUYaI5hQMfp8As8dtLy7dMymQ4q2qDHVAhiUQ8NcZr9PMnLSAZLTOCQoPNFbCIZvTWSQM0CE0MbRsmGDKKSRlLSDxhYsYNdN3IkyQZUI88QBPwBrMnOdY9ZCISyhhjoOUY8mZZI2xzNOsLUj9koJ5YCBwW-LO4tC26q7E2yq6TnjWAMD9T1ufnfmgwXlkCzWuQsklry1uaQtxZBGR5qvkmmAxUB0MzYloERR94IMvhePlOORncz8p7aKBFbPEF-jWJpUkUMLNFk6zAY0LA2To2Hha5oSfxdWi+J2RnTDxAcEfvzkJQKj-xOkj2Xyy9nwU9ZMLBAIbPYC+oZ+KoYiGCNCYhy4Mts2ifbJyLJwBctdb0fTLjmayRZCc+5snKFYQAEWJslUD3hDEFo3igOFsQrKPGbYaanctWS9w1lXNq52silmxW17doV6-VLmCrMjFhyKZEeOZqZPZguyEJbs-APHJHkCtcAvsrVkDB76-kZgfVfcJlEJiLT8xKMpPlfGPkGxTxdMsGe7KrmezR5OAHeYDCNQsz206E3XOa3xia0JUXcqpDMHi5-yImxU5cZXKHlPyt5L81OX7IzSZypi5Eocj-JirstfGBc-6Un0IrAK0FK80aSpw3nktoF9cxuf-RWQYC4wU8yhey1nn6iOhHKb8bLMdGRj-JscteSOxrb6sJ2UMshczBpFmthKDGA4n9INF49S+DJAoGXJ7GYzQuHC91uO0NY+t56qgrIdURyISpShOojJhgtEVn8YJHcRZqDJkUqc5FY7LhYovTaeRSJ-3QHusiHDxC8yXMwuStMpmMKcyji1ha7Km6mKU23C+tgI1nYklqpyAe+nk20VkznFAM-RejM8WrzvF1beReYsnbTsG2gSwUkQVhpBwJF9UqKRcLYzBNpaZNDGQ5JU77sWcR7E9gHMmBtki61Cv8gAoXkR5p5L5PBTnFxLNVJszrfaQgtN5kk-Sa9A7KKwaVQFtQubQZYuKSEHY6WCE9pQwBxIqBiMWuW+pjlj7jC2QQy3JUb2aZPswodLdZRMsBJ7K1hrE2ZZ0pFlK0+AJJLalDG2xrKvgGypxZgrHriLdl4ylYVMpOV0AOl7EyIOrhcmOzXl+y4ZYuzGVArj6HymZV8rmUwp5JPS6oCMxgJHL8gDyueTzJGV4wkVXad5WyGmVrRTlD805bCo-lIhW2uuOTKCvuU2yIlTy-JTsruXIqDlvtTFe8k+XfL8AjAYwM0AFFXwAeAysFY8t0W0qXl9KrFeCpxWsroVKgUgM1VQZPUtApK9ILNg7LMqUVdC6KUKvUAUqGV2K45QhMVrtABA+AARjEHQDlMeSzVDMT0qxwfgZZAWKosCqBn2qjK8fPVXAANX4A4AAAKzgBRAzVCAC1VHwq6HzNRdqoLA6r7YurnV9qtaDjQQBRBzKQw9gPWS7q+qsAdAPgOwDGz1kogRJaxQGhlmKrzZYUCYaRHDW7kS12oWfH+grU6gEJsa+NbyIEB0AQqt2fprKoJl0MZgljE+R4ypXny7ZLigqew0gxshwYGVRVl8DHUxqGy8ahRd6yTUNk7xRK4cdAUFHPYxh6yNcpXGGUKrpImIHqfkG3XiV8qBlHstOrjW6SklDABdXGvTXpFfVy6puWYCXS6lPpNwntUOVbFTNzpWmL3u+rZAWoMqJ64NGepzj1qYVl9CAOwDoATZMsmQuFSOH-ybVRBB2excMtKx+d88Ygr4Ghv7mepwN-q2wB-nTKtqbA7auFaKxozFUYCI6ydQULVV5KY0l07taOtfaVkJ1+QKdWBpnX4BCNgMJtS2pYBka0cWSlyCxsnV9qGmA6w0bFLCi0bONjK5rhxt7V1qeNu0-LNBtg1NkRhGG7IPpXUBfroh88nIAUr00B5DFn9ajsisxbnr41zAc8nQBOzIVVQe9AHgPmvalrNlIIiwsOrXK1rxKNakkf-HA32b0Ajm7kmUoQA915hmIQLWWoYmkR1lVawEnFrWiRaiAzav6MRnYCLgA56tI6B2RQ7IraFIi+hY6n-w0a0qVwzaX5qC0Hx0tyOL5XAGy1HBM2w4FFlMBmLT5qtXmooeaWuG6ZutLC6tbVoQnpb0h12Jsl0p7qxcdiqy9QOQRvg7rTNC29ZaAtsbmbvKaWzVgQAm1wbVSCyy5U9T6DbV5t2oRbegupWCqCGYm4tRds2mbaxtO2tIQ2Um0qB8A5y3As5oPnPZVa2QUJsisu39rIlSfFbedrW0PagV22rui9oyG6Tfl3E4TkQVpF-bVt9yoHVJpB1n8wdAOhbZDspVPaYd+APbVNq7r4y4VfExrDAVx3nbltt2-7fdoC2Pbodu217fto5VcqnqRy0vgPhp1Lbet7Y1gfTrR2A78d2qlnbDre34ApVP3OgORo-nxgfMRDO7RDoF3Mi5xwu8HejrF1YqJd+cCbNBqO1ZCpgIY+ltJDEJOi1d3kgOEIVqbstux+2Waulv9HutjVgmagYKV9LaYIET5MQjJGGXK7dytwwiLdPLlO7nt1MKse6y9U+qPdxuzarxNE3ZB8JM2APbAJT1vhWl-8dLekRwCMAGAcFdkmADTy+q7yL6zbHzj52GaPx4c-QJYQZ3rKHdPEVLTnBz1wA89Be+CviRwDwaFd6ggAi6C-nIqi8DGrZZATcXqAqtyW2xqNr10wbLyTZQ9tQG6UfzDA4pRVb+WyDAbwyp00fd5pkJv1t9r4IDQaGP1663AwmIvSXsBgh8otOhJdGSWA7ZLwlwOmlcPz7b8zilXI9LRfpxLpri9bVQGMgPJ0fzdKtUn0vbS9p5jMdb+8vLKQUZbtHdTrH-e3r-18AADvqnkuoVR4JcdiwcmKBlHi3vJNFvGQg3hrMgoHL9-+6-Ye0iBG6EN2GxVZbLCgZQAN9G0reqrFwVbNFrBr4GQa-3gLKDIoacpNhv2uEXJZJYQs-ur15TB1Iy5dogdlzIGI9v+2gJq05I5aRIPNKDFIYdrQGu2WOx1KJt3LlkmJZo4jkIbUOiGsDiPZCrNhRaLpBFB2fg6ivtkbwk9BBtjTHNYmWGRDGh7VhH2c0zT11bxXg4evYM6KytXBpkB4aHIfr+DsS8-agd40+r01HAW-RIZqbSGiDCh2yd4cJ0EBVDbgdkhwGAN3lTE4CSRo4tcNyHjDCWvcooYQLKGidRR1IxCzXzsUfpOxKYBIpcN76+tak9ILEdINeGwF2kyw8UbSO0HAjnu10YWr5xhHnsERq7VEbgMxGeD8R0Y+Ye-0R7IterOABqzgDy6V1OQM1JxQgSxbRtVun9VB0rVJaat9xqdPADsASA9ge0lACAHsCuktA7AYwMmSjDKAug2jHAB8YABKAAcQABCAAQXRzo4QAvwcFLpW31Ih-NQQHNX9A+P9ARwIAAUEAA"));
     })()
 
 /***/ }),
@@ -17109,1596 +17165,1652 @@ filter: Nearest, Nearest
 repeat: none
 sprites/belt/built/forward_1
   rotate: false
-  xy: 2054, 156
+  xy: 1654, 112
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_10
   rotate: false
-  xy: 2432, 157
+  xy: 2032, 112
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_11
   rotate: false
-  xy: 2474, 157
+  xy: 2074, 112
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_12
   rotate: false
-  xy: 2516, 157
+  xy: 2116, 112
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_13
   rotate: false
-  xy: 2558, 157
+  xy: 2158, 112
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_2
   rotate: false
-  xy: 2096, 156
+  xy: 1696, 112
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_3
   rotate: false
-  xy: 2138, 156
+  xy: 1738, 112
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_4
   rotate: false
-  xy: 2180, 156
+  xy: 1780, 112
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_5
   rotate: false
-  xy: 2222, 157
+  xy: 1822, 112
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_6
   rotate: false
-  xy: 2264, 157
+  xy: 1864, 112
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_7
   rotate: false
-  xy: 2306, 157
+  xy: 1906, 112
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_8
   rotate: false
-  xy: 2348, 157
+  xy: 1948, 112
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_9
   rotate: false
-  xy: 2390, 157
+  xy: 1990, 112
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/left_1
   rotate: false
-  xy: 1099, 60
+  xy: 1779, 162
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_10
   rotate: false
-  xy: 2738, 161
+  xy: 2193, 162
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_11
   rotate: false
-  xy: 2784, 161
+  xy: 2239, 162
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_12
   rotate: false
-  xy: 2830, 161
+  xy: 2285, 162
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_13
   rotate: false
-  xy: 2876, 161
+  xy: 2331, 162
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_2
   rotate: false
-  xy: 1145, 60
+  xy: 1825, 162
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_3
   rotate: false
-  xy: 184, 14
+  xy: 1871, 162
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_4
   rotate: false
-  xy: 230, 14
+  xy: 1917, 162
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_5
   rotate: false
-  xy: 276, 14
+  xy: 1963, 162
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_6
   rotate: false
-  xy: 322, 14
+  xy: 2009, 162
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_7
   rotate: false
-  xy: 2600, 161
+  xy: 2055, 162
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_8
   rotate: false
-  xy: 2646, 161
+  xy: 2101, 162
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_9
   rotate: false
-  xy: 2692, 161
+  xy: 2147, 162
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/right_1
   rotate: false
-  xy: 2922, 161
+  xy: 2377, 162
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_10
   rotate: false
-  xy: 3176, 160
+  xy: 2607, 161
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_11
   rotate: false
-  xy: 3260, 161
+  xy: 2200, 116
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_12
   rotate: false
-  xy: 3306, 161
+  xy: 2246, 116
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_13
   rotate: false
-  xy: 3352, 161
+  xy: 2292, 116
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_2
   rotate: false
-  xy: 368, 12
+  xy: 184, 15
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_3
   rotate: false
-  xy: 414, 12
+  xy: 230, 15
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_4
   rotate: false
-  xy: 460, 12
+  xy: 276, 15
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_5
   rotate: false
-  xy: 506, 12
+  xy: 322, 15
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_6
   rotate: false
-  xy: 2992, 160
+  xy: 2423, 161
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_7
   rotate: false
-  xy: 3038, 160
+  xy: 2469, 161
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_8
   rotate: false
-  xy: 3084, 160
+  xy: 2515, 161
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_9
   rotate: false
-  xy: 3130, 160
+  xy: 2561, 161
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/blueprints/analyzer
   rotate: false
-  xy: 1108, 206
+  xy: 1016, 107
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/balancer
   rotate: false
-  xy: 930, 206
+  xy: 838, 107
   size: 87, 48
   orig: 96, 48
   offset: 5, 0
   index: -1
 sprites/blueprints/balancer-belt-crossover
   rotate: false
-  xy: 1557, 160
+  xy: 3967, 211
   size: 44, 44
   orig: 48, 48
   offset: 3, 3
   index: -1
 sprites/blueprints/balancer-merger
   rotate: false
-  xy: 2158, 206
+  xy: 1300, 157
   size: 47, 48
   orig: 48, 48
   offset: 1, 0
   index: -1
 sprites/blueprints/balancer-merger-inverse
   rotate: false
-  xy: 1009, 106
+  xy: 1150, 157
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/balancer-merger-triple_all
   rotate: false
-  xy: 2257, 207
+  xy: 1686, 208
   size: 48, 47
   orig: 48, 48
   offset: 0, 1
   index: -1
 sprites/blueprints/balancer-merger-triple_both
   rotate: false
-  xy: 655, 61
+  xy: 655, 62
   size: 48, 43
   orig: 48, 48
   offset: 0, 5
   index: -1
 sprites/blueprints/balancer-merger-triple_center
   rotate: false
-  xy: 2806, 207
+  xy: 2235, 208
   size: 47, 47
   orig: 48, 48
   offset: 1, 1
   index: -1
 sprites/blueprints/balancer-merger-triple_left
   rotate: false
-  xy: 2357, 207
+  xy: 1786, 208
   size: 48, 47
   orig: 48, 48
   offset: 0, 1
   index: -1
 sprites/blueprints/balancer-merger-triple_right
   rotate: false
-  xy: 2904, 207
+  xy: 2333, 208
   size: 47, 47
   orig: 48, 48
   offset: 1, 1
   index: -1
 sprites/blueprints/balancer-splitter
   rotate: false
-  xy: 3002, 206
+  xy: 2431, 207
   size: 47, 48
   orig: 48, 48
   offset: 1, 0
   index: -1
 sprites/blueprints/balancer-splitter-inverse
   rotate: false
-  xy: 1158, 206
+  xy: 1066, 107
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/balancer-splitter-triple_all
   rotate: false
-  xy: 2507, 207
+  xy: 1936, 208
   size: 48, 47
   orig: 48, 48
   offset: 0, 1
   index: -1
 sprites/blueprints/balancer-splitter-triple_both
   rotate: false
-  xy: 705, 61
+  xy: 705, 62
   size: 48, 43
   orig: 48, 48
   offset: 0, 1
   index: -1
 sprites/blueprints/balancer-splitter-triple_center
   rotate: false
-  xy: 3296, 207
+  xy: 2725, 208
   size: 47, 47
   orig: 48, 48
   offset: 1, 1
   index: -1
 sprites/blueprints/balancer-splitter-triple_left
   rotate: false
-  xy: 2607, 207
+  xy: 2036, 208
   size: 48, 47
   orig: 48, 48
   offset: 0, 1
   index: -1
 sprites/blueprints/balancer-splitter-triple_right
   rotate: false
-  xy: 3394, 207
+  xy: 2823, 208
   size: 47, 47
   orig: 48, 48
   offset: 1, 1
   index: -1
 sprites/blueprints/belt_crossing
   rotate: false
-  xy: 1603, 160
+  xy: 4013, 211
   size: 44, 44
   orig: 48, 48
   offset: 3, 3
   index: -1
 sprites/blueprints/belt_crossing-corner
   rotate: false
-  xy: 1053, 61
+  xy: 1053, 62
   size: 44, 43
   orig: 48, 48
   offset: 3, 4
   index: -1
 sprites/blueprints/belt_crossing-switcher
   rotate: false
-  xy: 831, 106
+  xy: 972, 157
   size: 87, 48
   orig: 96, 48
   offset: 5, 0
   index: -1
 sprites/blueprints/belt_left
   rotate: false
-  xy: 1649, 160
+  xy: 1566, 111
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/belt_right
   rotate: false
-  xy: 1741, 160
+  xy: 1687, 162
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/blueprints/belt_top
   rotate: false
-  xy: 1970, 156
+  xy: 1599, 157
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/blueprints/comparator
   rotate: false
-  xy: 555, 59
+  xy: 555, 60
   size: 48, 45
   orig: 48, 48
   offset: 0, 3
   index: -1
 sprites/blueprints/constant_signal
   rotate: false
-  xy: 3222, 160
+  xy: 4059, 211
   size: 36, 44
   orig: 48, 48
   offset: 6, 4
   index: -1
 sprites/blueprints/cutter
   rotate: false
-  xy: 928, 156
+  xy: 1147, 207
   size: 87, 48
   orig: 96, 48
   offset: 5, 0
   index: -1
 sprites/blueprints/cutter-laser
   rotate: false
-  xy: 562, 156
+  xy: 781, 207
   size: 93, 48
   orig: 96, 48
   offset: 2, 0
   index: -1
 sprites/blueprints/cutter-quad
   rotate: false
-  xy: 187, 156
+  xy: 187, 157
   size: 177, 48
   orig: 192, 48
   offset: 7, 0
   index: -1
 sprites/blueprints/display
   rotate: false
-  xy: 1833, 158
+  xy: 3779, 209
   size: 44, 46
   orig: 48, 48
   offset: 2, 0
   index: -1
 sprites/blueprints/filter
   rotate: false
-  xy: 745, 206
+  xy: 653, 107
   size: 92, 48
   orig: 96, 48
   offset: 4, 0
   index: -1
 sprites/blueprints/hyperlink
   rotate: false
-  xy: 2968, 159
+  xy: 2653, 159
   size: 22, 46
   orig: 48, 48
   offset: 13, 1
   index: -1
 sprites/blueprints/hyperlink-hyperlink_entrance
   rotate: false
-  xy: 1208, 164
+  xy: 1116, 65
   size: 48, 90
   orig: 48, 96
   offset: 0, 3
   index: -1
 sprites/blueprints/hyperlink-hyperlink_exit
   rotate: false
-  xy: 1308, 164
+  xy: 1216, 65
   size: 48, 90
   orig: 48, 96
   offset: 0, 3
   index: -1
 sprites/blueprints/hyperlink_left
   rotate: false
-  xy: 1796, 123
+  xy: 441, 22
   size: 31, 35
   orig: 48, 48
   offset: 1, 1
   index: -1
 sprites/blueprints/hyperlink_right
   rotate: false
-  xy: 1862, 121
+  xy: 474, 22
   size: 31, 35
   orig: 48, 48
   offset: 16, 1
   index: -1
 sprites/blueprints/item_producer
   rotate: false
-  xy: 3890, 206
+  xy: 3319, 207
   size: 45, 48
   orig: 48, 48
   offset: 2, 0
   index: -1
 sprites/blueprints/lever
   rotate: false
-  xy: 1723, 117
+  xy: 368, 16
   size: 35, 41
   orig: 48, 48
   offset: 6, 5
   index: -1
 sprites/blueprints/logic_gate
   rotate: false
-  xy: 3692, 212
+  xy: 3121, 213
   size: 48, 42
   orig: 48, 48
   offset: 0, 6
   index: -1
 sprites/blueprints/logic_gate-not
   rotate: false
-  xy: 1159, 106
+  xy: 3689, 207
   size: 43, 48
   orig: 48, 48
   offset: 3, 0
   index: -1
 sprites/blueprints/logic_gate-or
   rotate: false
-  xy: 805, 62
+  xy: 805, 63
   size: 48, 42
   orig: 48, 48
   offset: 0, 6
   index: -1
 sprites/blueprints/logic_gate-xor
   rotate: false
-  xy: 605, 60
+  xy: 605, 61
   size: 48, 44
   orig: 48, 48
   offset: 0, 4
   index: -1
 sprites/blueprints/miner
   rotate: false
-  xy: 3051, 206
+  xy: 2480, 207
   size: 47, 48
   orig: 48, 48
   offset: 1, 0
   index: -1
 sprites/blueprints/miner-chainable
   rotate: false
-  xy: 3149, 206
+  xy: 2578, 207
   size: 47, 48
   orig: 48, 48
   offset: 1, 0
   index: -1
 sprites/blueprints/miner-deep
   rotate: false
-  xy: 1117, 156
+  xy: 1250, 157
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/mixer
   rotate: false
-  xy: 650, 106
+  xy: 791, 157
   size: 89, 48
   orig: 96, 48
   offset: 3, 0
   index: -1
 sprites/blueprints/painter
   rotate: false
-  xy: 366, 156
+  xy: 500, 157
   size: 96, 48
   orig: 96, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/painter-double
   rotate: false
-  xy: 187, 60
+  xy: 187, 61
   size: 96, 94
   orig: 96, 96
   offset: 0, 2
   index: -1
 sprites/blueprints/painter-mirrored
   rotate: false
-  xy: 464, 156
+  xy: 598, 157
   size: 96, 48
   orig: 96, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/painter-quad
   rotate: false
-  xy: 1, 19
+  xy: 1, 20
   size: 181, 48
   orig: 192, 48
   offset: 3, 0
   index: -1
 sprites/blueprints/reader
   rotate: false
-  xy: 1408, 206
+  xy: 1386, 207
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/rotater
   rotate: false
-  xy: 1508, 206
+  xy: 1316, 107
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/rotater-ccw
   rotate: false
-  xy: 1608, 206
+  xy: 1399, 157
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/rotater-rotate180
   rotate: false
-  xy: 1708, 206
+  xy: 1486, 207
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/stacker
   rotate: false
-  xy: 839, 206
+  xy: 747, 107
   size: 89, 48
   orig: 96, 48
   offset: 3, 0
   index: -1
+sprites/blueprints/stacker-smart
+  rotate: false
+  xy: 366, 157
+  size: 132, 48
+  orig: 144, 48
+  offset: 3, 0
+  index: -1
 sprites/blueprints/storage
   rotate: false
-  xy: 383, 58
+  xy: 383, 59
   size: 84, 96
   orig: 96, 96
   offset: 6, 0
   index: -1
 sprites/blueprints/storage-mini
   rotate: false
-  xy: 3984, 206
+  xy: 3413, 207
   size: 44, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/blueprints/transistor
   rotate: false
-  xy: 1167, 156
+  xy: 2677, 158
   size: 35, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/transistor-mirrored
   rotate: false
-  xy: 1425, 116
+  xy: 2751, 158
   size: 34, 48
   orig: 48, 48
   offset: 14, 0
   index: -1
 sprites/blueprints/trash
   rotate: false
-  xy: 1858, 206
+  xy: 1536, 207
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/underground_belt_entry
   rotate: false
-  xy: 1408, 166
+  xy: 1316, 67
   size: 48, 38
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/underground_belt_entry-tier2
   rotate: false
-  xy: 755, 61
+  xy: 755, 62
   size: 48, 43
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/underground_belt_exit
   rotate: false
-  xy: 905, 66
+  xy: 905, 67
   size: 48, 38
   orig: 48, 48
   offset: 0, 10
   index: -1
 sprites/blueprints/underground_belt_exit-tier2
   rotate: false
-  xy: 1458, 166
+  xy: 1366, 67
   size: 48, 38
   orig: 48, 48
   offset: 0, 10
   index: -1
 sprites/blueprints/virtual_processor
   rotate: false
-  xy: 1958, 206
+  xy: 1466, 107
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/virtual_processor-painter
   rotate: false
-  xy: 1204, 114
+  xy: 3505, 207
   size: 44, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/blueprints/virtual_processor-rotater
   rotate: false
-  xy: 1215, 64
+  xy: 2923, 160
   size: 21, 48
   orig: 48, 48
   offset: 14, 0
   index: -1
 sprites/blueprints/virtual_processor-stacker
   rotate: false
-  xy: 1296, 114
+  xy: 3597, 207
   size: 44, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/blueprints/virtual_processor-unstacker
   rotate: false
-  xy: 2058, 206
+  xy: 1549, 157
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/blueprints/wire_tunnel
   rotate: false
-  xy: 2707, 207
+  xy: 2136, 208
   size: 48, 47
   orig: 48, 48
   offset: 0, 1
   index: -1
 sprites/buildings/analyzer
   rotate: false
-  xy: 1017, 156
+  xy: 1236, 207
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/balancer
   rotate: false
-  xy: 839, 156
+  xy: 1058, 207
   size: 87, 48
   orig: 96, 48
   offset: 5, 0
   index: -1
 sprites/buildings/balancer-merger
   rotate: false
-  xy: 2757, 207
+  xy: 2186, 208
   size: 47, 47
   orig: 48, 48
   offset: 1, 1
   index: -1
 sprites/buildings/balancer-merger-inverse
   rotate: false
-  xy: 2207, 207
+  xy: 1636, 208
   size: 48, 47
   orig: 48, 48
   offset: 0, 1
   index: -1
 sprites/buildings/balancer-merger-triple_all
   rotate: false
-  xy: 2307, 207
+  xy: 1736, 208
   size: 48, 47
   orig: 48, 48
   offset: 0, 1
   index: -1
 sprites/buildings/balancer-merger-triple_both
   rotate: false
-  xy: 3592, 211
+  xy: 3021, 212
   size: 48, 43
   orig: 48, 48
   offset: 0, 5
   index: -1
 sprites/buildings/balancer-merger-triple_center
   rotate: false
-  xy: 2855, 207
+  xy: 2284, 208
   size: 47, 47
   orig: 48, 48
   offset: 1, 1
   index: -1
 sprites/buildings/balancer-merger-triple_left
   rotate: false
-  xy: 2407, 207
+  xy: 1836, 208
   size: 48, 47
   orig: 48, 48
   offset: 0, 1
   index: -1
 sprites/buildings/balancer-merger-triple_right
   rotate: false
-  xy: 2953, 207
+  xy: 2382, 208
   size: 47, 47
   orig: 48, 48
   offset: 1, 1
   index: -1
 sprites/buildings/balancer-splitter
   rotate: false
-  xy: 3247, 207
+  xy: 2676, 208
   size: 47, 47
   orig: 48, 48
   offset: 1, 1
   index: -1
 sprites/buildings/balancer-splitter-inverse
   rotate: false
-  xy: 2457, 207
+  xy: 1886, 208
   size: 48, 47
   orig: 48, 48
   offset: 0, 1
   index: -1
 sprites/buildings/balancer-splitter-triple_all
   rotate: false
-  xy: 2557, 207
+  xy: 1986, 208
   size: 48, 47
   orig: 48, 48
   offset: 0, 1
   index: -1
 sprites/buildings/balancer-splitter-triple_both
   rotate: false
-  xy: 3642, 211
+  xy: 3071, 212
   size: 48, 43
   orig: 48, 48
   offset: 0, 1
   index: -1
 sprites/buildings/balancer-splitter-triple_center
   rotate: false
-  xy: 3345, 207
+  xy: 2774, 208
   size: 47, 47
   orig: 48, 48
   offset: 1, 1
   index: -1
 sprites/buildings/balancer-splitter-triple_left
   rotate: false
-  xy: 2657, 207
+  xy: 2086, 208
   size: 48, 47
   orig: 48, 48
   offset: 0, 1
   index: -1
 sprites/buildings/balancer-splitter-triple_right
   rotate: false
-  xy: 3443, 207
+  xy: 2872, 208
   size: 47, 47
   orig: 48, 48
   offset: 1, 1
   index: -1
 sprites/buildings/belt_crossing
   rotate: false
-  xy: 3398, 162
+  xy: 2338, 117
   size: 43, 43
   orig: 48, 48
   offset: 3, 3
   index: -1
 sprites/buildings/belt_crossing-corner
   rotate: false
-  xy: 3443, 163
+  xy: 2508, 117
   size: 42, 42
   orig: 48, 48
   offset: 4, 4
   index: -1
 sprites/buildings/belt_crossing-switcher
   rotate: false
-  xy: 1019, 206
+  xy: 927, 107
   size: 87, 48
   orig: 96, 48
   offset: 5, 0
   index: -1
 sprites/buildings/belt_left
   rotate: false
-  xy: 1695, 160
+  xy: 1641, 162
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/belt/built/left_0
   rotate: false
-  xy: 1695, 160
+  xy: 1641, 162
   size: 44, 44
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/belt_right
   rotate: false
-  xy: 1787, 160
+  xy: 1733, 162
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/right_0
   rotate: false
-  xy: 1787, 160
+  xy: 1733, 162
   size: 44, 44
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/buildings/belt_top
   rotate: false
-  xy: 2012, 156
+  xy: 1612, 107
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/belt/built/forward_0
   rotate: false
-  xy: 2012, 156
+  xy: 1612, 107
   size: 40, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/buildings/comparator
   rotate: false
-  xy: 3492, 209
+  xy: 2921, 210
   size: 48, 45
   orig: 48, 48
   offset: 0, 3
   index: -1
 sprites/buildings/constant_signal
   rotate: false
-  xy: 1497, 120
+  xy: 2383, 116
   size: 36, 44
   orig: 48, 48
   offset: 6, 4
   index: -1
 sprites/buildings/cutter
   rotate: false
-  xy: 920, 106
+  xy: 1061, 157
   size: 87, 48
   orig: 96, 48
   offset: 5, 0
   index: -1
 sprites/buildings/cutter-laser
   rotate: false
-  xy: 555, 106
+  xy: 696, 157
   size: 93, 48
   orig: 96, 48
   offset: 2, 0
   index: -1
 sprites/buildings/cutter-quad
   rotate: false
-  xy: 370, 206
+  xy: 370, 207
   size: 177, 48
   orig: 192, 48
   offset: 7, 0
   index: -1
 sprites/buildings/display
   rotate: false
-  xy: 1879, 158
+  xy: 3825, 209
   size: 44, 46
   orig: 48, 48
   offset: 2, 0
   index: -1
 sprites/buildings/filter
   rotate: false
-  xy: 657, 156
+  xy: 876, 207
   size: 90, 48
   orig: 96, 48
   offset: 5, 0
   index: -1
 sprites/buildings/hub
   rotate: false
-  xy: 1, 69
+  xy: 1, 70
   size: 184, 185
   orig: 192, 192
   offset: 4, 3
   index: -1
 sprites/buildings/hyperlink
   rotate: false
-  xy: 1191, 58
+  xy: 2981, 163
   size: 22, 46
   orig: 48, 48
   offset: 13, 1
   index: -1
 sprites/buildings/hyperlink-hyperlink_entrance
   rotate: false
-  xy: 1258, 164
+  xy: 1166, 65
   size: 48, 90
   orig: 48, 96
   offset: 0, 3
   index: -1
 sprites/buildings/hyperlink-hyperlink_exit
   rotate: false
-  xy: 1358, 164
+  xy: 1266, 65
   size: 48, 90
   orig: 48, 96
   offset: 0, 3
   index: -1
 sprites/buildings/hyperlink_left
   rotate: false
-  xy: 1829, 122
+  xy: 507, 23
   size: 31, 34
   orig: 48, 48
   offset: 1, 1
   index: -1
 sprites/buildings/hyperlink_right
   rotate: false
-  xy: 1997, 120
+  xy: 2677, 122
   size: 31, 34
   orig: 48, 48
   offset: 16, 1
   index: -1
 sprites/buildings/item_producer
   rotate: false
-  xy: 3937, 206
+  xy: 3366, 207
   size: 45, 48
   orig: 48, 48
   offset: 2, 0
   index: -1
 sprites/buildings/lever
   rotate: false
-  xy: 1760, 118
+  xy: 405, 17
   size: 34, 40
   orig: 48, 48
   offset: 7, 6
   index: -1
 sprites/buildings/logic_gate
   rotate: false
-  xy: 855, 63
+  xy: 855, 64
   size: 48, 41
   orig: 48, 48
   offset: 0, 7
   index: -1
 sprites/buildings/logic_gate-not
   rotate: false
-  xy: 1925, 156
+  xy: 3734, 207
   size: 43, 48
   orig: 48, 48
   offset: 3, 0
   index: -1
 sprites/buildings/logic_gate-or
   rotate: false
-  xy: 3742, 212
+  xy: 3171, 213
   size: 48, 42
   orig: 48, 48
   offset: 0, 6
   index: -1
 sprites/buildings/logic_gate-xor
   rotate: false
-  xy: 3542, 210
+  xy: 2971, 211
   size: 48, 44
   orig: 48, 48
   offset: 0, 4
   index: -1
 sprites/buildings/miner
   rotate: false
-  xy: 3100, 206
+  xy: 2529, 207
   size: 47, 48
   orig: 48, 48
   offset: 1, 0
   index: -1
 sprites/buildings/miner-chainable
   rotate: false
-  xy: 3198, 206
+  xy: 2627, 207
   size: 47, 48
   orig: 48, 48
   offset: 1, 0
   index: -1
 sprites/buildings/miner-deep
   rotate: false
-  xy: 1109, 106
+  xy: 1336, 207
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/mixer
   rotate: false
-  xy: 749, 156
+  xy: 968, 207
   size: 88, 48
   orig: 96, 48
   offset: 4, 0
   index: -1
 sprites/buildings/painter
   rotate: false
-  xy: 549, 206
+  xy: 683, 207
   size: 96, 48
   orig: 96, 48
   offset: 0, 0
   index: -1
 sprites/buildings/painter-double
   rotate: false
-  xy: 285, 60
+  xy: 285, 61
   size: 96, 94
   orig: 96, 96
   offset: 0, 2
   index: -1
 sprites/buildings/painter-mirrored
   rotate: false
-  xy: 647, 206
+  xy: 555, 107
   size: 96, 48
   orig: 96, 48
   offset: 0, 0
   index: -1
 sprites/buildings/painter-quad
   rotate: false
-  xy: 187, 206
+  xy: 187, 207
   size: 181, 48
   orig: 192, 48
   offset: 3, 0
   index: -1
 sprites/buildings/reader
   rotate: false
-  xy: 1458, 206
+  xy: 1349, 157
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/rotater
   rotate: false
-  xy: 1558, 206
+  xy: 1436, 207
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/rotater-ccw
   rotate: false
-  xy: 1658, 206
+  xy: 1366, 107
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/rotater-rotate180
   rotate: false
-  xy: 1758, 206
+  xy: 1449, 157
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/stacker
   rotate: false
-  xy: 741, 106
+  xy: 882, 157
   size: 88, 48
   orig: 96, 48
   offset: 4, 0
   index: -1
+sprites/buildings/stacker-smart
+  rotate: false
+  xy: 549, 207
+  size: 132, 48
+  orig: 144, 48
+  offset: 3, 0
+  index: -1
 sprites/buildings/storage
   rotate: false
-  xy: 469, 58
+  xy: 469, 59
   size: 84, 96
   orig: 96, 96
   offset: 6, 0
   index: -1
 sprites/buildings/storage-mini
   rotate: false
-  xy: 4030, 206
+  xy: 3459, 207
   size: 44, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/buildings/transistor
   rotate: false
-  xy: 1388, 114
+  xy: 2714, 158
   size: 35, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/transistor-mirrored
   rotate: false
-  xy: 1461, 116
+  xy: 2787, 158
   size: 34, 48
   orig: 48, 48
   offset: 14, 0
   index: -1
 sprites/buildings/trash
   rotate: false
-  xy: 1908, 206
+  xy: 1499, 157
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/underground_belt_entry
   rotate: false
-  xy: 955, 66
+  xy: 955, 67
   size: 47, 38
   orig: 48, 48
   offset: 1, 0
   index: -1
+sprites/buildings/underground_belt_entry-smart_0
+  rotate: false
+  xy: 2421, 115
+  size: 42, 44
+  orig: 48, 48
+  offset: 4, 0
+  index: -1
+sprites/buildings/underground_belt_entry-smart_2
+  rotate: false
+  xy: 3871, 211
+  size: 46, 44
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+sprites/buildings/underground_belt_entry-smart_4
+  rotate: false
+  xy: 3919, 211
+  size: 46, 44
+  orig: 48, 48
+  offset: 2, 0
+  index: -1
 sprites/buildings/underground_belt_entry-tier2
   rotate: false
-  xy: 3792, 212
+  xy: 3221, 213
   size: 47, 42
   orig: 48, 48
   offset: 1, 0
   index: -1
 sprites/buildings/underground_belt_exit
   rotate: false
-  xy: 1508, 166
+  xy: 1416, 67
   size: 47, 38
   orig: 48, 48
   offset: 1, 10
   index: -1
+sprites/buildings/underground_belt_exit-smart_1
+  rotate: false
+  xy: 2465, 114
+  size: 41, 45
+  orig: 48, 48
+  offset: 4, 3
+  index: -1
+sprites/buildings/underground_belt_exit-smart_3
+  rotate: false
+  xy: 1465, 64
+  size: 45, 41
+  orig: 48, 48
+  offset: 0, 3
+  index: -1
+sprites/buildings/underground_belt_exit-smart_5
+  rotate: false
+  xy: 1512, 64
+  size: 45, 41
+  orig: 48, 48
+  offset: 3, 3
+  index: -1
 sprites/buildings/underground_belt_exit-tier2
   rotate: false
-  xy: 1004, 66
+  xy: 1004, 67
   size: 47, 38
   orig: 48, 48
   offset: 1, 10
   index: -1
 sprites/buildings/virtual_processor
   rotate: false
-  xy: 2008, 206
+  xy: 1586, 207
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/virtual_processor-painter
   rotate: false
-  xy: 1250, 114
+  xy: 3551, 207
   size: 44, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/buildings/virtual_processor-rotater
   rotate: false
-  xy: 1238, 64
+  xy: 2946, 160
   size: 21, 48
   orig: 48, 48
   offset: 14, 0
   index: -1
 sprites/buildings/virtual_processor-stacker
   rotate: false
-  xy: 1342, 114
+  xy: 3643, 207
   size: 44, 48
   orig: 48, 48
   offset: 4, 0
   index: -1
 sprites/buildings/virtual_processor-unstacker
   rotate: false
-  xy: 2108, 206
+  xy: 1516, 107
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/buildings/wire_tunnel
   rotate: false
-  xy: 3841, 208
+  xy: 3270, 209
   size: 47, 46
   orig: 48, 48
   offset: 1, 1
   index: -1
 sprites/colors/blue
   rotate: false
-  xy: 1311, 94
+  xy: 3005, 159
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 sprites/colors/cyan
   rotate: false
-  xy: 576, 39
+  xy: 540, 39
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 sprites/colors/green
   rotate: false
-  xy: 2147, 136
+  xy: 560, 40
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 sprites/colors/purple
   rotate: false
-  xy: 1331, 94
+  xy: 580, 40
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 sprites/colors/red
   rotate: false
-  xy: 576, 19
+  xy: 540, 19
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 sprites/colors/uncolored
   rotate: false
-  xy: 2167, 136
+  xy: 560, 20
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 sprites/colors/white
   rotate: false
-  xy: 1351, 94
+  xy: 580, 20
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 sprites/colors/yellow
   rotate: false
-  xy: 2187, 136
+  xy: 2552, 110
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 sprites/debug/acceptor_slot
   rotate: false
-  xy: 1535, 160
+  xy: 1559, 101
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 sprites/debug/ejector_slot
   rotate: false
-  xy: 1541, 160
+  xy: 3115, 206
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 sprites/misc/hub_direction_indicator
   rotate: false
-  xy: 1425, 98
+  xy: 87, 2
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 sprites/misc/hyperlink_good_arrow
   rotate: false
-  xy: 102, 4
+  xy: 368, 1
   size: 13, 13
   orig: 13, 13
   offset: 0, 0
   index: -1
 sprites/misc/processor_disabled
   rotate: false
-  xy: 1895, 127
+  xy: 3061, 181
   size: 28, 29
   orig: 32, 32
   offset: 2, 1
   index: -1
 sprites/misc/processor_disconnected
   rotate: false
-  xy: 1286, 82
+  xy: 3005, 179
   size: 23, 30
   orig: 32, 32
   offset: 5, 0
   index: -1
 sprites/misc/reader_overlay
   rotate: false
-  xy: 1925, 129
+  xy: 2823, 150
   size: 36, 25
   orig: 48, 48
   offset: 6, 11
   index: -1
 sprites/misc/slot_bad_arrow
   rotate: false
-  xy: 117, 4
+  xy: 383, 1
   size: 13, 13
   orig: 13, 13
   offset: 0, 0
   index: -1
 sprites/misc/slot_good_arrow
   rotate: false
-  xy: 132, 4
+  xy: 398, 1
   size: 13, 13
   orig: 13, 13
   offset: 0, 0
   index: -1
 sprites/misc/storage_overlay
   rotate: false
-  xy: 1, 2
+  xy: 1, 3
   size: 30, 15
   orig: 30, 15
   offset: 0, 0
   index: -1
 sprites/misc/waypoint
   rotate: false
-  xy: 86, 1
+  xy: 2626, 112
   size: 14, 16
   orig: 16, 16
   offset: 1, 0
   index: -1
 sprites/misc/waypoint_wires
   rotate: false
-  xy: 1497, 102
+  xy: 159, 2
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 sprites/wires/boolean_false
   rotate: false
-  xy: 2207, 139
+  xy: 2806, 123
   size: 12, 15
   orig: 16, 16
   offset: 2, 0
   index: -1
 sprites/wires/boolean_true
   rotate: false
-  xy: 596, 42
+  xy: 2861, 160
   size: 9, 15
   orig: 16, 16
   offset: 3, 0
   index: -1
 sprites/wires/display/blue
   rotate: false
-  xy: 1371, 96
+  xy: 33, 2
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 sprites/wires/display/cyan
   rotate: false
-  xy: 1389, 96
+  xy: 51, 2
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 sprites/wires/display/green
   rotate: false
-  xy: 1407, 96
+  xy: 69, 2
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 sprites/wires/display/purple
   rotate: false
-  xy: 1461, 98
+  xy: 123, 2
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 sprites/wires/display/red
   rotate: false
-  xy: 1479, 98
+  xy: 141, 2
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 sprites/wires/display/white
   rotate: false
-  xy: 1515, 102
+  xy: 2572, 112
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 sprites/wires/display/yellow
   rotate: false
-  xy: 51, 1
+  xy: 2608, 112
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 sprites/wires/lever_on
   rotate: false
-  xy: 1685, 118
+  xy: 2873, 166
   size: 36, 40
   orig: 48, 48
   offset: 6, 6
   index: -1
 sprites/wires/logical_acceptor
   rotate: false
-  xy: 1261, 76
+  xy: 2652, 121
   size: 23, 36
   orig: 48, 48
   offset: 13, 12
   index: -1
 sprites/wires/logical_ejector
   rotate: false
-  xy: 2123, 131
+  xy: 3091, 187
   size: 22, 23
   orig: 48, 48
   offset: 14, 25
   index: -1
 sprites/wires/network_conflict
   rotate: false
-  xy: 1443, 98
+  xy: 105, 2
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 sprites/wires/network_empty
   rotate: false
-  xy: 69, 1
+  xy: 2806, 140
   size: 15, 16
   orig: 16, 16
   offset: 1, 0
   index: -1
 sprites/wires/overlay_tile
   rotate: false
-  xy: 1963, 122
+  xy: 2710, 124
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 sprites/wires/sets/conflict_cross
   rotate: false
-  xy: 1067, 156
+  xy: 1286, 207
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/wires/sets/conflict_forward
   rotate: false
-  xy: 4076, 206
+  xy: 1099, 57
   size: 10, 48
   orig: 48, 48
   offset: 19, 0
   index: -1
 sprites/wires/sets/conflict_split
   rotate: false
-  xy: 1535, 129
+  xy: 2552, 130
   size: 48, 29
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/wires/sets/conflict_turn
   rotate: false
-  xy: 2030, 125
+  xy: 2744, 127
   size: 29, 29
   orig: 48, 48
   offset: 19, 0
   index: -1
 sprites/wires/sets/first_cross
   rotate: false
-  xy: 1059, 106
+  xy: 1200, 157
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/wires/sets/first_forward
   rotate: false
-  xy: 552, 8
+  xy: 2911, 158
   size: 10, 48
   orig: 48, 48
   offset: 19, 0
   index: -1
 sprites/wires/sets/first_split
   rotate: false
-  xy: 1585, 129
+  xy: 2602, 130
   size: 48, 29
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/wires/sets/first_turn
   rotate: false
-  xy: 2061, 125
+  xy: 2775, 127
   size: 29, 29
   orig: 48, 48
   offset: 19, 0
   index: -1
 sprites/wires/sets/second_cross
   rotate: false
-  xy: 1808, 206
+  xy: 1416, 107
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/wires/sets/second_forward
   rotate: false
-  xy: 564, 9
+  xy: 2969, 160
   size: 10, 48
   orig: 48, 48
   offset: 19, 0
   index: -1
 sprites/wires/sets/second_split
   rotate: false
-  xy: 1635, 129
+  xy: 2823, 177
   size: 48, 29
   orig: 48, 48
   offset: 0, 0
   index: -1
 sprites/wires/sets/second_turn
   rotate: false
-  xy: 2092, 125
+  xy: 3030, 181
   size: 29, 29
   orig: 48, 48
   offset: 19, 0
   index: -1
 sprites/wires/wires_preview
   rotate: false
-  xy: 33, 1
+  xy: 2590, 112
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
@@ -18715,7 +18827,7 @@ sprites/wires/wires_preview
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = (function() {
-        return JSON.parse(__webpack_require__(/*! global-compression */ "./src/js/core/lzstring.js").decompressX64("N4IgZgTghgtgpgZxALlAgDhAlgF0QegCM4AbHIgVyzPzAHsIB3KCAEwH0BGAOnQDsA5ilCRYcYSAAeKAEwAGAKwAWADQgAnik4KAbGsYolctQAtDADgC+aiHRxQ8rFGCgkEcNTmwx4T5F4oPEAxsPABlOgoIAGM4MKwAL3FUKUM1TWRjEANkI1MLa2DImLjE5NAcpXN83KtCkNwCYhpCKhp6JhYOTjleQQlReAlpZBklAGYZdK0FAHZ9QyyzWsLbe0dnV3dPb18UAKCG8OLY+KThtI0ULMqlgrUEE9LzlMrqkGWqy3rMRoQiUjkVrUcgdZhsLg8fhCFKDcqpUZKWaqK7IbTzbKLGpfGx2BxwPwuNxBLxYHwE-YQQIPX7HKKnMoXXLTTILXJ3FYPJ5neFvbF1GmhJqAygg2gMcHdGR9GEiaBDFIjGQKTh6VHotl5D73EBrfGErYk3YU-xUw60uLcxmKy4ZG5Y7Wcor0568iz876Cv4AlptUESrpccYygby+FKhQKd4ZDWY9ke3HrE1E7YgUnkvwHL10ko8pkou2ajk452560Vd2Or4-IX-ZpAv3izoQ6XQ0NiJnyACcapjuiLCd1eI2yBTRrJe1N1OCFoiLrzNuZqPt8arVi58-LcaqHpr3vrovaAYhwbbsLDnc442jMzVt0HepHY52E5NWZnQrnZZeoBGBeuA5rvUVo-tu7yfAKH77iKwJHs2HBKCG54douMicOYWR9neDoQasw7JoaL4ZpS05HJam6gX+LIrlquEbt+bq1Lu2bCr6YpgoGChIXKKG-rIMgCSysb3kBib6psxJEZO75kV+DKUbaAHbsW66lvJjE7kBe54HWMGNhxEI6Nx4AXqhMg6P+aJzIBdFDkmBqSWmxqZmaLFya6+bUTZOqPBRGngQU2msQ27HHhwszGXCnbjHIvYzBiIm2Y+BGOem0muVBObqZ5y7eU6vkMRIfJaSxulsXBkrsOYkWmXxozjJpfYJThOrJQ5qZpW+GWySB4aKayymDgV2WvJWuFBWVIUVYGXY1bxCIyOMXaYfFeUlm1Ekdc5JHmp+vU5YWg2iWpHmjUxJWZcFh7kCQcBgDgXBzQqdU9F2XYsjoNEop8Sh4fZm3jsRU67Y07kLnVK1LpU32GL99EjRW53jaVPpTTdd0PT0T19aMszXkJOicJqMO5HDdniaOhFOa+LmkbO+2LpDKLQ9iZPDadiOacjl2Tdd+C3fdkLY52szmJZqpE9uJNKGTG2U6l23A25DMQyyzOw6zwF+UVY2BSjB6wejgucK2-TIc9C3mDFBOSyzVay-h7WA+ldN7drjNq8TmvwxzYHMTzqN8wLmOnmbPEW0q5izHFaKE179t-RTz7U0DMn0+7quourpPeyd4N+xdZG84b-MY+wpuyiZ80jJwnBKAoH1fbncvJ51tMg1lvsjEz8c-VrhVnVzesBwbjbB+woeV1Fi7oeL2cy83jsA1JXWu6DKsIj3Uu5+z+fFdzReByX4+IWe4c44tkN173sOJ0+VNtztysZ5vnvbwnPt77rKwTUfY9l1xM+VcI6yGjkJee0sHb-XlltGmT9Lpgy3N3N+ds+6fy3PvYeh9R5inHkZIB086qTCmOqCBi9oGt0VmnN2A9M4ZDIR-POGDv7Vn1npXBZcIoENqgtT6V847vzQeTe+Cs4FKwQRvZBWcb6k37gjAuB8LTF3-oLaq3Dq6yAsjHCWMiZZ3xSrA1O3V060NftIwRt90GgUwT-Nh5UjYPVmuokBowdBdhITGARqDLHCIMc7VeHdyKmKkfQ3RbMN42NYSPdhNBsACBMJjYWqF3EeK0F4jWjCW4PyocYmh8iqLmO8bIqx-l-bYJieQOJCSuC9GcTjcYnAwHqk+mE-RTsV7t2fsE-qDChG72YUjLBSi-5iiqZjKEYdgH1PMvw22GShFZNEUYtend84FNCRY4pTDrEsMguU+x+AxlcAru2Fx4wYraPSTnTJS8YH+M6RIl+6zLhFL0SUnWgzbHRIOUcq8SSiHjAUKk2OczrkLNuZQsR1D15PJ6a095g8ApfP2WjQ5WB4kPROebepOgbxohIa8qBSdslQtyTC7pS4NmErkb7SJezhk4Niei6pk9Tk4yUNfdUBL5k+MWYYl2gTEEKUpS8nlWz+k7M+VElFfMjmn0mYQhESgWlcvhb49pKcBVdPyXCzZbztmlMLgyipaKMXsEAQqnhIwFCxSEtysFvKIUkuWYKyRurqUIs5ki6VxqfnMoevgy1GjRhvWBaqJuNyKHOq1Y8illlek+IlYaxRtYRlMrNVwoNZy5D42aRG8FUalkxp6rCkVUMxX6qTR8oeyLfWoqOWorN9S5BiwJvmx1hb+UBO1V3d1FbwkvzpZ6b59b-XsCcU2pkDTrZ5rVXy+58CS1xpQf2mlX8pX0tTYQEggRfh8BwP8KAfBXDqCSBAf5CJa4tpZPIbCG62nL01d22NOqBqHSHZ6hRQyt07rgHug9RBXBHtiOeupTIuwzoyLetkUcHxOqLc+pdr6G65TjLB46Vazo9jKQy39-66xAb4CBgAtPWYj0RbAIEeAANzgKBydM9IwYk8e2rZ86OmLpMa+8YQk1WYa9Thn9u7sD7oIyQYDdHiPwAgAIOjF6lTaDxdB7cGIkrwa7Q8pDva0ReRU0NCJuzh3YLwyJgDhBCMkek7JiAxGsB8FoxAdw8mtByDkO9dUtqv1OnY0+zTXHtOQxot61S-GvM+qE3+0zYmJM2as5J0k6BbrsFcCQZzoxlTMdkHIZqUrZgPruRx8RWm1lKXfSwvLn6h2-23cJuzZmLOSbizZhLSXCB2BMGlnQkYPqgprRMfLkKXU9pK2+pSkTxhroGX1zd+4TN1ei0RxrdHrPEZa3AdgsR91ybA6hDCMd5A5aRNiCr6rH2PyK-5kbksyu5FU4YE7oWqv6zm6JwD4nFuxeW-F7AiX1vBzS4tayqIDuam9Sdnz53oWrKQaVsb5XJuSum0Z3DtXXvmfe5Zr7zWftJbGQD5alkQd6arOD9TC6Lt5O09duHt3jsI+Td+2bqP6sY8kxgEguA8D0anlalAMU5DAuU5UO73myeFah0E191OBrC-04Owz1WXss5i8R9nnPJN2Yc05nbL1FM3s8x+07BXfOccpyNwLoO5emKeyPJXC2SNq5wFz1bOP1spYBzazLoxsuW5JwN6NiHLsw9GzL+HlWFfPeZ-btniX1fY6wL99gbWcAdZ1wiWYigeu+8+BNsSIiNOm-Ja+re436fVuC8jiL+G3sq8d87tbG24Bbe52yqdMhsPA598Tz4pPO3k4l0KnG0uaIi6RGXxFgmmeRfmzXj7qvY9O++wnpL-209Kk+l7onkTe-EoQ35s3weLdhYewZ+9iuo+z4dwv+vrv2B47X3zpahOu+y793nvx4uyXQ+FcPzUo+T-y5n6R7T5o6AgbaUYIB2YCBpbho8azp6pEr5795f6S7aZwExh8an5I7n4gFmZgEUZ0BUZQHkYMB8DbYMYvSKDoEoBXILxVi55G6DbFpB7CrUE6Z6oMGPYR624X71jgGEGQGCCq6MC4DRAmDkE87BpWzS49B3roZqZ96f4rKoEjYoY3byE+Sn4d4ppT7V58Gr4UGXoWTuYsZzpi4m4U5F4BYroOripYEV44F6FgH36GE1zIgyEqoeqMEB775WEjbxqYGAHYHAFOFkDsA4B0DoAwFdgZ5CT9hHQKG74F6WHf7sq6aJSaFBEOEhFRb4DRB0AwDoAsAOAMBpaRhqEoAKDuaRIKD+576F6pFMhH41Hj4CZGpV65H5F8AID2D7rsCQECDHqpYP7IDEJhqeF85qgFpJHIHKGD5MgxwrjjBTGJr2GT46REB255EUCL4t7YrgYyB4raByGj6qQQ45JzFurIAVGh7IAaH5RaErG1odEz7RA7HO7ibuB7HnxMi6BhrxE5AQZwaKEWED5XHAorhAkYaPHrFNBbFvG7HEYACOFAUArAMB6GWEbIjSpxdRyRYJpaXuK4OJVu8iOQnA7isJdYWxrAWA7OUA6gGJ5ycR7wryOgeJsxrqpaguui7J4eQBPBuB-wYAIIEhrei4yINxQuKAlJx05xpKlxpalkkJJCtkXByA2hjOGxNWQp+AJg6g6AdGHOfAAA1vjrinEdUfxNiHyd4fUSkSocHleLxnGIJFWLaeqcEYKdXvqYaRAMaSacRr6UaXZiaewE3l4BJjAfIEcRZNnjKXIByUoVyRSpDHATYstK0V5j2JXrobkcGf6aGUGQaSGaaeGZILgDATFLGfPEipme-hqpDigfMR7KiOmd-PWQauXjUDmY4fmSWYWWWQYZIS4o0h3jGItGyA0jUICkmaCc2VcTIfatOY6LOfyV6cZhfgWQGXfv6hiToGGmhFOZLMsGuXafiQuaWqqHaseTObUeudkd6bkY0DAOwJgHQKwBQCBmlteMtPrnevXMCTMcmcNsHhCZqChmqWse0XmTPrdA5jAbMJOeqI0lOZBYYJwHOU2YqRSvtmhdiJhQ+VSZsRfiQHQAIFgNEOwAIPiD+W4oLibPGbkDIFhRcSmcXukSwixURTBdqVsWRRRVRTRXgMRnwHYDAdoCYS5gBXAYkUgSBS+mgZxbkLJZkdbtwZubqQJZRdRfiMRqUSMRhDcQeUxUoNxeeZyaBcKs0VxVmTbppdXtpUJXpZIAZa4TQZnqiBMVKogR-vOThRxahpEgOupQKQ5bkTAHZmKfsYuDFCqP+X-kBfJf5exVTspUdtCVkcRTqdXpFWQTZmIVAHZlANunAD+XXFJd7gBbiQ2WdmxVZUPulTVV2RPrxXCRfnlZJqwHAH+hJaheqACYZrVcbthalebulRXjxToXxR1VgJINFT8YuF1lfAbigOYO5nJX5aNQ1VOspetaSbSjKU8eFrBa9kUXVgtVMlOjoNooNRqcdWceYdtYpeNUFUdQdeupqc8adQBudc3sRqwJEKVRiV7t5V9V2L5Y2fVS9YfspeDSFWSe9Y6L2TkTPn9c7pFRALYBAASGlsquLHdV9etE9dDcVrDW9fdR9QMkTTNjNbqejZJiiWiTAUJFaWiOYCea1CTQqWNcHmwcSRzVTZKhSaqVqe1bqTjWiZdYqjXEYEpqtfesNUwYHgftZRNULQzt9XTdXslN8VdYxtep3gBZNRZQpWTWrRTUjlNWLdSRfrreRtEIwDAZ9PLcbUlVtaTSwTjDZYrS1W0dNeLTrfhDZslOhLUu5WiBnq7aZY9SCc9ebd7erZlaFRuSjrqT0VANECadLbzncUtAlWhhtVzXHZ7arfUntUXQ8YATTbmdrbkT0QwFALJj+VbCyFGDBiTDmUrT4Q0Y6cKosR3T2R6TCcjeyX2TPg3dALJlJnZlgD+V2K2kbborHcBSlTtYuMqcvXZRpWndXpGd0XSREXrTLVoKqF7scfhXKdzUNjDRbTdoChrd2W1bbbqfvZAZPTPVjQwLjSMXXMqEJNeXGA1O7VDTzevS9JvUA9LCFtBQHS-XvdAAgKnhHehO3UvWFivclfHV7U0UnVBVlc-SRbqRQHwN1TJrYCQxwHwRGRAIyb-XLQTG7auZgx7WA7fYnR5kxdeNvWFbvbkZQ8thQ6Q0nmATQ+oKtlgHRliotXVLMN1l5b1t6gwfKTfQnbg6iChqXtbVrYHfw6Q4I5EMI9QxWTgGlstMZUw6eSw6A6ozg62TdjWtw9oydXXTPgI+Q4Y1Q6IyYxI1IzAfXLGZY3ztY3VWw2o-YzTo4zAwQ3A0Q9XtRlgBADgKiSQG+bYLEFRm5SOUPl2Gg1BgrVbabWvew+ow4ybZ6Y+eFTPgk0kyk2k3QBk48DZgzcfbnSbHIOLJyq8iEyNaXX4cHpA90zw6nS8a9jU8k64PU40wwMRrrdGdoB9NnEeVfSXWE3YxA8pcs-gynZU3w9U4kxM6k++dMzZhnVnTncGibOOafQmqLqs7Y2XQdJE9A8M7s6MwBuM3U8c4gE08RiQ2c9na08GvIHk1lkE3c6vdg48xE7cYUxU9lVsSITjeESQ2QcMRHTIBnpvi-mHkU1C-03fZE2Dq89lW0LSYIIekMaehc6OXIP1ViRg6xWs9C3QkS4-a1bE7BOSwINHkCy4lbJVRfWhs1So8wSywiDcSuPcSWOqTXdVmS1Aby1JljgDnI9i4dv-kyw8wS41ZbZq847TU0AqxS5fktjJhrvZnRtrhi0Tvk4dsS93faQSamXg-diS4Q1y4q6a59ua-Honu7iMZfOq6ZTvlg3040TC0FnTga7XUa9QNy0q01i7svutsnsg9k1OlUQxYo9iMo9fWKzq6U2y-Qe65y8azy968q768m4nptlzgDuYPI3a4lW-ni+G33bqw4-q37Yy-K-G16+jirkmw3sOeKXVGMF3s28flqwWxG6y7Cw6z2-ZQyuW4m1jjW7jnuYG7k2wVvvdtG228y4WzPE1Qe-Cx66u5W3XjS9MhlVO6-j3jOyrcey9Ke62+e2W-2ya4O3PtezZprla2VYG-XMG9O46xeQFdYZbYux+zbYeAm1e9fkvv6yQOixm6hExvrvawe6K8+3O2YmU2e7A3B569+w1qc0h3661u1nRWZTerXKZXm-c7Ox20W+WlKpwcRzo3WJez+1fhzoiQ3nWze1Og1FKTi7Tq27h74fhzXG+4+zG32yQAh3xzHgJzfim+wKOzFeO11qB9vk+zJ6x5GyG6WyR7x+R-Pup8h5uxij+TLLuxJxlQp4e9q7J1oPJ264p-rLx-gRAVAT+UtLGfahMLm4Z73S2UQjepqKpSpWZ9x-BwO35wIcQfkRAPlfZ6F80u2cxdiOZdJxF1cYTpqKLcxfFy43G8p0l2EQQUQUIQgCITgGISJzPHS5VdKXcSK-m3h8Z3VJKzBs1bKw9bGzx1+xW-oRjM7bk22mYcxz15FwR6KrYZWlxxV8ohwoLOHehy9G4jceGrN5C+2wtyEkt3QX0qt4a6N1V9+84Vuyg6LOfd5Wdx2od0e+52WrcytzEyRyakclt2O5eg9zNwgeFw6cd32stwjYdbw1ur52EREVEYG3S-8QBSpKD866+oMy1FXTs9lSagZBwP9zpwtMj3EajyA6E25710qulWj95yPJe-kYUcUUffZ7Kfk2zX1vea5yx+DyHlG1WNz7Bwl6RxW10RnX0QMUMf4zEXakscdZDZT7z1cQPUAwr+V5d4lyawifWyMe4itScRT70299T9antYNyPZ+9d2L+8ZJp8S131029JWyFCZtTY8r9yXDbFzK5b+Z2N-8Dr4zaieiSMeMLEeg+SbMF13N0Z3z0SdiVH+y4jCLaS-7-gLSfSXQyg1HIK2g2yej5eRSjyXqsPd9yL5eyKWQA7wiHp2Ty73Tzz-N1cf13GH+cnYjZTRe2nyYBQIQCzV5WzbPDUKgwX5B-4TYUP46CP-ySn1P+4iN1rxW9uaGRJV2NLnn9ae6aP7zT-mwaCm6Z8KX7j139b-8Mv6acWX6TuTQ1Gb-cqDWUxZ2QV2D1cWmY-4mdoyjQz93wOQGZf6WWGTgAmMqyoLWOLWR7If9G+sfV-iyBy41pOywvL-tgkvbn8wy2nGRpenMDt47Uy5TmqMUV7G8qefPGQjlxXKnkoe66EZvuBQG-9Qyu5Ozr-Tejn15At5VcgQOVrQCry2iUgXgIaga8F+ovf4C+XqaflvyofCDNiwAroUIWYbE3nz3ArbhpBPvMvmt0X7-B4K1fNwiqhjDoQpy0sSAc-wx7aZN8eg7EJAOF6qDBB-McijpWEpAcI6jbYynAO9SEUoBhXUtD7T6yuCLBmvKwU5V0oiUxKpjRgf-QGoyUjeHA9wRSn5oxck+vbHzmn38F2D9KfLepMiAYohdvU+XbrpwJdbQc8u-ApTghySEuUsmAPEYICjo7A4egpldgT3Rf4eDXWdhFQb4MvadVUhU6HoJDA67Odi6r3IgYuU8448O+VA7Um0KioFUTARVY9MDVD4Ulo63ePobIIGFXkhhyg4-lbwQ7tCAaPVRHig1ehCQCmJtQwYX0CqEd2+0PUYZVy2FzVNBKAZELnzkLHCchUQzHntXKa+9y+afFpmUSUDtcFaNdcDpZRKYmdW+w3fknKwSGn98ALTAGkDVugNtjKkJJ4hDW37gNFutxeGjw3Bpj0oRCHWEZjWxo-0I6FkSQS73BFuCGheQm7ICKXZI1NhXrWEUzRD7Z8yRcYdCHgOJox9XhSlCmhyLiHklZSDIk1pLTIb+NQBPQ54dyKpFnDi22zEYW82oFp85mv9SMAsMNwnCx+5Nc4fKMuGKixhyo4Og7Sdq-0us6ooapSKMGvUdRalBUan2hH21Q6GERChKKOERD6hVo7UXKNtF6j7RCHAFncOQDuFDhTw90U61OHaYsedxD4dXWG5FCvWk9JuvYO25Ko3EbdVkmtU7q2lNRO-HGKrxyCL1lgXdOkZ3yLG4jv+0IxMdPTypz0RiRgSDGCy3pAiza6zGnpbReb09kBafN+ofTKHE8a414I4l0z5xKCemkQmUVB3vqjjCheIr1j2I-qEjv6LIlMbLQEQ6C70wDFZv0I94UpOU99DsSWKuFXcEOkZJBtEUNr5NwWXI7cU30aH5CLhlA-UdcK9buMBAQjLxmETEZmMneyAG6i2ysZoiQRr7ThosNGLRMNhfvaEa+PfEiNPx+6Whr4wgDSN9aRCWYOz1kCMVQJZlQCeE2AkZBqqBQzsSuzT7QTPGsEh6EAMrKqiLxaSAicwxwmti5OerGcuBLtEn8EOpEyhuRPLK4BEJyEk+miFcyWQ-xoEpxpaIjFXYhhYknwQIMvafNJm3zTJh0NQiuZzRvtHMeiJO4LsBRO9WHmn3klHN0mPzGZj8Lv42oAGn3McR6IkkDN0qB4mSfGJNYGSpmxkkOsHWjK5p8JSzTkVZPDFaif8UYrZj6MfF+ivWzkxSb8wDHKSXoDUMNMOOW6+SIOuYp5rC3skXdZJ+kg5l8yMlKS-m3RewOc2ikLQegakwphpKAkYiBeuokKexK9ZIt1syTPgGixbocp9cGYyTofwYnismJGBLCUfzYmxN8iZFRzEQyrIMdUQENbEkinQhdSX2lUqacP1YnQ9dBU-TXkNIYAB91AR6Mok0gyD512R00xKcCNwnzSDpi0nhitOWAzTf460kaW+J6p8AAcdcc+ssQWmrTZp73H2pdK0BLT10309mgv1un-B0AUQX7FWRXIZBJpZ096c2OKYnStJAtc6TP0OmAy6Aw0-4DjWXHlDKiu0rQIPxRmwz8Wn05Sv9JmnIzzpN0tGRtPwAkNbpxIlcRhJ0AvS70pMo6S2O6mw5birMi6SjMpnoz8AjAEwI0BAHS4oZ5JAmeJP8kcMbs3M8me9L5nUz1ApAMiiaIxboRmZb0q6WzLhmMTOZiMmGSWO5m-xuqrQAQPgEzqxB0AR9fomRWCEoMFAD9eApUGxAfTTeeszUC7PXIuzjZcAU2fgDgAAArOANEGtkIBbZMBZQB4RoiezJZyU0Ec7KrDDNvZKMSKggGiB6le+7AWkjjRDlYA6AfAdgHZlpLRASiRU2WqEMhntTAGV07MS8InHWiac1ctJBdKeKqgF+qc9OagOop0APyyWL+qrIZmCTgU2cZ0lPyY43jchsormbFyvAXSZ5E2X+B3JhE5SmmWcukiVVuhYz+xP06blyhyyHEag7eV2fIOi6ukkUR8-kpMBnIsVF5dJdORFIYBry05+csgiHPpnYz8U5gGOFgLZDIVTyBguuZ6OFRSlf5sXGKDwyvmrkb5Kcu+YcjgBS0IA7AOgA5nExZ9B5ItPbtgLV6Hzue5U+GTQRvLYLHQyoGcQHCXlhy7ASeNEn3NsADyP5tcL3CPPnnHyYBfI5hTP2YW3y05+AChQ9AEA9yOALAWhVWWHnYl2FsczSe7PZHiL1So8q6QvJgXcKqx62ZBUaQZL98oMU5DkNoBYV3j762ioXqfhnRXTaiXC9OcwANJ0A6saWL+S6XJIkw25hMo7oML5EOL+py01ueWMPhLyLF6AKxX0XqkIAZe59AXNiU8W6LqRjc8JTP3CW-xAlRAHubdCPTsAxwAOW1loH2nklSuOipxXIPBJ2KtA2SwxYASbmxwF+8StrGjPgUFyDgZRa5rl1b7D9cFgCmyawQKUakmlLc4fl4uGTxKM+iWBkqNN-ph9RZLM6JRIoqkIywl3SrpVPx6Wpo+ldJAZeoDyJbTHpwy-ahNLGUzLclKwyJVzPGWyLYlKMRZZn3wD3Sm8-jSdkjXJLjK8Fus-ntMrmWzKa55SxJgQH6WoKYRoMhEfQzXEykq5dylpVLLY7ElDlp+UpW3LiXvL-gnywZZjP8ZoSWQC9J5a8t2U7ip5YKnZYbOOUBxTlyygWULLwARyFmHme1JCtrnSigF0sqJdiqOUzLoVONWFUsq+VKzUOdAOhdvOuIyFUVzc9FbeP2VYrnlMShlScphWlwHMSC9ZSg1xR7cVpOQV6VWAAVUrWleY0+QquOrmD0pjKggE5UmYWy-0rPO-v8qDF3o-5kxCJVLhiGukwF7imqbE3iV6rUmgc4OUarVnIUYwK5HIAf1kDjzlhGKqnIFNK6LRSFh8eJWQRwCMAGAYZLomAA5whz-GWXSubyrKX8rJ5k42lcKpxWiq8V4qiNVGogCADCiOANBR-LTHqhsS0gxxRMvwXsEZZVau1QMgpVvKmV+AVRf6QZLhFqAyY+hT2D35ukFVpXSYJaozW3FIFp5cyuqXHV85oFua1te4AAyxr41D0WrkEt-qxRz6d1MqcCrjnzsqpwUqbE+P+DxKF1AffOXGsooPQCeeNbLPtgVo1Ctx-qgVVLkqrEkG+DksVfOrgCLrz1y6-ogvgjmOyJynPc+V2BHUNy0QIGw+WBqIkLLxVp6vIr+svUot0uAOHNFfFCHerK6F8mtQ8opKs1f52GmDYeKPUCz4N364Uokx6L8EqMMBRQIKzdGPrWGeyzFTHVDW9LyNAGEUo5ivVhQyiQKFkFXIb73KOZkGkme+u1WfqCACG7jdRsdwRzG2dqKDcQuI0ia5pWk-DV5hw0fq510mijbQCo0PRkmqGpHiapNiaNZARG8DU6UFZs0sFywbTZJt03-AEN7gLohwFXUYkaJVVNjWmp5EQb91ww30YQxPX6a3N+cjgNepGK6BLIg-YTTuskVia+REmloS2r00AZwtwjeTaaKA2FLlNDm1TQlsmWczNNNiRzalp1UuawtwciLShulWDzuwh5CzSGmg3Waf8tmwja1tg3eh4lgStJnAASZwBOVGAioXvxTXVq1NxMvkeCpKWxLCg8AewBIDJBJiUAIABwJ8TkBackSIYNQB0BgAOBVtAAJQADiAAIQACC5gK7eYBAAPApsbmJ4sqA9Ilzboq23oMqBADfAgAA"));
+        return JSON.parse(__webpack_require__(/*! global-compression */ "./src/js/core/lzstring.js").decompressX64("N4IgZgTghgtgpgZxALlAgDhAlgF0QegCM4AbHIgVyzPzAHsIB3KCAEwH0BGAOnQDsA5ilCRYcYSAAeKTgDYArABYANCACeMzgCZVjFIoAMqgBb6AHAF9VEOjih5WKMFBII4qnNhjxHyTxXcQDGw8AGU6CggAYzhQrAAvcVQpfVUNZCMQPWRDE3MrIIjo2ISk0GzFMzycywLg3AJiGkIqGnomFg5OA15BCVF4CWlkLQMAZh11TUmKzNMagps7BycXNw8vHxR-QPqwopi4xKHUqYzdfTn81QQDkuPkiqqQecqLOswGhCJSchbqcjtZhsLg8fhCZIDMopEYGADsKjOnG0FxyVwW1ls9jgvmcrkCniw3hx2wgARun32kUOpROOTSKEys2qbxudyO0KeLNqFJCjV+lABtAYwK6Wl6EJE0EGyWGWmRsgZyGRM0u3MWWJWyDx6xAhOJvh2vIa4Wp92hw0R6SZape10KZo5Ei5doWHz53yaf1agJFnS4Ywl-WlFpQ8vkz3SKtRuVdrJAS2xuLWBM2JL8ZN2lNi7NpstO1pj6Pjt0defK5nV7q+P2aPuFHRB4vBwbEdLkAE5FUiUVlba9LJjlumdamiVsM+SgtnTcUnfn6WcbWj1Wyyw8KzUq8a8J6Bf82n6QYGW5CQ+24WNI9Mi6uE5qRymNuP00bp3zZzSNzCrYzb3HBwdOdyz7LcAPeHd+TrIUgX9RQgzPNsF04OEzEyKNe2ZcChyTVZ8WfA1SSnPYc3XUNF0LUDYwHOpc2-F0aOrXda29GCjw4eQEKlJDQGGTgzC0SYMNVFdsPvYdk3wvU00NTNIM-c06V-c4qOLQDS2A+jK3ApioNYw9Gw4WQuPAc9kLMWRlOjVS70TLVRwIic3xIhT514gs-xssSNK-TltMYyC92ggzRXYOETKhdsOwMbthP-GicPsp9pJfWTiJnOjyOU5dqPtHzFMefz8l0oL9N9Qz2DMCKzPc5UO0qJVrKwhLxNw7Vkv1Jy5PfE1MqUpUcrU2iyOdIq3UCljBRC-0O2qniYU4DtosazD+3tOzHykzrX26ly+oXbL4ry-bNwanSJq9KbyBIOAwBwLg5plWqULhDtGtkETFERV5FA1CS8N1ba0qzD8TphdDTgqb79F+tdNL8sCAp65jLoPa7bvu7pHvI+UOzGd7PuhnJYdapKtpkoiQd6kaFwhxcoZZEn8rcqjniRkjSqu-Abru0FsbpQSxjepEPpjImvr+tqHJSwjJypql4bpOnEQZuMmbBhjiou-d6x5zHmz6RCnphQSzHkAmxcZyWycBim5fksHhmVy21eGxXCsRrXkb0rm9YDfmFy0MYxk4C2qPFkmNsk23Usph2adq53w6tuHfNGz3xu9zm0e5jH2ANyVTPmviBPNkXCZT0nNpj2XnIyhPwaVFWYcr5mQM1zOOcmnO-ZPQ3uONku4VD8uXZ+63q7HWvdvr93E6bseYbdtOPbO9ns2z3W8-g08B-IxaULD1Xx8SyfHJ29LQYbp2F+T13U4K062a9rvUa33nON3ovB5kLt8dHu+J8q7Rynl1S+1M56NzOM3YmrcNZjTeCVbu797rGS-pFQOBgDDCyjKLQBS9T4gPPsDeOkCb7QMXsTZej9WbbizsgoUftwroJqibAw8gy64IrvfYBANQEX3lqRMhnl0gwK+nAhuHdEHa2CujXmVUWHFzDN0EeXDKES0IXw4hcdvauRAuQ0R6j1aSIQTyehb9GF51moon+IxOCKDhEfFuPCo5aJlmAwRejvwGMhs4oBbctIZ2keYnWQpsACGMJjAOtUg5wkcQA4+BDeHtXJrHe2ujHYeXpn4pJASEZrxfhvBhNBwmRK4D0GxONZDwneiPRJVDNEpJrh40hK9arKTERHahLMpFmNfqEkpWAImYzBP3b+ONRh0wVEYieRD3ECNaTQy0t96kaKAm02h50QmyPwKU-W0STZaEULFTQ3ZVmRwfHMoGOi9rXyyZ0iRkDekQW2WVXZQyymcD7oXDBMStAdiEqcmZjTpbXPSbc4RFFfGwJ4Xk9OBTO5FIsYM4Z+cDklysmXc5sy3FgrrlfSFHTgXrJoc8pByLyB7PYN81stig5TKxTkhpyTQV23xRAjZyyKH4OZXC1ez9EUemKZSj590d5jN+SbOEJzlSMphUA1xTT+EkIyXcqF2T5W5PgUEvpSKBkitRZ-CVrDhgTEBbK4lirWVpPZQrTl9ziV8qfnQ-pOyqVoONUokYigg61MtZc3FbKZ4Evteqh5sLtUIuCa6t5VLmGerpccnBMhZB1KZWsq1HUg3gLtUsh1PK1lOs2evIVFL3mooUQmnG8hOCcJTWmzVzLM2pOnjmoRoaiUFuMU80xLyY1cypdYqtAt5Cpr9V2nFSrtHgtnh2lZ6bu0bLJRdEgARPh8BwN8KAfAXBqESBAdFMgDByEajU4t60A1TvmSqiFoa6Y5QFSWSNj7dWltXXAddm6iAuG3TEA9lS6RmCvKe+J2QzDxJas25pCzVWQrrSpMDEHjomOQF2F1SL32fs9D+vgf6AC0Xo8NRBsAgW4AA3OA-7h0LiFrIeJ6R5QNvES4y91rW2eMycgf+UZHXPvQ2+td2AN3YZIL+yjeH4AQAEJRw9yoxhYMavIUD+gkMYhZVmm1waOV5uVANGMqmn0oaja+mshBMNCa-YQHD+HJPSYgHhrAfAKMQDcLJ5E8gGXKZ1ZOtjLTYN3r0+etTRbl3mPM45yz1nxO2fE4SdAN12AuBIG52QFklSjGeFIuEPmNPscWSzHxCGEHZYfj03t5LwvCe-aJ3D0XKN2bw3FhLhBbDGFkwoeDeCpFjByy2vzt6dP3pjI+nrpX27lZXYJiLImxP2Zi-ZprcB2AxA3TJgDgcg7wYy-plkJX1N9ZgwNgrMhAsVAM3tkLE2wtTaq1ZmrNn6uxewPFpbes3OoRldtoLDjevQZvbOwbp3ivdPG95irN3Iv3bq1Jp7WAXvsD2bJoOwd0sGEyyp3bv3lU3IB8d3TS4dtxgu3xrZr9KuQ9m3hjAJBcB4Coz8k1YZFAh1R15hxtlWO5f67j-RJ2CdUQM+pEnJbTPk5m7V+z1Paficc851z63noxRld0NnL6sfTtte2wH-PnljcCcZvtGGIfi-w1LnAdPGvPYS0ltzeNPto+G5jkFXPDs8+8SIzyWWQf67V+Dj9FmTfibNxbxb7AWs4DawrmEcJ2FKi6wg0b+2-s45Ddrwx33E+XbB5N-303quU+D7D+HK26dI7hFoLbDuBdO6T9jmdqe8eqM9xjon3v8m+5z1h-PEuqfxelwtq3r2MZI-GPb9HQS9tQbr5rrx5EhvfeJ0Zjv13c+3ai5Lvv5ui8JcR1HuUAluNhir2dmvU+NdadzY3oHORztt-hcvsnxuWLLZIwgRzAhZOGC+el5E-r-pXrxQvy1zx0P3x2xT13b341Fyfy9BfzoFI3fyIwYD4DW2o0V3kFAPj0bWZ3V2vRT20xAManUUz2F0KQE1X0s1+DgIQMECp0YFwCiGMFQIZy9Q7HL0Uy83Aw53-181dwb152QHg2XC4O8m1TQ1JyNwoNKnYDez3xkFHWV1-wnWdwO3+34PdxUnT3AJJTK2zxXy71gN3zQIWlS3oxTW4QVU51UPwMvwEM7W0KzwNz9wMKoJwDoHQDc3kCWg4KOjUzPzwPrwILsOv1ymC1IMFWgKkPwCiDoBgHQBYHsAYFkw4U6wfRZHkFwMALbVnyVhCMfQyIgPvygJRjF2iLoD4AQDsA3XYDfwEB3WSzkLRC8J-wbTGG7EsJ4JdzUKCI0JlWXDaMeSXSu0fyiKiAoC33p1pX3nsTMNhE4MF0yOzQ4zVSENRBEJaiz3EJFxKKfzGImLw1EzcEmKNnIlQibzmNRDxm4Kli6JsOAIEPNWXCuNEJQy2LIMiK7z2ItwAEcKAoBWA3MRCowlNUQXpribZp8gCciFxZjlwwSXie06pJhtjGhSjWAsBqcoA1BZMxg4lk1YRhZVlZBFjNNsjONzULD9BiTCj+VijUSn8wAARmCpi6QFBQCVdLjkSL1OjrDAjbCNDDpQIAU7xNj2j3idiojjA1B0BKMac+AABrJHNkxTQksMLknIak2vc-MktVb-JEVEQSFkTUxwh-SQrvKUmUiAOU+UvDC02UxzeU9gOADdaAWrNzaZM4BQR3V0aKEkvLfzNPFAf+DuX0mk51H04k5wgPfAO0q0h0206U+0hUp0yQXANzeUGVL0oLUMrUgImfTjOmYMsaHMk06oLsQ3cg80xMuM5M2Q4wy0RQc4w00CFnV0MYAo3MrI5YyFc41aLjEeeYdsu-WkiQys6M2M60hHUVT-BEdLESVswcjs-wrs-LAQk9JEecgcoMjs0s0cj46MhoGAdgTAOgVgCgP9HEkOfE0YNnMuSDKw5PPk+4jQx4mMO85DREpwzvaMm6ZzHE1Ld6VEdslkTgP07ndQ8iT7IC98nIUCsM77EzCUrvEgOgAQLAKIdgAQbEHE7QJsvUqRLQMCvgnoufPIlkQi+C0LEY5C1C9CzC7EPDPgWwf8swa8s9Cof+e8nkx8-MtVUAnKTij8oYvQ6in82ijCrCvAPDJIxotCTrIsoJCizspY1cjQ+fAi4c8MlEz0UolCtCiShiyQGS+slAapTrJjR9C5biyEnUyFdShBRdUlYYs06MmARzZkk4gWSoOmG8wnLim43k3inskIhYyi5yscvPNylA+zRgqARzKAMzOAJHJTa8C46vMSZclSgMq-HXFvDY8I6NFyyK9y+zVgOAD9dMjzHwhCoi7o-k0i3K7zMKkSoqqrNyyQDyveOkV6XskE0CVi8Es+PMqEzjfitY4WfK14sUiIpC6M+IiLTq8ZOkDzTzS46a+MTK0k7sgLRqt4sIqauknSp-ea1bUqiIRKwE2YsdIU6a+qWqu46E+eXa26xy3Qva8sqMvPE6i3NyiAGwCAHEZIjsVK2tLzPajah8my7awMorVDdaoXA6vc2ar6uK06vDX4-4tzVHUEswLcvwyG7U6Gwgxq-iPGwzRExadUwqiKqrAG-4xayVPiK8e3VXQaq5LKo7AQ+ypqnQ0HL8-Q6MjaY4rq5CEOZXdi3tFQnikatVbmg3Zq-m0SvPIWojKIRgNzIWfE0G70-yiEwm1ShqyiXXXmn3Q6ogUolWjafiCpEy5USoFmnW7kgK6W2ynao2yWk2yApG+kqIyoqAKIeUhmxnZABEWYjk-qiap2vW4a12nTMaiOkUsQ+Gis-cvPP2gOoPGAFgHAf85XPq7IL5KmwCTa-0zmjQ+OguiYROlDexcWRCn2rvSohgKAaTHEoDJUZo-qomcsqWqGg21k6-Mwbu40pOssyM78tOtw6AaTCTRzLAHExs0A3ygtYugmmOom4Ixq5jSaz800mmr9TwbdN-Ju4WpawOOjMOiMaCtmwNLa-u2ma-YChE4SxW1qg+104+qe2ev6hgQGxorQOEGtRTcfMYOu+6p8x6haQU7IUB6u3es2szJ-Q+hASPW22tAYs4Ze42ku8Cki3IretXBWve1OqrCgPgMqqTGwMhjgWA50zwbExor5dc9IOjR2rjVe6y-W7Krm09Nhq8TSmqz60h8h+rKh8hsPKguhiANQRrLASjAuFkmEjhOPT6EbcBoKt2lAOVKNEgpfBB0o6h0RiIcR2h1MnOxo6KTrVmtsjh52vu7htSsimxgRqit+74Qxyh4xmhyRsx2R+RjW2QTM6xwc2x6Olchxw25vDOfhoh-Rp-MjLACAHAP4kgY8mwGIUjYylg2xexQJkDNhiGzh9e++p692nm3c7S82+JxJ5JlwNJugDJ24ezb6oOr1ds2PTBiW7A0Joa8JsurKEIsB2J72o6qIhJpJlJ+pxphgPDIWpHAFdk6pA0smnp9mu+iJ9saB5ROBl+4h5GqrcZ2p1Jk86ZyXOwDO0+xm7ctg1ndRVZ2+0ut3AZreoZz2ookZqpsZmpyZk5xAJpvDMh9OwOy54O2tRQLW-Oj2nB4i+q-Bsp+Wt5kcypxBqI+ggG9gZJvgFAho22+UDBhjY-YHXurh-puFqJqNRfeBj5g8dEwQLdeovdVpnJoOB2mq4l4pjZh+ghnZpylq0tVoWlgQQPEFr1boK+zp+Ym+gAjmp55awe0KxFzccG+uz0AV9-YViTR7EVulfiMfPylTdRmW4Kre2-YZ5FtVul7vB7GHezWXSjeXNB2QfFo-cfClw12OvHOWx9Sl3ZhBi1oVq16HBrUPG3Rhy8PVhfd1jexx7l1vM18Uxof1jV+bS3OHZrVrHEgweUH-VRlkRPaFuq58yJ2GnRlx8K0zJNwNubLV1N4vOhpliZIe1HV1015S9Z0l5CEKmvCphN1V6gQV5Nmt0POs7J-eIDCNr3dlvp2Vrl+F71stvlit-t9VqtzVm12tnfac-+q8Ckwlm-U-Ne6diC9sLtuNxVwRi6Stu7AvTfUvf+ujCdvKg1qdmV49ztk17tgqlVqaAd1dwvW1pze1pKxhswNLTp11+dl99tmd0p8lyD891x-l5dy169nvf9jdpbUNtB4Gx9ifKNkpqBOdz9vR6lq99fXvGnfY0PcPVB0dukeTYeHNgp-Nw919vB2d6FUt+NmaxN5DgN1D03W97fJbEvBtgWOJZSL7E-M9gth6zjc4nKVtntnjvtkgX9gToPITgfNNofO6EfMDgliDg9opo99j2Dkt+D5T6mpdtTldjTjfSjkPQfKc4ZJHcDXdlt4zuxklmDhaU914H13l1+pD2zlDqg4jeAt-QQJHYOEGw+KiQSnIFjkztj2FmjdLGMRLnA7j6zlGK98L1-RAmIiAaK5KqvDCNnKmpS2TiBzjSTmMKrhd4Lmz9TgryLxAhAegnARgsThcAFMOrp9YqO3p1LotuVxqob-axE5VlOvLvj6QkdxR56SyXsrA7epJGrjRmG8NfxL92bn2HuPOG2uj5CFbpxbAqy7zjljt8znbrVEj81+b5-Iwk756S8RZykptVj6Dt99pedC7prvZg7+sKlY7pbhad7879br7lLn7szn8f76HwtPb8lfLsgDF9wlLXsKMLp0Iwpq70ztLv7reoaHL79stWCEEMHzy077Ho9NnUnttx537hHknnl3Q5rub0LgNmIuIhIqe+Z7NzB7oAppc775n+HwrNIuMHclHy9p7mIioqo+6Wo+omL9unsM5IM9ay7sJ0byB4YPooCnXwHv1hX8Yu9tBmKXqyVjK8X3BonmEVY-qhV0Us37n74L48TQ43r2qWQcQ4EsGrL+56VuHx3uUa-Z4ne4Smb1H83-YjGgExo3Enyrp+E3WkbsPsbmE6-dPoS3lym93399EzEhh22ndyvVU7AzUzbo10NCk9REeh73tn9ldxksgX3mEcDVl7IZaO32HiX8PrRyPxnt30jp74wCgQgLGs4GPHGomfiMXgfh37P4nrQmQJt10RfhdwvrfgFfb1T39ich0+Z3G96BS5s14Gv+3mF1fhadkg0qmpvqlx7j3mM6s60hMy0ycqRsTd0vJz0towFQ5la+HrHhmcAUoIoSy4RD6vLzf7H8FSX-JMo6TgBmN0yAAlhkALLIGB8OnLczpAOAE4DuOsA8xJWwQGOlFuNPWqB5lmK+oWyeNUBrgJu5+ckQClBckGVep80geh-FduQJc6RIlScSRqM2RgYMDdemfQfnfz4jK42BYg03uPzf6Hl6mZ5C8snzaI999AMFfHnryz4G8wwIRLQQjRf4t8aWK7X8p30tAdMowXmWBnGCIFM8V+egkOhlxbLix7BVncnpWz0p0VJKwHW2mbE6xiJH0cFBwbfycFesQK8g1-r+28EGUpKTFcxuX0vCSdcewfJgb51NQhE0hZPA-q30taxD6KUlLJuD1NQoQ8KBA8iukJZ5S8CmSlDwbkNMH5DxKhQuAHhiMrascYbBPChZUrigDo2xbaXrt2b4qc8hAbKKhYLDDyB-ktzdKhnzWaSCnBCnfVlN19YKDf24wmKsYFRoJUboSpABjMOk5zCHmjg+Tv53z4c9uBow74BsLwxlUKqjDYOBoJ5p9CCONQtlgh3LZc91hWADqh0LpBdhUqWDFAKByla8FC2TgrZsgBBHP1eWsfOAb+xaZ-CFwqWJel0xm5QcFhBZSPsnWapwjSBT3REbcPOq7D-6ZsOPA2neriD5hJw2WtiLLKcDAk71ceviLf6Ejfq-1P+rbRSL5MbqoI24rV1pHPV2eoOPEa-EraEjE+l1A4RvxWZVDJeQZXPmfxhG6Fd+0QldnTQoYa1wW1VbBjf3BFYjY20fILpcMaEBs5mjDZnE8IRYvC8BhHODsKNNprD1RD4GKmrQCbi1gmw3akWEINFEdlRXAovs6OHD2YraaENzF9Ahaej8ay-H0YKL9FGiLhgYy1kCwmFQiBIOo4EYQ1CH6i1UkI6EQmJFHJ04+b-FMZLizpJNki2oiVqCSrr98Ce+vUarn1rEFjAktdJMQGxPot0-Br3H8P7w7pV9N+8wHutmLk5qojeXdMeguyZENDK2nYmelFXnrJ9FAndAlmzleY2jmBXKeFq83qHFjf2h9CohiQF7-1h4mKEBoYLlFD9NCUTJ+i2K9pqjLWB4z+jM3ZG-0k+uLVCJfRAbri9Ro4nspCNsF3j3mD4gNsg1o4lCZA4LSMQUxD5gi-xmjCzg6PvEmDK2HjAQGI28bo8pGZfHscMA7DKNPSbOVTDExHECjjWOPZYSRN3HwiV2aEjCRIywkukZGCAcsfdGp4i0YkPqXsrWga69DfxZEudNygqBU0GRyEkYaaPcYiNPG1DBifdGwlU5WJaKZPuBm6ExgTeGImkXZUR7qSPhi7L4bRKknoSvGskp0kxIUnZ12A4qXCUGQ7CLQWiakviTGJzGQpzUYiHSdRJZG-s6Jxk2hmZJwByMIACjKgTCDNTlDlhPqS8VIL5wsNwpdQuXp5IMkUMjJMk0xmmQtHMNTKRE6oCRI3EZDop5LYiUYNWEgTJJSU+ialJwDmSkmD0f+scngzIgxEZNJfvWN0F1cQiTUqIShKe7eSUpPjXAFVPug0pgpfEOqXHjERaCQhuU6oR7g1TLjIhOQvcYlKMa9SsJvjFiRZKNTWTZUdPZAJZDfLzTSJW3YmuvxyATTOp4k1CYZPKl9TKp-k-xowywTKRWGswoMrBP5FHS1yZw9hudNy68c3+hzH5ukz+bFDhp8hAzkfijHaCJBmkhCYMPOEBinRlrAGXU1+aZNmmqNS3ltPbJANqxK9SKRCMGZITgJXU-6d8xRlAy0ZszF0fM2OTvRlwQvI4aH0xG6lIRDM+GY6JKn4BkZxzCmf81LH-lmc0o7pvjLakvMiZSLEmb+25lTNgZ9mQFuc2BaeEMpyoXHlmKmnyjrxiE-0RzMlkrs0WS2TFtixxIANU+VfdnHGGv5OT4JOmXsuFOf7FSW+MRFCi5k+aZsrB8hKvvxGqD8QRZcYqJl7K35FSC+AqH2UgidkMBPeagbdJWMLKeyQ5b0wKnXxhpwl45O-VOWHLoDOzvg6E8qnwGSJLNoEKc72QnJdr9CyWsNAOfMB9nNVK5G-XIeHJdnoBIgL2ZImhCbhFzA5vsrSSTVTk1z05E0Bud8ABrvitpSgKZHHOLldzYZONSeX3MnkZys5+AMhg3M5GjyC5BLGeZ3I0mxju5ZTWucqCDkqj+59CQefgEYDGAGgrc1PpvKrklz7Gm4maR3Nvlpz55A8zORHPwBqBSAKFdWv-Q4TmpkQT8uudvOcnTzQI+86ubpIgXfsyqLQAQPgH9oxB0AU9GoihUSFbTa0K4o9ExhZBTzk5MYXBQrVwVIJYFFAeBXAAABWcAKICgoQBoKcKPEzplr0XCvA8FnrEIoQt0nixchblBAFEBjJT92A6JAGjQqwDlF2AjmdElEESJIjaoQJfQeAumpyA2F4AveUovtkF91FPCjEvwr4ECA6Ap5RLD-V-nl8AK+pcBYly+QqKY2e8yxbowpp2LtFfC-AKjKaZCKMSOw1eRBK4zW9GoSo7IFoAFT-JrFOMFwQEqCUdgF2zYoMoRSQS8L+FrihgO4r4XlEUCNCrxaDJ8XuzlQr0A0ol3kwhLxuDGPJdlPcHapolXGWJRNHiW7I4A9NCAOwDoDOZRMOE7xYEroHAl+i01CvIUuRHCDje1QHpQtOqU6L8AdC2wGHn+JGKbAJirGRrx4wWLvZyXFqczN3n+zHFNcxxXEtGXjL7o+iwxSwBmU4lgaRBRZVv2WU6DVlYCyuksp35bKRlziucUtiaWyksSM-dIGwPRC1pel5nfol8tl4oZ5M3sjItsucXMBpSdACLHsMUIiR7E3sy2Ssphk2zc+C-DRSqK0Wgr+F4K9AJCuqL6yEAnha8qCS0UgLrZ7CkmiSqgUYqJo+KogAYpujbp2Ao4NzjFGEEKVewVc5qZcqRV44AFoJdUt8prnUr6EtKlrJnLqV8AMWmYNztdVwRPFgVPykKact74KqhV8K3IbSpL7xYsSrstQWEpTTqrSVAk-BYosNVUr1VSCTVRiW1VqBoiUcvOY0RxnFLTVW-BFdyp3nXKDVrqnfsKq7hWrS++AHOc6XaxEqXVVct1dDI9UmqC6lKrPOuXDUarEmBALVS0pcXNySRaDDpQopjVmr1ZV47mvGpTQ+qLVNKpNd8BTU6rh54YpssStzX8SPpNi-2bGu1SFrlQzIv1WWvwAVrbV58y+X-PYI9hYVlKvNVFM1lwlm1NdX1UUn9U2rP538ugLMraXVI4uQ6utVbONXkq1FZquNVOqFS0rzBDS8om50vDvRmFGDV4PYJHVOCoKLZdamUuGG-Tvg+68SnU0QUfpjxuLBQAAqF4BL8lEa70aAptkV0wwf6n6d+2fX6U6mlC6hR+qxnYJeyIhAJeqSDiKqRp1+S-iBrA2JqAa3wFAjgEYAMBHSivMADThoVuZslq671UaobUDDa1VG81d6stWdq8NBGiACgLiI4BWlmSwJayqRCxgC6MFZRdRqTk5U95gmtFaDlbXKKmNOG-AC8qtJYkMW1AbsW0uHhTIjkQFdUhMFQ2PzNN2UuKYCq01VKRVnatwF+mI2kb7oEXUjOmXBlpVdR66mjeXLhkrDjRZtWlWZs97lESN6Fe6JTxHneLug3hM4JCxVl8jE5YAjQnZJJqj94pHa2TZ5rKJ8AfNNCmopvmSpTDGoQKoLMEuE2Rbi20WjuLlq4WXCPNcAczd5ss0YtIgDqj8cxijD7DQI0w10MVqvXyctaVfZrfMGK0eT4tBARLYyRcxWbX86ZBTEiFC3Wj61Im1RfaO1liTH1Z80zeVu+CDbKiTK9iPMyULAlx8IvOse6sA2N58ScJWLQ+vA1Lav0q2lXulvvZZsstLm1rVNvy3lzCtY0HrXFunXnaVtiTNbckxK5l5AGwgrzF1rDCRK8tZc5CB1oNKR0RgoOkre5s+1jLqF5RDgNZoJXpSPRMEnTWOsx3DKTNCW5bYjsV4cB-N8zPsSLGO3hbS5rw3+LnxO3GCRhZWr9G4CJ1pbKObnLNTkqjEPbHN02xtXVDYZvbTt2G-rQTuZ3I7qtf25PuMCmT+KQdgy2HW1t1KQ6mt0OwXfToW20r8VaTOAAkzgCLruNXhKZH2Sk3-rjhUazdU2u3UtqMVBQeAHYAkBEguxKAEAPYEOIGAZC3xIMKoHaBZ0cAzugAEoABxAAEIABBUDqBxAA3A+a2CbpaOjqDSKbozunoBXhADvAgAA"));
     })()
 
 /***/ }),
@@ -18746,1596 +18858,1652 @@ filter: Nearest, Nearest
 repeat: none
 sprites/belt/built/forward_1
   rotate: false
-  xy: 362, 259
+  xy: 830, 536
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/forward_10
   rotate: false
-  xy: 1372, 453
+  xy: 1371, 464
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/forward_11
   rotate: false
-  xy: 1452, 453
+  xy: 1131, 356
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/forward_12
   rotate: false
-  xy: 1532, 453
+  xy: 1211, 363
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/forward_13
   rotate: false
-  xy: 1612, 453
+  xy: 1291, 366
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/forward_2
   rotate: false
-  xy: 535, 169
+  xy: 747, 264
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/forward_3
   rotate: false
-  xy: 538, 71
+  xy: 1010, 359
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/forward_4
   rotate: false
-  xy: 850, 632
+  xy: 573, 165
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/forward_5
   rotate: false
-  xy: 930, 632
+  xy: 747, 166
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/forward_6
   rotate: false
-  xy: 1010, 632
+  xy: 1108, 552
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/forward_7
   rotate: false
-  xy: 1090, 632
+  xy: 1131, 454
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/forward_8
   rotate: false
-  xy: 1202, 543
+  xy: 1211, 461
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/forward_9
   rotate: false
-  xy: 1292, 445
+  xy: 1291, 464
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/left_1
   rotate: false
-  xy: 1421, 640
+  xy: 1752, 561
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/belt/built/left_10
   rotate: false
-  xy: 1590, 551
+  xy: 1363, 562
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/belt/built/left_11
   rotate: false
-  xy: 3152, 836
+  xy: 1452, 560
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/belt/built/left_12
   rotate: false
-  xy: 3241, 836
+  xy: 1451, 471
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/belt/built/left_13
   rotate: false
-  xy: 3174, 747
+  xy: 1371, 375
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/belt/built/left_2
   rotate: false
-  xy: 1323, 551
+  xy: 1007, 92
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/belt/built/left_3
   rotate: false
-  xy: 1412, 551
+  xy: 653, 90
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/belt/built/left_4
   rotate: false
-  xy: 936, 454
+  xy: 557, 1
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/belt/built/left_5
   rotate: false
-  xy: 1025, 454
+  xy: 646, 1
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/belt/built/left_6
   rotate: false
-  xy: 1114, 451
+  xy: 827, 44
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/belt/built/left_7
   rotate: false
-  xy: 1203, 454
+  xy: 916, 19
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/belt/built/left_8
   rotate: false
-  xy: 1501, 551
+  xy: 1005, 3
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/belt/built/left_9
   rotate: false
-  xy: 1510, 640
+  xy: 1274, 562
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/belt/built/right_1
   rotate: false
-  xy: 3263, 747
+  xy: 1460, 382
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_10
   rotate: false
-  xy: 3530, 749
+  xy: 1553, 237
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_11
   rotate: false
-  xy: 3619, 749
+  xy: 1553, 148
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_12
   rotate: false
-  xy: 3686, 838
+  xy: 1816, 741
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_13
   rotate: false
-  xy: 3708, 749
+  xy: 1841, 652
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_2
   rotate: false
-  xy: 3209, 658
+  xy: 1098, 267
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_3
   rotate: false
-  xy: 3298, 658
+  xy: 1098, 178
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_4
   rotate: false
-  xy: 3330, 836
+  xy: 1096, 89
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_5
   rotate: false
-  xy: 3352, 747
+  xy: 1464, 293
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_6
   rotate: false
-  xy: 3419, 838
+  xy: 1464, 204
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_7
   rotate: false
-  xy: 3508, 838
+  xy: 1541, 504
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_8
   rotate: false
-  xy: 3597, 838
+  xy: 1549, 415
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_9
   rotate: false
-  xy: 3441, 749
+  xy: 1553, 326
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/blueprints/analyzer
   rotate: false
-  xy: 2173, 922
+  xy: 542, 634
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/blueprints/balancer
   rotate: false
-  xy: 1653, 922
+  xy: 3215, 927
   size: 172, 96
   orig: 192, 96
   offset: 11, 0
   index: -1
 sprites/blueprints/balancer-belt-crossover
   rotate: false
-  xy: 806, 460
+  xy: 833, 450
   size: 84, 84
   orig: 96, 96
   offset: 8, 8
   index: -1
 sprites/blueprints/balancer-merger
   rotate: false
-  xy: 1337, 729
+  xy: 899, 833
   size: 93, 93
   orig: 96, 96
   offset: 3, 2
   index: -1
 sprites/blueprints/balancer-merger-inverse
   rotate: false
-  xy: 3148, 925
+  xy: 2349, 832
   size: 95, 93
   orig: 96, 96
   offset: 0, 2
   index: -1
 sprites/blueprints/balancer-merger-triple_all
   rotate: false
-  xy: 850, 730
+  xy: 456, 262
   size: 96, 92
   orig: 96, 96
   offset: 0, 3
   index: -1
 sprites/blueprints/balancer-merger-triple_both
   rotate: false
-  xy: 2760, 640
+  xy: 459, 2
   size: 96, 84
   orig: 96, 96
   offset: 0, 11
   index: -1
 sprites/blueprints/balancer-merger-triple_center
   rotate: false
-  xy: 663, 633
+  xy: 3989, 833
   size: 91, 92
   orig: 96, 96
   offset: 3, 3
   index: -1
 sprites/blueprints/balancer-merger-triple_left
   rotate: false
-  xy: 1241, 730
+  xy: 2933, 833
   size: 94, 92
   orig: 96, 96
   offset: 0, 3
   index: -1
 sprites/blueprints/balancer-merger-triple_right
   rotate: false
-  xy: 3923, 926
+  xy: 3609, 833
   size: 93, 92
   orig: 96, 96
   offset: 3, 3
   index: -1
 sprites/blueprints/balancer-splitter
   rotate: false
-  xy: 1432, 729
+  xy: 3704, 832
   size: 93, 93
   orig: 96, 96
   offset: 3, 2
   index: -1
 sprites/blueprints/balancer-splitter-inverse
   rotate: false
-  xy: 3245, 925
+  xy: 2446, 832
   size: 95, 93
   orig: 96, 96
   offset: 0, 2
   index: -1
 sprites/blueprints/balancer-splitter-triple_all
   rotate: false
-  xy: 948, 730
+  xy: 994, 833
   size: 96, 92
   orig: 96, 96
   offset: 0, 3
   index: -1
 sprites/blueprints/balancer-splitter-triple_both
   rotate: false
-  xy: 467, 641
+  xy: 1092, 744
   size: 96, 83
   orig: 96, 96
   offset: 0, 3
   index: -1
 sprites/blueprints/balancer-splitter-triple_center
   rotate: false
-  xy: 2006, 730
+  xy: 1089, 650
   size: 92, 92
   orig: 96, 96
   offset: 3, 3
   index: -1
 sprites/blueprints/balancer-splitter-triple_left
   rotate: false
-  xy: 1144, 730
+  xy: 2836, 833
   size: 95, 92
   orig: 96, 96
   offset: 0, 3
   index: -1
 sprites/blueprints/balancer-splitter-triple_right
   rotate: false
-  xy: 1911, 730
+  xy: 3799, 833
   size: 93, 92
   orig: 96, 96
   offset: 3, 3
   index: -1
 sprites/blueprints/belt_crossing
   rotate: false
-  xy: 852, 546
+  xy: 1755, 650
   size: 84, 84
   orig: 96, 96
   offset: 8, 8
   index: -1
 sprites/blueprints/belt_crossing-corner
   rotate: false
-  xy: 3775, 842
+  xy: 1841, 567
   size: 84, 83
   orig: 96, 96
   offset: 8, 9
   index: -1
 sprites/blueprints/belt_crossing-switcher
   rotate: false
-  xy: 1810, 824
+  xy: 3736, 927
   size: 171, 96
   orig: 192, 96
   offset: 11, 0
   index: -1
 sprites/blueprints/belt_left
   rotate: false
-  xy: 938, 543
+  xy: 921, 361
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/blueprints/belt_right
   rotate: false
-  xy: 1170, 641
+  xy: 1009, 270
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/blueprints/belt_top
   rotate: false
-  xy: 354, 455
+  xy: 721, 829
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/blueprints/comparator
   rotate: false
-  xy: 3730, 929
+  xy: 3318, 836
   size: 96, 89
   orig: 96, 96
   offset: 0, 7
   index: -1
 sprites/blueprints/constant_signal
   rotate: false
-  xy: 1259, 641
+  xy: 1185, 89
   size: 71, 87
   orig: 96, 96
   offset: 13, 9
   index: -1
 sprites/blueprints/cutter
   rotate: false
-  xy: 1636, 824
+  xy: 3389, 927
   size: 172, 96
   orig: 192, 96
   offset: 11, 0
   index: -1
 sprites/blueprints/cutter-laser
   rotate: false
-  xy: 915, 824
+  xy: 1959, 927
   size: 185, 96
   orig: 192, 96
   offset: 5, 0
   index: -1
 sprites/blueprints/cutter-quad
   rotate: false
-  xy: 1, 455
+  xy: 1, 460
   size: 351, 96
   orig: 384, 96
   offset: 16, 0
   index: -1
 sprites/blueprints/display
   rotate: false
-  xy: 361, 68
+  xy: 999, 457
   size: 86, 91
   orig: 96, 96
   offset: 5, 0
   index: -1
 sprites/blueprints/filter
   rotate: false
-  xy: 1118, 922
+  xy: 2146, 927
   size: 180, 96
   orig: 192, 96
   offset: 10, 0
   index: -1
 sprites/blueprints/hyperlink
   rotate: false
-  xy: 892, 454
+  xy: 1087, 458
   size: 42, 90
   orig: 96, 96
   offset: 27, 3
   index: -1
 sprites/blueprints/hyperlink-hyperlink_entrance
   rotate: false
-  xy: 2384, 644
+  xy: 361, 86
   size: 92, 178
   orig: 96, 192
   offset: 2, 7
   index: -1
 sprites/blueprints/hyperlink-hyperlink_exit
   rotate: false
-  xy: 2572, 644
+  xy: 362, 274
   size: 92, 178
   orig: 96, 192
   offset: 2, 7
   index: -1
 sprites/blueprints/hyperlink_left
   rotate: false
-  xy: 3861, 858
+  xy: 2019, 760
   size: 60, 67
   orig: 96, 96
   offset: 3, 3
   index: -1
 sprites/blueprints/hyperlink_right
   rotate: false
-  xy: 3980, 693
+  xy: 2081, 760
   size: 60, 67
   orig: 96, 96
   offset: 33, 3
   index: -1
 sprites/blueprints/item_producer
   rotate: false
-  xy: 3049, 632
+  xy: 633, 732
   size: 88, 95
   orig: 96, 96
   offset: 5, 1
   index: -1
 sprites/blueprints/lever
   rotate: false
-  xy: 3993, 762
+  xy: 1949, 748
   size: 68, 79
   orig: 96, 96
   offset: 14, 12
   index: -1
 sprites/blueprints/logic_gate
   rotate: false
-  xy: 558, 555
+  xy: 1559, 652
   size: 96, 82
   orig: 96, 96
   offset: 0, 14
   index: -1
 sprites/blueprints/logic_gate-not
   rotate: false
-  xy: 361, 161
+  xy: 1874, 830
   size: 83, 96
   orig: 96, 96
   offset: 7, 0
   index: -1
 sprites/blueprints/logic_gate-or
   rotate: false
-  xy: 460, 556
+  xy: 1288, 744
   size: 96, 83
   orig: 96, 96
   offset: 0, 13
   index: -1
 sprites/blueprints/logic_gate-xor
   rotate: false
-  xy: 2858, 638
+  xy: 994, 745
   size: 96, 86
   orig: 96, 96
   offset: 0, 10
   index: -1
 sprites/blueprints/miner
   rotate: false
-  xy: 2760, 726
+  xy: 648, 536
   size: 92, 96
   orig: 96, 96
   offset: 3, 0
   index: -1
 sprites/blueprints/miner-chainable
   rotate: false
-  xy: 2854, 726
+  xy: 554, 361
   size: 92, 96
   orig: 96, 96
   offset: 3, 0
   index: -1
 sprites/blueprints/miner-deep
   rotate: false
-  xy: 2938, 824
+  xy: 554, 263
   size: 94, 96
   orig: 96, 96
   offset: 2, 0
   index: -1
 sprites/blueprints/mixer
   rotate: false
-  xy: 1300, 922
+  xy: 2509, 927
   size: 175, 96
   orig: 192, 96
   offset: 8, 0
   index: -1
 sprites/blueprints/painter
   rotate: false
-  xy: 730, 922
+  xy: 994, 927
   size: 192, 96
   orig: 192, 96
   offset: 0, 0
   index: -1
 sprites/blueprints/painter-double
   rotate: false
-  xy: 1, 266
+  xy: 1, 271
   size: 192, 187
   orig: 192, 192
   offset: 0, 5
   index: -1
 sprites/blueprints/painter-mirrored
   rotate: false
-  xy: 721, 824
+  xy: 1382, 927
   size: 192, 96
   orig: 192, 96
   offset: 0, 0
   index: -1
 sprites/blueprints/painter-quad
   rotate: false
-  xy: 1, 553
+  xy: 1, 558
   size: 359, 96
   orig: 384, 96
   offset: 8, 0
   index: -1
 sprites/blueprints/reader
   rotate: false
-  xy: 2761, 922
+  xy: 650, 264
   size: 95, 96
   orig: 96, 96
   offset: 1, 0
   index: -1
 sprites/blueprints/rotater
   rotate: false
-  xy: 2369, 922
+  xy: 455, 164
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/blueprints/rotater-ccw
   rotate: false
-  xy: 2352, 824
+  xy: 801, 830
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/blueprints/rotater-rotate180
   rotate: false
-  xy: 2467, 922
+  xy: 1092, 829
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/blueprints/stacker
   rotate: false
-  xy: 1283, 824
+  xy: 2686, 927
   size: 175, 96
   orig: 192, 96
   offset: 8, 0
   index: -1
+sprites/blueprints/stacker-smart
+  rotate: false
+  xy: 730, 928
+  size: 262, 95
+  orig: 288, 96
+  offset: 7, 1
+  index: -1
 sprites/blueprints/storage
   rotate: false
-  xy: 195, 261
+  xy: 195, 266
   size: 165, 192
   orig: 192, 192
   offset: 14, 0
   index: -1
 sprites/blueprints/storage-mini
   rotate: false
-  xy: 2948, 726
+  xy: 812, 732
   size: 87, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/blueprints/transistor
   rotate: false
-  xy: 4018, 922
+  xy: 1187, 258
   size: 68, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/blueprints/transistor-mirrored
   rotate: false
-  xy: 3387, 649
+  xy: 1327, 268
   size: 67, 96
   orig: 96, 96
   offset: 29, 0
   index: -1
 sprites/blueprints/trash
   rotate: false
-  xy: 2565, 922
+  xy: 1288, 829
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/blueprints/underground_belt_entry
   rotate: false
-  xy: 97, 1
+  xy: 97, 6
   size: 93, 75
   orig: 96, 96
   offset: 2, 0
   index: -1
 sprites/blueprints/underground_belt_entry-tier2
   rotate: false
-  xy: 617, 464
+  xy: 1657, 567
   size: 93, 84
   orig: 96, 96
   offset: 2, 0
   index: -1
 sprites/blueprints/underground_belt_exit
   rotate: false
-  xy: 3456, 672
+  xy: 550, 459
   size: 93, 75
   orig: 96, 96
   offset: 2, 21
   index: -1
 sprites/blueprints/underground_belt_exit-tier2
   rotate: false
-  xy: 1, 1
+  xy: 1, 6
   size: 94, 75
   orig: 96, 96
   offset: 2, 21
   index: -1
 sprites/blueprints/virtual_processor
   rotate: false
-  xy: 752, 728
+  xy: 2153, 831
   size: 96, 94
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/blueprints/virtual_processor-painter
   rotate: false
-  xy: 434, 458
+  xy: 738, 634
   size: 87, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/blueprints/virtual_processor-rotater
   rotate: false
-  xy: 1282, 543
+  xy: 1090, 360
   size: 39, 96
   orig: 96, 96
   offset: 29, 0
   index: -1
 sprites/blueprints/virtual_processor-stacker
   rotate: false
-  xy: 526, 365
+  xy: 910, 540
   size: 87, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/blueprints/virtual_processor-unstacker
   rotate: false
-  xy: 2663, 922
+  xy: 1484, 829
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/blueprints/wire_tunnel
   rotate: false
-  xy: 2195, 731
+  xy: 1183, 651
   size: 93, 91
   orig: 96, 96
   offset: 2, 3
   index: -1
 sprites/buildings/analyzer
   rotate: false
-  xy: 2156, 824
+  xy: 640, 634
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/buildings/balancer
   rotate: false
-  xy: 1827, 922
+  xy: 3563, 927
   size: 171, 96
   orig: 192, 96
   offset: 11, 0
   index: -1
 sprites/buildings/balancer-merger
   rotate: false
-  xy: 3828, 927
+  xy: 3514, 834
   size: 93, 91
   orig: 96, 96
   offset: 3, 3
   index: -1
 sprites/buildings/balancer-merger-inverse
   rotate: false
-  xy: 3634, 927
+  xy: 3126, 834
   size: 94, 91
   orig: 96, 96
   offset: 0, 3
   index: -1
 sprites/buildings/balancer-merger-triple_all
   rotate: false
-  xy: 3342, 927
+  xy: 2543, 834
   size: 96, 91
   orig: 96, 96
   offset: 0, 3
   index: -1
 sprites/buildings/balancer-merger-triple_both
   rotate: false
-  xy: 369, 641
+  xy: 361, 1
   size: 96, 83
   orig: 96, 96
   offset: 0, 11
   index: -1
 sprites/buildings/balancer-merger-triple_center
   rotate: false
-  xy: 2956, 633
+  xy: 1372, 651
   size: 91, 91
   orig: 96, 96
   offset: 3, 3
   index: -1
 sprites/buildings/balancer-merger-triple_left
   rotate: false
-  xy: 1527, 731
+  xy: 3222, 834
   size: 94, 91
   orig: 96, 96
   offset: 0, 3
   index: -1
 sprites/buildings/balancer-merger-triple_right
   rotate: false
-  xy: 1721, 731
+  xy: 3894, 834
   size: 93, 91
   orig: 96, 96
   offset: 3, 3
   index: -1
 sprites/buildings/balancer-splitter
   rotate: false
-  xy: 1816, 731
+  xy: 1582, 736
   size: 93, 91
   orig: 96, 96
   offset: 3, 3
   index: -1
 sprites/buildings/balancer-splitter-inverse
   rotate: false
-  xy: 3440, 927
+  xy: 2739, 834
   size: 95, 91
   orig: 96, 96
   offset: 0, 3
   index: -1
 sprites/buildings/balancer-splitter-triple_all
   rotate: false
-  xy: 1046, 731
+  xy: 2641, 834
   size: 96, 91
   orig: 96, 96
   offset: 0, 3
   index: -1
 sprites/buildings/balancer-splitter-triple_both
   rotate: false
-  xy: 362, 556
+  xy: 1190, 744
   size: 96, 83
   orig: 96, 96
   offset: 0, 3
   index: -1
 sprites/buildings/balancer-splitter-triple_center
   rotate: false
-  xy: 2290, 731
+  xy: 1278, 651
   size: 92, 91
   orig: 96, 96
   offset: 3, 3
   index: -1
 sprites/buildings/balancer-splitter-triple_left
   rotate: false
-  xy: 3537, 927
+  xy: 3029, 834
   size: 95, 91
   orig: 96, 96
   offset: 0, 3
   index: -1
 sprites/buildings/balancer-splitter-triple_right
   rotate: false
-  xy: 2100, 731
+  xy: 1677, 736
   size: 93, 91
   orig: 96, 96
   offset: 3, 3
   index: -1
 sprites/buildings/belt_crossing
   rotate: false
-  xy: 3739, 664
+  xy: 742, 81
   size: 83, 83
   orig: 96, 96
   offset: 8, 8
   index: -1
 sprites/buildings/belt_crossing-corner
   rotate: false
-  xy: 3909, 766
+  xy: 925, 188
   size: 82, 82
   orig: 96, 96
   offset: 9, 9
   index: -1
 sprites/buildings/belt_crossing-switcher
   rotate: false
-  xy: 2000, 922
+  xy: 3909, 927
   size: 171, 96
   orig: 192, 96
   offset: 11, 0
   index: -1
 sprites/buildings/belt_left
   rotate: false
-  xy: 1027, 543
+  xy: 920, 272
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/belt/built/left_0
   rotate: false
-  xy: 1027, 543
+  xy: 920, 272
   size: 87, 87
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/buildings/belt_right
   rotate: false
-  xy: 1332, 640
+  xy: 1009, 181
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/right_0
   rotate: false
-  xy: 1332, 640
+  xy: 1009, 181
   size: 87, 87
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/buildings/belt_top
   rotate: false
-  xy: 362, 357
+  xy: 827, 634
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/belt/built/forward_0
   rotate: false
-  xy: 362, 357
+  xy: 827, 634
   size: 78, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/buildings/comparator
   rotate: false
-  xy: 1623, 733
+  xy: 3416, 836
   size: 96, 89
   orig: 96, 96
   offset: 0, 7
   index: -1
 sprites/buildings/constant_signal
   rotate: false
-  xy: 3797, 754
+  xy: 1178, 1
   size: 70, 86
   orig: 96, 96
   offset: 13, 10
   index: -1
 sprites/buildings/cutter
   rotate: false
-  xy: 1983, 824
+  xy: 369, 634
   size: 171, 96
   orig: 192, 96
   offset: 11, 0
   index: -1
 sprites/buildings/cutter-laser
   rotate: false
-  xy: 563, 727
+  xy: 1770, 928
   size: 187, 95
   orig: 192, 96
   offset: 5, 0
   index: -1
 sprites/buildings/cutter-quad
   rotate: false
-  xy: 369, 824
+  xy: 369, 829
   size: 350, 96
   orig: 384, 96
   offset: 16, 0
   index: -1
 sprites/buildings/display
   rotate: false
-  xy: 1116, 540
+  xy: 1188, 559
   size: 84, 90
   orig: 96, 96
   offset: 6, 0
   index: -1
 sprites/buildings/filter
   rotate: false
-  xy: 1102, 824
+  xy: 2328, 927
   size: 179, 96
   orig: 192, 96
   offset: 11, 0
   index: -1
 sprites/buildings/hub
   rotate: false
-  xy: 1, 651
+  xy: 1, 656
   size: 366, 367
   orig: 384, 384
   offset: 9, 7
   index: -1
 sprites/buildings/hyperlink
   rotate: false
-  xy: 3130, 732
+  xy: 1772, 737
   size: 42, 90
   orig: 96, 96
   offset: 27, 3
   index: -1
 sprites/buildings/hyperlink-hyperlink_entrance
   rotate: false
-  xy: 2478, 644
+  xy: 362, 454
   size: 92, 178
   orig: 96, 192
   offset: 2, 7
   index: -1
 sprites/buildings/hyperlink-hyperlink_exit
   rotate: false
-  xy: 2666, 644
+  xy: 456, 454
   size: 92, 178
   orig: 96, 192
   offset: 2, 7
   index: -1
 sprites/buildings/hyperlink_left
   rotate: false
-  xy: 3281, 590
+  xy: 1927, 582
   size: 60, 66
   orig: 96, 96
   offset: 3, 3
   index: -1
 sprites/buildings/hyperlink_right
   rotate: false
-  xy: 3387, 581
+  xy: 1990, 680
   size: 60, 66
   orig: 96, 96
   offset: 33, 3
   index: -1
 sprites/buildings/item_producer
   rotate: false
-  xy: 449, 67
+  xy: 723, 732
   size: 87, 95
   orig: 96, 96
   offset: 5, 1
   index: -1
 sprites/buildings/lever
   rotate: false
-  xy: 3912, 687
+  xy: 1187, 179
   size: 66, 77
   orig: 96, 96
   offset: 15, 13
   index: -1
 sprites/buildings/logic_gate
   rotate: false
-  xy: 656, 550
+  xy: 1657, 653
   size: 96, 81
   orig: 96, 96
   offset: 0, 15
   index: -1
 sprites/buildings/logic_gate-not
   rotate: false
-  xy: 442, 360
+  xy: 744, 362
   size: 82, 96
   orig: 96, 96
   offset: 8, 0
   index: -1
 sprites/buildings/logic_gate-or
   rotate: false
-  xy: 754, 546
+  xy: 1386, 744
   size: 96, 83
   orig: 96, 96
   offset: 0, 13
   index: -1
 sprites/buildings/logic_gate-xor
   rotate: false
-  xy: 565, 639
+  xy: 1484, 741
   size: 96, 86
   orig: 96, 96
   offset: 0, 10
   index: -1
 sprites/buildings/miner
   rotate: false
-  xy: 3037, 729
+  xy: 901, 736
   size: 91, 95
   orig: 96, 96
   offset: 3, 1
   index: -1
 sprites/buildings/miner-chainable
   rotate: false
-  xy: 756, 631
+  xy: 996, 648
   size: 91, 95
   orig: 96, 96
   offset: 3, 1
   index: -1
 sprites/buildings/miner-deep
   rotate: false
-  xy: 3052, 922
+  xy: 648, 362
   size: 94, 96
   orig: 96, 96
   offset: 2, 0
   index: -1
 sprites/buildings/mixer
   rotate: false
-  xy: 1477, 922
+  xy: 2863, 927
   size: 174, 96
   orig: 192, 96
   offset: 9, 0
   index: -1
 sprites/buildings/painter
   rotate: false
-  xy: 369, 726
+  xy: 1188, 927
   size: 192, 96
   orig: 192, 96
   offset: 0, 0
   index: -1
 sprites/buildings/painter-double
   rotate: false
-  xy: 1, 78
+  xy: 1, 83
   size: 192, 186
   orig: 192, 192
   offset: 0, 6
   index: -1
 sprites/buildings/painter-mirrored
   rotate: false
-  xy: 924, 922
+  xy: 1576, 927
   size: 192, 96
   orig: 192, 96
   offset: 0, 0
   index: -1
 sprites/buildings/painter-quad
   rotate: false
-  xy: 369, 922
+  xy: 369, 927
   size: 359, 96
   orig: 384, 96
   offset: 8, 0
   index: -1
 sprites/buildings/reader
   rotate: false
-  xy: 2744, 824
+  xy: 1680, 829
   size: 95, 96
   orig: 96, 96
   offset: 1, 0
   index: -1
 sprites/buildings/rotater
   rotate: false
-  xy: 2858, 922
+  xy: 1777, 830
   size: 95, 96
   orig: 96, 96
   offset: 1, 0
   index: -1
 sprites/buildings/rotater-ccw
   rotate: false
-  xy: 2841, 824
+  xy: 1959, 829
   size: 95, 96
   orig: 96, 96
   offset: 1, 0
   index: -1
 sprites/buildings/rotater-rotate180
   rotate: false
-  xy: 2955, 922
+  xy: 2056, 829
   size: 95, 96
   orig: 96, 96
   offset: 1, 0
   index: -1
 sprites/buildings/stacker
   rotate: false
-  xy: 1460, 824
+  xy: 3039, 927
   size: 174, 96
   orig: 192, 96
   offset: 9, 0
   index: -1
+sprites/buildings/stacker-smart
+  rotate: false
+  xy: 369, 732
+  size: 262, 95
+  orig: 288, 96
+  offset: 7, 1
+  index: -1
 sprites/buildings/storage
   rotate: false
-  xy: 195, 68
+  xy: 195, 73
   size: 164, 191
   orig: 192, 192
   offset: 14, 0
   index: -1
 sprites/buildings/storage-mini
   rotate: false
-  xy: 442, 262
+  xy: 742, 536
   size: 86, 96
   orig: 96, 96
   offset: 10, 0
   index: -1
 sprites/buildings/transistor
   rotate: false
-  xy: 3139, 634
+  xy: 1257, 265
   size: 68, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/buildings/transistor-mirrored
   rotate: false
-  xy: 3824, 656
+  xy: 1396, 277
   size: 66, 96
   orig: 96, 96
   offset: 30, 0
   index: -1
 sprites/buildings/trash
   rotate: false
-  xy: 2548, 824
+  xy: 1386, 829
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/buildings/underground_belt_entry
   rotate: false
-  xy: 3551, 673
+  xy: 455, 88
   size: 92, 74
   orig: 96, 96
   offset: 3, 0
   index: -1
+sprites/buildings/underground_belt_entry-smart_0
+  rotate: false
+  xy: 1094, 1
+  size: 82, 86
+  orig: 96, 96
+  offset: 10, 0
+  index: -1
+sprites/buildings/underground_belt_entry-smart_2
+  rotate: false
+  xy: 828, 361
+  size: 91, 87
+  orig: 96, 96
+  offset: 1, 0
+  index: -1
+sprites/buildings/underground_belt_entry-smart_4
+  rotate: false
+  xy: 827, 272
+  size: 91, 87
+  orig: 96, 96
+  offset: 4, 0
+  index: -1
 sprites/buildings/underground_belt_entry-tier2
   rotate: false
-  xy: 712, 461
+  xy: 653, 179
   size: 92, 83
   orig: 96, 96
   offset: 3, 0
   index: -1
 sprites/buildings/underground_belt_exit
   rotate: false
-  xy: 3645, 673
+  xy: 645, 460
   size: 92, 74
   orig: 96, 96
   offset: 3, 22
   index: -1
+sprites/buildings/underground_belt_exit-smart_1
+  rotate: false
+  xy: 919, 450
+  size: 78, 88
+  orig: 96, 96
+  offset: 10, 8
+  index: -1
+sprites/buildings/underground_belt_exit-smart_3
+  rotate: false
+  xy: 827, 133
+  size: 88, 78
+  orig: 96, 96
+  offset: 0, 8
+  index: -1
+sprites/buildings/underground_belt_exit-smart_5
+  rotate: false
+  xy: 917, 108
+  size: 88, 78
+  orig: 96, 96
+  offset: 8, 8
+  index: -1
 sprites/buildings/underground_belt_exit-tier2
   rotate: false
-  xy: 3923, 850
+  xy: 739, 460
   size: 92, 74
   orig: 96, 96
   offset: 3, 22
   index: -1
 sprites/buildings/virtual_processor
   rotate: false
-  xy: 3034, 826
+  xy: 2251, 831
   size: 96, 94
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/buildings/virtual_processor-painter
   rotate: false
-  xy: 446, 164
+  xy: 907, 638
   size: 87, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/buildings/virtual_processor-rotater
   rotate: false
-  xy: 3869, 760
+  xy: 1930, 650
   size: 38, 96
   orig: 96, 96
   offset: 30, 0
   index: -1
 sprites/buildings/virtual_processor-stacker
   rotate: false
-  xy: 530, 267
+  xy: 999, 550
   size: 87, 96
   orig: 96, 96
   offset: 9, 0
   index: -1
 sprites/buildings/virtual_processor-unstacker
   rotate: false
-  xy: 2646, 824
+  xy: 1582, 829
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/buildings/wire_tunnel
   rotate: false
-  xy: 523, 463
+  xy: 1465, 649
   size: 92, 90
   orig: 96, 96
   offset: 3, 3
   index: -1
 sprites/colors/blue
   rotate: false
-  xy: 3663, 637
+  xy: 1990, 644
   size: 36, 34
   orig: 36, 36
   offset: 0, 0
   index: -1
 sprites/colors/cyan
   rotate: false
-  xy: 3701, 637
+  xy: 1989, 608
   size: 36, 34
   orig: 36, 36
   offset: 0, 0
   index: -1
 sprites/colors/green
   rotate: false
-  xy: 3739, 628
+  xy: 1752, 478
   size: 36, 34
   orig: 36, 36
   offset: 0, 0
   index: -1
 sprites/colors/purple
   rotate: false
-  xy: 3777, 628
+  xy: 1642, 379
   size: 36, 34
   orig: 36, 36
   offset: 0, 0
   index: -1
 sprites/colors/red
   rotate: false
-  xy: 3449, 577
+  xy: 1642, 343
   size: 36, 34
   orig: 36, 36
   offset: 0, 0
   index: -1
 sprites/colors/uncolored
   rotate: false
-  xy: 3487, 577
+  xy: 1642, 307
   size: 36, 34
   orig: 36, 36
   offset: 0, 0
   index: -1
 sprites/colors/white
   rotate: false
-  xy: 3525, 577
+  xy: 1642, 271
   size: 36, 34
   orig: 36, 36
   offset: 0, 0
   index: -1
 sprites/colors/yellow
   rotate: false
-  xy: 3563, 578
+  xy: 1642, 235
   size: 36, 34
   orig: 36, 36
   offset: 0, 0
   index: -1
 sprites/debug/acceptor_slot
   rotate: false
-  xy: 3152, 826
+  xy: 4082, 1015
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
 sprites/debug/ejector_slot
   rotate: false
-  xy: 3174, 737
+  xy: 1541, 639
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
 sprites/misc/hub_direction_indicator
   rotate: false
-  xy: 4063, 809
+  xy: 1638, 415
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 sprites/misc/hyperlink_good_arrow
   rotate: false
-  xy: 618, 107
+  xy: 2051, 651
   size: 24, 26
   orig: 26, 26
   offset: 1, 0
   index: -1
 sprites/misc/processor_disabled
   rotate: false
-  xy: 4042, 705
+  xy: 1697, 451
   size: 53, 55
   orig: 64, 64
   offset: 6, 3
   index: -1
 sprites/misc/processor_disconnected
   rotate: false
-  xy: 3515, 613
+  xy: 1791, 502
   size: 44, 57
   orig: 64, 64
   offset: 11, 2
   index: -1
 sprites/misc/reader_overlay
   rotate: false
-  xy: 3209, 609
+  xy: 2052, 711
   size: 70, 47
   orig: 96, 96
   offset: 13, 24
   index: -1
 sprites/misc/slot_bad_arrow
   rotate: false
-  xy: 1721, 705
+  xy: 1630, 567
   size: 24, 24
   orig: 26, 26
   offset: 1, 1
   index: -1
 sprites/misc/slot_good_arrow
   rotate: false
-  xy: 618, 79
+  xy: 2077, 651
   size: 24, 26
   orig: 26, 26
   offset: 1, 0
   index: -1
 sprites/misc/storage_overlay
   rotate: false
-  xy: 3912, 655
+  xy: 2052, 679
   size: 60, 30
   orig: 60, 30
   offset: 0, 0
   index: -1
 sprites/misc/waypoint
   rotate: false
-  xy: 618, 135
+  xy: 618, 99
   size: 26, 32
   orig: 32, 32
   offset: 3, 0
   index: -1
 sprites/misc/waypoint_wires
   rotate: false
-  xy: 4063, 775
+  xy: 584, 131
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 sprites/wires/boolean_false
   rotate: false
-  xy: 1747, 701
+  xy: 2028, 650
   size: 21, 28
   orig: 32, 32
   offset: 6, 1
   index: -1
 sprites/wires/boolean_true
   rotate: false
-  xy: 1704, 703
+  xy: 806, 51
   size: 15, 28
   orig: 32, 32
   offset: 7, 1
   index: -1
 sprites/wires/display/blue
   rotate: false
-  xy: 1599, 696
+  xy: 1642, 200
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
   index: -1
 sprites/wires/display/cyan
   rotate: false
-  xy: 1599, 661
+  xy: 1642, 165
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
   index: -1
 sprites/wires/display/green
   rotate: false
-  xy: 1634, 698
+  xy: 1702, 416
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
   index: -1
 sprites/wires/display/purple
   rotate: false
-  xy: 1669, 698
+  xy: 1752, 443
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
   index: -1
 sprites/wires/display/red
   rotate: false
-  xy: 1634, 663
+  xy: 1989, 573
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
   index: -1
 sprites/wires/display/white
   rotate: false
-  xy: 1669, 663
+  xy: 549, 129
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
   index: -1
 sprites/wires/display/yellow
   rotate: false
-  xy: 3815, 621
+  xy: 549, 94
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
   index: -1
 sprites/wires/lever_on
   rotate: false
-  xy: 4017, 843
+  xy: 735, 2
   size: 69, 77
   orig: 96, 96
   offset: 13, 13
   index: -1
 sprites/wires/logical_acceptor
   rotate: false
-  xy: 3343, 585
+  xy: 1905, 757
   size: 42, 71
   orig: 96, 96
   offset: 28, 25
   index: -1
 sprites/wires/logical_ejector
   rotate: false
-  xy: 3620, 626
+  xy: 1748, 514
   size: 41, 45
   orig: 96, 96
   offset: 29, 51
   index: -1
 sprites/wires/network_conflict
   rotate: false
-  xy: 3631, 594
+  xy: 618, 133
   size: 32, 30
   orig: 32, 32
   offset: 0, 1
   index: -1
 sprites/wires/network_empty
   rotate: false
-  xy: 3601, 580
+  xy: 1672, 415
   size: 28, 32
   orig: 32, 32
   offset: 3, 0
   index: -1
 sprites/wires/overlay_tile
   rotate: false
-  xy: 545, 5
+  xy: 290, 7
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 sprites/wires/sets/conflict_cross
   rotate: false
-  xy: 2271, 922
+  xy: 550, 536
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/wires/sets/conflict_forward
   rotate: false
-  xy: 3132, 824
+  xy: 553, 164
   size: 18, 96
   orig: 96, 96
   offset: 39, 0
   index: -1
 sprites/wires/sets/conflict_split
   rotate: false
-  xy: 192, 9
+  xy: 192, 14
   size: 96, 57
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/wires/sets/conflict_turn
   rotate: false
-  xy: 388, 9
+  xy: 1630, 508
   size: 57, 57
   orig: 96, 96
   offset: 39, 0
   index: -1
 sprites/wires/sets/first_cross
   rotate: false
-  xy: 2254, 824
+  xy: 456, 356
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/wires/sets/first_forward
   rotate: false
-  xy: 3892, 662
+  xy: 1088, 550
   size: 18, 96
   orig: 96, 96
   offset: 39, 0
   index: -1
 sprites/wires/sets/first_split
   rotate: false
-  xy: 290, 9
+  xy: 827, 213
   size: 96, 57
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/wires/sets/first_turn
   rotate: false
-  xy: 3456, 613
+  xy: 1689, 508
   size: 57, 57
   orig: 96, 96
   offset: 39, 0
   index: -1
 sprites/wires/sets/second_cross
   rotate: false
-  xy: 2450, 824
+  xy: 1190, 829
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/wires/sets/second_forward
   rotate: false
-  xy: 615, 169
+  xy: 1970, 650
   size: 18, 96
   orig: 96, 96
   offset: 39, 0
   index: -1
 sprites/wires/sets/second_split
   rotate: false
-  xy: 447, 8
+  xy: 1559, 593
   size: 96, 57
   orig: 96, 96
   offset: 0, 0
   index: -1
 sprites/wires/sets/second_turn
   rotate: false
-  xy: 3561, 614
+  xy: 1638, 449
   size: 57, 57
   orig: 96, 96
   offset: 39, 0
   index: -1
 sprites/wires/wires_preview
   rotate: false
-  xy: 3850, 622
+  xy: 584, 97
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
@@ -20352,7 +20520,7 @@ sprites/wires/wires_preview
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = (function() {
-        return JSON.parse(__webpack_require__(/*! global-compression */ "./src/js/core/lzstring.js").decompressX64("N4IgZgTghgtgpgZxALlAgDhAlgF0QegCM4AbHIgVyzPzAHsIB3KCAEwH0BGAOnQDsA5ilCRYcYSAAeKAMwA2AEwAaEAE8UCgKwBOFYxQB2ABwqAFim1yAvioh0cUPKxRgoJBHBU5sMeM+TeFJ4gGNh4AMp0FBAAxnDhWABe4qhSFirqyAAMeoYmIObIljYhUbHxSSmg+kVyZhbWJaG4BMQ0hFQ09EwsHJxZvIISovAS0sicMgbKaigALJoyucjG9bUldg5OLm4eXj5+KIHBzRFlcQnJY+mz2curBQ1N5xVXqTWWa8VNmC0IRKRyB1qORusw2FwePwhKkRlU0hMFjNMgsliAag9CsVbPZHHB-K53MFvFhfPijhAgipTvEXpd4eNdLccui8l9rNS6ZUJB86o91j8wq1AZQQbQGOC+gpBjCRNBRqlxpxFsj5ot7vksRyQJs8QTdsSDuSApSTr8ztELtzFTdMiyMZqnpzLa94bz2VZBX8Ae1OqCJb0uDIZcN5QyUJw5JxVchURqPTitsbCXsQCSyf5jtTzbSXfTrkUMih7Wz+djSnnrdUGh6vXh-m0gX7xT0IdLoaGxAXFpoixM5EyHQmdbjtsgU4bSYcTVSQjnIpW3qBGX2SytHetneV8+8a2XGtmhQ2RcCugGIcGO7Cw92ZPlMgZOPH9xtR8mDfsp8as3OhQvt1WCJMnaz5as8i5unuYF1sKvpimCgZzCG15djayBGJoLKZHIMgzEOL6JnqOxEp+GYUrONL-laS5AauoFOhWAE0e6L4wcecFnq2HCaMhcqocuFgyFhKA4XhpZgYRY4TqR04-pRXI0SuzL0ZujHUZBtS1oe3qNqKnGSuwci8eAN5of0-R9qJKnlrqUkfmmRqZqa2kWkx4aFsprLrsOCAKRpnysS5sFNvB54cAYxlwgW-TaMJyBWV5mIMbZ74kQ5X5ORR85+QWwHFtZ2q+RBPJQU8bE+iF+mBkYkWmQJEwKFkMaaHMaL4RJI5JvqaXprJzm-i0VGurldGJRu5ZFW5JWaYFA31hVen+lx7DaLV-EItG2gxnMCwFa+XXEamvXfv18nFWheV3GNPk5buM3QUF7GVeQJBwGAOBcGtCr1ZwcwKE+txyHMa5GAYayg-tRHjvZx2ZWaf63fVcWDigoPgwY4FTXdAUPXNwWLfgr3vVwAxXnx30bTocWaJoAM1Gj-IQ5JqVHY55Hw4NiMIsjywM4UTNqcN2N8rjNJPQTRMfZwUJDChFPjDIyoxkY8i82DjMY8z3Wsxl7NBUNO5I32KPoer-Oa4LhteTjZWPQtp4vW9UvtrL5PubhcwA5kKt8vTZuoxbKXa5OZEzhzrnqQWPNeXzAeY5HwtaXj4sO4TTtBl97ucAYcx9jn6t++jkN2T1bNh-rXPjNHhca-HQvVvdtvJ-bzaS+wLuyiZ61KrhaKZDTdMB0XWuHSHfVZQj51G7cJux6bddWyxos5inrfp5ertd-LEae81tNq8PnVQ9J6Wh3J2VT9zxsH7XW4Jw3NsCnbump23SFk1v7naKrtwLLnMf+3niPaGpddblzxgbQCVdr4AMPpNe+1sRZNzFi3MUbceIfyimZJqvZf4tRvubYuLMx4nQnpzS+0CZ4ELjnfeuiCk4oJfmvYmRlMF1Q2tLf+KJ96wNvkfEuOsz6nQvljaemRZ6AIFvAuhS9kEr1QTQNuEU2HdwjI1Puap-410IcAk+sM9YQMrvlKhvCdGW0ArIp+zcmFoPTjVFR28JiYS9igAe1CgH8OITJUh4dcyiKviY7RNDzHMVKlYxhJ5mEfVWg49yyoLKA2Bu4gWQdR7eLhhXChxjxHJIttIxeYTvjP0iWKbAAhTBS0zgWXCOE85zALkPPhqSQGCPHr4yBilbQ3CCR4-JFjCkHmsSUmgZSKkkyqWhGQiw4o5wkYfZpeiy7n0nv4pSOTTHBL6aExu4T5E2JGVgcpUsZadywfVeQnBLqzNyUQ4O6SDFnVWV0jyPSpFc0sUUoZHFyCjOdhM85cgjB8m9neG5uiYZLOESshBazumNLMVs-ySDdlHgUT8w5YzJj-IRFMLI95DBzDmU0t8dzT5tMyU8jy6zXl5PeQMz0xTvn4F+e3bFCtGqXTkJofINLblpLJT4ilMLnlEoRXSnZnyIlMpZRvU57D2XaHxfFblYLPGkv0eAx5wqqVwtNnA8Vj9JV7OGeio57B36bzOTimQQk+w+1VQsiFYDlnkMpZdUVmyDXIqNai-ZpqxkYMtfK2QUyYz5wdSS-lGqXURzobCl58LPWXw+YMqVz1mUYo+qwoNqjkAyE9pdFWPLE0eMdaAoRZDY1W3jR63pXqGHGulZm9gyic2OKmXiu1oKNmlsjS0khGTDFZJ1QmvVfDEXTUNamxt6aWX2Lbe7HQ6sQXFrHWYstrTBVDrdTA3ltCCkSunb6k1GazUxIXdUnaLiViEojQdft9zNUiO1e61VE7E6zUYSQIIvw+A4H+FAPgbhVDJAgGyjQ2cNFFAUGJQ9fKH0CsHVquN2TjEpoXv0uD5VCDfrgL+-9RA3CAbiGB2J0UuVQa2rB7OMwOoboHQ859KGJjXrXDRm6yaIxbQbb63D+GGxEb4CRgAtI2YTMQ7AIF8gANzgKRi9aEjBZGBfMOQIN-78zmPBxZzqoWuu1UqrRqMNPGYw9sqdDLrF8ewH+gTJBiNyeE-ACAAg5PgYmDa5dhgFAm2-l8GQ2mnUVvaUYvNfZB5FDRFiAL+7MMWew9ZrAtnCP2aE455zrmIDCaS7JiAHh3OKzmEqrauCPi4Oi4F8t5Lt3arihF7Q5XBJmaRTxnSiXkuEEEyJjLjmSToFeuwNwJB3MYRmba+hZYFCVc3Uhpj1bUMTGWIaqbsXzPeqPW1n9NmCOddS91uTmXhN9YG4Qewph3MKAMGpyySSJuaemwxp90LmN1aW8iowWnVstc-Xs9rO2uvpYO717A-W4DsDiH+tzZG0JyFqYDG1S2AZYhW2qqNkLK1+O1VB+rSOLAo-fQ-dblmv1baS-9vbgOXPA6wKD9gkt3PRk9nncbHwTPQYe4+mNmOXvhaW2zrazXJ1E4S6TjrAOss9ay8dsHvyCtbUowoX2gkvgo-o5zvTVaoGyF59bKLePBcfuXrx0X5OHNZYwCQXAeB5Nytzb9XCecfNLb15FjniHGPPfm2F249WXffwN4T1r80cMm7s2b4TFureOZy3J-L0PzkKF2jPLQS3Guu-BVVrdyGvevetmn-3X2hdB9aH9sPaXzf9aj1LkHA2hvue0EV5na5ltu+jRr7nOedcfPx-Wn7xu8PbbLyJyPOBrdHZr2D07OBzvx4RHMOQXn4pM7u6jGLqOENt4xx09ydXm-vbXwTlfKLNsD7J0PxzI+x-S-B3ASHNvOyOMasppvS3aP64zzNj3+nmPY9fyrgPR+PqJ+-GKW4el+1OtO9Os+Sov0XChgLOFg+equfaOmwWQqPOPuqe-+hehuci-eIBu2YBleo+EBA2su0BXG0sL+uu2B6+qB1W2eWu3umQvutBh+6GIup+HWgI4OkmCASWAgI2mgzU8+vMbOH2re6OIWw6hmYh4Mn2IS32RuwBg+FUvBdAUmAh4mDAfAUOCm5yBgBguC3sf0chjMa+au7uT23+XushMc4hB+veyhwepeahEmGh-BggEejAuAMQpgehtujinARgCS3sieyw2cuOqklhm+0hlKVBnkNQkRHG-iSR3GfeKhZ+ahUB+hQE3a-crUd6x8QWDBc2TB1cJabynGWGz8rhjY7A5BuRMBBgcUQMEWc8KSKBJRWeZRnSI6taVRqR9KnBBBPBOAdA6ABW+CeCpW4kyUXRmes2nuTBl0a4SUqk7BwxtRoe+AMQdAMA6ALAjgDABWBg424iTuR+Rg2gkhumW+oWcUe+4MNxOBgeGRLhOxexfACADgf67A-BAgQGw2FBDUOgN2EWj48yCxn+1hmufRkwo0GIURgxCCHB2xXBBGMQFAJB9+cscSOEKm6E4RXk7GBEdB3RSxNhTBCRIEJJ0wKRqJXGb+x+HxGJ-wWJOJwm9mHguJbsuUyodqxJSRGEw4MRUh6BXuxhaGEYIpZJmxEw6RzhJenx2JY+AAjhQFAKwAzn2AsLMXmjwnRtCY9lztvuRoibIIaQxPKXePzhtqySAawFgBblAKoAVlGJZKukCl8JwLcWgTVsxlKcgPqd6WWL6a8YAfacqWybQCCAEQ-nEtLMVjBhEUpqKcaervccOqEdKRMGmXKeKpcsyUAQ6aoaYKoOgHJpbnwAANYjbpHcJGaxjFlZB+mlHLF9GXZ9htTzAtkAFolWY7HlmVkQDVk1nCbDlVlJY1nsC37eAOYXa2k3ZNmKkRjGBtk9EdnuRhp-78jZxGD9lhJFnE6-ZDkVlTm1kTnnmjnTmzmSC4AXaaD0mJIrnMn7kbmUlwnbl5y7mFDvkRmWLHkjFlnXljl05OwFZArXoYSrrXb8gL4flf5fnVJ9iK7LBwWFAIUAVbGDkxmTk3m1kNGZpy75nYR+ZeQYUiSBwZlWGmmhYI63BoUUUsiYW0rVHxbokgEtAwDsCYB0CsAUAkYFZZC3rw6wZGDjSaCIWwkd5MFBkgySWHk1G4UgGvS5Zy7kUPiKDoUbgGAvHkmLFIWyXwlwHBk6VrB6VKUcUqWqEkB0ACBYAxDsACB4juY0xKo0z6mPxGDIH3r0GblUl9GPFvbgw97sXC6cW2X2WOXOV4jCZ8D2DunXqRjtF+7ahil3FxHaqL4gxpVWURU2VZF2UOVOUuV4DCYnEgnz7UyaBK47IqzSV0XDrBVXGOHhXF4NiuHFUxVlVwDCaSCVVNEaAwWWTdqWJAqNXt5mloQtXjWFROF4GZHJYwBJbxl4kFiXZwUPhMUfDFnpU0WxESlMFQbN57X5UdVECuErW6FZZ+FQBJZQA4ZwAXYYSmXTB1WrnREHXikBle4nW-nWkLUsnRkgHXWOasBwB4YXbfxKo+Url2mTVZmUoxjN4I3YXKUk4xkrWSBrV8lmRCTIwpl0n577V+UUlGXTX1RKpsZGEMkyJMkXUh4xmHFk642fwFhnGE3UafU2TfWZVHVBUWkKlnXo1FmM2uEs137CasBRBPU6mMWw4RGfXBHUVk2GUyWU0BK0lpFvkon03C1rBAWRVZGS1j4rUQB2AQD4jubTDQVCkM1kkZX+mMGC2JEO0dTyli3vEg2qGm2OYalany39zqheRTJMhGlq0wlNWUrU3LBh100HpLne2dU7FW1als1WrjCbXXpUZYGO183O29FxJC0NYJ1xYFWY0gEpS8ns1oQKDyDupE3oYf4mlTUPEl1E7o3WWV2qHV3iYxCMCLnCGCkrmd0GVR1t3NUd1l1rbi2p1vhZYpTBGkxDXICJ4L7GxN30ot2ZlZUYHa3b2KFF7J2XU7E-FQAxA1kZ3BoNQqwj0RG0352R2t1I0GZC3Zwk1KVe1Kkp0xk-EMBQCuYM6l0K0RaRhp7Hk720WT3xGmVsZcqG0C6i3K0C7AVZH-3QCuZOZJZYDQ2N63DvXuK83P270C1fxC1zwTRA0lk+1ZHznfHOnjE12Z3zBZDBGb2waArpkkPQOv3725lcMFntUn1M0gH0P8EYPYMW0MDW0gk2oMzYSiU1Ab1P3FHq3R3aqXEH3xSAJUPCM-2n0xnzkIAz6r1aAIPJ6wYWZQOHW-XlHT1CNDEY2nkxkUB8AQ0uZ2BuMcD1FzkQBukgnaCL6sH8hGGI171e4xj-TO4WVSVd0V0uMgHeMHZePuPsC+N-r+NHZYByYdwJkFhRiL7z4rku4SE2M-Uu3fk+5WOlMKHynd2JOqHJOeNRBpO+P3k4AFYLCEkL41OxPhNkMbUl0u5hPxNz2uPuMpOtM+M8FwAdPZO5NB0Rh879PlP812Odkl1s6jNH24HA2-0gHSZYAQA4CakkC8V2BxBSaDWBHuRGFhoKCrqGoKFO3tmBU76oUhVlh1PUNRkHOqFHMnNnMXN0BXO+RZZ+3MM32tSmULBem6Ok1qMT18Ne6rFEPzX6OLWllZGAunNuAgtgsMDCbV0M6PMiE9l5rh3zE8O2OVMbVouh1UsbG-Mnn4EAvHN4vnN8WEvm4OCX3X25rCGEnyAhkIsDMbPkNu1rqA2Yv7OGOHMcvAvcuIDgvCZuPn38tQu5qK5w4XFWNj2vMBXIUzUOMe0stoPJY+FW3sCnN8C6HAlmOXJBlnEhNYjhnj0v0RNMFRMxNhnnUiOdBOmCAAZAkgYCuP7KiElw1fMR1IueuDMmtSvWO7NvEGOnhBsCDn5atBE+WL6510lRHENxukMSvRSsYP2FsYtOPf1YutCBsCFZtOZA7Zvuw+XJkNKRY+nit0uTKfM0F+tjMBvUAZuNuS7ZZ8C5Zx6r3yD5qb0dsN5dtrOF1blRx9us6LspuRmss6T1vBugHl5NtU7V40614kAOu3PVL5oxhbTzveruuGufnGUfOMUxsWDuv1MJO+q7uZv7v7ZHvj4nuT5nbumcrL7jUWEF1vPGtiIaCvvoRtVOMNNfvDsNu-uU6HbX4Q7W7Q21WjUUvaCFv3uQdGtPsoUvvWyEf+tpvfujvNsAeQEQUglKyL4usrMDsesls9swdr1sdutUe1sNg0docS50fX6NEXtmS23M6utvvdtF1keZB9PscfuM1CeEEHvgEtvRQhGEmsf9t8dLtQeke9vkcfB+7vvmvPxqfi4R7EFj4x55bPVyM7SE3zv55Ec0sVPyeJuKd50GebsDmMLWcU4V6W6cnX515MciW6eKxwcEdycrs+eweAEWeys0OCcod7vqfD52ekFAfT7ul7wfX74JfvOrs+5PHmH8dyvpuofZcX65fHu05Yfhvbk+Zjb1bFkefFu8Net9FQZWNdfVfpd6QjvCe2dhdX4T7gXvRTFTBzt+eyeGckea2UK+d54bsqdDskBjf1ehdV70dkHEUgn-RZAde+v+cPsU30VrvK7KeWfWJqc8HuGaGCCnEyCcpAy8ylMQeefrNccIgeXffgwIeMnOPIc7d1fPd8FaF7EQA3Vy5ZBXKK0xzMk+WlfQe0S3Ahlo9hWIefs7uZc-v1EveeECDeG+H+Fad11ndc0VvcM9e0vec-TlsFsz0aQ1s1dPdkAzedNRddnY+FE9qdF-fLtldJejodFsX4+M0nptwr0Sc-RNSL4tQUtS8Y-GfccDHS9g9IeE+Q9Zc8Hif5P40O6JIgySKq2M9eeJf1SvrC86-616-B4nosoK8m8-Q2oxhAwW9Qmi9GercipvoPdBdE9PQ2sTGFfdlPl7TLePuB8jprHjRVu68E8u9MoIQQju-rWTLaW3BTIdvrFFsCLxulsXRC1F8p9O9p91th+7H7GHHQBMMM6KBQZnH4fvb6VXca3t1Jud-Dd-OjeodfHn1-EAlAmnFBN5zTEYgsWoyIsl+cfM8bT-WJRz-oRV8HrO+18G8-scnYdMeKpQbRts+qOL+9cJss-v2QmONg+c8je1d7v7+Obcmtfdi6veYdsq1fBxMccX9l-1QgyYDShr-09o81B+j-PfqqX9qaltScjAcPfVDqYQGe5-Jnrbw2iEk1wHadntNCTrUc6+TpF0gE1XrSxIwfYFqOpi+Ctk4+13YdD0zMJYhqBAXHCqH137-AwAcZanizyaiICkielFAV4n-4A8YC1-Jlno2rbgDt2weITqYAoCEAlmyqCLPIGRTyAreqAm3uLzt7hYsBKPQoKoKUp4DZAEhbDDINArTkCskwMbLBlMJlgmB3fDRsxgF6ZAKWNgxgQPykE78xu+FMcleRHJgU-GC5E7vUiVRAxXyhtdcjQJ77Dody1sN8hEOYE7Ijaj3Ovt4OnK+CLyM5OZg+RO6w4emO0AGhMHiH2CYGmjH8rEPCEHlB2f5VBlZxSFmDCKORRXjikebXoqY6FdfrDg14J8BuHbSivFE37l1VOdQvwbeWN459zkd4FXiEXaFrBOhkQhwX9R6EzD4KAw2ettzG7cUQWAlISlVVErYQO2IAroaFnkpENQBIfPZEJzUpv9JkBHb3gzGUbIpDCRw7MkGTqq6DDAjvLfjXwy5sDCY0VUqq5RBJcpCSNMSrvzG67qD-uy-NbrmW8qpcZe6w1Dt1QBHlUEqfPVejtBjDyAQYItP-mgM0GA8KGuIrbvgN+HIjYq5VG5h7wRBGFTKLUYriD2eGUpZqYSBqlUIE5D8925I3qv1SpHjCEQtVV4R9zg4TV5hJQ-hldDmruCTBdfMGlwJxRZB5uBDS4h8ELa-9ihKLY6iXTVHSjahvwuUeJlMD3UgMctEEkYR6axcKOP-JkVjm1HWj2RXPWUatSywQ0oacjLIMPUsa8dqW1vKEegKzpbMcBezB-kJ2xrXCfo9SPNlvUKFo08RGgzHvGhpqxiwBZ1GUb8MhYgdHcdVe-gv0EH4iExC2NjJIOQapi9RY3SFtLVlqvQFBDwHWobVFFxi-RBImEZKPdoylVhHPFBlNjTHljjRZtY5pbVkar0toplfNnWLP55j4xmvLWrmRzFf1JBPY1DhWIDpwDp2CAr0UgLEG5j1UU4hPrHU3FBiG4hgx0b8LToeMLsOcUyifzKwCCdxTYgsYtiTaf0HRIYuviSxO4jUNxN4icXeLF4PjWe34s1mlwgFCc+6MQAei9WXxhEVyz4xsX+OnFKgS6sEkkRyMgH-A+6S9JTDhyDJjjECt4tHPeIQnLMnxh4rdouL3Yasr68opUNVV4FrlYxGovrpK20bZxkxhZBcWWNQ4YNAGTnEgSA2wirpIwbOS5BCMnGESE+v0LvBGC+57l4uJYxBt2M4kUSmGPE7BnwFwa7ComefemAa2I7x9QsOZVsRv1ImBcLhdfcRowz5F41zkkwTlLOworJ8bREotcIIyAkIjSRY3CyZI3NqDjVxTQhWCf2wi4cKKuk-3it3oosj+hJklgWZN+HGNTG-kjQC1Fhr204MYozUa7W0bJsUJJ4sbs0wECpMZmPPPxsQMSkGkeE+w-DsyRzhOS-qqFQbhZR+bASPBPwvKZMxabeN0mszTJqoAWYQA8m-I8YI+G2gelyhVXdKUxIU4RgqpjIl8SBLr75TCpXU4qR03dJJ5KpBQmqRNMv44oS61Upqe5NQlCdFp0zZaR9CyE4A+pA06yTinlx2pkBY0woFtLgkB8buSbfabqOSG-DcWSrS5iqysm11zkioq8TtUKQvM9JtA5kbdwlQHTU+Qw76Yq3xbKtrmELPseGLnyiEfcMknpMXzEnwSE+DLHGR2OPoeTUOP0pGX9JRnEsF6kFdcVpSwGOTtpAAhUULW7RuS4ZiIvduTK5aUzVWlE9GeMGmSoUVGRM2qSsQoZis5pLUzkT+25kEt-pWWdVnyyokXYgYUbVKcm0Yk7SWxYImVodNymocrWYOW1vazcr11dScOXalQLFn9duyBQ2KJ9JQR7E7KeWQxu6Q-7xQlRNQH+HoPBlhT9JU9UzrIBUGwz9aPs4OdLOdkMB2SqgQDKcTYajUO24cvNH7N9H4ze+63b2SHIMEqDB+Uc12QVMhp8B3unKR5nHWzlMzhBC2WDMnPzQ5y1g8gSOXQBdn-B0A0QUHKcUMKWQy5odCuS9PCmBzM5wchuaHMTq5ym5Lc5lEOLKn5o9hriLub3JHk2zn2Q8vNH3JtLjzyo+c-4G43znTzqRCsIrCrwXlZyl5lc6EdXPLlnyEhtcvOc3Ojn4BGApgFoFMRTzY8T5w8-kHXPPn+jL5i8r+aPMwy3yJ5D81QKQDsqD05GtVKDE+VXS1zU5kI9OYPOS6nyAF9cr+YPwhodABA+AC+nEHQBMN-idldETPKViCk6qG4Sof3IDlQypWlCpSvQvKhYKKAOCuAAACs4AMQQhQgGIUWCc4zOA4eDGXnldtG9C9GowrtgrUEAMQfALIMIDsAnSVtLhVgDoB8B2ASWJ0jEGOLUTWGHspTCbDN56DfKac16cgqMmGLZAePMHhYrzSKTm4UimRakMIoCA6A-FQbNI0gWr0owSqfoB22JKFBFcwisyELX8UaBiZd0JigEsH4OL8AyM8FgoudKPVXofkg+awxsEPgPRywEOoUBphBL6o9AryNktcRnDqiMkzClpnKgxK4lDABJdItUW6EuF+8waZaQFKAwESXkfIfyCfJ5KOE5A5YJ0pyWfDMMZSkSBUskXOkZFZ4uTOwDoC5Z7MpU1JbYqR6WRlla-NYPUh6U9xUK+pFousqGVrCDGMSnhfYHSZal3FdgTxWVJozXoWi+pUJWvQQV4zTF8RKSQ8rWCJ4lKkSsJdLKOXELnKrijgCwAuXuZvFecE2PcsCU-zmxxE7RhCvCUNwvla9aJRMvwDcTXMMyuZa6TlzRhLINMZYXoLsEQyohtC7Rn0KEhKUyVrZSpSiuYAVk6AZOEFewx9xTJlgiK3CJsu1xSs2VVisOcyXZXUrpFj810ugHpV-EjZCAdzMDA9mGF9SNi9lVCofGRS5VPKxOnyrsUoJxVRAVxa9EAzsAJwDOcNAQwTleRom-IR5hyvih2yTVURc1ejWVXSzNVp2ZuXAF1XHADVIlPOIqIiJp5bV1CyGdlStVJEfVVCm0mqodXHMCAhA-rK6TdlMcdAnKAKN7Jdw2oLVSq5NaDzDnprw1Vtf4FGvmW7FY5xcuNdoE+5KCs1CqoiVdG0YMU9BGaxOlmvKiaq81Mawubfhb72SyKcC8tX6uJW1ZWZ3am0g2rthNrnS0a1QLEvbnVimOsOBNV2obm-cTFA8klbmRrUhoDBQ65uCOqIFTyUlzS-sB2pEiWyQ0861Nf2pPV2qN1GqiNbmtHX5qn5L86dXTMPUUtV1eaBdYgueV9qpWr6lNRepPWNrr1+AZteOrAVns6AlyxZXeFaXYRTVSa89T2oWH2Nv1A68VD+oCwAac1acXLDMqLUYi2Gi+D7BS3XFPS1BTypddqnaXYR0KTLJ4VLIw0EBkR+LPBXhmb5yN80MC2UjUFcGGBRJv4z9Y4P3Fcbqp8IjmQY01WMbzm7CzhaxrXGNRu5dVZfIUAWAWqtGuZRTWqEdnyJNVuhHAIwAYAzkviYAS3FwvdKWj+4C7UOnysJX+z-VEopQVZoMFhr6N-wHTXpogCZCDiOABZXuuxGtD8yNQHuUYotWr8AtG4eVTfKc3DrANsyqsq6RtbUBeJZUlqEGX1IjKl8p6qVmlqBgUq2c2W5zairgCYlVFRmxyh9FJ4XZLsOdaMZrKJWIbMpsIsejlJG6aqPARWvgCVq4V6qwoFgs3tBNTL4SN8u4+ioTJlLRTwe3oFrYVvZLFbjNH0EfMA2vZwdulFahPnFGFFH5ltCQ7fv8Em1taOtH0U5vD0grFYslgCTbVrOZkKxLo62moDHy6X7KlCHI3bewOOY-F1CUmCrdMT61bsVtGchrWNu22PzANrWl7Xlg+iZ9d1N0gKQ2UPXUZGZCG8UX9RG15kAd3woHZhpB2xkwd-xYgtDQqI7JzttWxHUhucG+ZkUm2prYP2e1Y63th23DTPO6aWR2lt2s7aRr43kaf812k2HdsGWabUU1OjwF8Q4DlaghD077c3QR0ZSV5-22-tXwuoC7OFqijgBDsZVAD1xwpAbf5RoVY5kdTK9mXLpPoK6hdOOsLpKvqR2oltbOgiUguXWUtLdfOibcDqm0FbjddOqYqNOwiSTClrO4LVztO1rAKd5w-nYBvFUXM4ARzOABBp82jZu5NcsNb9rMVYD49EWhud2JKDwAHAEgUkDxJQAgBHA3JLIOwBgBqkQwKgboDAEcC56AASgAHEAAQgAEEJKElEANSEwzAxH4-QD5dSC0WvRc9AwTQCAE9BAA"));
+        return JSON.parse(__webpack_require__(/*! global-compression */ "./src/js/core/lzstring.js").decompressX64("N4IgZgTghgtgpgZxALlAgDhAlgF0QegCM4AbHIgVyzPzAHsIB3KCAEwH0BGAOnQDsA5ilCRYcYSAAeKABwBmAAwAaEAE8UAVjkA2FYxQB2GSoAWKAJzaAvioh0cUPKxRgoJBHBU5sMeM+TeFJ4gGNh4AMp0FBAAxnDhWABe4qhSFirqyMog+shGphbWKghRsfFJKaC5lgXIllY2IZi4BMQ0hFQ09EwsHJwKvIISovAS0siccgacGSgALNpzeobGIGZ1RSB2Dk4ubh5ePn4ogcGhLZHRcQnJY+lqKNm5+WuFjSVX5bep1bqvGw1is08AgiKRyB1qORusw2FwePwhKkRpU0hNJjMHsg5Bo-s9Vut6rZ7I44P5XO5gt4sL4yScIEEgWF4qVrhU7nVZlllnkCW9iqyvqjfrV6u9ga1wZQobQGLC+gAmQZIkTQUapcacBWcTGZHRyHkvQmbbak8n7KlHOkBBlnCWXMo3VHjcxcp4rUWbD6O9k-QqewFNZmgtoQzrQuW9LhyZXDNXOlBa8y6lA6PEe-5ErYk3bICkHEDU2n+U5Mi6Cp0c11Y928gMCz6Vv0bAPi4Ng9rh2U9OFKxFxsQcgxzAxchWLQ18gHEnbW-OWmnHG2MoPlxu+0Aut2T+shCsbnL+zPWNstENSyFdSNwmP95Hxjn9fpcnHV-G7025+eHRfW0uriJ92+Td7kyWsjX5Pd12Aw8W2PQNzhBDswxlGEozmWN70HDVNAMA0sU4bQNB3eCZzNPZKR-Yt6RXRCWWghNORrEjjXeIDhSPVjTyQ0NpSvHsOA0TDVWwkC8hHLlCPTOtSOzWdzUowsrRLW0y0Ahiq23WCIOnKCfRgkV4O4yVO1Q68OG0YTwAfHD0QUVZMg0DQFRYyDPznC0qKXf86IdNkYK3ZjtKnLNvX8ji4K4tSTJQ-j5XYAwrJRR8MS5OYNCWYKPxzDzFKLbzVIA+j9MY6swNc3SwqFCRDKiorz1MuKoxkJKbLErUdTS7RMXfWT3IUgt8r-QrfPYzSgt61iGxKmrOLeYyGtiiMBPYcxWtEtEkxTZAFkyya3JygaF2o5c7WZPzqtssrHgq0KxubGojOixa+PIEg4DAHAuHW9V2oMZyuVxHrZFHf4ZAMRp+oowblJos61xm2zskyN8QdqcG2I0h6-jquiXsvN6Pq+-ofsYyZtHwxztBc2DwfRiGyK-TylN-FTaPte6xOR+5cjpsGGb08LZsi+bnuQ178Hez74VJx90ppqnaz59YMcZ3KYdZuHooupsua5VHkGVkHMcRqo5oBBbxYJyWia4Pshiw37NvS7aR2Bw3QZVgWobzZmhrZ+H1NNtFuaY3nPeN6ahex1sxd462peJ28HZEp3NSmbapmI2mI49yHDuh46CvZ87OZD-WeSNvOo8us2RYtuOLy7RP2HtlVrI2zUFAUUGUZp8P6fz+TC684aS4R6O9axA2q9VwXa9gx7cYlfHm9t5P2+S2yiMpiwldzuefe-FmTp8jmsanlHK4PgWqt1xecdF+qrbX6WMLvVPGKc3vE2vwe1aOqPAO2sy7jFDjPG+JtJ4P1js-eOr8vpCQ-h3NOKBFh-EyO7We3sC6+zyrDU6ICL7l2nn-fmUCF61SfnjF+MoW6WWQVvMSMgFQ-x2ntNG5CAEjxPsXQOxVoFgIrjnf+8975UIbnApudDbaJUYW1NEyYMGJggaIo+fsCFn1LsQoRpCRFcLEQeCRYpG6NUJtLFq8jO6Jm7tnPUZCvZD3IngjWp8Rrn2Droq++jHE13EebExUizE22lmtKxqCJisMylTfunDfFyWccff2Wsio6wPF4nmcTI6GIMgEk8pilr4GwAIEwxNZa2U4AsUOcgWEOOyeo-BmtCGpNAaBTJHtRF3yMXkhCK9aE0GKaUrgAxwlkycrvZACoph1OrgkpmjS3HjyDoItpYcsmzK6bk+ugSaHwJlIM4mCIU4oLGVoSScxVgDwMQ01xfCiGeNWaogxmyIpL2oX0vZAysAlOJm3AcETOAyEIlyYcWDIHcJcUXMe-C0kBUeTMueLzhZvMkbs6RXyfnRnKe1GQcxtpEViR065uCkmaPcdoh5TFvFXPiUimOT0gmFIOa3bFm0FDmAcigccoMaX1JJRoppWiJ4L0CtS9ZiKy7GPyYyiWzKN7-LJuyzlEwXi8tmTcqFwCWk6PhT47JdK64op2R89F5BmXv2OUwtlj1MgyCefEjVQCUmjR1VS9p2CKH+O2dKtFwTmVIMtQozUu0xzmHwmqw+-KFl3O1ZS66ayiW0slT0y2nyzXfKGQwwN1iJghqxAqBQHDE18uHpCp1zSXVxuERG2+ybvW9PbGmopGavpyOzQCjK20NCFoRTg0tpLBXkuFffUV7rwU5NeY-VFJq-UtvYJY9tYy5jxrxdnGtTj5m3OhfclZbqE0er8d0+tqbTXNsxWExdj5xkvnHL2jd6tNXOo8bu+N9r9V1qNT6j5JAgjND4DgUEUA+BuFUMkCArLxgZQVmguQRbP33sAbw7dsbd2h1rPBw9Wz4Opp-XAP9AGiBuCA3EcDoyORyG1HYiwrCeScAMDTKacyH3lqFcskViZtq1jowxyCBrYKcHMDx6djbcP4ZDERvgJGAC0oYpMxDsAgEoAA3OApHL22XkBM9KStMoqzmAhnhySK3PvY4bNKlddOyH05hydsDdmiewP+8TJBiOqak-ACAAhVMQdkOYeNmmeRhtFHIAzZakNasrbuiZ7sguZhCzZ5FU7jUid-Y5gjhAJPSY815iAUmsB8BUxADwPnJmwf8xRwL2dCTxaY4hozrGBGmdDjFqrFgat8alQ2s8RAHP5fS5ltz2W3PUnQO9dgbgSAlfSsoyZ1NAtJYVKFgdiyYWtO5ARebopFsJfpcvFLeG0vOdc7lobuWRtjcIPYEwU2NDxsJSi3FS2BUrZ3U1ySm2wbWYnYluz37Ut9aO5JwbqmctSfO3AdgcR-3ebI7ZOQHLyvhosJiQk23auGbJUsxrI7UzvcXij6jnqj3Ybjr1pzhGXNA5OyD4b2BRsQ8TiVhUYaJkBcXpZuoaPHXhafRS1DePqgc8E0TrDSWv37bExT477madnbp2Ng5JWdDsq5Gz6o+FUdPejchyLpnouBY14TnbhqxddZ4mT-rlPpMYBILgPAanN5BtTAYHtWJ5D3cN3UGr3P6tDrYzj7EAu2vBZF7Zhl9n-vk4y1btzNu7dufy4V4rsOxIKjmAsVXFXF6ta91rrdEWTMB+a5VkPxuYHh7+wdgHUuqdSbjzge3YP5cQ4myVvz0TZByCR9srnUb8+8+Hekm6G3y+a7L51nDkfLfS-r438H7BLs4Guyn610HxJwanfIPPj7jN87ewRdDm-2sftN5PqvUeBu5dn7TrA9PIdwGhw7hVj57LxqIuhoTwuIXLZjbrgP+vF5P80cOsU1Scp9AdrdRt485db8xtGcV9xgFR5AZs1cLAc8v90cwtfcsdYVGJi9s8ttQ8fsK8JdDsa9IDbcG8b879FcEDnc-NM9u9Ysx9MCf8ddC8h9A8R91dCDx9QC4ELdFpIcFMEB8sBASs6MnIuR38LN0YvsfdMdVtXVlUi1cU5CiDdt3lSDq9QxhC6BFMxC5MGA+AYd1McU8VAZtAeUrN0Zvc+8d8GtcCOQVDZCwZj9iEJ8wDz90twQ9CDDBA69GBcAYgTBTDHcc0pgdB9YaN+Nphsp+1ntf8OC4V0QtJcg6MCdKo60BNP9xdutCBBDkJ2B4CzDFFtQXxuo71v9Ej2C98i9q1xVa0PD+CI9vChDaDSiu4Vd80XcqjWCaiC86jODX0+iQDj0vDJddCcA6B0ASt6NtoWEDYdIswFDB0cC1t41wIQovQT9fttDycYg6AYB0AWBHAGAlc5BAVM9pIHtzBt8WM-dsdOC0MPsVY7i+DxiBDwD8BDi+AEAHB-12BRCBBgNJs6D0QZAqNDYljMjI0EjtdBjB8UjJg0jDBYSmjg5PCvi2ifiKAqCn9HZGIu87VojrCVVcj7iedd8kSyZONaN6Ndwxici9j8jCiYg8TG8XMPACTP5HxzBbtSTaNIT4jEkBiB9-dOCoSuNhTZImTBMWTzdvj2T8SpMABHCgKAVgCQrqWsHETIlY+wh49Y11YFCaVMDQfUnY5o7ENQkg1k741gLAG3KAVQNvBgrEdKMkmQJLTgSk7ApQylKEtdWQH0jQk3BU1oQosAKEMI5-WybUDPaeGI9ImQbIRjVYl7FDUzZ8M0iYVMxk7I+Uu0xUnEkwVQdAVTW3PgAAawkPsjYXSkuXmE-wUD9MUNewDxiPsVgjmBbLDNHy0PtNLPLMrPy2rKkzLIrIgCrOrPYAf28FcyV0qLdxuKEzoxkDbLWIDN3TXzJKLPWHXP7IkRyLN0jO+MnNHJrInJHOnLHLnMkFwCXLXyiUCzXKME3MzL-04N3NfNqEPI+JRRPLP0lwvNvJrOKKJiZwUAExBW0FrDgtqCsI-KSKGJSImVvVggQv+CQoAtPwmLINApnPYA6PCIiQLSBVgvgrTLQT7VFIRPFKeLQvQukiwvWBwu+00OEyHMlxaBgHYEwDoFYAoBIxKwpgmTwkJRkBCg0GQtqJpI5ClMrmkqPJaMr0l3ekKwkPMGXRBQuR5G0CnAMHeP6PoupIlORI72QGDOQAMtqCMpUs+NaPUroAECwBiHYAEFJAkKcjfwBgHMNl73hP7zMsYrwNRPrhYQcpJ2xOctcvcs8rwCkz4HsAkPBksvkCVk9wNKCocMeKcNsjYUyoLOtOiqcrIJIBcrco8tJCk3OPBK1Ckt0o31sNksRPMrCtzIe3cMxNUv2IIwqriuqsSskDqs6IsG0t0usoexNENKpMcLWxeP8u9KirwpirIJgHy1jMJI5EWGVS0FXJFM3VyuNMpQmQ-2Kp6scrUvWs2tyxCKgHyygAKLgBKycksp0BiwpOqNMvmtdTOt-NlN2OLLPJxI2pMNy1YDgDw1eoyjHApkCyFxmpyqNO3NMzX3Q0RpWojJDEKI2skC2t5PjO7VfWTMTH+kOuYzmryrW2VS43JsButOZOBpxu+JOL6wJpOSrAmqTLJKZvTNmv9I7OePCr5t40LIpOArILZsfyk1YCiGeu1J6PdlFrzNoqOpRqFpSMWvSP3MTAlUZt1omGF0lur2lsbw2ogDsAgDJAkJqTX0E15sNuyrouCt+spW1pUS+o4rrhVuS24qloeplvVM1MVscg0CbOxAFL6gFvbKzID1pp5FfAuugVyBqUxpNvJ2ts1I5qtXGBkPzQnAIOjuRqppOt3TpKLsYzGNKuuur3ch5M5tsnSihMImauLpduOtRvqM6tN1wuxp62+PrrkxiEYBK1TIWMUFeIOhLsFrjuFp7uTsoV6v9rrpyly3ckBRGTGomHZTX0WKnt0gzJQvkqRnCow29v8r9pLMl3+KgBiGrJzqd1m29MFNiPQKRo7o1rnpSITrfsXq9V9ryOvrINvvvtjxgBYBwDmMnqTIjvHE-xku+tduptdUKp5HgdFEQYvtyCQO2NPJZpxP+IYCgC8y0qhPHGkkIhzxPKQc7s1rJksq4yIj-IwLlLXONvwuryIegC83c3yywDHq1BBSzzVWdvVtLq7uGPCqrjuhKtWrKurwXL+KdOmIbtzo4z5kyAVHDv0rwdoa-q-K1vCtsoZsuprr6tBCUdEO4b4ctoYBtvqoozYXHAjqsIprq1jsMcYmZ2MdzlkbMfkdrvJwXIQGX23oauVX3svo-vEdnq8Y5A9vrT7uZoHpxIoD4Ehs8zsHSY4F0PnIgFdPBPMDYRuM93+laoYvytTzHBizKawersCYsfwByZB2yYyYX18PydUDBywFUz+W2oqSIjYVxD3M90e30YkfoY5DXyEcXjGa+waf7oKO+JaayaiHabyYfKgfBKclDnSgNmYMMCwaPrkvaumbPrqaxpSeWbSYydafWdyc6a2Z6b6dDrQQRrsuOZjq3KmfjLPo53KeSb2xXvJyUywAgBwA1JIH4rsDiEU1GtIu8c4DOTd0uIPu0oqZCqqZIS0fRYWaBuBeAerzBYhahZhboDhZKFyzNsfpzTwmVQplUL8ZicprieSNKmkeZaucJZBslxJchbcHJcpYYCk3rrrPMGqSwtTurH5pns8fZemc2MTplbFrkaWcKP5bJYEuFavwcDAbUafuTFDgyn3ncYxx+e-o5dzJkatICfVe+M1cFe1cQCpak3SdAYfoNZzUqVtNtR8eicxbdv5wXtMZTuXqJfJyCOtvYEhb4BMLBPCcBQmSIlqdFF9ImbZdQu8bHANzTe5cHJ4k6EdMEEA1BNA1pYiUWFDkZfRZZY8YtfidPpDaroJYLdaCLbEIgIraJNxAmQdvpMtMDZQcpU6lzIyP-qPUAfwb4mLYEC7ep0827fIwtPStg1zczHTZMuQbLr1xzbmbzaBbbZDA7ZLfIOB0Xdy0T1U2T23suIwttTXfZwPa3boctYSb3cF2fcWeuZPbnbPYXdB3n1b3BO0bmFZ0feMU3ZObatCvffzXRc3e-Z5ePeoFnfnZlwvab1gIh0XzCcRfI2XMwQPq3wzflazbg9xaWu6rDausbV-fQ9Oyw7vyh3t1toZKxBTcC31Kg++c-IVbhw-eRy-dba4sLdQ87f-Yw8A+bwgs+iVwVAU8zzgyFx47lYbf48vi5Q+Y3fzdE-bfE9Pej2l0Y-nxIrjLEhqW5ofbgyytU8-smbfYE-g-3Z08Pb05Q5IDQ8k+vy9Y7VqSxDwlKefeg8qbW3QvXcJEQ5E6vv0884k6M9rx87ywK2vZepA7wnKzg3QLs9ibI5Ps08mRL1c+wfDdi684S4oOgKY7G2A+3vHAsNRbbsi6HZ3e7so8g905i48-K8vzrygJVPn1w4kIE1DmHCa87xa8kaMYP2I+o6Xto-yPo+8-67nxk5Y6XYqVYQZYtIBua9I-U-I6c-a+o2E7VZ-YM7-Yq9jxW+oLgMgvBMUH9es6K725fYMY05xa08ruR066AbK-i966S9M5bQkKsLYUC4i5+-2748O4s8E691O7tfO7i8M98Pk30NEMEDmN7NVywTGbsLU5h-y7RD2srnx9++ncvHK7R5EMMMOIgHBrb20ckkatpiE0iuh+PrOaukBkrnZ+AOi7++6-i5p4x8MIQCCJwBCI24s4lZJt5riPbty4O+J81ArvSMV5bYNolrjiW90JKPw6ugLTHHY-XU59Odg6bbFWLQ2UF8p9PRbi3sN7EkE1DlYUkvHRC6xYWoaJt-1qR+Q5nZF7IGIpB-qu7njUBTBTUV4658t5d994PRK4W54lPWZSd-M7ZW6MwQor1XVVj4t+xdHX3XHSQ6PaD9R5D+mNmPBJYRKYg4zFlfs8zdV9WS2IndFyWdPTQjhAz4GeYS7JgyLWWLrfNaJ+54T9zJH4p9TSW8OOONONUaVzxRQKiKWuMq96Df33KnX5n914u9BF+NvsBOBNBOG5eCI+0mosNlH6wLy4n82n+qv-RltZo-McW4P9xPxKXLfwb5VUHfN4wci+HGEWpr1VaXUp2s-T-sqU5JQBuSEhAwL0VgZCk-GXzQnnH2AFWUg8qtTBg5UgH78Uef7GAW5mDpakHu2gfzP61TrdozWd-FXg-01AzZdSNA0NvNzTpLMlujpZ0oU0Tas8w6M8IXK2UAGhdXUM2aSLaUJBCDk+7-MToQNBDRkyAMvNEFMiQKv0NeKrQ+gXyAFrZR2O-dQR3wij4C4ES3EwBQEIBvMbKuIROtoCnQ6A1arLe-vH0USSRdSNg2oHYIcrsD-gadSniYJvIzkEB7HTIHhDJI49MwUgzfsOx3JsJu8YQyQXv2MGf9CKY5a8lOSIr5NFy5AtfOlDgxvkNywg73q6h-KAE-y75NzkBQIFedkhV5aobOTgBbMbsM2HIbtzJr5C3uDnRttUwC4tCVUbQsvkbUWxQC5B+AWobJ22bhN+2WIcOoSlYpoJb+bBbQX9RN76Vr+NghIbsj8FpC7yZnfvptD8zVt8ymFVYfMLFKFDTq6FMkrMJsqv95uMg-7qe14rkshKIlcEvRnEoiN1k-JSbr8zEiKU8+Xwtzl1wr5-sNKSgtXpozJoGw3B-wRAd8Mc7tQoSLFKdLCMBFC9gRoIAalVQSppdwmQzaQiiwkRAo4RnQz7utkJFRczugfKnhJ0xHxUaqyVcYc7zRBjcKiklL2pENa6cFf6vML2v0KBHUjT2tIoanAFqq+cyYNSGbCyKo7EiPuGSMkebBI7SDGmH-YYUKOxFSYRqYouWL60MANdCRJwn6lEO37D59R6wj5EtzBpgi9420CHvjlwEFCt+-+M+vqXqZ28hhXnS0XdRMCB0nq70N0mIL0p2jMwaA5vo4MwFP9qgLos0XR0-6ejZaUNGvtvV2qsjtOTfZXuPycGIF-mBg4glSItFYB8aWo+Mt6T7ak0VUmNB0UaIDxKtYiFY5PkYI2Gf8aWRY9qICmVSTCda7IrQSIPdoi0naNwgBv2N8FNjA6jeOWmYL9H1VM8tGQ2oCgNHbspuHVPQZ7T-LLUPiKtCoYkOGHNjbGVtBxuEw0AGAZsHYlcUrwcH0DMxw+ZcQMJzHNgGx5okcezVyykCf+ag80hoLEbniMxmA7ke+NvF1wvBeYz-lnUyag9DhfrA5u-RlGw9NoZ9KCaiOHHDCxW9VRAWwgyovdp6oYi8ZgPV5oF-xAbd0RJyHoxAR6ZDSgZBNoELCex5dOCfhKxKNikJa9UVjlE3pQUrBbuKgXhLPH1tvxOg2iawK9R3Dhep7D1laOxAKB4cb48sZRNOGOipGY7YcHRNPFAThhokq-BAwhaviAuHw2bAg2gmt88g4VDBsGIcq4MOBn-bhiQxxFMjNQ-JYRrRkLoHlkw+khgYmEsrK1HJKiCkRANnEcMtxXnSybwzBoCNXhYQxyGv15i912hLfVyTvWkZRS+RaIgUX+ysYqMEWmfTUNo2cbMNMKejaKWGJ965kTGWvAPuX2SmWNoAyjGxhbT3FkDwm8OGbKwkuFRSORi48jIk2hElS3+yo2QV5xCZ4cMpiYCUark4lJN8p2EwqdePPqJTEJXnVZgIDaaPMQ+XTG7FCVZ7VAhMw4FyZeK4JaN7sm0-FpSLKlLd5pi0jpstP-QFM68Gkr6H30JrtR2U7kvni-22k4TmsSsdngOOJw9T7hf7U6Q83OlfQum10yBiylr6qCsQH1LjjH3QGF8+JeiSMZ0jdGVCJO-0nJoDLnKXTumCAG6ewAtQ2TZAg-SZKbyE7EpYZiwylJZQOboloxKouaXczWboy8mWMl5hAH6b3S0QO8SSEZR6GKjWpPwtENFiYLs85ugkn6cJL+kMyFpAMzZo+XBKLAoSVSHoVtMrGci0KZ9A6bTN6moypZZ02WTgBBkQtvoRTGCh6RYH7RDYbQ-mfCLZThUdIUlLWb9NBBoyNmTzXAIbK+jypdh4wOvpJC7xKU7KVs7sWcODaYIlYhlPocjP8k6zMm0spmW7INk4zQZAaAmXUDowuCI6rPdYGUPGm8TlCLggOTCMjlHT3O6I5prrJlkJzWZ7MxumJAy46llZ8hYOXJPVmdVNZCEwiae0dbQtnW8LFscoO0YT0YsSWJueTOonGjCul9Q6aVNLnlT8A3coVi6xFbNi28PcaQjUhmSfieJGAjYpyyUkp8nZ888FgKx7mwsl569NelpRgaZB86qdPKdbJJHjBr5Jo1MHlJmmdy-2C83ua6zUlul40uzTefONfaPy2+gCx2RLNBBfyz5fct1n8T1aetvK-nCCbW1emTSX5Y09+SjNPZRsIcsbeNhIQWCIidKJQ8IagqWGQyehErcBT8ToAVUisqTLShK2kLp5rB7g0eVhLzm9jnOqdWwdPJo5r91gOgadocToWH9VAQGLSiSQ472RWF3g9hemJ3muo3esiwRXwrYG2C0RIihgKCAWlQ0+ACAvypkBHAR0BFqYeRV+MUVcLju2IXhZ4I0XCLaF2i-AOgGiD05QeYU+giorMVkKrFX3HhWwrsXuDNFji+hdbTqmpzW6a+WDN3lMXYhzF28uGUovh6xLYMgS7wcEtEXlytFYS9xVErXmwQUl8SsfpYtDl+LUwtij4ikoyVOLGAJgFoLkpN7uxClPi0pZPP8VyK0lgi6pfQtUCkAKqo9eqosGfI4gvFcSlpRPMJTNLKl9iy2JDQ6ACB8Ad9OIOgFUZAkKqjIwaTtHsgzNoK1lKcEHLHkhyJ5SsdGA5X2XTs5lFABZXAAABWcAGIKsoQDrLvKDXG+ZJNpinLVZbUq3ugvOUfFzllsDaggBiAjCzB7AR0tbQeVYA6AfAdgPlkdIxAzi-cxgRvI9LItE6QmCjOMra7oKs8gigXtaTxWphBhYsIFSCtGECA6AglcbHYwGV1cFAO3DjoypwYc5xw2KzgrhMmSsqvpWyDCusDZWAqnSIK7+QwHBVOlfR+4iJRQIbLMrNAnuJyOypSJiCeQKLdYAqo+KeSbK+mQVcCucXQKqWYq4FTCpMIPLJVmyujMmEBgKBCULC-4IeMVW0leePZDnPao1Uc5Fg07MlUUjgDZ0IA7AOgIVhcw8DU5BaQxWiXdhID1gI4B1Y+HQrWVI18wDEt1P7peqnl9gBfJqRpV2A6VUq5+VZTcawQ08tQNPDGoqTYCi1-wEtR8T5Vco0Rqa9ZR5SpUcAWA2aqCogPxHuwK1-KoBe9xgmagjJ3K0yVOgFWkqhV+AQKRDgDWVkXSbEtfFYShHX9FApagrlRXcFSCxiVwpdTqpBXMByydAPrKJSuLTwDYNa7EIFQ4UlLd2uZU9VisqWYqSVz8L1buvQD7rASOChAK9R1ETA0WBS+9cutJG6k-1d69wQ+poTvqiAVK96EBnYDzgoKEMm+ebK5SZEkC-6vOi+HQbIbi5l1IlWeunbgbLstCn1bCtOBj0FAM2WVRMBzwoavlAs8YDENoxUasN-Cv9ZbHA1cDRsLpBhYMo8WTJu4idT3F3lQ1XjcVAm0WUen9neCQsrG8FgQHY1Bqfi4i-RdxpmY5TU6omoTetmvESbBFYmrZNptTBSaxYbGp0hxtUD4BdFD+BAdarSimk1N7ggnhesSW+L5R2IdTZUvU3SbraoIOTZxpcUQA3FKEsNewhiVubc5l6nFS5v02ubPBHmozTJu80mb5NOS+qgjkBh4R+N9mjTYkyi2Cb3NmWzzbJsS2cbal9SnZsQswSjSctDmhRU5taW6lQtYxKrXhvi34AfNZm3pSQH6WvVytFgItE1po02y5R9WzLXlsk3NavNNsQrP6qU3b08I5DfShoJRFhbat2ZZNgtrspJrbh4s-AOBtpGCslleGJfiloZUgpDxPIOIWiQ03wb0FF2vIN5OTUpNdtlVRFdC1uX3Kjt4TYcHtUqTnbMi6UK7TWNyANco1rokuUCPA0mEcAjABgLOV+JgBbcDyw9cqkmAxLMVEQ5uVWPnqX9U6aOzwSxri0TbId0OiAHUOOI4Bg15qqwtkPRWFqpwt65bRTKixGS6dBK7Dfjufjgap105F0jG2oDWTNlzOUbvpXdVFK6BnCurcLsQpqKvUmqj1QVtBAeACMcOhHV9HR6KYYaxrCKT0gG0gLNN6C6aVHLA0tbFdh-GFfDrcpfQe+4SzZdegIiF0UyMkw0WrKJKA69a+8oSTtuN1wAldZulXUCX65aUZm43KyvYISWM6J57yiRK6qVH91wNJumhXwHN0PKY20QGbbmuNYyLYIZ2u1aHuKUrb-88aSPbhFqDR7MFHOr3QRmjJFZVdIhRoS+HYmdYddso4TS5oN1g60Rce73fIPBb-EYN5kOsnwM0CIa8yjuhcbRtTCu6R9Ak76bHor3d7q9-uygmPSJnagmCU6aPQ-Ob167sQBzdfZtrFmz6Jt8eqvb3shYM8wJ-8zPbkGz1qrc9Yu8LZwXeV6gDYN+3CNQs70EYPAvxDgGro-X1URuI03faPuAVb7EmbemeeDrn3jr7lMKjgFbq0pICEN0pYA72oMlP70FR6rqVtsP0EB49X+2A4vrlkHio6jkWLFHrv1USjlEWovfXFL2G6+kH+hXTAfaZn609lO1FUYuIXX7c4G+jHc7vIyF6X9PB-fTPse0tb31MLOAGCzgA5qbdX64phipA1ZbwqOG+nY1pY2NB4ADgCQDSCskoAQAjgLkgoHYAwBVSsYFQN0AgY4B9DAAJQADiAAIQACCUlKSiAGKBHo5g7KKdP0CrUhAXtKQEAAMA0AgAGgQAA"));
     })()
 
 /***/ }),
@@ -20868,7 +21036,7 @@ module.exports = (function() {
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = (function() {
-        return JSON.parse(__webpack_require__(/*! global-compression */ "./src/js/core/lzstring.js").decompressX64("N4KABGBEDOAuCmBDAtgBUQc3pAXGUEEMAFgPYBOsAKvAB6y5TTGIAO8AXgHQCWpYPaGERgMKeMIBGpAK6wwkmTwA2AEx4A7DGABmiAMawKPeEKPC5pZIgRhYxCfvJJYfDcI2qwrcqX2noTW1SHQENJyRArWUATzB9K1ZlOjBmNlNhJ1JoIUR3TR1NHgRYsDpWPPUtMGtWLkgAGnBCSHVoBPJVABlNAGsAZTJKRkgAeR1C-R5EZTAAEUEO1Ubmok1YXxG5-hjZMGUeXolES2tXUncxZFMAfjAqB3ddmWFnMLsHMHIeDGJ5JIM8AAhAAdDRpdjcPgCXJfeDKRC0eBeK4STRgADuxB4+mIYGeYBYADcJOZFCovHpDMYMjoKB9jqcbMjvL5VDJDG4wCFRPArPANjjUix2NAuGAAIJmT7JEmzTQRRDQUwNBnC9JCSTwBLXGoUY6ePVvHVJOiqyr4vbE0n8aA+JBeWTyC5qgpFWy1LhgiWGpUCUL2GyYpUaADk8ngGlkv1VBJm0H41rs-B8pHZ-jKtFYF0jrhmpWQ+uTqRsgh0cXsElU8GsniEAFo1RdSvYgh8gw5lKwhIJUvoZkEgWAAOrY5KWl7NuJJ8yp-w5dWi4TySsKeAYTQaIKxvYYlSzBEIciExAk4sJZT0yvIMCNyRxOgbAyuaoW5A8Whti8UaCgjQAIRkGI21XVFuXcfoEBQUQeBJIQ430eczH4VcdBkZRZhJchAguVVFHkAl+3ceMUwROIRGrQtl0XTheH4QpsPkC1qymat9mZcggRWQgoFcWBkgAfUQVQiTyWBMFMEZIMqGYc0lESxIk6BuJaYTRI0cSsGUvAAG1VhaAAeSQAD4AEYACYwAAOXgDEwC6eA5WgAyAHoTN0ekRCMcTZh5cyADZ9kc+FlKaHiiCMsyAA5rNssBAIpIJnLc4yPOPEQ0Iw8imQQSlnwoGIuLC8LIEigBVDQDnfXKwDK1gMHIYSJCoExsNc9y6WPWtp1kbDuVCNCNCK-SIpM4ceGcIQ6tUZl2tSzqPDKDSJvhOINDi9RrnBNxhvCqBIrmRByF6MAAFk03gObdpKiqquKFl+lPddxFCkaoFunhqpZU6jqObCVJ4yB+hkVhs0oGpgTAQATckAeD-IH0gBdYqiD4wS0NgGRnBGVAEQ0davAAYQuBANIBqAATx5FGD0vbIH-ZQZHgHx1nsnhJEa8gYjJohIKQG8JVxEwSS22BXtp1AZA4Dhx3O6tuagU6ilqeXIFlsWSsezxpFoPU5eRlouENjwvBES95ELZwuMR-XIFR+ABNIdgNAEhNMf8EYHl7MDe0dyNUl6-xrpRx8Hadl2A+wPBIB9GJpFUOIiPiYnvnw+BVQASVDG9n1g1awiJUhlBJLx0VXHVkBkLdYHI31YAQZBWBXfhnCJEw7PzVIZAwLTznBY27EQI5dHgZFJAME71n4BJturRre8xBw3mzHI2eSL0AIkaBMZteIHH0E6nRqCtnAw-hpCOykr0+TLZl8YTaiD3jikEg4NF6bSoB6N-1aIV-38YAgJU2hLBGOMSY0xZgLHaBQZY+siB31UMrKOAAlUg982Aqy3uzZE6gGBR2Btg1QuDMERwEgkOW+CI5JzYgACgAOLFAABIyEkAAShVk+cEh5I5QEYfCVgdhGpcOZPDHiABfZoYjiqQAwJeMeygAH6UgJeYSQQRhdDQVUDAZNIDwHIL4cgIwACi+iKA6PsLIaAlRoALFbrPEYDQdEsU+jMfoTMjo2DMVHeoNst4TA-Io2mFiZBWLrCMXoKt3wYTcB-VWKtJD7hiSMf8HDvjRIuLEqgojCBSKUW6KuPDIAFHMZ9HhgDAY5jcdPVQEoMCkBGHJZU1ThB1JVrQKpFxVDQFqfUqOBlaCpSaZ03IrS4FQBzIrDQch4A9IaetGomhpktPqWMyAtBJnTO6a0vpAyFlTIQCMlZb1IA5kYb1WZUc5JkExsstpZzMZbN6ftXZ1y+qYCObTHMh0YgXPGfMma5FRnHNoN8x5Ix+mpQBYczB2phmDAoHg-aQy6zGR-i0d8+zTA+lUB0us8Lhh9IxZs4yN4DLIq6ailWrzumeA2Qc-FiLSrUuMniAyRKDkkraXSySOzUrsskvpXJgMjgxA-uUlo4lJAewlCk1Z08NiFxGATKgyCugqxmIyiUXQsmrNMP2dgxj+gE0wdiHQjL+iMPTgAMR1ccu0gIpKoAlATIx2SIASPddIyipB-x5HWv9PA4rbbP0KXMGs-AABqeicIaB0esTYUc6ECjVDfUQ4hiyV0vPvYQGFh42G3rkQ08rcxW09c0SA1hNCnUjDIQJLQARcyjjjRAXMbbysWYUomy0pnYBtutDEdDxAjBsnZQd1wdG4jyFgS82io4ExYFoeEpBtG+JYc4IhxQRjIJwZum2n0wawEeiSVEIx04NwRTo32Gh+gR0YesD22IhDeyEFe-2btgROMWDAr+ESo5gJxBA+YX7OhgDceQLCOjOysCoEI6A3CRh8K7IIvIcHmSPwrU1f8jaFZNQUHEAyJwLHkHrH-YyOj2akAxMqcgw4jpbi0FJCgnM8JyDVM+sAvQowYncOYcgldUiXgxKUF0zxjwUao3oocSaVyfDgDJS88ysIxu5MeVQlHKqaLAHQ0gy7xzzt8LqBaqF0KzHKHokw4R4A+KUVY494gHJynUcFWYEKdG2eetcBz8IKqcfUyMHzXH3BeYUb4p6qIKoaHEMsKOEWovZKFVAdQskMBiqUfhIw4I60VN-VAUYABpFW1ZkgIC2PCAUvbjlEX8AoudeRqsq24YYqOXQOIq0muJAlUBt1yeGKsyaAot2mAG6srAh7xKeFkutEY0nQPjZmgpirtMivlbHYU9OHGuMLyDOt6Cam1GrNbrZaaIio4RrbrVVgM0SurOYJRuqDUmqxPhXZe7jVqxoqILdjEeX4Cx00Fop7ZA7I-b+54JKbqwAJbWOeygR6PPwBMQYrLEqQ2nph-IRHZjVkIHoCMK1iAVAsnMPuhFE5jzudRDgCHUOoAk9h2F8QwNEIBGRyjVH+CGe6jPQeqm2PHwjAAJq9RLHZ3ULBNQj3cFvZnOQb5xDp7leogqbaog0cJfHKht6s6fvxQpq2YQKF8EcWNfPcdRw18kLw5gVFeFEyL+HVPldKOngxZAcPURhuK2U45dslUXFd2AZbvcOH86jhKN4BIt4R93GJYsQfSTX0LoJtsqIbhGXIMZdPqVQxks5-AKy4hjKhmorKeEYBc+i-gMFzP7Ma8Z-uI++IeQwBRnkFqMAlc1PrVLTk0LlfPcCjcJjpr+Affs6gBbon-B48h7NxPgnlu49ldsKuCn4hHfiJtu1o6sBt0AEclDru18G3Xg2evyGcAflasCfeh6gELl460p9wnP2x9N5g2BJArLJgUL4UtK83yUWRGKBBwSTBwY0DTH1PznQXSwDAFAP+322OXe30GxkmmlAkBFRUz1BCQkHSxExjw0mLCVECAwA0FVHpD1XSHPDq3hAAN7yUX61gAQPAJSy7Vd1LAuGP19xQSG3kBFTAIB0Kz1QfV7D3FzSYJzVmAEMQK0GQgZAmkD3gD0HQnkFEgZlMHFBxkiEcH9wmmQHoLLWFV+0EKSm6wFFGBy3FTZ2gKgBYIBxf2G2QJELD1zRkNYKECTC1D9kkPMErEUOrBUOUFFjAHUMZl-Gpxth0BcG3m60FE5C4MgKCXH0gDDSoijWwjcGEPaEFz2EFGfwMCQmEDzQxjeBoQMmiPzWcGMlYQXhxDxF7Fb2EFEhUEQEkHHFLk+G9XFC7UCFnl5DrhAlkzm0mwkCUy5CM2vhM0zHYG+EjEDkiKUUqTzx6Gqm4JSNWPui8DX2uA+0SxcPvz2ETinBPDPEaTz2oi8lKXeFXG9VCOjTcC0OSCVAkGcELDPFXDoEED-3AgkHpFGzVDkwmwW3uMyIuB7yMJaBBiu3gGBmQGsE5nWNsMgBHQ70uzQ2yNQKjj4TeCOgT0cFgIyCiAzAJARDgG8DImRA3wYMBhBge3e3Tg0jZA5GDySJKh4Peg02zVe0e0xJGAlFzQhAyAJFTHTEcGb3b1wKt34EzT8BOjpLewyEbDJQVS0GMi73DCULgF8DiDt0LjympDmN-Fcm1IuAwFSgeAkAVMewHkkCb3cHbzpE73AjVCMAEW+F+HkA6H9X6kBIiEjEMMhxtmsByAHwQHYP0KROSD9w0ADxn1WRQNyJeDxKUOKzbFNlIGdFCHJDUCSjAHKISErlgFSjJAkDoGfFYSHHDwkEj23gnGDCIPMDUw+EEBuEWMBhDOgAJjkAjPIGQCjM7T0L7PiDkD5Kjgf1eEcDkB+IzKzIUCUFzLkPzIMkLI0hLLPjLNoArKrOjxeCjxrMIKbkDxQkfTbKdw7JIO7NgEZL8XAVzF7P7LZMBg5MgAfJHIYATIOMgAnMTiaMQAmBgWLAqDgAT17DxMQB3IPL3LrIJAxFj3MH0FY2KDPMAMBnaMZmZg0mgCskzNujlKpifJR2RJwvkFlP3hZBiCcKWy-KJgbi9yCjlDAAsgzS5JOnpgwu+CwohKDKUXcIB0ZIVXTFZNH2SORLKmVEyg4xMNkJSzHKgE9ifXTXF2KLNl9L4rzKxHqJqEHjRAjCVFamLBzK8ASW0CpCMCNPFBxOOFxOHgxBYzb03jrPMBVN8DVNxG1APlY1XHUrkJNNVPNKBCzyz3L3IUcDJOgAAF5QwfKMBQxjJlVVVXJQrUoABqeYRqDAPANxZIQwRacCrgYKlci6eIcKqKmKuKi1a1KgJKi6YyPAM5NQIChEDMCuYIngU0X0uSIyoIAq2vEK4q-QUq6K6S1guKrVaqlyZKvARkrCZ0OYjSTg9wHkAEfwYy+EUWXqjPdsloRUBAH6Y6PRAc4dOKfav6DhENIxYhKOS64oM6X6Q6z8nIxNXOAQJiCGPIIISSyLa4HcF4ROEiMIQamQNiEQFys01FIYfg37Py1y8030kQIU-M0cLSwiZvLAf1ZkcvUjReS6FyUjdhc8loYAw9H4SLGrES9klItxeQfoUmmYTE9OeuWJedHTZUYo+0esQIzQFke6ZAKnR6-QBlEHEYQ2cUSgjSPRNUMGtU27cGEVGG8G+GmiJG7EXEesxOdGvRTGgybGvRXG-G7aogBEv6NI0gTYxFaw-Yp6w4v65vE43a0kDEKeEJIwG8Y26NG4ro8NcUGbVfEYkEhaTNT6LY7Sg67CbimnXRLMBFfof08EMgWAWjcgejWdCm58lIoxaO8GdoZwSMW7D85w6278vYS-cImqcwcoUnO3MeNmv0BGuO-Op4nQlvTMhPIMVsIQcQ2YdvK-WwODSjNKYokyrAMTF4-uQsxq7MEmPMLKeIRqZgMnNNa4COrfSMRnPPI63g76iQd3IdAWpM+0uEbexenYiQHGwMyOjGcyiBM7asUgCUFohEdo73US6MqOKgSwb4GYSUR+to6M-e9+nGg3LyT+wDOxPkZohfP+iQSY3sUvZQIcYcWQRq0kw4HeOC2ANW5Cw23iUBmYW+vkB+qB5+q1fUUmlrLQGQCSTe+SvB2YIh1o5+uSyAS0t4MCuwOh0IngO+yBxh8cWBoQeB+y16g3E408Yhjo9wIxaIQQYgcUJB9CW3PYA4IecwDBrB2AFCnJSRaRIIIdQiyAGK6AUYLCMiY-d4+AH6VgEYc6EkGFHK2ABKRc2S-BMrXK8CzBN05tfwEWKSN0ikwEXxvrTM5kJxrRLdEJ2wbqhjVZFayx1Q9qt+qAbxiQVq1wU0NrYKbCeAUYea8SYSyAbdJTP4vJxawrQQaBiUSwXJizfJrIqOKBaBiwIwesGkBa4PbHZdWReAZhaLeSrp8cRhMqOYFWOJsJtRJtZqvAhc8JuVZwZkU6w6udeZj0e6wxT8r3UrTZ2JpUBAFrOAdipmTixldAEC9ick9Co5+9VZLNXof8dahYZwBI2Na6yLZ+tcYIgJymdZ45Cmf1foPcTB4gWmihCfA4ARP5yWvoxbEqRCw9Nxgpq8lWBIVgGIbK7URFx2VtSrZ48gdF55pVXF1IBFrI2J9q3-QpVAcluuGFwGaAQF3EFrSigNKAAF4oNWyk-6Qmogb8Fly2yAI-Xgm-WmBqSXabXOk3Y5S55JDQlWSi0+DEQXeEQTUZzGDJqOH6dG8SZFmIPIJVXVyV2mTSkrKOZG67KV5qnLOmS1lWSuXlgiqAOhRqLmblqAaJjAFJ3xwinlmIQa+AcZrQCNI6aYLCtAgIcvEVdc+IX18cUSL+rC6zWmBOkVFrLUcmyAM5WAEVPAAySNlWAoUgGgegVLPaT7dgB1oGct4V0tgVqdQpZBOt+WT7cy6h2rCoKYauJtv5eARmmsVAPRXFPpyAUyV6msMAFyYl6pLtopJm-tvF2FTwcFXZXmoQCdvYtYWdgdhd1QbYFhJJyAGhWgcydhMZNnZIWJCFOwQnZSN6D1GkloeB2i00BAEingSYMp71qAeBlqZE4LLG5zMjOVRIL3Idp9kD211iotxlPC8irwAyZwOCzoYyR+IgfAjQGyegYLY6+geyZzHByAVvN9nERaktkqftHk0F6OFvOKa0tiMC3+5+lDqAVEOHIdh-Y8MCZS7wqXJ6VQRNkqHQXOhtYLMD8rJzRinWgDk8CXP2E0EDlemzMgaxz9k-fdijySVZNDmDq19T86pZ+Sgy1zVZawT8CuZALDjViUAADXTlOjKlOnsiMQjSMS6HzP6CrbAFoBXMxmcA0lOlUJqPw7k1cDgBxFI-TuROkhC9cH0D2NaBsEQBvXfXC5KjgH1D6ctoi-3cgnS67aIBQO+EbnqagAFNmCFKEDS-XUxGKGxB40+GYUkEDNQprdFI5Adcy6Iv3dQGZNWry6tqcHaoKdK5oiEFa9Wuq9bCeGFzMoKlVAVAZi0TCCPGuCS1sDG42oh2a+ooOCwna7eiy9DXhFziP1PZaAK8G+K6BhFAyE0rVpTK1DbCK2O+f1XAa6a+0b2hpyICjEGA1G67TDa6HZwpG9OLwMl1ZAB-G4TF0COn47peu5sUEAbQqmKBS7pe3fBXK9SjXenf5Ux4R+x5qGndeXx41EJ+IE28h1dZgF-ySmrSmWPwbVcHHUmZbWZ9pZaHdegBSaHYDdks0-Wu56md58F-w6vuMBmDvVDZU5fJshZCgzbJuyByl-NSB0JGueOWxGrBV8JeyGwGp8ucwtgBSZH35YSDgD9wt+p7gpiGzHWDR6gBt7t+l5wzDri+IBYQQzKllULoG6K8SM-mUNgHrEGpxBOhEHduPHMAACsZAG5ixihVQPS-gQ+Dhs0mzl9dLNq69jJuvw3c2RqtEo2HbijI-dADM1REL9FcwuHbIKDjxpbzTk-g-Q-94Fa1TzwVnjhQ6-pqJV8EWWQs1Fq4edqVm3AmckJX332CnFnjwuPweHa+OgvruztbJ9P+WXymXo0VYaxG5sNIAjEG5O2gPUXha50sX4Dft8P1gtbOQSQP7r76aZeUiH+JeQtNf7ftciBTIBIf-HxGpDS2MKZotEb7GR-++UcgO3zhouh-GPIUGqaTcoTQ-WNEKAVG3AG5VigTHb-gJHMhkILgJIXYCPlfIXB1ouVT4vQAAHmUJueIeAf5WMjTwCB9INNrAFQHFg7cHvSQIFVrxZ4WorAHNggPNIEw0+4fQ0KoAyqsDVwzA6gYvULC4EsBUAH-gAGYBI5QSoKIR7BCBQBVkUYBNQEGpRm83DccKiCHBhMjQm5J8IaULRrVgi8hQoFuAXqgQ0EswK-ORXIDZ8eB7VeqvqXLx6DKqNqCQaREBA1AEmHVdAeZWgDmhDQuBHwXQOQQBCvgkTfEgYWna4Cf+cTMhNOX04okB6cTYoqAKvJHh4hcLSvkgPPY3EnaJ4IuKYC4EZ5gqqAfoHgEtLvkjwOaG3kIDhZCBBOVgGIbDWMj+MyQmZV2qwOcBiBOg57F9KEFR4qZamw-FITgIEjpCnwzAB9FORpbHhE4oAwasun7hyYMIqAmoTn1qi10eh4NJYcQHiEAlvgjoAMJ8Cr6+d+IcQGhECFqJNEn81YLwHBRAoj9AYuA5QRbHthwsjwsSbTGmDADR9SAnA6yDkOAGgDLI-w5odGniF2gR4XgEGC2Qq6CYIeSEA4XUIaFHD8SJwtUgAAZ6wAATkJCZkRUyUPQcQRlyagZmeZPQCBU4jTtlBP-J5uNm6axIcKdkYrKGCEBhD-YuoDkVOnPZDhQBpggACyZgLB4Q1gRaGnikCZMY7Pwp8A4HuC+q9QrwY1VAF+DdBdAuouODEGYANwr4D5keRziiQV8nwKQZCxZGndIA5kH-mkKmYCQD8wkBYQTglpECUmUtPQe6K8AVAb+kAlyDSItAAkEwuoTYaUNMCoDVQoA41rjTDGGhQB66Vgby3kGOif+uA+luy2IACQjAAkPcJNCkgMs8QqoiQMWIyCcs8MrIAIG2FAFGJ9hQVPqpaXcCbCSBGLKQh5BuSaBWAcgakQaJ5Crggx3o6Qf2GfoREHRTogSMoPSFod+SGIUwPyCHA8iAmGYWgb0LZZAt5RRaTsRgPkCAs8QVYqcftygAzjJRCw9AgJAXFNp0CgJMscWGsBDxbqoAmsLdS8h8Z7AcQUgmTV3FW4PeuQO-pjRHFeijwGo+vFqLAATkNS8gGcFPH3FMRc0fYgcUOBgxxBixbYE4rACdrvc72kJHlohORCTJt+KnHMAJAxRZCR2mdWUVjmOTOxKJLLUqCgFkBrkwANEygT+AazB1coAkFduoh4nP42UiIAscQF8BdxiA-Y4svhwwZ6JjaNDVIuGlBIxpmGQgsPoSD1rFhlQBItSIpC0i+k-a8mOSOMXBIqxRsDsZ2CBRQDTZk0LoXmNZOp5Al5sOYCUApAWpaQFJvtKYrmhMlDQVYUYUSXkH-hRwcKqoQMN-CY6QBneosL-l+2cwO8DuIwZiqiWCzrszuX5UhulGTA+RfSAUBiiFG4pbcSoXPWKTYX3amQYoqJPnmlPy4ZSTM2UV2pjTtwzdOYhU+9rTFPoJTOuhSQAHhEoGPPDVP678khA3UYQPBGFwOAd8WpFaBETPFfcoS9URUl1LKm9SLs9JZqK1EGmtAvyClJQlRF8nSdwIpQAAKxtSCJJUSPstJ1z7s+ps-LaYmRClZMBi+wbIPIHRDNSIBhUSnudMBgnjSp10wpONBLGndapRdH0EtFcAnw1oG0UpNtFMlzSHRM0Y6IWFBYdcVpWwX6GdAuh9dtpRdHLgIg96UA2wduX7NUO+k8VS2TAEGAen+mqdCkwMUGKTnHQgyhpUcdbNWDlCOw38uodEMgB-EVA3g7PM6VT0+6CodG5aW7KwHU4pdIAzA4-NvWSSC9VQUCQUPhHpAAAye4JXHWjKA4u53f3i81ZYecvOdw3MP52CKpRAASYSecDI-ac2dJOp6MT5Z+jKABxJzhcEBahXApu5xRE2zTZfnALmAGtlec7ZAXfDnOACBcSVOCsudNOW3BgBUEdTaoJrOkj7wkC1FHOhdwD6VtfZJsnzmbMDnBzbZtke2WRmp6ji-8zslngrA-BthNZ6AdYOnKAR6ovZl3H2SyDznV8A5FsoOTbNDkWzqc4s1DgyLkLI5IAHA4-E9wgwNMjuEGTptpxGDmAyKESG5s5gZRwt1EEaNVLqk8DjBTaxiQ0DyH3nU9iAtvPRH-EnnKETgwRWKQRxdnjyz55AC+YjJblZzDZLDWDAeiEBojzAhQM8MwImGjtkAuQeQFvFmJMjQFVbVUGQEarMQMqTVIIWk0SZWZKe80h+bMT-gqCmStBW+THN4SPy-47Epkti0pm4y-eBTRklJOlC51zRgClduBA-yEgCFfQPCaslPkYK+gKgz8BbTPF3zq5GbZhW-HYncLp2+sgptuimDBQewTNcvt0JEDsLz5fQfuE6CoUMgbwxME8jQoAV4SDe61S+UER4WkK8FxAjQIwOPD3Mb5L8zOQbI9ifyEU0imsBEIpGwLRB8C2cMAKQWmgdFRUitNzVN7OEDFuC++W7MAFWLyFl3X0aQCwjFFEa9IXlsWEFHFBWFlWFgJoGgZBL+FISqgTQnnReiT2vCsRREuAFRLJaCNa7tgXiUV0KBz4V6j0QlIEkvRyIZJdRSZgZLCkWS+kDQjDRMx8lpCwpdnMiXRKyl1BOJYXCvD8BElsAcUFkpGlFhwpxRKMH2W-phCKA3i9qVAE7x6IGorE1QDeL0UqdAi18wxTW2MUf1KY7-Ppa-JsWuFBM40l4H4W1ll5JoEcb+Z4Elpc9+42i1BdjlajmQ2lHsR5bMBaiS1046cURVcqG4Ks7lxYDGOcpfwvKO8bysTCPJSyfLBeay86bLPWpkJfAK8CAmnXSmBLP233e+RYvkAExcVUQFdAUohWXcKV2QZUGYAqEALuQ0SpAGrUzKLxpBUYJbrf3nhagcJ4Pa8M0thYUB-U-y8-snUlr0q8V1Ky5dYsRaUqMgOEhCVKrEyC9WVktdlXiE5WS0jxLdXlZQK5ACqlxfsYVd8rtRlj1+vC4xV-AkAyqqV4KhVXSqVUYEgFL6HjBUOEjR9AQRBL5bewN4zBaC-i6ikSoJWAxjFvqXGP4B+byrwl2c+2W+zta9xv6jYIxCSEqhxA2gqszZN2JQkhENF3YlRQOJFUdktl1qoxffOrTkAR6+ZE0BWSdXxr351a-SSqqTimLfsTAjVZPF+Klr0U5a4jJoGKYSqFYA6utYkAbVhLW5Ca8tUyoQkdrCBtCpbvwBzB9qy2BwNYSOsrYbqWhNCetYYF6U1t+l789zhuo9W6EF1Xaz5j2pVVrqmASQYoEeHrBDro0L9E5ffNPWPrJae6idQesbXTqT1D6gtfMgYGdr1V16jSChFwkWqOpQGp9YKHVbhqWgxi-oAiRppwaHqNK51dnM-XAaL1Zi80curRIwqxJI8bkHICoV3qK0A6+sAhqSYdc+F9MtDWdAHX-q35NjWdcRtVE0LQNi6llT2tXWoLqegIitc3LDUMbjFBQzDXGoA1KoBxIPLoTeH6FnxBhciw+RRvk3SB7AlQuCOKFAHpxQgBIaIScTkgCzYAeERyoLOnymAFU3+P4pWGPBmbsCt1LuiVW2EWhdhCDVATBpKgBit1Um48DQgACKVDVQIeozlNq5NIRcrkRqdKOad8YoQkeaQM31ljNma34t4B3wWbO4VmrUrZqbAObMtlAF9MeBc37g3N2gDzT5C82hi6BPmwGGSVE20wUNzGgLWxuuVQArysIIUkn3DStxqgZcMVR7UQL9gaoMAz4CePYjMsMVFMloL4HyZNbCVRyrdYnM8Sxqj1tK7OatoOQg8th+8PcGzXvBgBSRRIpQqK00L1adq+gRVsSqgDGLttnSgmATGHDhbm52G9+dtqJII8k4RZPRKnzlIHa8CcQE7WdtzpihLt8CRIRVKJErbImnS6HQAAbXtgMY9REwW0VdvtR26HaDpHjg6A1PiuTK4P0XLbbtjGvxuPGk0bb3tfuZAGAQyBTD81Ti8bZvHTQ1i323gBlavDTjcgHNgOtUM3zCBSSDchOo4I6B4xczhxMoIPoLrkAzbI6QpPAbTr8XE7VCW637uwDAC0U6d62iLbJo1aca21Iw9CEdBB4CaQNVgOndsWu5y7gyH4RbbVPE02r75RMS8MeEVhIgddb2yLRqzt1zqk4ru7+VSuEAbpXA-85IKwRt1KIK59u-Yo7srX8KG53o9rQU0T0hFVwWIQuJvHKXM6goZqGXYeJq6V8xlx4RTa6S5n5qqN74UxIKyQ0kqE9YEynbrvY1NowJbqjPeOFiV1cJAyQPPfmukGDbXdsipTTaNU03gK9EOxLLICYak7jFqe79bu2frI70p1O8-gHsBLfac9Pet6RoFUX6qB99IUvauH8bj7b2qyPzTPvvlz7AtIW4SEvtBne6SuUK+sghWL1lADAeIAMUIjnKr5yliBOxFQyyjihRg6W-uiEX1WbjThX40+akDprKBWBOeybTWNc3t5o9qgNqfhNm0ox56FPA5VfNV0X7+FMGJUBTynXN6SuzORuD2B33ybS9HcaFlYLy06kMCBhMAJlKyaR66WLbLACrpvkEH6ZXBjnijs20nrzKGQOgEURXaqgf5-AEQBuAzVN522xQGIFoW+DGBXAHAZVVLrz3FqmIRaepR3mVAmxC0mq8gDoExFiAEAleooGroEP5lJkPAO-f1z12stRDAo2gBIaZpSGBEjCuQ7JzYAGAlDKhvgN8HUOaGbQAiHQ+PX0NSkxpi0EpaYfMPMgODLQKsTweOXNb75QMwQ8vof0fyUM0RPqL+PjCqhbueIROO3kkP+7eoJWhQDpmeJ9waEI7ekESNYTigFgEwPWhpFiAh8xl28D4TNOPIt0vSiEhJe-p52LwqN5KLdVkeT2XciD4IAoxV1gNOLSjh9Co54aqMPJsC0gTPShnzJNHjwLRto2+wKO5huj34Po9V0miDGmiiorsRXTGO6q3BQmnxVWILGAq0j0xlaJrspVNym9HW6OE-rbWTaEKlK6gYfDuOcgBtEyx4w5uSOETwQ42WAC7FgOfG+DMZIEjTVROkGATh-KYSIGniYmYDZBGYCUdVplH9D8AGrqUpoiqh4lTAuo0gHcCNHsCRxl4+suURZM0Tteu7R+rLGzHs5BMfQ0YG7iL4K61UIeoyebxFHZgLJ5o7UQQMDHOWZJrSonErAOkrShh88MnELhJxz060LCqqAWjlk6KBoIBboBUDgT2TmKmdDiAEgWG31QhuPe+v4USgrIcwLTCIhxMFM8TIREQDsfqNgAQQw7YM-6FqPabGdk5QRHIFPnigaEMGGM3EGuB7GetVR48Ayd2PuBgzpkYMwTU+6rJW8W67QVQE9PmsZNZBg-tVFhABmmTQZkM5ADDOrg+9jRTMtGe-FxmEz3496n3FTP0mxMUprM-WbzPhQ0FtALxDybJ1RwrOowZBKWeyP37nDlZ-E7UczN1mczDZ9nXJEl1ohqDIRXsBsETPCMmiWmuRvmU7PQHkzPZ67nSdf0ZnAz2Z3MxPpOQhqXThSGc3OYFPvzfT1Zgc2udDObn5k25-PRoLbOxmzzUBpM0yYx3pAbzg+u87WYfOQBhz4ianpwkCCVduTEm++fMfQvmVPzeOCgIhy6RqgtNrtfPY2dkzcMdzQu-cxBfzLDL2AsF+kPSEQutGnzVegxHt3j2FIcL3xOieWYBOZSiLbq0i90ObM3DN4VF8i7RcTP0XaTaZ7AqxfhNQBCgwRGPdtOdMZH+FVqS043q92Lmu0SomJbAeLDiTbAHcM4ILGqD0KKxyYARBaFXBvEvRIEE8q8R+B-A6lGp9tQqgwgsh9VNZ6U8seTCkBlLrQJHmY1wOaWyO98qBA2nwvn9KY7jYk2TS0lq9bqOetoA2lvBgBGaax7vr2dvP9nMzoV+ZvYkisk6Jzka9agnIdB6WhDK+x-bcqfGRAnKnwJ6BlTB6fN7A4k34FJKAMaa09MoXZnCGEjmnFT1xmsTQguAZhl5yINi-jo5N5AZgMQDQy+adMVWsL-C9XRIB9DLXVr8VkrmTRWthG7LXwdy-IE-2x4gLgmGzVNslpAXEaFoZwKUT7hTDHre413aFfrVzxxz-LQ5fgcqvO6J1WMb05d23QvXNQv5xC2GZPPJX4wUZ8soYFKDwB3RygTy3qYFlZ6NQTFt5IaACvghQrrcSgAAavF+BI5a1pbQDc2uFIzsxN7+m1tBvZzabGMfMAnHk0-7qCN6ioSwCqF478zxyeba1nROnYJoLN2YA9s931XcjzNgA6UEFs7aObGuvbb0EB1UbK4IumPXXppui2ADtURExTsls5HFzMt1mzKMoFuq3ShYckjWNssC7IjDlz4E5aKDVAcw8hVcFvsmPiQidwtqACbdmCpyzqjN9+X7dKAi63VAuzvbZY9tPno9FNiNffL9tgAr9B1yACHbiAVy3ViNQ-SPrrhiXdz-e24bea71nXPS+e0K7zVJtik47seja07v4W9sbw-3KuynYYZP1JGJYLWKQB1goy-imaiggNbdW+GpcJl7O5WKVMtp7rxdo3QiGPCcs5dQ8pgOZRiDbphLY8hDhfAyFrChIngAsdgYUkFC2w21vWV+QnKx9ySs1gCRIE2GZCQxeglU2rQ6Gm73APNgaBX2U3hmyLqY56GMPDY8gphbTOphcGbHcDa89zHLTvEuHcMDJE23ZtzuYu87BAV9vQWVtzRbDKthoTzawMbCZT0R3gNVnrxyug8YI8hgkKuFAFnC4xdRNWu9ls0CisIMQSbtoBFJIVINr1BToDHXudABI8t9Sy+W21-GcjKwpLcZHlsUBWB8-P2BfaHC5WeH0FpcMrb51HaQd1Yc7XzY5OcPdlsdhSanoEf36hHoA2O+I79DcdEVtzFkGmuqW5VIxuhQfSSE0BCAaEZ9piNCubL6ryutRBURbu5oiNwDytTohIFjvanB914HEbXigkpa4wxoYve0X+xhSgG7DDsa7pieGge7rA-x8S0GJyF2Hc22yBvffAe797r+93bo9ZnyVPgoA-J3oiMcyd3AF97K7lcqd+7eWgehsXoOEi4IXqz9VgvsPw4aOXYXts6s-0i4DO6rpT4urbXcCbYdQdOkHnvvKd6CNbt9ugSYM5XAWoz0z7mqoEiElwJLCcfQ0LvWg4cHjHKhzXE9+zVdc07eUAWhEMOoDxQKW1vGc5Lt-BpLmghZyM7F12X4DEl3PdvqknZP4EuTrh-ImDUKSo1oLgBmU9SYJNBozzb+qAJBeWYlnvQw6SY7qeNhcr5RzU8-iMoKAfgtalqSYE1D4YFncG9Mik62VtgV28B1h54vHAAKAXUAPp7Cp1kKSzlrLyFyw3md0CWX8Iap2uEkesVzH0Eo4s3k2y8v5QMitNgPRZUWgPl+qzAb06Be7KeH5AMhNdv3vPaE5kTEp2QoPpJg6nIgONiG2-3cvehoj5F4rQxdISmrpD5uIkN22sSn1CjxB2hLPgzNXqqoZUA4351w70oKYvQfaAXChgqAxeBCjGwTw9WGiIRY12JEHG9DGXArZVxRL8VkJUlbzejVAX3a5Lnb2gDpYbb1fjkrQT0Ux-hUvvCPJ0mzs2xAP2E5WvSzea54RYvivUhAzy5LvEKePVvLB-sdWs3nhHKE7yXRh8JY4vzLjkuoTyCXiKaHeCVlc-Yx+D2cBxMS4U3G5EYELhjxjwXGRN3082U1rxJO95gQWNag4C2XgK+4AZVBXMMJyBroVybGo52RY3RBIC+Q8BVYO63h0iA2qWHqS0hEWAShxaFRrERdZ-AfJ-WA0D1hLL5YsgGzQldCAt3SroixRNY1DPs3v6+QC2tGeFubaRDw18I+uA1qqntWlF4+9NdIO6BiLmNW+9yuFEmYIRaQx8BoWRm3wBuhwGPtYddV1q275N3aB3W8OUiT7GpbhqPBXvi3Z4XD6AJ49frLXHfEj9A7I+9CKPhHmkda8yD+BKDGWvvR5qA3SKiN9H7q2Rp0OzSfFfTw96Vb4-IkyVI1+xJy+vclvNsdTsh3oKkFmfpPAVd9-mEozQrzAyZ-cq6TEnRhJJrGOAeaIgnGRsUwYW6kWRUCpbWKVxpUgyHyDyBRsrbpALPVwKZQuPiHkTWq-P1Ia6ZIwG-YTBvsieXgN7sx3e9k-Pu9B2Xqjza88-P7naoC77eiEbc3IzN8bxWvY6gjXCwRLtOwE7Uy8b3Y7AkNTHu0dPdStgU+8cDo5ia+99XJb3D5V5+cGOG9rn1KCp6drHQljUSE3bbfXDG74twY+cv8F8BIQMg5DioTFqDDTWkxdAm8+CDj5tgnHGW+JV14dAGSBvCHje5V1bZ5eXyOXDqyV5w+3u-RdAn73+6I+K13W9Tur1Rga+pBRD7qrjTIeId+HFD1cCd6lFyvMw1DRLtUFvvI2wApJXrnYKK6A-Q9ohH44w6APiNmGB6Dpnp9TxM8aEjeDvfL1HEOas+gfv5Aeh2NRb9xgKCAVge199IfTDShUUDAizyrzN8yDVQmCqi6BnP3Axo7QPqrtyyDlQrCbZ3WODcEww3CE-n0kpbEZ5TmPxW6r2FAFNFBOI8ShwSDeFAUeu8n8Gob2OYjd4h-5TqCXFgBDh4z0HqCr1-JJTy9aYWi+qvUQ+qvf+UUGHSh-rZ+v9jUfpHUD+e8OfPg2OlR2DuEcWva3Knjz3D7tcJCFtMS8pVjqj846MgNCYGOQGZjKghwOAOYMhcwNMvk3J4z0cGO3u7LS8fLLN4DIGOazCvSd1b0n768p+nfapLI0IC35rfpqb07re4jnjd6J76Z8XREZ+fT2TdNYi0PGkh4ZBZyvpftBDEnRbhYumP1g1fDB6miU6hDup6Q7Nfg1+-V+t94ZfuOyYzY0Kp2oo32BoMgKYE6QeNerGL+T-KgFtBHxWy0QNF-VUCDc3nOgSbFIfNUj00QHSd34FoAjNzPp7eNJ2LtlQTJ1RUP8YCWtEx7a43F4v6BBi+8uHVS2E8Y-U9HrhWDXSwLcHpbDxH9hHBu2oC1LNb2kcC9CQidBdKRxTKBqTKPlctTrM-2ednQAayUInYRbhdAsQAUC5VKwJMxsA1aVfBHs37CbXHtmWbAlbxQvEVwmcc0aHmAoqDSU1XMZTfY1ZNaiCumWgoZTIFD1MaekDaAmmJJRIDdlTKwis-vFIliszGGz1E8rSEH0c86BVwJbRH-EYwRoTLP-0EZF-YsFbgt4AcA0M2HY31SgoJBYCUZH8TMhxACRZz1qt-XbYlsNIjfwlnthrUqyAU7gdCWFBKMKl2dBiIQPHCsW0Qby4dCTJExRMSTcmg35+PDJCRNQMbEzm8i3F4AYCOxfWyIIZTVgWh9ggu604gG8XsF7B0vdCG1NErN6SPJQBXmgtMWAjrw75jTLclNMNApoRqDY8QwMTh3xN6gk9ruSh0ScxHWAOgEG+JzwHNWBOU0ON5rYz2TdbTfQHtNmQNn035l0IUEHQDkIHzqdQBO4LTQDkWtxgkLgTUngk1wTMA7YWQNokPgO6YRmKB+RCwNlsfxEGEloEgQuBP9xobTW+CHTaFR587IE0CWQ3TOYFVAZzVUGnNZzC0GLNuQWYhI4NAqUElMpkD1VOsdsYDwD8kvEtzjBhHNCz4tWA+wIEgibMW1JskICZmcDkSRO3+5+Q2bwi1T0JkLTQzwEQHb1pmcIB1VQgff3ldyTKQgHp8-CT0+hjdPAKxF6xF21CByuYB1qE+qH8jFcB6QIFapMaAkxvsk+P1y9cRndILMEXSdPRUDJMEcEL0O6esk2wZwUjT+IDZeQnbQe0bmXgAcAGIOytTBBtzaccoFkGsArLW7xRdQTFwANB07TnXeZEaUuhs0WQI7Ve5vefMnWwnmKwC2hpSQRHlxvfVo1DDGwUwWsdGHJOF1N9VE8Q0DGwLtBfBGYBBTWgKAawEANQw0cGZBolQiDIA9eXrWuBadSWnMAkwQaETcApDRwUkMOeQHgZmGXaXgYpQ-3x5UNHYRlXBDnUoLHsMIcUQQDYgvEXuY1hIY0YNSAXUmFwviULmqAWpOIEbAH8UMFzR7fUAXzAJBP3xB5GsYsFAFl5NEnWlFggKnw5Jw5N2t8mYJwMaDiKR8HykLlL3RjIHsDGEPAYkKoN2VAIuKwoDzcITjcD2g7D3UAvfIcAnIugvQUAj6wLK1Sdjg5DhGCRpKC3bAmvDUCjNNsVMUqArAWIFYFNaefzQNQw2mksw1QDgQudb4FG0Pxu+ch388JJKSVYFS9TbFwhCHbEF+A5bWFHhJIwIsNxcI+d-W8dVjQjCsBSwfsFnog-PqEcseIjMKt10gQAPq4cwwz350dIkCj0iNdQYOVMe3DuAJAgQ5sn3MZDI6yiCPxX0ByhiOWehdwfgGCmm5PpBQBeJPnQMCmUuQ71CwUMubvwPkevfeXcDSvEt3mZ3Kct1ki5PPaX4BfJCOgXsaeLAJll-vWnlHk20ZkDqQjSY-CYin+R1kjAtaCCNpJqMASj0QqQQpHEoQVb0Vqj1UNyV64w8FqN5xfmGqPbCcFJtC6illSzEiQ0wWJDVh8OXyV9RVADyVwMiQUrE5lWAIJjtRNIAUKBhFosUJKhRSNAkh5g8A3hmZDoE1igAnGeQAIxg+GEkA5GCOtn6ADgWeDnZ-AdyUKQCMWQTYkAAUh0Qn6EKGPwlAWOhmBxvRKTZlGooIXaAvolO1yVF0TOx4AogoC1wJStP6P8BxQJoWDFaoriIR9ytAGPpd-Il0jtwOZZIJhDnlBmF7g1wxvEwCfieVF8BdZNUBYkiyX0hRieqadhRieUHk0+wEQtV2gAOw9NgZkoWFmJxlmY-MCkgOYlmSTcMAA70GwBYmexxkZ7bg2awjobgz5iPecWN4Qu4fXkpkMDH6SgAVI9zGqjwMEqIY0XyKpiMB3MHK29F1CIGJ1NSYtXhCASYIMPtxcgNyPUjYgcUBNDyfafAqZ3mW6lzAVoUoHPpp2YMXUIrpE5HWgU3TFCSkzoRZDLNKZXiCdp-YzZBGBLIblC2k-5e2H5RYkY6SDjMULaRJgI494KjhTIU7RjicZQVQ0gYgdOLpjHRbOODiNOM8Xy4nYy3C2BK4qmDmlT9O1CyAMIUcBHhlANxG2hQ9JQ1vkXyAAC0dMG8GVB242CE7ig7JVEJJPCM0LzpigF6lXAOAPuINwaEIxF4CcCNmkkCy8K8AAFegCoBD8aYyeI7jO2W7QZjZiF2BVZ8ERmIExKMTmJPjWWFVj5i1-IgW3RhYo6BxkIFPHF2ZOYxmIEgX40+NmIYeK3kVj642mAsYRYduTCjSFF8lsYawGvmREOogS0RYx4ikTsgIFNUEOw7ICxk7pHgAwyGJMCEwjQQQMekHeIsE5eJ3hV8OOlqNOgaNG+EWgaBK6RaZMBT0Rj4i+O-ioWG+PLimAK+KBgWE0OKb9H4++P28RYvmK-j58C3j5i6EtV0ESgYM+PxxhE1hKjoNgSBNiBP4t+OuoKBeRLiApEhgDrj+bWmFxgBY37y1iNiKdCoYpYrDVyNgYuAndtDEiSHFBhuNC1giMkKM0hiejJkjZhpkE2BSdzrYEIVBgOcrHQMd5aBhd0KAemH+xEMWYi7imgwfSCTDQWWHnMnDCs2kZoGIQGNdLEYK1JjlIhVnh8srUCHTR2dSJxscmBV+CX4AEgThMwc6MVlJ0XyK1BKS46FO1ytewfMJki3lIsMyTPgb2HcAb4UpLNV+AAEkkFbrMzHmoYYsAGANSgcRj4YdzQEn9pBNIpLpYdlaAH85coMJORI5knehmSak0IDXpn6LZ2CEdtOgx2UygDo0MA1HIqSNoQkHECWTQEmtnASlkfzkCBUCEeLZk1klAM2SK4bZNzQK4G5MmMdlCNELg4+b6Im9KEZ0i+SGYZmRMTFzammQTvkwzHpBXYQ0AHcMWG9i0SLpE5P0BAUn5IWT92a5KFAUU4FNgS25ZNFXAC4IFJgZ8EpFKfNrwX5PRlE0d-FY8YkshQMt+wmDxaSqUyBPzIDgUuwnYkZXoDYsHRMlJ9iOUjGWOhRY86wElPScmSVjG-QF2t9mABtj2j9E5Ehahs0aVJpTUdQBl7BqwZbm5px41BLyA4gMCBi534E8FBg-YH+PJR7nS4DKjGoZQHNB1eX4BHD1Jef27MJcQ8PtApgZTHwhtA-gE282acBW6jLMIA3cAbrKPjD55-JxSP0BI3q1YxrANsIcpMwZ8Co0ZgNoUTU4mNFMKRE0qZlWSloaBk2SO4eV2RjxIH8QH4TYM1Elo4mEWERVXAWYEA9qsWpVIiDcHiNggvoxsnnVMTd2P1JD7S1BtQqNEIAKMVeLqXZ9eEe3jABNZV-iIC0pWlIrNm4wrXMAu0yWlq4-TQ0EICIEdBMJwAmYCC0BrExkK14MgGNXEh0QMqHWwysEWG-lvDFHyHtwIp8R0oRGSIAMpzAAEhvVGU64Co11k5IHZd4QVDR3wk08pKppmNF9N1kU7ZuPcAn05EAgDmqECEBVO6crRUizgdyKkiLGRFVIEAgI6DiBtFGtIBpAMrz2nw3FMDP7hxDcNlg9EYy4T60mlJ81bgyCClmTSRgM7FIyaWFO3iTJxZBNJoKWe+zxAOUvOj9IJWJODVUGDZ8WVUwIq9JHDm4B0Co15bNwCww+ecjJQQdXF0CO1ofauANQ7k12TGMZMs+ThAhwrUC0jHbSTJXdzmUBWTRbqYnDBx-9Vm1hjG8SNOBD4RHUE6hJUDokM09ga3wPwzjH8UfETVcHhWpHuE406M28FFTsAz5Q5PWVCJBuGfA+eRkjpBxMzrTQ94oLzOCzsgFOwZRWMgtlqMkQToSYEUVYlyOkfxIHCwTFCOeD4BEtUYAQdjhY9X7gXEOAl7AvsDQCo0bA5+ivIwyeACToU6XtJfJGmd5ivIXIGrJHA6McHHkzUiGuLb0Os6oCSwZ0cIkNwAvUigERJA9wEBEggFyCDw2weEXmUs407VdjXAC7SmSH2SjBv0N1GICsZusF5VCzIADRDsgNspQzuoBEHbOS4Ys-dAOBCgE6185Z4LCVCA23cgHnAnQz4FqAF4P2Fnj+QZdwT4G4XwDPBvU-qIGTcrYKH9SdMfVL9Y8gPRBJ9gQ3zz8JOYERidBfE5AhriWoZICdZuGPbKazxwdHOrZ-jApixzCE8tIkAGoKB0TgoMAuwCc+o2sAGTdpAGm4zB7VnTBySqJk0kwnzCHPIBuybCAoBgDGrORpkgbxgFDZU7NyJZOchMCX8E5DxLUl94GjMeTaxf62CI6TXFjdUq+MXPez1oXsJLoPE1vhOhNKccFsiS3f0y8zvXDFhZAFoEtNzB7nUIEqzLcX6kPp48eckSglyI7Wb5U+MPjbBdcgJxAyzRd1io1BMI7OrgoOAtD2yDssAFRtjsnHFKJy-MqFkQYgRwzHSATeqMEYB6MPOrg7AR8ALQtJEtwBzqcqzBrTXNbjItjLwUgBOh6HDvBjykcpbAqCYgedErg7mGBFIkJzRrKrzNdD3iEV-wevP+guspoXYx1AcBmXcEKVvP1SeQUyH8haAEfKvZz2ObhuFSsnKO0BewQDPLdpAchL6geQbVV3ha8qM0cCJ7QpIRTAYVgDD4SJcgGAN0AIFj2z8WCMBHdmLdwEeyMwCoFPyus2jMXwjteXPM1iWBxjdVZ3MMyM0GUgJ2pZbAcbIpEsIdMnhV30TLSBZJjS7KI5kQMlQayqaSAuuyvAGAvzJo82IDjzlUqAG2AMgJoluz3laq3oUcMxuDVzAC8zAG0bRaq3MA9Y7PNoJ7nG41bN6kwsNbCC7GfKwCv8vYGbI-ySQATBcYvOHt8RxKnOoKnzQDPOhcCdAENkhc+mVITLqOAlEKU6Fuyf0KgPGEIS3so7QITSCqci5y+AtUGRB9JB6zjpjMzeEbiyuDzmrAxAukNXAIE0tJASMnP-Co1Ps5ACADRc3614Ue4ueKMBhLTXQeR+LKnVyMUtS0WZBy3OwsRiRQJ2E9oqwFaGeZRfYXA18AnbICnixIp4z510nd8CIRxwXQolZK9NgDOyns0wE+jM3MBJSIrGGq1dhsioQFpoNDI2KZJC4UGPBifnGLRz03s+IxQT8yAArsKsJOQGuCRzVZF0lLMVQBwsD0WWD2zXJdSHG4+i0nAGKus1yWItui8biVCUs-uBI8ksqPjsVKAeAPrxGwJoQUUn5JRWCp1isgs+YsgWVWkFFBUImDY43cvD6pdizeBZiEfCgAkhzitYqTsGYEaQ5A8QeERdAphG3iHBRaJ8y5jKAaqQGLP0yLmY1qpLGVxz9LCs0mLcgdqK8B9-X4s8zHc1FQtAFi1YvW8G8K4qmlsve4tRKmhOEtSAMNB0Pw9a1HYrRLUgZjUWdx1DFG0AEwC4FqJiSnEuY1AnH9UpL-YGkqxLsrHGBCRghNWnMyrANsGpK-JBa3dR0ooxjHkXyewk6ylEWdI9hPBeKEs0d4AvOM1QgBKkV9QMdtJLMLQcajQkHAB8BQDygjo3uF1xSBKfc-QkfiTdMA8UtHleCTAInR8ogqFTY3olTmKj02CUFBg0+MplWQ9GfhVWx-JU8B+AP2KAALwSM0sFWi98qZi9ZkmMMtzBIkEgnPybGEgkl8HGeJBSzkkLzPXkBxUZkjK-ONMCgKmJT1hr5ZYHMvhSOTWoH3zLSvL08i+yGMldx4kceGSRay4zjYAIEuqBsYSlC7GjLWACBOQQhUjVlbKuykVIbKOykpW2BuMFsrPBhyw1gulGykpQcgzUUcokAZygukASpykkHUSshCBNYNYHAtxuijwKxiVRcwSWl3KBy3uKsBGSEYGPK2PdsvPLRgUcijhzywn2RYu+WfiVQu+O6jDpIkGtFGAnYeFGU53oRaV5JjOD8q-L8mJ7DqZQuWLnfKpkIQT15deNmnp5a0TplFMemYGg9gBmCQCGYRmBCu6YrUeoSiyUKxCtYN6hfuDDRFAbQFwqbsMsUn8nsR8U5Y4uSulhwG6BOmMQs6Q8RgUJAX1FrohAM9GoYBeXgzCzL1cxT0VNOINSRc6y6NUw9D3A4sdUOfaqwdVdXXd22VO8PZV4qWGD42M5ldZRNokty4r1jlN1YJgW174v108YDbcnSJ0ledIEV1tdKSHKUtdZXTUqCnVfXpB3dTDy0cW9YMVSRiDWxQ8qbsAQz8Zbi4xKNYVoEYBmMgOHoORMZTDExaDaaeoIawXg+4IdN1EWKo-NV5aeVZZ+TVZDICshHSxYCVYN4wlcgq741kqQys7irzq4njxbRMmJqCIFLPbdEqqVYHkJJsI5HIHHNU7HW3ptivbHFgwOQzyu2gMLLoqcishba0lB+qrcuBs1tGnUxsqUQRStZNi5+WOQK7MbiyEmApuza5AtTWFUBtYJfSik-8ylm2q2sRIT5z4AAXPxVCmRIT2qFtGalfUCy67KIErq1qDwBPtTXS1c3vYSB1Y-WPniDZ42GKTnQI3MAA+qTXOLgrLkAH6FDJM+LZnKxJyRAFGZYHfZkcYWfY5mxhYHbTIUA4ajXlph9ACN2ql9WZAUxqbmOUjJVHmDFku5H8zq3+BcYcVXIq8xAmueYNEfeBBZKWMmr0QsqR8WhZkWLFiyMg2WVlNYZpPACJh+fMIk6sB6FXK8KLyHIHPzpITrAzZvBOBUwAtJDrEXLJy0WoRZz81NPpkpfOl2spIgaMsVqHGXmv35daiGq1roAc-KRYdKg2tiZMy2ACxyZkaplKZ8cmuOaZVImLmmFcwd0t+YpmFWvJ15cdwHNyiCHuwzLAQC6uyZT0DtXBhIMtSMI0AHMpjFlISSAHBCbyglT7To4aQC8pG8b0ptg44ffl2l2MV9GKKNxUQWcxfYYynwx5FZwB0AIqYMz+AifaABwAXIFyA3B7AFhC4AdQFyCMBOCnwFDMOsUbHLrIAG8VxhegYM2MggAhJD9B3OTihHpXIRAFSgaED0N7BrgMsN3CwQCJ0PJJgnNQQA6TPeE8pDokuuUJu6gyHrqOBUjA7rJYgUG7re6oKQHqhSKEBXV3ABhFgAGuCeuMhQvMECzr00d-zUAwwOCRLcTHZeECB3mI8QhCWklZiAxoEEDHLhK4Y7KOhdkvmSXp4vCcluwP-eZlnpwRdJwIxCQUut3rgEGBEPqGzTupPrgzM+rfgB6qBCWBiWcDEI9J6zH2frZMHZQsEdcv0GsA2II7VQbSNMuorq64bsBrrQxHZS2FgaJuqsAXIdgDWEt4a4AOAQkI+oI9YAU+vaJz6yAFz4mYbsEjAH67Kz4QYQxACXFrHJ+o0AdLMmliBoFeWPbBv4J8SQzbrQTgsw4ObetYbx5dhurra6-esbrm6rcF6AySTmkQBiAZQHEau6-BukbCG2RqshDgMkiUbGwVEOuRhA48HxxDSaEEZUY0ENMbwwIN+phKnpJMHPDFceLGkRD-adGXRRS-j0JIZ0VJvLRvUMeUqJI8tn3axjALQFWxYkOIjKaqSgaXzZ0cIIAqa0cA9D5Lam1ZBzBVsc2gEkvoIsPOJK8ZFhdpeSjQwtKXGTrQGb3wDgDbBhm2iuYqggdivaUZm6oFlD4oMej9AuK7g0clZ8kilbt0lEKVbMRktuzGTbib2jya2cbsGpglEDYpYREYmj0ILtU-PVVAmiZ7zLh85XoOu50MH6CHhfPMX2vod-N4BRkDvbKxQdZgCoDiBEcnRG2AP6h3Mao13NzRg9+AjgXr4fHcrXbwI+AIHQwUtEXUe5SALAtbNNvXoDCl4c3MSBZCExnVNL7Y5MHwqekz5jtFygjkWNV07dAgbETIOIRShTSuXyZb4qBXzmhVQuHxV9TRYIGzINVf+tYwVI1pltrHiHRGlScshHxbRAScQHNAk818FyBc0Wjl+be7OVt1BgVZ4xtgwMQDDoBtQOQC5BZ6osAHcAMGvnmUBZfMDoIdECclc1Pw+EQWLfSD5TfD0nYwRtayfAwyvsTICancgKCpzIFBTVZX3cyDS5Ep0R+gGIBkiNgeXCEARUdDHJalxEt3UB9S81s2kDJMDNNLCgskA9d91eQEJd4vIFsy1QWuQHQwmhQJ2UoI+CaE4svAWT1WNAPN-K7F9VSKB9bTowGEYRfStQqECoWxbmyzsgRGJM5g6KINNbJFcIGUMdECUHNhEQTUJvAhGMACTjZ3cDNzRVLWYECDogEmtNKIWzUk6gASOOpXAwMuNrYKAQ+QF4LHY8BmI18CjNVKAFoVNCHaLMdGrZbW06oEig9Rbltc0-C7UNtEGa8gFVBisH4hFJgBBTG0BX4DIB5AWVK9NtidEALWVa2hd8lBIYuVm161RhVQHGE5PRQkjre4DNuGI-K6Zn1LWQYIynjGVfH2l0dDU0ourySdnkMoPXRdxcAmmd7FJoGwV6hhDNvCM298dEdlsfaTIZ9pSggoEIj-bEFEIXpc5ioMCuIH091q0CYFODhMhxqblv0zZqNUHUA6Wl0GWpheWhVNKjEfxGHb0ag3Fjaw28pTvz3KaUCE63gNCEoAuVNRtlbR7QkCuaUyHktNNaAU0p+hYwzwgNzP-bprxKURVUF7ypLa8GI0FoftrM49kwdzvadEeqL8ixKrSJA9J28ZqgpjwG9vmJR2m2FyYxALcA4BFqA3AVwxIWGPhymiUEwZV21MxWQgQPF4tNLm0fIGIh2oxFoLaUWiGByB0MDdtHdYMvUkao8238E0C7w2YF4LWPFiluYvwpaQzb4crUGDLAO5zDABzIU7XpA8pAghuR1MNcE6hN4EeF6A2wBaCgxauw9oxs3S60SSgCWisFtA80mA1NN+4Z4Da7RAeiFh5RO7Smhln8ZwGiFmu9iBaFXW8QHFBTBb5ppB5CdvCu6rEZ+lNKb0a4HZ4nFOtrsE73N4RZBEaJIrYBwTVjF2oSg6QUWdwdG2EqTc0PcE8AokXWQEbNAVeNJjfyJ6XtRuMFvCqIjMiDtf07cGLS1BZu5oUW78EyLrj4Aus1pHbTS4Jt1h0IFUDxKghWer1phk7wD0Q1PXuAABuYomngY1NpPwSEUb+i2h7Oi9IRo5-TGhd8WYK8P0KYgUMDYZ0cWPF86Aec9jZbnOrYWowXpYvL75C7QfUqcv2g7uFx7M0LnsTkDA0HpZg-U0pC7IoZUu5a0qKXJOgKCqX2bx8qHRD55grWFuIS1RK5o1pdM4uxt5fSN8NTBo+OFIw7f8-IGnhqOI5xhM1aEHuLtVWz-3JJSynT1ssOk8rJ0R3dbsX08Anb4ARIE4YvXkIC8xMX3aYo6UNK67Be6G0o6geYFW6nAFAAERnu5jBmJKgdDAFJoeKNo3KIm0gDYCYQ6Br0AC4EI2JyHunRCaEAxBEXWF5NF12VA7QnfEW6lA8IyECyWj1rUxuMG3BPoBpUIu0peZGtBLbYmpSjroXpOcnGDpCQviSgTBOUvPAN6wn0BJZ80bisTR+-frFxD+1Sh5BCYzbphynKKeGv7vOsFpth2OSzrtIy+cttJKO4etQXBAoooLh9VjeTsJr3imfzCAS2qeCJYAFOkxTqNakQAdsjUxGo-FlREsF1Ah+dDp0Q8+BcCtRpRCgrV47cbCv6B+4eVJOhFU4rvvEyB-r2SDUrAeiP1l0nkHV9LEA0C8B+wfD0QBl+rQO1z2aTcGB7s9YuwJ9oWFilLLalbJARgQAMRCAA"));
+        return JSON.parse(__webpack_require__(/*! global-compression */ "./src/js/core/lzstring.js").decompressX64("N4KABGBEDOAuCmBDAtgBUQc3pAXGUEEMAFgPYBOsAKvAB6y5TTGIAO8AXgHQCWpYPaGERgMKeMIBGpAK6wwkmTwA2AEx4A7DGABmiAMawKPeEKPC5pZIgRhYxCfvJJYfDcI2qwrcqX2noTW1SHQENJyRArWUATzB9K1ZlOjBmNlNhJ1JoIUR3TR1NHgRYsDpWPPUtMGtWLkgAGnBCSHVoBPJVABlNAGsAZTJKRkgAeR1C-R5EZTAAEUEO1Ubmok1YXxG5-hjZMGUeXolES2tXUncxZFMAfjAqB3ddmWFnMLsHMHIeDGJ5JIM8AAhAAdDRpdjcPgCXJfeDKRC0eBeK4STRgADuxB4+mIYGeYBYADcJOZFCovHpDMYMjoKB9jqcbMjvL5VDJDG4wCFRPArPANjjUix2NAuGAAIJmT7JEmzTQRRDQUwNBnC9JCSTwBLXGoUY6ePVvHVJOiqyr4vbE0n8aA+JBeWTyC5qgpFWy1LhgiWGpUCUL2GyYpUaADk8ngGlkv1VBJm0H41rs-B8pHZ-jKtFYF0jrhmpWQ+uTqRsgh0cXsElU8GsniEAFo1RdSvYgh8gw5lKwhIJUvoZkEgWAAOrY5KWl7NuJJ8yp-w5dWi4TySsKeAYTQaIKxvYYlSzBEIciExAk4sJZT0yvIMCNyRxOgbAyuaoW5A8Whti8UaCgjQAIRkGI21XVFuXcfoEBQUQeBJIQ430eczH4VcdBkZRZhJchAguVVFHkAl+3ceMUwROIRGrQtl0XTheH4QpsPkC1qymat9mZcggRWQgoFcWBkgAfUQVQiTyWBMFMEZIMqGYc0lESxIk6BuJaYTRI0cSsGUvAAG1VhaAAeSQAD4AEYACYwAAOXgDEwC6eA5WgAyAHoTN0ekRCMcTZh5cyADZ9kc+FlKaHiiCMsyAA5rNssBAIpIJnLc4yPOPEQ0Iw8imQQSlnwoGIuLC8LIEigBVDQDnfXKwDK1gMHIYSJCoExsNc9y6WPWtp1kbDuVCNCNCK-SIpM4ceGcIQ6tUZl2tSzqPDKDSJvhOINDi9RrnBNxhvCqBIrmRByF6MAAFk03gObdpKiqquKFl+lPddxFCkaoFunhqpZU6jqObCVJ4yB+hkVhs0oGpgTAQATckAeD-IH0gBdYqiD4wS0NgGRnBGVAEQ0davAAYQuBANIBqAATx5FGD0vbIH-ZQZHgHx1nsnhJEa8gYjJohIKQG8JVxEwSS22BXtp1AZA4Dhx3O6tuagU6ilqeXIFlsWSsezxpFoPU5eRlouENjwvBES95ELZwuMR-XIFR+ABNIdgNAEhNMf8EYHl7MDe0dyNUl6-xrpRx8Hadl2A+wPBIB9GJpFUOIiPiYnvnw+BVQASVDG9n1g1awiJUhlBJLx0VXHVkBkLdYHI31YAQZBWBXfhnCJEw7PzVIZAwLTznBY27EQI5dHgZFJAME71n4BJturRre8xBw3mzHI2eSL0AIkaBMZteIHH0E6nRqCtnAw-hpCOykr0+TLZl8YTaiD3jikEg4NF6bSoB6N-1aIV-38YAgJU2hLBGOMSY0xZgLHaBQZY+siB31UMrKOAAlUg982Aqy3uzZE6gGBR2Btg1QuDMERwEgkOW+CI5JzYgACgAOLFAABIyEkAAShVk+cEh5I5QEYfCVgdhGpcOZPDHiABfZoYjiqQAwJeMeygAH6UgJeYSQQRhdDQVUDAZNIDwHIL4cgIwACi+iKA6PsLIaAlRoALFbrPEYDQdEsU+jMfoTMjo2DMVHeoNst4TA-Io2mFiZBWLrCMXoKt3wYTcB-VWKtJD7hiSMf8HDvjRIuLEqgojCBSKUW6KuPDIAFHMZ9HhgDAY5jcdPVQEoMCkBGHJZU1ThB1JVrQKpFxVDQFqfUqOBlaCpSaZ03IrS4FQBzIrDQch4A9IaetGomhpktPqWMyAtBJnTO6a0vpAyFlTIQCMlZb1IA5kYb1WZUc5JkExsstpZzMZbN6ftXZ1y+qYCObTHMh0YgXPGfMma5FRnHNoN8x5Ix+mpQBYczB2phmDAoHg-aQy6zGR-i0d8+zTA+lUB0us8Lhh9IxZs4yN4DLIq6ailWrzumeA2Qc-FiLSrUuMniAyRKDkkraXSySOzUrsskvpXJgMjgxA-uUlo4lJAewlCk1Z08NiFxGATKgyCugqxmIyiUXQsmrNMP2dgxj+gE0wdiHQjL+iMPTgAMR1ccu0gIpKoAlATIx2SIASPddIyipB-x5HWv9PA4rbbP0KXMGs-AABqeicIaB0esTYUc6ECjVDfUQ4hiyV0vPvYQGFh42G3rkQ08rcxW09c0SA1hNCnUjDIQJLQARcyjjjRAXMbbysWYUomy0pnYBtutDEdDxAjBsnZQd1wdG4jyFgS82io4ExYFoeEpBtG+JYc4IhxQRjIJwZum2n0wawEeiSVEIx04NwRTo32Gh+gR0YesD22IhDeyEFe-2btgROMWDAr+ESo5gJxBA+YX7OhgDceQLCOjOysCoEI6A3CRh8K7IIvIcHmSPwrU1f8jaFZNQUHEAyJwLHkHrH-YyOj2akAxMqcgw4jpbi0FJCgnM8JyDVM+sAvQowYncOYcgldUiXgxKUF0zxjwUao3oocSaVyfDgDJS88ysIxu5MeVQlHKqaLAHQ0gy7xzzt8LqBaqF0KzHKHokw4R4A+KUVY494gHJynUcFWYEKdG2eetcBz8IKqcfUyMHzXH3BeYUb4p6qIKoaHEMsKOEWovZKFVAdQskMBiqUfhIw4I60VN-VAUYABpFW1ZkgIC2PCAUvbjlEX8AoudeRqsq24YYqOXQOIq0muJAlUBt1yeGKsyaAot2mAG6srAh7xKeFkutEY0nQPjZmgpirtMivlbHYU9OHGuMLyDOt6Cam1GrNbrZaaIio4RrbrVVgM0SurOYJRuqDUmqxPhXZe7jVqxoqILdjEeX4Cx00Fop7ZA7I-b+54JKbqwAJbWOeygR6PPwBMQYrLEqQ2nph-IRHZjVkIHoCMK1iAVAsnMPuhFE5jzudRDgCHUOoAk9h2F8QwNEIBGRyjVH+CGe6jPQeqm2PHwjAAJq9RLHZ3ULBNQj3cFvZnOQb5xDp7leogqbaog0cJfHKht6s6fvxQpq2YQKF8EcWNfPcdRw18kLw5gVFeFEyL+HVPldKOngxZAcPURhuK2U45dslUXFd2AZbvcOH86jhKN4BIt4R93GJYsQfSTX0LoJtsqIbhGXIMZdPqVQxks5-AKy4hjKhmorKeEYBc+i-gMFzP7Ma8Z-uI++IeQwBRnkFqMAlc1PrVLTk0LlfPcCjcJjpr+Affs6gBbon-B48h7NxPgnlu49ldsKuCn4hHfiJtu1o6sBt0AEclDru18G3Xg2evyGcAflasCfeh6gELl460p9wnP2x9N5g2BJArLJgUL4UtK83yUWRGKBBwSTBwY0DTH1PznQXSwDAFAP+322OXe30GxkmmlAkBFRUz1BCQkHSxExjw0mLCVECAwA0FVHpD1XSHPDq3hAAN7yUX61gAQPAJSy7Vd1LAuGP19xQSG3kBFTAIB0Kz1QfV7D3FzSYJzVmAEMQK0GQgZAmkD3gD0HQnkFEgZlMHFBxkiEcH9wmmQHoLLWFV+0EKSm6wFFGBy3FTZ2gKgBYIBxf2G2QJELD1zRkNYKECTC1D9kkPMErEUOrBUOUFFjAHUMZl-Gpxth0BcG3m60FE5C4MgKCXH0gDDSoijWwjcGEPaEFz2EFGfwMCQmEDzQxjeBoQMmiPzWcGMlYQXhxDxF7Fb2EFEhUEQEkHHFLk+G9XFC7UCFnl5DrhAlkzm0mwkCUy5CM2vhM0zHYG+EjEDkiKUUqTzx6Gqm4JSNWPui8DX2uA+0SxcPvz2ETinBPDPEaTz2oi8lKXeFXG9VCOjTcC0OSCVAkGcELDPFXDoEED-3AgkHpFGzVDkwmwW3uMyIuB7yMJaBBiu3gGBmQGsE5nWNsMgBHQ70uzQ2yNQKjj4TeCOgT0cFgIyCiAzAJARDgG8DImRA3wYMBhBge3e3Tg0jZA5GDySJKh4Peg02zVe0e0xJGAlFzQhAyAJFTHTEcGb3b1wKt34EzT8BOjpLewyEbDJQVS0GMi73DCULgF8DiDt0LjympDmN-Fcm1IuAwFSgeAkAVMewHkkCb3cHbzpE73AjVCMAEW+F+HkA6H9X6kBIiEjEMMhxtmsByAHwQHYP0KROSD9w0ADxn1WRQNyJeDxKUOKzbFNlIGdFCHJDUCSjAHKISErlgFSjJAkDoGfFYSHHDwkEj23gnGDCIPMDUw+EEBuEWMBhDOgAJjkAjPIGQCjM7T0L7PiDkD5Kjgf1eEcDkB+IzKzIUCUFzLkPzIMkLI0hLLPjLNoArKrOjxeCjxrMIKbkDxQkfTbKdw7JIO7NgEZL8XAVzF7P7LZMBg5MgAfJHIYATIOMgAnMTiaMQAmBgWLAqDgAT17DxMQB3IPL3LrIJAxFj3MH0FY2KDPMAMBnaMZmZg0mgCskzNujlKpifJR2RJwvkFlP3hZBiCcKWy-KJgbi9yCjlDAAsgzS5JOnpgwu+CwohKDKUXcIB0ZIVXTFZNH2SORLKmVEyg4xMNkJSzHKgE9ifXTXF2KLNl9L4rzKxHqJqEHjRAjCVFamLBzK8ASW0CpCMCNPFBxOOFxOHgxBYzb03jrPMBVN8DVNxG1APlY1XHUrkJNNVPNKBCzyz3L3IUcDJOgAAF5QwfKMBQxjJlVVVXJQrUoABqeYRqDAPANxZIQwRacCrgYKlci6eIcKqKmKuKi1a1KgJKi6YyPAM5NQIChEDMCuYIngU0X0uSIyoIAq2vEK4q-QUq6K6S1guKrVaqlyZKvARkrCZ0OYjSTg9wHkAEfwYy+EUWXqjPdsloRUBAH6Y6PRAc4dOKfav6DhENIxYhKOS64oM6X6Q6z8nIxNXOAQJiCGPIIISSyLa4HcF4ROEiMIQamQNiEQFys01FIYfg37Py1y8030kQIU-M0cLSwiZvLAf1ZkcvUjReS6FyUjdhc8loYAw9H4SLGrES9klItxeQfoUmmYTE9OeuWJedHTZUYo+0esQIzQFke6ZAKnR6-QBlEHEYQ2cUSgjSPRNUMGtU27cGEVGG8G+GmiJG7EXEesxOdGvRTGgybGvRXG-G7aogBEv6NI0gTYxFaw-Yp6w4v65vE43a0kDEKeEJIwG8Y26NG4ro8NcUGbVfEYkEhaTNT6LY7Sg67CbimnXRLMBFfof08EMgWAWjcgejWdCm58lIoxaO8GdoZwSMW7D85w6278vYS-cImqcwcoUnO3MeNmv0BGuO-Op4nQlvTMhPIMVsIQcQ2YdvK-WwODSjNKYokyrAMTF4-uQsxq7MEmPMLKeIRqZgMnNNa4COrfSMRnPPI63g76iQd3IdAWpM+0uEbexenYiQHGwMyOjGcyiBM7asUgCUFohEdo73US6MqOKgSwb4GYSUR+to6M-e9+nGg3LyT+wDOxPkZohfP+iQSY3sUvZQIcYcWQRq0kw4HeOC2ANW5Cw23iUBmYW+vkB+qB5+q1fUUmlrLQGQCSTe+SvB2YIh1o5+uSyAS0t4MCuwOh0IngO+yBxh8cWBoQeB+y16g3E408Yhjo9wIxaIQQYgcUJB9CW3PYA4IecwDBrB2AFCnJSRaRIIIdQiyAGK6AUYLCMiY-d4+AH6VgEYc6EkGFHK2ABKRc2S-BMrXK8CzBN05tfwEWKSN0ikwEXxvrTM5kJxrRLdEJ2wbqhjVZFayx1Q9qt+qAbxiQVq1wU0NrYKbCeAUYea8SYSyAbdJTP4vJxawrQQaBiUSwXJizfJrIqOKBaBiwIwesGkBa4PbHZdWReAZhaLeSrp8cRhMqOYFWOJsJtRJtZqvAhc8JuVZwZkU6w6udeZj0e6wxT8r3UrTZ2JpUBAFrOAdipmTixldAEC9ick9Co5+9VZLNXof8dahYZwBI2Na6yLZ+tcYIgJymdZ45Cmf1foPcTB4gWmihCfA4ARP5yWvoxbEqRCw9Nxgpq8lWBIVgGIbK7URFx2VtSrZ48gdF55pVXF1IBFrI2J9q3-QpVAcluuGFwGaAQF3EFrSigNKAAF4oNWyk-6Qmogb8Fly2yAI-Xgm-WmBqSXabXOk3Y5S55JDQlWSi0+DEQXeEQTUZzGDJqOH6dG8SZFmIPIJVXVyV2mTSkrKOZG67KV5qnLOmS1lWSuXlgiqAOhRqLmblqAaJjAFJ3xwinlmIQa+AcZrQCNI6aYLCtAgIcvEVdc+IX18cUSL+rC6zWmBOkVFrLUcmyAM5WAEVPAAySNlWAoUgGgegVLPaT7dgB1oGct4V0tgVqdQpZBOt+WT7cy6h2rCoKYauJtv5eARmmsVAPRXFPpyAUyV6msMAFyYl6pLtopJm-tvF2FTwcFXZXmoQCdvYtYWdgdhd1QbYFhJJyAGhWgcydhMZNnZIWJCFOwQnZSN6D1GkloeB2i00BAEingSYMp71qAeBlqZE4LLG5zMjOVRIL3Idp9kD211iotxlPC8irwAyZwOCzoYyR+IgfAjQGyegYLY6+geyZzHByAVvN9nERaktkqftHk0F6OFvOKa0tiMC3+5+lDqAVEOHIdh-Y8MCZS7wqXJ6VQRNkqHQXOhtYLMD8rJzRinWgDk8CXP2E0EDlemzMgaxz9k-fdijySVZNDmDq19T86pZ+Sgy1zVZawT8CuZALDjViUAADXTlOjKlOnsiMQjSMS6HzP6CrbAFoBXMxmcA0lOlUJqPw7k1cDgBxFI-TuROkhC9cH0D2NaBsEQBvXfXC5KjgH1D6ctoi-3cgnS67aIBQO+EbnqagAFNmCFKEDS-XUxGKGxB40+GYUkEDNQprdFI5Adcy6Iv3dQGZNWry6tqcHaoKdK5oiEFa9Wuq9bCeGFzMoKlVAVAZi0TCCPGuCS1sDG42oh2a+ooOCwna7eiy9DXhFziP1PZaAK8G+K6BhFAyE0rVpTK1DbCK2O+f1XAa6a+0b2hpyICjEGA1G67TDa6HZwpG9OLwMl1ZAB-G4TF0COn47peu5sUEAbQqmKBS7pe3fBXK9SjXenf5Ux4R+x5qGndeXx41EJ+IE28h1dZgF-ySmrSmWPwbVcHHUmZbWZ9pZaHdegBSaHYDdks0-Wu56md58F-w6vuMBmDvVDZU5fJshZCgzbJuyByl-NSB0JGueOWxGrBV8JeyGwGp8ucwtgBSZH35YSDgD9wt+p7gpiGzHWDR6gBt7t+l5wzDri+IBYQQzKllULoG6K8SM-mUNgHrEGpxBOhEHduPHMAACsZAG5ixihVQPS-gQ+Dhs0mzl9dLNq69jJuvw3c2RqtEo2HbijI-dADM1REL9FcwuHbIKDjxpbzTk-g-Q-94Fa1TzwVnjhQ6-pqJV8EWWQs1Fq4edqVm3AmckJX332CnFnjwuPweHa+OgvruztbJ9P+WXymXo0VYaxG5sNIAjEG5O2gPUXha50sX4Dft8P1gtbOQSQP7r76aZeUiH+JeQtNf7ftciBTIBIf-HxGpDS2MKZotEb7GR-++UcgO3zhouh-GPIUGqaTcoTQ-WNEKAVG3AG5VigTHb-gJHMhkILgJIXYCPlfIXB1ouVT4vQAAHmUJueIeAf5WMjTwCB9INNrAFQHFg7cHvSQIFVrxZ4WorAHNggPNIEw0+4fQ0KoAyqsDVwzA6gYvULC4EsBUAH-gAGYBI5QSoKIR7BCBQBVkUYBNQEGpRm83DccKiCHBhMjQm5J8IaULRrVgi8hQoFuAXqgQ0EswK-ORXIDZ8eB7VeqvqXLx6DKqNqCQaREBA1AEmHVdAeZWgDmhDQuBHwXQOQQBCvgkTfEgYWna4Cf+cTMhNOX04okB6cTYoqAKvJHh4hcLSvkgPPY3EnaJ4IuKYC4EZ5gqqAfoHgEtLvkjwOaG3kIDhZCBBOVgGIbDWMj+MyQmZV2qwOcBiBOg57F9KEFR4qZamw-FITgIEjpCnwzAB9FORpbHhE4oAwasun7hyYMIqAmoTn1qi10eh4NJYcQHiEAlvgjoAMJ8Cr6+d+IcQGhECFqJNEn81YLwHBRAoj9AYuA5QRbHthwsjwsSbTGmDADR9SAnA6yDkOAGgDLI-w5odGniF2gR4XgEGC2Qq6CYIeSEA4XUIaFHD8SJwtUgAAZ6wAATkJCZkRUyUPQcQRlyagZmeZPQCBU4jTtlBP-J5uNm6axIcKdkYrKGCEBhD-YuoDkVOnPZDhQBpggACyZgLB4Q1gRaGnikCZMY7Pwp8A4HuC+q9QrwY1VAF+DdBdAuouODEGYANwr4D5keRziiQV8nwKQZCxZGndIA5kH-mkKmYCQD8wkBYQTglpECUmUtPQe6K8AVAb+kAlyDSItAAkEwuoTYaUNMCoDVQoA41rjTDGGhQB66Vgby3kGOif+uA+luy2IACQjAAkPcJNCkgMs8QqoiQMWIyCcs8MrIAIG2FAFGJ9hQVPqpaXcCbCSBGLKQh5BuSaBWAcgakQaJ5Crggx3o6Qf2GfoREHRTogSMoPSFod+SGIUwPyCHA8iAmGYWgb0LZZAt5RRaTsRgPkCAs8QVYqcftygAzjJRCw9AgJAXFNp0CgJMscWGsBDxbqoAmsLdS8h8Z7AcQUgmTV3FW4PeuQO-pjRHFeijwGo+vFqLAATkNS8gGcFPH3FMRc0fYgcUOBgxxBixbYE4rACdrvc72kJHlohORCTJt+KnHMAJAxRZCR2mdWUVjmOTOxKJLLUqCgFkBrkwANEygT+AazB1coAkFduoh4nP42UiIAscQF8BdxiA-Y4svhwwZ6JjaNDVIuGlBIxpmGQgsPoSD1rFhlQBItSIpC0i+k-a8mOSOMXBIqxRsDsZ2CBRQDTZk0LoXmNZOp5Al5sOYCUApAWpaQFJvtKYrmhMlDQVYUYUSXkH-hRwcKqoQMN-CY6QBneosL-l+2cwO8DuIwZiqiWCzrszuX5UhulGTA+RfSAUBiiFG4pbcSoXPWKTYX3amQYoqJPnmlPy4ZSTM2UV2pjTtwzdOYhU+9rTFPoJTOuhSQAHhEoGPPDVP678khA3UYQPBGFwOAd8WpFaBETPFfcoS9URUl1LKm9SLs9JZqK1EGmtAvyClJQlRF8nSdwIpQAAKxtSCJJUSPstJ1z7s+ps-LaYmRClZMBi+wbIPIHRDNSIBhUSnudMBgnjSp10wpONBLGndapRdH0EtFcAnw1oG0UpNtFMlzSHRM0Y6IWFBYdcVpWwX6GdAuh9dtpRdHLgIg96UA2wduX7NUO+k8VS2TAEGAen+mqdCkwMUGKTnHQgyhpUcdbNWDlCOw38uodEMgB-EVA3g7PM6VT0+6CodG5aW7KwHU4pdIAzA4-NvWSSC9VQUCQUPhHpAAAye4JXHWjKA4u53f3i81ZYecvOdw3MP52CKpRAASYSecDI-ac2dJOp6MT5Z+jKABxJzhcEBahXApu5xRE2zTZfnALmAGtlec7ZAXfDnOACBcSVOCsudNOW3BgBUEdTaoJrOkj7wkC1FHOhdwD6VtfZJsnzmbMDnBzbZtke2WRmp6ji-8zslngrA-BthNZ6AdYOnKAR6ovZl3H2SyDznV8A5FsoOTbNDkWzqc4s1DgyLkLI5IAHA4-E9wgwNMjuEGTptpxGDmAyKESG5s5gZRwt1EEaNVLqk8DjBTaxiQ0DyH3nU9iAtvPRH-EnnKETgwRWKQRxdnjyz55AC+YjJblZzDZLDWDAeiEBojzAhQM8MwImGjtkAuQeQFvFmJMjQFVbVUGQEarMQMqTVIIWk0SZWZKe80h+bMT-gqCmStBW+THN4SPy-47Epkti0pm4y-eBTRklJOlC51zRgClduBA-yEgCFfQPCaslPkYK+gKgz8BbTPF3zq5GbZhW-HYncLp2+sgptuimDBQewTNcvt0JEDsLz5fQfuE6CoUMgbwxME8jQoAV4SDe61S+UER4WkK8FxAjQIwOPD3Mb5L8zOQbI9ifyEU0imsBEIpGwLRB8C2cMAKQWmgdFRUitNzVN7OEDFuC++W7MAFWLyFl3X0aQCwjFFEa9IXlsWEFHFBWFlWFgJoGgZBL+FISqgTQnnReiT2vCsRREuAFRLJaCNa7tgXiUV0KBz4V6j0QlIEkvRyIZJdRSZgZLCkWS+kDQjDRMx8lpCwpdnMiXRKyl1BOJYXCvD8BElsAcUFkpGlFhwpxRKMH2W-phCKA3i9qVAE7x6IGorE1QDeL0UqdAi18wxTW2MUf1KY7-Ppa-JsWuFBM40l4H4W1ll5JoEcb+Z4Elpc9+42i1BdjlajmQ2lHsR5bMBaiS1046cURVcqG4Ks7lxYDGOcpfwvKO8bysTCPJSyfLBezS1LgiWOW0xjF-QLFVrPOXgrrFkK25fWQeVwrnlyXRFf0Q+UWgAFqoOJjAtnhrLzpss9amQl8ArwICaddKYEs-bfd75Fi+QATE5VRAV0BSiFZdxFXZBlQZgCoQAu5DRKkAatTMovGkFRglut-eeFqBwng9rwGKwGN6XX68LjFRMZOpLWlVcrxVly4lVKtFUZAcJCE81WJkF6KrJayqvEKqslpHiW6mqygVyB1VLi-Y+q75XajLHGqjF98r+BIEtViqiV4S7ObGodWfB6FMAiocJGj6AgiCXy29gbxmC0F-F1FPlTysBjGLfUuMfwD8xtUJr359st9na17jf1GwRiEkJVDiBtBVZmybsShJCIaLuxKigcQavRRbKI1Jy++dWnIAj18yJoCsvGtbnZyJ1+kx1UnFMW-YmBrqyeL8SHVG0R1xGTQMU3+Uatd106xILOrCXzra1I6uVQhNXWEDaFS3fgDmG3VMAkgxQI8IeqNkHA1hJ6huGeolW2rs57nL9S+nmQMC11Lqz5pusdXPqYAr6tYfWH3XRoX6Y6-hUBrfWS0aEM6wwL0prb9L35aG3taBvwHgbzRD6uwLhNDUdS4NR4esIKHVYlqWguK-FQRvfXnq35UkODSBt0K3r11kGjSDKQESqiaFA6jbre2M67raNhXJJh1z4X0z8Vi6h6v+prU2Mr1aJGFWJJHgrqzF96zdU+tQXU9ARo6wGIctUIfrXymQqtbhslWJqBxIPLoTeH6FnxBhciw+XIFUXSB7AlQuCOKFAHpxQgBIaIScTkgCzYAeERyoLOnymAFU3+P4pWGPAhbsCt1LuiVW2EWhdhCDVAZRpKgBizNBQjDQAEUqGqgHDRnOU2xyQi5XMjU6Xi074xQhI80n5vrKBa21vxbwDvjC2dwItWpaLU2Di1tbKAL6Y8Elv3ApbtAaWnyBltDF0CstgMMkkZrI73y8VU0vLZZtK0XqlUtm4ZewCT7hpW41QMuBQH9Q9gwc-YGqDAM+Anj2IzLFlRTJaC+B8m822qcWpk3GLE5niVbc3IA3vy3tByEHlsP3h7g2a94MAKSKJFKFRWmhGbTtX0CKt+VUAV7ZE06UEwCYw4ErZ9rK1dZEhFXBHknCLJ6JU+cpQHXgTiCg7wdudMUFDvgSJCKpRIszT9s6U06AADWjuM3WbvtWOkHsDpp1k6R4FO3NT4rkyuD9FRyszanLOpsbrlUAWimAQyBTCe1Ti87ZvHTQ1i323gGVavDTjcg4tROtUM3zCBSSDcguo4I6B4xczhxMoIPvrrkAwboAWK0XcxvEhC6JdmLZADLukXHaqFqoI3UMQkCKCFAzmm8PLoYUnkJAzMBEnEGSBmordUy-TQLuu54DXdfi4XaZrh2yapI5S6XUnud2XcFN16uEBgHQhHQQeumojYnvxg0Qbtkdd8EiELXNzntJq++UTEvDHhFYNeudexo1YfgHVFQ3lt-LFXCAN0rgf+ckFYKV6bYFcx7fsXr2Rr+FDc70e3sl2QA59IRVcFiELibxyliuoKFHp7XSCDtze2RQ5s+D+Me1MG98KYkFYMaBVs+sCYpurXram0YEjAgvHX3K0t9ket6RoAN0+r999IezWqA82u1o9MGtTHu2Q04r75y+jDbu2fos70pX2v3M3uf2Vb39luoPT-tuFjLjw-+1cCfq-3W7KdUAHLanuMVQHjwNCQrcJDgOgyMd0cKFWSoQkH6PVYAAMUIjnKr5yliBOxFQyyjihRgLW-uiER9WbjThX40+akDprKBWBW+y7TWOS3t4J9qgNqfhNu0ox56FPA5VfJT1X74d98mDEqAp7Z7s5AsfwI3A922b-9HcaFlYO606kMCBhMAJlKyZj6bMLbLAMnpvkkHFtbhjnqzoQP4JzKGQOgEURXaqgf5-AEQBuFbVN522xQGIFoW+DGBXAHAZNRIA-3cg3NrGBUfUo7zKgTYhaN1eQB0CYixACAM-UUFF0+H8ykyHgNQf64P7WWgRgUbQBCNM0wjgmiIzBGiP6oDAcRhI3wG+DJHUjyYARCJvHo5GpSY0xaCUqKMlHmQLh36StA8PYqFt-CoGb4fgO0H9D4IaIn1F-HxhVQt3PEInHbyhGk4l4B5NgWkDr6UM+ZEdvSCJGsJxQCwCYHrQ0ixAQ+Yy7eB8JmnHkW6XpRCQkoMCeq4tNujHl4bWNLGjD787Y9AF2MVdJDTio44fVONtHzjvUQbf7puN9waE9x48I8eeNvtdjuYD49+G+PVdJofxpooqK7EV1gTWuxeAsZaBViCxgK5Y2ZvWNgBY1TctbR3pK70Hl1l2hCqKuoGHwaTnIfbRMvpNeq3Bse9ZZAGnhAlYALsSQ+yYhODlwQ42GmqqehPGJqosIRU1qYkNkEZghx1WscZyPwAaupSmiKqHiVMCdMzxdwLiewIEm5TrK0vLXtZ3T6UN9MssQvsRY5GjA3cRfBXWqhD1HTSAKXJIbuOunaiMh345yzNNaVE4lYB0laTyPnhk4hcJOOenWhYVVQC0csnRQNBALdAKgcCe6dUNftl0OIASKUfAO8qRd6p-klZDmBaYREup66vqYjPYmwAIIYdgOf9D+7PNQelMhsDkCnzxQNCGDJObiDXBbjQpO01gauORnm8A50yAOYJqfdVkreMzdoKoAdnzW9+vkwfx7MiBrjTp-s4OcgDDnVwu+xopmUERznpzs578e9T7hLn0Tx4B032Y3NbnCDayLxDobT1RwrOowZBEeY2M0GGjZ5qYRebXPuB-zt51XXJHN1oh8DIRXsBOe-HCMmiHmuRvmTfPiGFzn567suYP2-mrzyF7c+FDQXAWXt98iC1BYDOXdD+8FrE9RZvPDm0LNwjC6ouwtiH4jRFoSx+ex3pAKL9IKi1GevObnIAtF8RNT04SBBKuapkC6ctgzfE6JJ5xfZlMQ5dIADAe6PXedkzcN+LSFMwKJZoRbbNd9p48DRfKMX69uM+wpLCa0sfa-DtBvSxfGf2AHuhD5vixIbo6YWDcOF8Q9ZdtPfnsCDlqs5HUKDBFJ920n0xAf4VWoKzd+qzf4al2AmEaMZ3jE6GOC5ozggsaoPQorEjH+4q4N4l6JAgh6vgPwP4HUvTMrqFUGEFkD6svMyX9jus5MKQCZP5ckeZjTQ8ldWOhpBrLaVi4mpyvGmyaWktXrdS31tAG0t4MAIzRRPd8vzdlzi1Gf6tQB5m9iYa82fUuCr1qCch0Bld5OL7SulGeQguf3JqgnoGVMHp83sDiTfgUkvg5kZX0yhdmcIYSGWYTOUmaxNCC4BmGXnIgnjsVm2HkBmAxAUjXpps9ocYuobylPoWG-Dcmvvy0bsQFI8-v8Z67WDsedCy9KXHkkaxxNxGhaGcClE+4Uwym3uOb27WFTp6ueAxYCVHXkbg5X9VjC7NdYBQmMPuJ1fXPcXVdBFma-GEnKZhnwpQeAO6OUBNXczAsjfRqEktvJDQQt8EEzdbiUAeDV4vwJHIRtPaObDe-hWdh1vf0VtmNkYGbYxj5gE4tmjg9QSg0VCWAVQvnTueOT3bWsLZ07BNFtuzB6dHlzY7BZts8HSgXt37Y7fYApaAdggFBWJuOSVwjdk+6-YUlDvf0KoydoOzBdPPp3Z6YQvG47ELBk2W0ktcq3rrGMWgqrNYGq9UBzDyFVwH+m3Y7rOo+2oAed2bOPAuvo6Q7ftsOz+JbvP69dsS-jWqCbuAWJ9htxjffI7tkGrbvt827PQrnIHylOBm0UZd30YHdClFurq8Qauf6PrUNvJPXD1tikp7SV42y5dPT1wwA-3M+-PZK4MdJGJYLWKQB1goy-ibaigl9ef1RG-Y3Vw-WqFkOl2fzu9-PYXuPCctK9Q8pgOZRiDbp9LMshDhfAyFrChIngAseoYUkFC2wv3UUMwwnKx9yS4NgCRIE2EWa4xdRNWh0OL3uBXbA0Cvo5pHNAHUxz0MYeGx5BTC2mdTC4M2O4G157mnWneJcO4YGSLtuzTXVJe11x36txkYbbmi2FjbDQ6W1gY2EynojvAarPXqtdB5dG-YBIVcKALOGUPkT72aLQKKwgxBJu2gEUkhVHuYD8OyDzoAJAjuJWXyP2nk5sZWGyOI7FAVgfPz9gkOhwa11x+JaXD-begOu4HaTurAQ73b8ppx7ssnsKTl9njmg949AGT3-HfobjoituYshm11S3KpGO3v0gSQmgIQDQiIdMRoVzZH1eV1qIKirAMukRsIeVqdFQ9t+qPowavg1gcRteKCY1rjDGgsD7Rf7GFKAbsMOxzesZ4aA-usCOnxLQYnIQU6AxEnFErvefZfJN76QretJ6zPkqfBQB1evRNk5k7uASHK1tayc7z297cjDYvQcJFwQvVn6rBfYY49sgoOs7CksXd3fSfjkjizeTbDqBaeVat7sjrO-sPiiqro9uQEZ2XuRCRCS4fFhODkYN3rQcOdJlVXFome-ZquuadvKALQh5HUB4oRra3lxf1XPSxl3sKAOTsm6Rj0hwK+kZ7WrO7tnz5x-IgLUKTy13LgBoc9SYJNBozzb+qAK5eWYQxNIgJxc9YoFPVrXpCY5mbJAzMFAPwKdS1JMCah8Megu0F+pnJzOtlbYFdtIdHueLxwACtl-Ag5e7LYVOshSWcrtf8uWGRzvQba-hBnO1wgT2V14EbA-kgXA9N1-KBkVpsB6CqulSis7o1dXqlrva9a5ceJDyAZCGHdg5R0JzIm+zshQfSTCXORAcbENuwZdd0DfHkrg0Y2DWv5gbrDBhIQ9r+2sSaNETonWhLPgqvE+xLBxrrsR3pQUxeg+0AuFDBUBi8CFGNgnjesNEQiebsSION6ExuBWcbxiWQlSVvNpNUBfdrkqKDVAOlQdzNwC5eDZvvXfougZOm5peAVlJb6d-K8PpEuKA+l16kIEpXkB5w8QmUzKM4l7GdggL9wPCOUJ3l3jD4IpxfmXHJd+nkEvEU0O8GnvDpuT5wHExLhTcbkRgQuGPGPBcYZ36zzZZOvEkYPmBBY1qDgPteAr7gBlUFQQ6tBPQ8n+FE2NRzsgTuiCxNox4CtUcXvlKIhtUsPUlpCIsAlDi0KjWIi6z+A1e+sBoHrDFXyxZANmoG6EAoePn+liibuuwenrcqCmrdw9Jtq6Oc3sj64JOtOdTbehoRYNkTcCtiv81Erxj+W+ZxmG1NQmzTWOYNdaf7DZGrqutVQ9xvdX6GrZykSfY1KWNfzg58XV3dkf1PdL6jdp5pE0eC3ZDvQeK8rWmemI5nwjeZaYjKPONIjTdeEY+DCaf7znmT9h-2tuOUiQqv6-YidcTkkwm2S54Y8i+nXcvZ78GsE6QmkqDH-HyIE5WP1iTowkk1jHAPNEQTjI2KYMLdSLIqAmtrFCk0qQZD5B5Ao2O90gFnq4FMoWXlB4ZsTfEGGNdMkYJQcJgWaSP-ns8Op7C9iOIvh7ihzp8Vplv6vlbxr++VoeyPqt-W0WAs81MOhfS1T8jaQAW-OPJ7AkUA0w2f7IkYD44VJzE195ZuAv+73N-p9o+Gee3XTmL5iAoDvwJDUSIveXfXAQO2twY+cv8F8BIQMgRjioZVqDCg2kxdA5c+CDj5tgXvckeJRU6gjXDXv733ZZV1bareXyOXJ69t7U-7uKvdApn5x5O8d93WVz871RireVddKjiyz50b-vuAejHbQqC2PrxrXmYSRzV2Pct0iavd7722rx+h7RCPxBR0ATMeKMD0Gz7z6nus8N7HMHea3qOIcyN56yvyfr9wJtg7Got+4wFBAKwJC2AKPphpQqKBgRZ5V5m+ZBqoTBVRdBcX7gY0doB9V25ZByoVhEi7rF9uCYg7hCW76SUK-c+uzI129M0F6CmignEeJQ4JBvCgKPXQ770Mt8sxyu8Q-8p1BLiwAhwM5sT1BTBEu1Uyz3YrRfVXoyfXHibmnQpMDt3GooRI5nRz5e-lfPg3O2J+Tp8eduoXZ3qQhd7yLNxEhMS8pVztH886MgNCYGOQGZjKghwOAOYAperOzuZPJ4z0cGPQe7LPT1vl8usaECayNvt9rpxP479T-K-4NJ--ZBAeoDpqPPxiV3EOeDSMQHF0lgFArEYTR8axC0HjRIeDIFnJfSftAhhJ0LcFi5gPVKHUdJBdcE3A2wdbEucDHQt16FX-Mg0Y8u0JUUBIzYaFSdpFGfYDQYgKMCWkFAbasRAdMA+4FtBHxcq2AdmWBlXvFGxUl3Lx+HED34E6BaRiaZaue73584aRZ2VBlnVFQ-xgJa0UrFfjcXi-oEGaTxQd4rd9V+992XthvA0rBK2U9HfPYC-9ZHfQMcN0rGrzVI6vfF1vgCrIBQFFrTbp1dIzdKPk+AK7L6yUInYRbhdAsQAUDVVKwecxsA1aVfBjM17FQKBtwA+kFbwevaCQ-cc0aHmApjtXsyvMAHF0weNaiCumWgoZTICH1MaekDaAmmJJU0DnHJayGsWfFIigQG0Dnz3d8nUh1kdqgsiHIDprABxYDBGcAPMBW4LeAHAUjaNyz9b7PEQWAlGR-EzIcQAkSkFqvHYSqMxjfwkgdfrfayAU7gdCWFBKMXPxdIKIcay+lzfON0NMxIFUxNNyaDfg88MkI01ppDgjnzMCOxTU1jxurVgUF92gq7UkwG8XsF7A5vdCCzNKYA8WLBQBXmnLMjAqd0VoizLchLM4gpoT2CiCAB0Th3xN6jpdruSh2mc-HaQNSh6QMV0QtWBDIPxNIbHYJk8Z0OswbMH-DYlrN9AKCwd8i6CckudQBPEJJCCQqFxgkLgTUngk1wTMA7YWQNokPgO6YRmKB+RPIP7tO4WYiThC4dgPGhPNakLTRftHjxbo7IE0CWQJQNs1VAILVUHAtILC0APNuQWYhI44gqUAjMpkEDQqsdsPj3b9ySMQDPA4wWR2Ut3LM3x8V1nbW39s9bJCAmZKg5ElntsfesSB9StU9CNDJvMjxEA19c1ztZPVUIBQCPlZEwrc7IS7zpdPoQvWUCsRN0OCBQgWv2RD2Ap3ylDEfaMO74lvJPk7cvdFu1KU5nIsEeDOWRBijcO6esk2wZwDTT+IDZeQnbQe0bmXgAcAAYMbBTBZvFAFCMKwGZAvAawBKtifXT2FMXAA0DiBl4QIHeZEaUuii0WQYHVe5vefMnWwnmKwC2hpSQRHlwm-J4ybD4oFVxKdrHQUNmAfVE8TiDGwLtBfBGYBBTWgKAawF4MBg0cGZBolQiDIA9eHbWuBXdMu0TAyPQaBncApRJwUkMOeQHgZmGXaXgY00U0L2ANVRJ2EZVwDF2dB5kLunFFhA1KCgl7mb9SaIzHHUkXoviULmqAWpOIF9dZAUMFzQy-NsL2FkQj4G0dKtRrB+C9BZeTRJ1pQEJsD8OT8Ljci-JmAqDjg4ikfB8pC5XR0YyB7AxhDwGJAZ8BIJiJqDdAwpCtQhOMxmK89gdQEb8hwCkK59iA8GiYj6wZa3mckwl4JGkozaUCDACfN4Bd89BIRDUxkAWIFYFNaUAKUMBg2mksw1QDgTsC4QK-BsojHNrwkkpJVgX-1NsXCB0dsQX4HDtYUeEkjAlwoylL5gTbmiocaBHKGI5Z6KeQ9pq7A-AnDtia7nYCmhIZn-AMjWAFUUYosuhZAR7IB0TMQHTX27ECQJkObJsLCIzJo4bXSn7h2ws4AijSgF3B+AYKabk+kFAF4gZdAwGPRxCUHb1CwUMuFd3aVD5UIH3lJInb1eIPVInE+B-Ig7z2l+AXyQjoYHGnnkCZZVn1p5R5NtGZA6kI0mPxTIp-kdZIwLWk4jaSajAEo9EKkEKRxKEFW9ETo9VDcleuMPGujecX5mOjzwnBSbRHopZUsxIkNMFiQ1YfDl8lfUVQA8lNDIkFKxOZVgCCY7UTSEdCgYCGPdCSoUUjQJIeYPAN4ZmQ6BNYoAJxnkACMYPhhJAORgjrZ+gA4Fng52fwHclCkAjFkE2JAAFIdEJ+hChj8JQFjoZgRs0Sk2ZC6KCF2gRmIftXyQkmQMeAPoOJtcCIbVZj-AcUCaFgxE6NsjQuQUn7BzXFqJdI7cDmXGCeQ55QZhe4cCMbw5An4nlRfAHq1XAWJIsl9J2Y1+AwBvhFoENieUHQ0+wQYPRBdgLw9NgZkoWW2JxlbdfMCkhHYlmVncC9BECIFt0T2KOgcZL2PcNmsI6HcN3Yj3kDjeELuH15KZFQx+koAdsPcwjo8DG2iZNF8iqYjAdzFWtvRdQk5ijw7WM8IB6EIBJh6w+3FyBwo6WNiBxQFMIBoig95lupcwFaFKBz6admDF1CK6ROR1oDZ0xQkpM6EWRjzSmV4gnaTuM2QRgSyG5QtpP+Xth+UWJGOke4zFC2kSYIeIOQkpMHTHicZXVQ0gYgRePNjHRFeN7iNOM8QGsrEZ+iHZGmY+PJkY46s0+wsgDCFHAR4ZQDcRtoIfTiNb5F8gAAtHTBvBlQR+Nghn43my5i62fOLsgv4wICH0CRDgA-iDcGhCMRnAnAjZp-AsvCvAABXoAqBu-admATigH+M7Y4dS2NmIXYFVnwQrY8nBVZ3Y-ulh1WWYhIPjY3X2O9jUfL2JxkIFPHF2YnYwhMEimEghIFCGEuaQTtaYCxhFh25HqNIUXyWxhrAa+ZEXuidLRFm5iKROyAgU1QQ7DsgLGTukeB7nfbU+ABCNBBAx6Qd4h91YEneFXw46f3U6Bo0E2LLYURNuLAVrY0hKkhCEgTEownY-BPIS7E92OgC6E3gmoT6EthPnwLeEhJYSGE9hMlp8cbxMoSo6DYBETYgVhIt5rqCgTCS4gQJIYAuEj21phcYAvWZ8U4jYinQqGEOKU1YLXJUXQx7DJIkhxQYbmUs+IjJElsBYz4yZI2YaZBNg5nfe2ZCFQYDnKxlDHeWgYdncgHph-sRDFmIX4k4IP1Okw0FlhoLeo1PNxAycT09EjEJF6serUMIVYq3Za1Ah00VXWGdSnMTFfgl+bhIE4TMHOjFZU9F8itRtkuOk5i1rXsHnC-It5SXCFkz4G9h3AG+B2Tg1fgABIcA8kjMx5qYWLAB+DUoHEY+GDC0BJ-aPTU2S6WHZWgB-OXKF6TkSUFJ3pgU45NCA16Y+NVAK4X7SsMdlMoFeNDAeJyKkjaEJBxBIUgRJrYhEpZH85AgVAj-jGtOFMtwEUrtQ7gK4YlJt0dlCNELg4+JmO6lGMZ0gZSGYZmWyTTzamjkTGUwzHpBXYQ0G-cMWG9kSSLpbFP0B2UplPBT92IlKFApUzlIkS25ZNFXAC4DlJgYtEiVMAtrwZlPRlE0d-AcBFUzK1oMWabR0WTdQHVPzIDgalwnYkZXoEhsHRHVLbi7UjGWOh-Y-ewElPSc+MBT2XIv2YAG2VGLSTkSFqGzQA04ZLIVYLXaWrBlubmkATtKDQDiAwIGLgR8RQJ2G8AoWbdjJdLgXaMahlAc0HV5fgMu3UlQAsSzXBv1e0CmBlMfCESD+AJ2myZ00ooyejLMPg3cBBMItP3hQApxVwMnI961YxrAM8IcopbQwBg0ZgNoTrU4mGVMKRx0qZhhSloaBlUBzQAlwjcJY8SB-EB+E2DNRJaOJhFhEVVwFmAeParFqV1Ig3FlslAdQhr4EKU4LEhG4-UlwdLUG1Bg0QgXYxV4upG314R7eMAE1lX+dQLSkI0081vi+tcwCfTJaSQJsM1AiBCUTCcAJmAgtAIpMNCteDIErVxIdEDKh1sMrBFhv5Do2KJpfDiKfEdKERkiADKcwABIoNa5PEAYNclPgAHXeECW1KACdL2SqafFWozdZTmNvj3ASjIXT1xECEBVI3XNCqjSwcuLiA3iEpURVSBAICOg4gbRWPSAaSjOhUmyNxR4z+4YI3DYJPWyMuFdtJpUAtW4MggpZJ0621JpdMv+LGSyhVVIMyaWZMzVo7UvOj9IJWJOGdUbDZ8QdV2IwjJfDCvGDQjs3ALDD549MlBHTcXQYHUF9q4A1CMz6TQLLPk4QJ8K1A+oKqz8y4Pc5lAVk0W6mJwwcbgztsRYxvH7TmQ+ER1BOoSVA6J-NPYCL9Yo391SBHxQNXB4VqR7iJM3jNvBRU7AM+QxT1lQiV-VDAPnkZI6QHzOysWs+QD55M4ukF-S8NdPQRRrMgtn90kQToSYFl04HROIvsH3UUI54PgDq1RgaR2OE8NfuBcQ4CXsC+wNAEAwqZn6K8jDJ4AJOhTpX0l8lPi9MOQBchDskcDoxwcP+POzhjRDhTpA8CBGXRwiQ3Ha9SKARH8CZfOOS0AXIIPDbB4ReZVMgiRMHXrjXASHR9Tf4SjEoMv1GICsZusF5U6zIADRDsg4cuIzuoBEJHOS5OY2mjooiOYY185Z4LCVCB73ecAgDPgWoAXg-YcBP5BYPBPgbhfAM8HAUm095LWtgoVtJ0wEfP1jyA9EfKPbx7rPwk5gRGJ0BaTkCPbOSAWoZICdZuGFHIeytMK4U5jzsnRL3SJABqFEdE4KDD31PgVnLej3k3aQBpHM3+2V1uckqijNJMQC15zyAbsmwgKAfg0OzkaZIG8ZHQoNNXciWW3ITBQHBOXqS1JfeE5jjMycPbUtDYIjtNcWZ-Sr4vcmnPWhbwkunqTW+E6E0pxwQqJ9D5yRKGqBlQBxhZAFobdNzAyXUIBriKU9Wmbx48NPOcYtXKlxT4E8tsCTzQ9ZqnTIy8rRBg1BMDHOrgoOAtBRy0clgx4NMcnHFKJd-MqFkQYgOoz-TF9M6MEYB6OW17zHwAtC0kyPPXNrADcxvGS1HM4uMvBSAE6EscO8IfPFylsLYPnRK4O5hgRSJECzOytgrkw94hFf8GPz-oP+KaF2MdQHAZYPBCkvyEfHkFMh-IWgA-yr2c9jm4bhLbOWjtAXsA4zDLIxL6geQZg1xBD8yW3KDS7DZLFTAYVgDD4SJcgH4N0AIFhRz8WCMH-cpLdwHJzOnDAqMyl3IPKUIDFL3QRZn9CD2WTTA8T11zqWWwB+yKRLCAbz8CtrSBYbdfdAOBCgZECFVTsqmk4LCcrwF4L8yQfNiAR8wbIaZSADICaJic95VOt6FZTMbho8pgvMxVE56yPIM4hfNoIyXKkyfMzkxcNPCdcgAvkDhzAkGbI-ySQATAVYvODL8RxV6MXz47BAqJpiC86FwJ0AQ2Tdz6ZAxMuo4CdwpTpOY66xF8KgPGB0Tqc4HW0S1CkcjtyXAz4n+iMgCmzjp0szeGviyuDzmrAfAvUNXBhEndP4SlnP-Bg06c5ACoBSAT3LZtBElInfjuhIwEQcuTB5G0tjU2C0a1LRTsLVBCi2yNTS-YRZ3UAORLkB5A4-SxFD1sgDBI8iZTHXUWd3wIhHHAEiiVjP02AHHIfdTABmOXdyiiFLYAzrV2AWKhAWmhSMc47Mx1jTLPmMCsUDMB2pyZjeRPzJGCwoqwk5AbEKcKiAXSUsxVAWEwPRZYFHNcl1IcbmeLScV4r-jXJAyweLxuYMOXSLQMLwmyo+OxUoAfNPqkbAmhBRSfklFYKhhKbRU6yyArVaQT91QSoQPrwkSzeFtjUgKo0RLb7BmBGkOQPEHhEXQKYRt4hwUWkAtnYygGqlXihjMi58VaqSxlq2S6yG4iEXIDuivAFALpLas9PNRUQSiHw2osS1KBxLUgfFSW8xSlayaF+S1IGC8u3LsOPVCSuUvxUs7H9TbAEwC4FqJVS2THxVJ7TUozydMDQF1LoSokqmSK4NWmyyrALUpNLlDMWUhJDGQvnBwDGF8nsI7spREkCPYTwXihwtHeFXzAtUIASoI-UDHvTDzC0HGo0JBwAfBiCl7NeN7hdcRETaPasJH5Z3OQI9LR5XgjkCJ0NaIKhU2WmJU4to9NglBQYNPjKZVkPRn4VVsfyVPAfgD9igAC8bTNLAYYxAqmYvWZJnbLcwSJBIIsCmxhIIA-BxniQI3ZJDqz15AcVGYuyvzjTBCcpiU9Ya+WWFnLRU+U1qAkCrMtW86ovshjJXceJHHhkkPcuM42AYRLqgbGETJPLDy1gGETkED1I1YRM68q9SLy4RO2BuMU8rPBnyw1gukjykpQcgzUV8okAfyguh4SvykkDiSshYRMcMJHLd2JijwKxiVRcwSWlgqLyyouQBGSEYGQqwgHstYBkK0YFHIo4dCqdBkWLvln4lULvjuow6SJBrRRgJ2HhRlOd6EWleScTSmQqKyMCi4nsOplC5YuCiqmQhBPXl142aenlrROmEMx6ZgaD2AGYJAIZhGYhK7pitR6hdrKeQWGcSscN6hfuDDRFAbQHkrMEMsS34mJbcQ5YQHOLkrpYcBugTpjELOkPEYFCQF9Ra6IQDPRqGAXk8NsrHjXMU9FTTmM9K1fcorUfPNlWCIOVdXW5U6YU625NWyqEiRVtlTvD2VHKlhjZNjOJPSiTaJKCq29ytVjU9sE3CJnyZ6iullzCiBX5y3chSBPRl0cqjPWacs9Y5BOciBdpJ7i29HZmDFsYd-2xwsHd+iwcbsHwz8YKAeyuOQqxEYHWNkWK9I0gDgsmhjIlTUDB1NjkakPrMTsT+GJCWLVeWnlWWf01WRtArIUMCUqo1hWhWTQlVNYVoLk1FUM3WAv34mgiaz6xzrIgQK9t0JqC3dbQ3WwjkcgYC0gAO7S2waqUMdy1sVnq1S1WQYbHGyyE8HCQGxtyoqCpZt3tP3G5sNjdBUUU34EYDhLn5Y5F5pT7NriIELAu+3hq3OSoG1g4DKKXoLKWTGraxEhJ3PgAXcgKp+1Qa1xxmokNRcu4KiBcmtag8AImq5NU3GnwdAdWP1j54g2eNhik50YdzABWa-Nzi5Ny5AB+hQyTPi2ZysSckQBRmCR32ZHGDQiN46qs5jJI28aWuOYma5IGql9WZAVVqbmOUiFVHmDFjYs4y20Vxh-ULSrzEda55g0R94EFkpZDavRCypHxaFl6rUWdYyDZZWLasmg8AImDd8wiZ6wHpI8zKvRReyhFmkhOsDNm8E4FTAC0kOsQCs-KcgLAqwLp0+mUD8zXaykiAeymOoRYPa-fgzrRa1OugAsCpFnK1s62JinLYAB7LTjSAGplzAGy1IklzGQRqRi5phSuo6ZfmKZnjq-GFtHeBc8ogg-tJywEFJrsmU9FXVwYfjPrqpBbhzKZHS27UgB2Q3Cp5U306OGkAvKRvBrKbYOOH35dpdjFfQNijcVEFnMX2GMp8MeRWcAdACKgHM-gNKOgAcAFyBcgNwewBYQuAHUBcgjASwp8AhzDrFGwT6yABvFcYXoAHNjIYooSQ-Qdzk4oR6VyEQBUoGhFLDewa4DXC4IsECGdDyT4M7UEAO0z3hPKDGMPrlCD+oMgb6jgVIxX64OIFAP6r+qClf6oUihBH1dwAYRYABrlAbjIHrzBB169NFoC1AMMDgkyPXJ2HCNdUU0Xr1clZiAxoEEDHLhK4THKOgUUvmSXoxvCcluw6A+ZlnpwRRZwIxCQI+qwbgEGBDwbbzN+sIaBzYhrfhf6qBCWBiWcDG08wGzAIYbZMHZQsFE8v0GsA2IYHUUaNNY+tPq64bsEvrQxHZS2Fgae+qsAXIdgDWEt4a4AOAQkfBq09YAIhvaISGyAFz4mYbsEjBaGlaz4QeQxAFJt+Qeho0A0rMmliBoFSOPbBv4J8Ukyotcvgsw4ODBscbx5Zxovqr6nBrvqH6rcF6AySTmkQBiAZQGCb367RvCbdGyJqshDgMkjibGwEUOuRnQG5HxxDSaEFlUY0LtMbwwIZht5KnpJMHQjFceLGkQ0A6dGXQx5bZ0JIZ0RZvLRvUMeUqJ+8633axjALQFWxYkOIiObtATqXzZ0cIIBOa0cA9C1KBpFWBzBVsc2gEkvoJcPOJK8ZFhdpbSlI0zKXGKXR+b3wDgDbB-mwyvMqggayvaUIW6oD9CrKsej9A7K9w0clACkigYYn6fdhIpeGDFt+Tbib2i2a2cbsGpglEWEpYRbIwoiZhEveXEwtVQJohe8y4fOUhCEonRB+gh4e6199r6RALeAUZNH0bB5HWYAqA4gMXJ0RtgVhsbzerFLXE86rDgXr5WnEbXbwI+AIHQxGtb3WqA1MaQqfM603oDCkRc3MSBYdE+XTTKUw4M26YADU6ztEXsnov8yhw9AgbETIOIRSg0y0Pztb4qcPzmhl-EX2j9TReMPvUjxQ+HbDWmUpl7g0ygNMWz8S9utXxxAc0AnzXwXIFzRaOLls-tASdNGBVZTG2DAxAMOgG1A5ALkCgaiwb9wAwL0hdH618wOgh0QJyZLSoj4RTEp5APlciMWdjBctoSDohSKAmp3IcwD1a1acrL9h1ABMpr5QStMv6AYgPyI2B5cIQBFR0MFMKXEyPXtuJNGyTaQMkeMtMpWDlXCkEVsalDVzG9+WtrSFa5AdDCaFDS5jwWQnLLwH29kTSUMzyuxH1Vba5oHREYQ6yyIr11BfBbOyBbIkzmDo+ggtskVwgeIx0QJQc2ERAowm8CEYwAGeNPdeM2YHitZgXK2iB1CtMtFbNSTqABJp6lcB4zJ2qSIZD5AWwunwf4tiDREFC1tVKAFoVNC-aLMfQF-abYZ1uqBIoPUXdbktZopjCDav1H5ygoEwpFJgBBTG0BX4eIuzJXVQjIridEFbTja2hK71moaomIB21RhVQHGEDvRQjHrg2nRDlKqjRQATLWQAYwwTZVNXyj0RNNMtJrySdnkMoVXaDxcAmmd7FJoGwV6h5C600cyb87229Oo6TIWjpShWO6FVyEk6xvLzIgwK4muAjWhIKZUhA3r21R3W5LNmo1Qbot1qXQZamF5aFNMqMR-Eb9vI6DcCdp0QfqtgvcotIpiDeA0ISgDVUkm9uoiDCQMlpTIbSks1oA0yn6B7DPCVPLugaoMRM4zH8syzUU1NBaHfazOVFJ-dyOtMrOjmoryuiz+PQDuBaoKY8FI75iCjqURcmMQC3AOARagNwFcMSBFiRcpomFMZVLTXA1kIfj1JK0y5tHyBiIO6Nlbt2hVohgcgdDAQ6APCxkXpvBTdt-B4gmQDwjZgWwsNSWKW5moilpZdpFytQFsq47nMMAHMgwdekDykCCG5HUw1wTqE3gR4XoDbAFoKDBO7MOxW3LLrRJKB1aKwW0FXTEfDqm49cI3NDqQYeNNqUQJyTLOw64QaISu72IFoQbbyMjcLXaOWmkHkJ28ZwBCRoGQdv5B2eJxUlC7BSjzeEsozgxOK1iv1tYxdqdYPqdsqinRtgDk3ND3BPAKJF1kfGzQHgSerX8iel7UbjBbwqiNLME6VzO3Eq0tQUHuaFIerRIG64+drsLaf2tMv6bdYdCBVAFSoISga9aL5IbTTDXuAABuYomnhK1W5K0SEUb+i2hyu-DIRoQAzGmr8iCLCKSKYgUMDYZ0cWPBa6Aec9idbU8rYWowXpDfL75MDA-XKqk-O3FijQuMpPkMDQelj1ol+G2G67IoEMvda0qP3JOgO2wP2bx8qHRF6yEPSVr0S1RMlo1pEssBxt5fSciNTBo+EVOXa6C-IGnhqOTFylM1aRGkWcE2+gPJI1y6RXU1kimYpZaPwbsVetNNMPQkzvzW63wzExdDuGjFofJHuhtKOoHmBYepwBQABEanuYwZiSoHQwBSaHlHaIKkZre95XHkPEa9AAuEGN1c8jMU7PgAMQRF1hWzQbc47HMJ3xIexh2P0uZZvl87tfY8m4wbcE+gGlPaVJi9EIYKZH3bJmpSjroXpOcneDpCF0pWc-SoR3PBUG1KMBJAC0bkKTP+r2DQHYQVSh5ANYxHuZChcqeEIHrwVKK365+MlrL4j252IUdT1BcDajVgkX1McVoZ5hS9jtfdqngiWelSu9dY4PyrtlEj3wqj26WTFNzTtR4h0Q8+BcCtRpRDtrV47cWSv6B+4ENJOgw0rbvvFNB8jXGC5rAN2P0oMvouFx4-A0C8B+wTT0QAIBw+gTz2aTcC56RlMB3SNoWFijXLalbJARgQAMRCAA"));
     })()
 
 /***/ }),
@@ -21092,6 +21260,17 @@ module.exports = (function() {
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "CHANGELOG", function() { return CHANGELOG; });
 const CHANGELOG = [
+    {
+        version: "ShapezIndustries 0.2.2",
+        date: "17.01.2021",
+        entries: [
+            "added a new variant of the stacker - the smart stacker",
+            "added a new variant of the tunnel - have a look for yourself",
+            "fixed the crash that occured when you deleted a belt feeding into a smart merger",
+            "changed the way the stacker works so that with more than 4 layers in the inputs, it keeps the TOP 4",
+            "other minor bug fixes",
+        ],
+    },
     {
         version: "ShapezIndustries 0.2.1",
         date: "13.01.2021",
@@ -22966,11 +23145,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "globalConfig", function() { return globalConfig; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "IS_MOBILE", function() { return IS_MOBILE; });
 const IS_DEBUG =
-     true &&
-    typeof window !== "undefined" &&
-    window.location.port === "3005" &&
-    (window.location.host.indexOf("localhost:") >= 0 || window.location.host.indexOf("192.168.0.") >= 0) &&
-    window.location.search.indexOf("nodebug") < 0;
+     false &&
+    false;
 
 const SUPPORT_TOUCH = false;
 
@@ -23031,7 +23207,7 @@ const globalConfig = {
 
     wiresSpeedItemsPerSecond: 6,
 
-    undergroundBeltMaxTilesByTier: [5, 9],
+    undergroundBeltMaxTilesByTier: [5, 9, 7],
 
     readerAnalyzeIntervalSeconds: 10,
 
@@ -23047,6 +23223,7 @@ const globalConfig = {
         painterQuad: 1 / 2,
         mixer: 1 / 5,
         stacker: 1 / 8,
+        smartStacker: 1 / 8,
         shapeMerger: 1 / 8,
     },
 
@@ -35805,7 +35982,7 @@ class MetaShapeCombinerBuilding extends _meta_building__WEBPACK_IMPORTED_MODULE_
     }
 
     getSilhouetteColor() {
-        return "#9fcd7d";
+        return "#0b8005";
     }
 
     getDimensions() {
@@ -35873,11 +36050,12 @@ class MetaShapeCombinerBuilding extends _meta_building__WEBPACK_IMPORTED_MODULE_
 /*!******************************************!*\
   !*** ./src/js/game/buildings/stacker.js ***!
   \******************************************/
-/*! exports provided: MetaStackerBuilding */
+/*! exports provided: enumStackerVariants, MetaStackerBuilding */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "enumStackerVariants", function() { return enumStackerVariants; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "MetaStackerBuilding", function() { return MetaStackerBuilding; });
 /* harmony import */ var _core_utils__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../core/utils */ "./src/js/core/utils.js");
 /* harmony import */ var _core_vector__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../core/vector */ "./src/js/core/vector.js");
@@ -35900,7 +36078,10 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-
+/** @enum {string} */
+const enumStackerVariants = {
+    smart: "smart",
+}
 class MetaStackerBuilding extends _meta_building__WEBPACK_IMPORTED_MODULE_7__["MetaBuilding"] {
     constructor() {
         super("stacker");
@@ -35910,7 +36091,10 @@ class MetaStackerBuilding extends _meta_building__WEBPACK_IMPORTED_MODULE_7__["M
         return "#9fcd7d";
     }
 
-    getDimensions() {
+    getDimensions(variant) {
+        if (variant === enumStackerVariants.smart) {
+            return new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](3, 1);
+        }
         return new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](2, 1);
     }
 
@@ -35932,6 +36116,17 @@ class MetaStackerBuilding extends _meta_building__WEBPACK_IMPORTED_MODULE_7__["M
     }
 
     /**
+     * @param {GameRoot} root
+     */
+    getAvailableVariants(root) {
+        const smartBuildingsMod = root.app.settings.getAllSettings().smartBuildingsMod;
+        let available = [_meta_building__WEBPACK_IMPORTED_MODULE_7__["defaultBuildingVariant"]];
+        if(smartBuildingsMod) {
+            available.push(enumStackerVariants.smart);
+        }
+        return available;
+    }
+    /**
      * Creates the entity at the given location
      * @param {Entity} entity
      */
@@ -35939,31 +36134,74 @@ class MetaStackerBuilding extends _meta_building__WEBPACK_IMPORTED_MODULE_7__["M
         entity.addComponent(
             new _components_item_processor__WEBPACK_IMPORTED_MODULE_5__["ItemProcessorComponent"]({
                 inputsPerCharge: 2,
-                processorType: _components_item_processor__WEBPACK_IMPORTED_MODULE_5__["enumItemProcessorTypes"].stacker,
             })
         );
 
         entity.addComponent(
             new _components_item_ejector__WEBPACK_IMPORTED_MODULE_4__["ItemEjectorComponent"]({
-                slots: [{ pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](0, 0), direction: _core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].top }],
+                slots: [],
             })
         );
         entity.addComponent(
             new _components_item_acceptor__WEBPACK_IMPORTED_MODULE_3__["ItemAcceptorComponent"]({
                 slots: [
-                    {
-                        pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](0, 0),
-                        directions: [_core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].bottom],
-                        filter: "shape",
-                    },
-                    {
-                        pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](1, 0),
-                        directions: [_core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].bottom],
-                        filter: "shape",
-                    },
+                    
                 ],
             })
         );
+    }
+
+    /**
+     *
+     * @param {Entity} entity
+     * @param {number} rotationVariant
+     * @param {string} variant
+     */
+    updateVariants(entity, rotationVariant, variant) {
+        const isSmart = variant == enumStackerVariants.smart;
+        entity.components.ItemProcessor.type = isSmart ? _components_item_processor__WEBPACK_IMPORTED_MODULE_5__["enumItemProcessorTypes"].smartStacker : _components_item_processor__WEBPACK_IMPORTED_MODULE_5__["enumItemProcessorTypes"].stacker;
+        entity.components.ItemProcessor.processingRequirement = isSmart ? _components_item_processor__WEBPACK_IMPORTED_MODULE_5__["enumItemProcessorRequirements"].smartStacker : null;
+        
+        entity.components.ItemEjector.setSlots([
+            { pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](0, 0), direction: _core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].top },
+        ]);
+        if(isSmart) {
+            entity.components.ItemAcceptor.setSlots([
+                {
+                    pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](0, 0),
+                    directions: [_core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].left],
+                    filter: "shape",
+                },
+                {
+                    pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](0, 0),
+                    directions: [_core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].bottom],
+                    filter: "shape",
+                },
+                {
+                    pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](1, 0),
+                    directions: [_core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].bottom],
+                    filter: "shape",
+                },
+                {
+                    pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](2, 0),
+                    directions: [_core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].bottom],
+                    filter: "shape",
+                },
+            ])
+        } else {
+            entity.components.ItemAcceptor.setSlots([
+                {
+                    pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](0, 0),
+                    directions: [_core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].bottom],
+                    filter: "shape",
+                },
+                {
+                    pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](1, 0),
+                    directions: [_core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].bottom],
+                    filter: "shape",
+                },
+            ])
+        }
     }
 }
 
@@ -36354,12 +36592,13 @@ class MetaTrashBuilding extends _meta_building__WEBPACK_IMPORTED_MODULE_5__["Met
 /*!***************************************************!*\
   !*** ./src/js/game/buildings/underground_belt.js ***!
   \***************************************************/
-/*! exports provided: arrayUndergroundRotationVariantToMode, enumUndergroundBeltVariants, enumUndergroundBeltVariantToTier, MetaUndergroundBeltBuilding */
+/*! exports provided: arrayUndergroundRotationVariantToMode, smartUndergroundBeltRotationVariants, enumUndergroundBeltVariants, enumUndergroundBeltVariantToTier, MetaUndergroundBeltBuilding */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "arrayUndergroundRotationVariantToMode", function() { return arrayUndergroundRotationVariantToMode; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "smartUndergroundBeltRotationVariants", function() { return smartUndergroundBeltRotationVariants; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "enumUndergroundBeltVariants", function() { return enumUndergroundBeltVariants; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "enumUndergroundBeltVariantToTier", function() { return enumUndergroundBeltVariantToTier; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "MetaUndergroundBeltBuilding", function() { return MetaUndergroundBeltBuilding; });
@@ -36392,17 +36631,32 @@ __webpack_require__.r(__webpack_exports__);
 const arrayUndergroundRotationVariantToMode = [
     _components_underground_belt__WEBPACK_IMPORTED_MODULE_4__["enumUndergroundBeltMode"].sender,
     _components_underground_belt__WEBPACK_IMPORTED_MODULE_4__["enumUndergroundBeltMode"].receiver,
+    _components_underground_belt__WEBPACK_IMPORTED_MODULE_4__["enumUndergroundBeltMode"].sender,
+    _components_underground_belt__WEBPACK_IMPORTED_MODULE_4__["enumUndergroundBeltMode"].receiver,
+    _components_underground_belt__WEBPACK_IMPORTED_MODULE_4__["enumUndergroundBeltMode"].sender,
+    _components_underground_belt__WEBPACK_IMPORTED_MODULE_4__["enumUndergroundBeltMode"].receiver,
 ];
 
 /** @enum {string} */
-const enumUndergroundBeltVariants = { tier2: "tier2" };
+const smartUndergroundBeltRotationVariants = {
+    center: "center",
+    left: "left",
+    right: "right",
+}
+
+/** @enum {string} */
+const enumUndergroundBeltVariants = {
+    tier2: "tier2",
+    smart: "smart",
+};
 
 const enumUndergroundBeltVariantToTier = {
     [_meta_building__WEBPACK_IMPORTED_MODULE_6__["defaultBuildingVariant"]]: 0,
     [enumUndergroundBeltVariants.tier2]: 1,
+    [enumUndergroundBeltVariants.smart]: 2,
 };
 
-const colorsByRotationVariant = ["#6d9dff", "#71ff9c"];
+const colorsByRotationVariant = ["#6d9dff", "#71ff9c", "#6d9dff", "#71ff9c", "#6d9dff", "#71ff9c"];
 
 const overlayMatrices = [
     // Sender
@@ -36410,6 +36664,18 @@ const overlayMatrices = [
 
     // Receiver
     Object(_core_utils__WEBPACK_IMPORTED_MODULE_10__["generateMatrixRotations"])([0, 1, 0, 0, 1, 0, 1, 1, 1]),
+    
+    // Left Sender
+    Object(_core_utils__WEBPACK_IMPORTED_MODULE_10__["generateMatrixRotations"])([1, 1, 1, 1, 1, 0, 0, 0, 0]),
+
+    // Left Receiver
+    Object(_core_utils__WEBPACK_IMPORTED_MODULE_10__["generateMatrixRotations"])([0, 0, 0, 1, 1, 0, 1, 1, 1]),
+    
+    // Right Sender
+    Object(_core_utils__WEBPACK_IMPORTED_MODULE_10__["generateMatrixRotations"])([1, 1, 1, 0, 1, 1, 0, 0, 0]),
+
+    // Right Receiver
+    Object(_core_utils__WEBPACK_IMPORTED_MODULE_10__["generateMatrixRotations"])([0, 0, 0, 0, 1, 1, 1, 1, 1]),
 ];
 
 class MetaUndergroundBeltBuilding extends _meta_building__WEBPACK_IMPORTED_MODULE_6__["MetaBuilding"] {
@@ -36463,7 +36729,7 @@ class MetaUndergroundBeltBuilding extends _meta_building__WEBPACK_IMPORTED_MODUL
      */
     getAvailableVariants(root) {
         if (root.hubGoals.isRewardUnlocked(_tutorial_goals__WEBPACK_IMPORTED_MODULE_9__["enumHubGoalRewards"].reward_underground_belt_tier_2)) {
-            return [_meta_building__WEBPACK_IMPORTED_MODULE_6__["defaultBuildingVariant"], enumUndergroundBeltVariants.tier2];
+            return [_meta_building__WEBPACK_IMPORTED_MODULE_6__["defaultBuildingVariant"], enumUndergroundBeltVariants.tier2, enumUndergroundBeltVariants.smart];
         }
         return super.getAvailableVariants(root);
     }
@@ -36475,7 +36741,11 @@ class MetaUndergroundBeltBuilding extends _meta_building__WEBPACK_IMPORTED_MODUL
     getPreviewSprite(rotationVariant, variant) {
         let suffix = "";
         if (variant !== _meta_building__WEBPACK_IMPORTED_MODULE_6__["defaultBuildingVariant"]) {
-            suffix = "-" + variant;
+            if (variant == enumUndergroundBeltVariants.smart) {
+                suffix = "-" + variant + "_" + rotationVariant;
+            } else {
+                suffix = "-" + variant;
+            }
         }
 
         switch (arrayUndergroundRotationVariantToMode[rotationVariant]) {
@@ -36495,7 +36765,11 @@ class MetaUndergroundBeltBuilding extends _meta_building__WEBPACK_IMPORTED_MODUL
     getBlueprintSprite(rotationVariant, variant) {
         let suffix = "";
         if (variant !== _meta_building__WEBPACK_IMPORTED_MODULE_6__["defaultBuildingVariant"]) {
-            suffix = "-" + variant;
+            if (variant == enumUndergroundBeltVariants.smart) {
+                suffix = "-" + variant + "_" + rotationVariant;
+            } else {
+                suffix = "-" + variant;
+            }
         }
 
         switch (arrayUndergroundRotationVariantToMode[rotationVariant]) {
@@ -36551,16 +36825,17 @@ class MetaUndergroundBeltBuilding extends _meta_building__WEBPACK_IMPORTED_MODUL
      * @param {number} param0.rotation
      * @param {string} param0.variant
      * @param {Layer} param0.layer
+     * @param {Entity=} param0.entity
      * @return {{ rotation: number, rotationVariant: number, connectedEntities?: Array<Entity> }}
      */
-    computeOptimalDirectionAndRotationVariantAtTile({ root, tile, rotation, variant, layer }) {
+    computeOptimalDirectionAndRotationVariantAtTile({ root, tile, rotation, variant, layer, entity }) {
         const searchDirection = _core_vector__WEBPACK_IMPORTED_MODULE_1__["enumAngleToDirection"][rotation];
         const searchVector = _core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirectionToVector"][searchDirection];
         const tier = enumUndergroundBeltVariantToTier[variant];
 
         const targetRotation = (rotation + 180) % 360;
         const targetSenderRotation = rotation;
-
+        const originalTile = tile;
         for (
             let searchOffset = 1;
             searchOffset <= _core_config__WEBPACK_IMPORTED_MODULE_8__["globalConfig"].undergroundBeltMaxTilesByTier[tier];
@@ -36579,19 +36854,28 @@ class MetaUndergroundBeltBuilding extends _meta_building__WEBPACK_IMPORTED_MODUL
                             // If we encounter an underground receiver on our way which is also faced in our direction, we don't accept that
                             break;
                         }
-                        return {
-                            rotation: targetRotation,
-                            rotationVariant: 1,
-                            connectedEntities: [contents],
-                        };
+                        if(tier == 2) {
+                            return this.computeBestVariantForSmart(root, originalTile, targetRotation, _components_underground_belt__WEBPACK_IMPORTED_MODULE_4__["enumUndergroundBeltMode"].receiver, entity, contents);
+                        } else {
+                            return {
+                                rotation: targetRotation,
+                                rotationVariant: 1,
+                                connectedEntities: [contents],
+                            };
+                        }
+                        
                     } else if (staticComp.rotation === targetSenderRotation) {
                         // Draw connections to receivers
                         if (undergroundComp.mode === _components_underground_belt__WEBPACK_IMPORTED_MODULE_4__["enumUndergroundBeltMode"].receiver) {
-                            return {
-                                rotation: rotation,
-                                rotationVariant: 0,
-                                connectedEntities: [contents],
-                            };
+                            if(tier == 2) {
+                                return this.computeBestVariantForSmart(root, originalTile, rotation, _components_underground_belt__WEBPACK_IMPORTED_MODULE_4__["enumUndergroundBeltMode"].sender, entity, contents);
+                            } else {
+                                return {
+                                    rotation: rotation,
+                                    rotationVariant: 0,
+                                    connectedEntities: [contents],
+                                };
+                            }
                         } else {
                             break;
                         }
@@ -36599,10 +36883,114 @@ class MetaUndergroundBeltBuilding extends _meta_building__WEBPACK_IMPORTED_MODUL
                 }
             }
         }
+        if(tier == 2) {
+            return this.computeBestVariantForSmart(root, originalTile, rotation, _components_underground_belt__WEBPACK_IMPORTED_MODULE_4__["enumUndergroundBeltMode"].sender, entity, null);
+        } else {
+            return {
+                rotation,
+                rotationVariant: 0,
+            };
+        }
+        
+    }
 
+    /**
+     * Should compute the optimal rotation variant on the given tile
+     * @param {GameRoot} root
+     * @param {Vector} tile
+     * @param {number} rotation
+     * @param {string} mode
+     * @param {Entity} thisEntity
+     * @param {Entity} contents
+     * @return {{ rotation: number, rotationVariant: number, connectedEntities?: Array<Entity> }}
+     */
+    computeBestVariantForSmart( root, tile, rotation, mode, thisEntity, contents ) {
+        const isSender = mode == _components_underground_belt__WEBPACK_IMPORTED_MODULE_4__["enumUndergroundBeltMode"].sender;
+
+        const oldRotationVariant = thisEntity ? thisEntity.components.UndergroundBelt.rotationVariant : null;
+        const topDirection = _core_vector__WEBPACK_IMPORTED_MODULE_1__["enumAngleToDirection"][rotation];
+        const rightDirection = _core_vector__WEBPACK_IMPORTED_MODULE_1__["enumAngleToDirection"][(rotation + 90) % 360];
+        const bottomDirection = _core_vector__WEBPACK_IMPORTED_MODULE_1__["enumAngleToDirection"][(rotation + 180) % 360];
+        const leftDirection = _core_vector__WEBPACK_IMPORTED_MODULE_1__["enumAngleToDirection"][(rotation + 270) % 360];
+
+        const { ejectors, acceptors } = root.logic.getEjectorsAndAcceptorsAtTile(tile, false);
+        
+        let hasCenterConnector = false;
+        let hasRightConnector = false;
+        let hasLeftConnector = false;
+        if (mode !== _components_underground_belt__WEBPACK_IMPORTED_MODULE_4__["enumUndergroundBeltMode"].receiver) {
+            for (let i = 0; i < ejectors.length; ++i) {
+                const ejector = ejectors[i];
+    
+                if (ejector.toDirection === leftDirection) {
+                    hasRightConnector = true;
+                } else if (ejector.toDirection === rightDirection) {
+                    hasLeftConnector = true;
+                } else if (ejector.toDirection === topDirection) {
+                    hasCenterConnector = true;
+                }
+            }
+            if(oldRotationVariant == 0 && hasCenterConnector) {
+                return {rotation: rotation, rotationVariant: 0, connectedEntities: contents ? [contents] : [], };
+            } else if (oldRotationVariant == 2 && hasLeftConnector) {
+                return {rotation: rotation, rotationVariant: 2, connectedEntities: contents ? [contents] : [], };
+            } else if (oldRotationVariant == 4 && hasRightConnector) {
+                return {rotation: rotation, rotationVariant: 4, connectedEntities: contents ? [contents] : [], };
+            }
+            
+            
+        } else {
+            for (let i = 0; i < acceptors.length; ++i) {
+                const acceptor = acceptors[i];
+                if (acceptor.fromDirection === rightDirection) {
+                    hasLeftConnector = true;
+                } else if (acceptor.fromDirection === leftDirection) {
+                    hasRightConnector = true;
+                } else if (acceptor.fromDirection === bottomDirection) {
+                    hasCenterConnector = true;
+                }
+            }
+            if(oldRotationVariant == 1 && hasCenterConnector) {
+                return {rotation: rotation, rotationVariant: 1, connectedEntities: contents ? [contents] : [], };
+            } else if (oldRotationVariant == 3 && hasLeftConnector) {
+                return {rotation: rotation, rotationVariant: 3, connectedEntities: contents ? [contents] : [], };
+            } else if (oldRotationVariant == 5 && hasRightConnector) {
+                return {rotation: rotation, rotationVariant: 5, connectedEntities: contents ? [contents] : [], };
+            }
+            
+            
+        }
+        const connections = [hasCenterConnector, hasLeftConnector, hasRightConnector];
+        let totalConnections = 0;
+        for (let i = 0; i < 3; ++i) {
+            if (connections[i]) {
+                totalConnections++;
+            }
+        }
+        let rotationVariant = 0;
+        if (totalConnections !== 1) {
+            //keep old rotation variant
+            rotationVariant = oldRotationVariant && totalConnections > 0 ? oldRotationVariant : isSender ? 0 : 1;
+        } else if (hasCenterConnector) {
+            rotationVariant = 0;
+            if (!isSender) {
+                rotationVariant = 1;
+            }
+        } else if (hasLeftConnector) {
+            rotationVariant = 2;
+            if (!isSender) {
+                rotationVariant = 3;
+            }
+        } else {
+            rotationVariant = 4;
+            if (!isSender) {
+                rotationVariant = 5;
+            }
+        }
         return {
-            rotation,
-            rotationVariant: 0,
+            rotation: rotation,
+            rotationVariant: rotationVariant,
+            connectedEntities: contents ? [contents] : [],
         };
     }
 
@@ -36614,7 +37002,7 @@ class MetaUndergroundBeltBuilding extends _meta_building__WEBPACK_IMPORTED_MODUL
      */
     updateVariants(entity, rotationVariant, variant) {
         entity.components.UndergroundBelt.tier = enumUndergroundBeltVariantToTier[variant];
-
+        entity.components.UndergroundBelt.rotationVariant = rotationVariant;
         switch (arrayUndergroundRotationVariantToMode[rotationVariant]) {
             case _components_underground_belt__WEBPACK_IMPORTED_MODULE_4__["enumUndergroundBeltMode"].sender: {
                 entity.components.UndergroundBelt.mode = _components_underground_belt__WEBPACK_IMPORTED_MODULE_4__["enumUndergroundBeltMode"].sender;
@@ -36622,7 +37010,12 @@ class MetaUndergroundBeltBuilding extends _meta_building__WEBPACK_IMPORTED_MODUL
                 entity.components.ItemAcceptor.setSlots([
                     {
                         pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](0, 0),
-                        directions: [_core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].bottom],
+                        directions: 
+                            rotationVariant == 0 
+                                ? [_core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].bottom]
+                                : rotationVariant == 2
+                                    ? [_core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].left]
+                                    : [_core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].right],
                     },
                 ]);
                 return;
@@ -36633,7 +37026,11 @@ class MetaUndergroundBeltBuilding extends _meta_building__WEBPACK_IMPORTED_MODUL
                 entity.components.ItemEjector.setSlots([
                     {
                         pos: new _core_vector__WEBPACK_IMPORTED_MODULE_1__["Vector"](0, 0),
-                        direction: _core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].top,
+                        direction: rotationVariant == 1 
+                        ? _core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].top
+                        : rotationVariant == 3
+                            ? _core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].left
+                            : _core_vector__WEBPACK_IMPORTED_MODULE_1__["enumDirection"].right,
                     },
                 ]);
                 return;
@@ -39604,6 +40001,9 @@ class ItemAcceptorComponent extends _component__WEBPACK_IMPORTED_MODULE_3__["Com
      */
     canAcceptItem(slotIndex, item) {
         const slot = this.slots[slotIndex];
+        if(!slot) {
+            return false;
+        }
         return !slot.filter || slot.filter === item.getItemType();
     }
 
@@ -39918,6 +40318,7 @@ const enumItemProcessorTypes = {
     rotaterCCW: "rotaterCCW",
     rotater180: "rotater180",
     stacker: "stacker",
+    smartStacker: "smartStacker",
     shapeMerger: "shapeMerger",
     trash: "trash",
     mixer: "mixer",
@@ -39933,6 +40334,7 @@ const enumItemProcessorTypes = {
 const enumItemProcessorRequirements = {
     painterQuad: "painterQuad",
     shapeMerger: "shapeMerger",
+    smartStacker: "smartStacker",
 };
 
 /** @typedef {{
@@ -40761,6 +41163,7 @@ class UndergroundBeltComponent extends _component__WEBPACK_IMPORTED_MODULE_3__["
 
         this.mode = mode;
         this.tier = tier;
+        this.rotationVariant = null;
 
         /** @type {Array<{ item: BaseItem, progress: number }>} */
         this.consumptionAnimations = [];
@@ -42621,6 +43024,8 @@ class GameSystemManager {
         add("itemAcceptor", _systems_item_acceptor__WEBPACK_IMPORTED_MODULE_13__["ItemAcceptorSystem"]);
         
         add("hyperlinkAcceptor", _systems_hyperlink_acceptor__WEBPACK_IMPORTED_MODULE_11__["HyperlinkAcceptorSystem"]);
+        
+        add("undergroundBelt", _systems_underground_belt__WEBPACK_IMPORTED_MODULE_7__["UndergroundBeltSystem"]);
 
         add("belt", _systems_belt__WEBPACK_IMPORTED_MODULE_1__["BeltSystem"]);
         
@@ -42628,7 +43033,6 @@ class GameSystemManager {
 
         add("hyperlink", _systems_hyperlink__WEBPACK_IMPORTED_MODULE_10__["HyperlinkSystem"]);
 
-        add("undergroundBelt", _systems_underground_belt__WEBPACK_IMPORTED_MODULE_7__["UndergroundBeltSystem"]);
 
         add("miner", _systems_miner__WEBPACK_IMPORTED_MODULE_5__["MinerSystem"]);
 
@@ -43437,7 +43841,8 @@ class HubGoals extends _savegame_serialization__WEBPACK_IMPORTED_MODULE_3__["Bas
             case _components_item_processor__WEBPACK_IMPORTED_MODULE_5__["enumItemProcessorTypes"].rotaterCCW:
             case _components_item_processor__WEBPACK_IMPORTED_MODULE_5__["enumItemProcessorTypes"].rotater180:
             case _components_item_processor__WEBPACK_IMPORTED_MODULE_5__["enumItemProcessorTypes"].shapeMerger:
-            case _components_item_processor__WEBPACK_IMPORTED_MODULE_5__["enumItemProcessorTypes"].stacker: {
+            case _components_item_processor__WEBPACK_IMPORTED_MODULE_5__["enumItemProcessorTypes"].stacker:
+            case _components_item_processor__WEBPACK_IMPORTED_MODULE_5__["enumItemProcessorTypes"].smartStacker: {
                 window.assert(
                     _core_config__WEBPACK_IMPORTED_MODULE_0__["globalConfig"].buildingSpeeds[processorType],
                     "Processor type has no speed set in globalConfig.buildingSpeeds: " + processorType
@@ -44893,6 +45298,7 @@ class HUDBuildingPlacer extends _building_placer_logic__WEBPACK_IMPORTED_MODULE_
             const dimensions = metaBuilding.getDimensions(variant);
             const sprite = metaBuilding.getPreviewSprite(0, variant);
             const spriteWrapper = Object(_core_utils__WEBPACK_IMPORTED_MODULE_5__["makeDiv"])(element, null, ["iconWrap"]);
+            
             spriteWrapper.setAttribute("data-tile-w", dimensions.x);
             spriteWrapper.setAttribute("data-tile-h", dimensions.y);
 
@@ -44985,6 +45391,7 @@ class HUDBuildingPlacer extends _building_placer_logic__WEBPACK_IMPORTED_MODULE_
             rotation: this.currentBaseRotation,
             variant: this.currentVariant.get(),
             layer: metaBuilding.getLayer(),
+            entity: this.fakeEntity
         });
 
         // Check if there are connected entities
@@ -45867,6 +46274,7 @@ class HUDBuildingPlacerLogic extends _base_hud_part__WEBPACK_IMPORTED_MODULE_10_
             rotation: this.currentBaseRotation,
             variant: this.currentVariant.get(),
             layer: metaBuilding.getLayer(),
+            entity: this.fakeEntity
         });
 
         const entity = this.root.logic.tryPlaceBuilding({
@@ -55626,6 +56034,7 @@ function initMetaBuildingRegistry() {
 
     // Stacker
     Object(_building_codes__WEBPACK_IMPORTED_MODULE_31__["registerBuildingVariant"])(14, _buildings_stacker__WEBPACK_IMPORTED_MODULE_22__["MetaStackerBuilding"]);
+    Object(_building_codes__WEBPACK_IMPORTED_MODULE_31__["registerBuildingVariant"])(84, _buildings_stacker__WEBPACK_IMPORTED_MODULE_22__["MetaStackerBuilding"], _buildings_stacker__WEBPACK_IMPORTED_MODULE_22__["enumStackerVariants"].smart);
 
     // Shape Combiner
     Object(_building_codes__WEBPACK_IMPORTED_MODULE_31__["registerBuildingVariant"])(73, _buildings_shape_combiner__WEBPACK_IMPORTED_MODULE_23__["MetaShapeCombinerBuilding"]);
@@ -55651,6 +56060,12 @@ function initMetaBuildingRegistry() {
     Object(_building_codes__WEBPACK_IMPORTED_MODULE_31__["registerBuildingVariant"])(23, _buildings_underground_belt__WEBPACK_IMPORTED_MODULE_27__["MetaUndergroundBeltBuilding"], _meta_building__WEBPACK_IMPORTED_MODULE_34__["defaultBuildingVariant"], 1);
     Object(_building_codes__WEBPACK_IMPORTED_MODULE_31__["registerBuildingVariant"])(24, _buildings_underground_belt__WEBPACK_IMPORTED_MODULE_27__["MetaUndergroundBeltBuilding"], _buildings_underground_belt__WEBPACK_IMPORTED_MODULE_27__["enumUndergroundBeltVariants"].tier2, 0);
     Object(_building_codes__WEBPACK_IMPORTED_MODULE_31__["registerBuildingVariant"])(25, _buildings_underground_belt__WEBPACK_IMPORTED_MODULE_27__["MetaUndergroundBeltBuilding"], _buildings_underground_belt__WEBPACK_IMPORTED_MODULE_27__["enumUndergroundBeltVariants"].tier2, 1);
+    Object(_building_codes__WEBPACK_IMPORTED_MODULE_31__["registerBuildingVariant"])(85, _buildings_underground_belt__WEBPACK_IMPORTED_MODULE_27__["MetaUndergroundBeltBuilding"], _buildings_underground_belt__WEBPACK_IMPORTED_MODULE_27__["enumUndergroundBeltVariants"].smart, 0);
+    Object(_building_codes__WEBPACK_IMPORTED_MODULE_31__["registerBuildingVariant"])(86, _buildings_underground_belt__WEBPACK_IMPORTED_MODULE_27__["MetaUndergroundBeltBuilding"], _buildings_underground_belt__WEBPACK_IMPORTED_MODULE_27__["enumUndergroundBeltVariants"].smart, 1);
+    Object(_building_codes__WEBPACK_IMPORTED_MODULE_31__["registerBuildingVariant"])(87, _buildings_underground_belt__WEBPACK_IMPORTED_MODULE_27__["MetaUndergroundBeltBuilding"], _buildings_underground_belt__WEBPACK_IMPORTED_MODULE_27__["enumUndergroundBeltVariants"].smart, 2);
+    Object(_building_codes__WEBPACK_IMPORTED_MODULE_31__["registerBuildingVariant"])(88, _buildings_underground_belt__WEBPACK_IMPORTED_MODULE_27__["MetaUndergroundBeltBuilding"], _buildings_underground_belt__WEBPACK_IMPORTED_MODULE_27__["enumUndergroundBeltVariants"].smart, 3);
+    Object(_building_codes__WEBPACK_IMPORTED_MODULE_31__["registerBuildingVariant"])(89, _buildings_underground_belt__WEBPACK_IMPORTED_MODULE_27__["MetaUndergroundBeltBuilding"], _buildings_underground_belt__WEBPACK_IMPORTED_MODULE_27__["enumUndergroundBeltVariants"].smart, 4);
+    Object(_building_codes__WEBPACK_IMPORTED_MODULE_31__["registerBuildingVariant"])(90, _buildings_underground_belt__WEBPACK_IMPORTED_MODULE_27__["MetaUndergroundBeltBuilding"], _buildings_underground_belt__WEBPACK_IMPORTED_MODULE_27__["enumUndergroundBeltVariants"].smart, 5);
 
     // Hub
     Object(_building_codes__WEBPACK_IMPORTED_MODULE_31__["registerBuildingVariant"])(26, _buildings_hub__WEBPACK_IMPORTED_MODULE_12__["MetaHubBuilding"]);
@@ -57274,7 +57689,7 @@ class ShapeDefinition extends _savegame_serialization__WEBPACK_IMPORTED_MODULE_5
 
                         let originX = insetPadding - quadrantHalfSize;
                         let originY = -insetPadding + quadrantHalfSize - dims;
-                        const moveInwards = dims * 0.15;
+                        const moveInwards = dims * 0.1;
                         context.moveTo(originX, originY + moveInwards);
                         context.lineTo(originX + dims, originY + moveInwards);
                         context.lineTo(originX + dims, originY + dims);
@@ -57452,7 +57867,34 @@ class ShapeDefinition extends _savegame_serialization__WEBPACK_IMPORTED_MODULE_5
     }
 
     /**
-     * merges with the given shape definition;
+     * Stacks the given shape definition on top.
+     * @param {ShapeDefinition} definition1
+     * @param {ShapeDefinition} definition2
+     * @param {ShapeDefinition} definition3
+     */
+    cloneAndSmartStackWith(definition1, definition2, definition3) {
+        window.assert(definition1 || definition2 || definition3, "Must have something to stack with.");
+        if(definition3) {
+            if(definition2) {
+                definition2 = definition2.cloneAndStackWith(definition3);
+            } else {
+                definition2 = definition3;
+            }
+
+        }
+        if(definition2) {
+            if(definition1) {
+                definition1 = definition1.cloneAndStackWith(definition2);
+            } else {
+                definition1 = definition2;
+            }
+
+        }
+        return this.cloneAndStackWith(definition1);
+    }
+
+    /**
+     * merges with the given shape definition.
      * @param {ShapeDefinition} definition
      */
     cloneAndMergeWith(definition) {
@@ -57776,6 +58218,23 @@ class ShapeDefinitionManager extends _savegame_serialization__WEBPACK_IMPORTED_M
         return /** @type {ShapeDefinition} */ (this.operationCache[key] = this.registerOrReturnHandle(
             stacked
         ));
+    }
+
+    /**
+     * Generates a definition for stacking the upper definition onto the lower one
+     * @param {ShapeDefinition} mainDefinition
+     * @param {ShapeDefinition} definition1
+     * @param {ShapeDefinition} definition2
+     * @param {ShapeDefinition} definition3
+     * @returns {ShapeDefinition}
+     */
+    shapeActionSmartStack(mainDefinition, definition1, definition2, definition3) {
+        //const key = "stack/" + mainDefinition.getHash() + "/" + upperDefinition.getHash();
+        //if (this.operationCache[key]) {
+        //    return /** @type {ShapeDefinition} */ (this.operationCache[key]);
+        //}
+        const stacked = mainDefinition.cloneAndSmartStackWith(definition1, definition2, definition3);
+        return stacked;
     }
 
     /**
@@ -60666,13 +61125,11 @@ class ItemEjectorSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MODUL
 
                 if (!ejectedItem) {
                     // No item
-                    ejectorComp.hasSpaceToMove = false;
                     continue;
                 }
 
                 if (!ejectorComp.renderFloatingItems && !slot.cachedTargetEntity) {
                     // Not connected to any building
-                    ejectorComp.hasSpaceToMove = true;
                     continue;
                 }
 
@@ -60726,12 +61183,8 @@ class ItemEjectorSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MODUL
 
                     const maxProgress =
                         (0.5 + nextBeltPath.spacingToFirstItem - _core_config__WEBPACK_IMPORTED_MODULE_0__["globalConfig"].itemSpacingOnBelts) * 2;
-                    if(Math.min(maxProgress, progress) == progress) {
-                        ejectorComp.hasSpaceToMove = true;
-                    } else {
-                        ejectorComp.hasSpaceToMove = false;
-                        progress = maxProgress;
-                    }
+                    progress = Math.min(progress, maxProgress);
+                    
                 }
 
                 // Skip if the item would barely be visible
@@ -60839,6 +61292,7 @@ class ItemProcessorSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MOD
             [_components_item_processor__WEBPACK_IMPORTED_MODULE_2__["enumItemProcessorTypes"].rotaterCCW]: this.process_ROTATER_CCW,
             [_components_item_processor__WEBPACK_IMPORTED_MODULE_2__["enumItemProcessorTypes"].rotater180]: this.process_ROTATER_180,
             [_components_item_processor__WEBPACK_IMPORTED_MODULE_2__["enumItemProcessorTypes"].stacker]: this.process_STACKER,
+            [_components_item_processor__WEBPACK_IMPORTED_MODULE_2__["enumItemProcessorTypes"].smartStacker]: this.process_SMART_STACKER,
             [_components_item_processor__WEBPACK_IMPORTED_MODULE_2__["enumItemProcessorTypes"].shapeMerger]: this.process_SHAPE_MERGER,
             [_components_item_processor__WEBPACK_IMPORTED_MODULE_2__["enumItemProcessorTypes"].trash]: this.process_TRASH,
             [_components_item_processor__WEBPACK_IMPORTED_MODULE_2__["enumItemProcessorTypes"].mixer]: this.process_MIXER,
@@ -60872,7 +61326,7 @@ class ItemProcessorSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MOD
                             const item = processorComp.inputSlots[i].item;
                             const isOnMap = this.root.camera.getIsMapOverlayActive();
                             const isOffWindow = this.root.app.unloaded || !this.root.app.pageVisible;
-                            if(ejectorComp.canEjectOnSlot(slot) && (this.canAcceptOnSlot(entity, slot) || isOnMap || isOffWindow))
+                            if(ejectorComp.canEjectOnSlot(slot) && (this.isAcceptorSlotFree(entity, slot) || isOnMap || isOffWindow))
                             {
                                 if(ejectorComp.tryEject(slot, item)) {
                                     processorComp.inputSlots.splice(i, 1);
@@ -60974,12 +61428,12 @@ class ItemProcessorSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MOD
         }
     }
     /**
-     * Returns true if a acceptor slot is currently accepting an item
+     * Returns true if a acceptor slot is not accepting an item
      * @param {Entity} entity
      * @param {number} slotIndex The slot index
      * @returns {boolean}
      */
-    canAcceptOnSlot(entity, slotIndex) {
+    isAcceptorSlotFree(entity, slotIndex) {
         window.assert(
             entity.components.ItemAcceptor,
             "To accept items, the building needs to have an Item Acceptor"
@@ -61009,6 +61463,8 @@ class ItemProcessorSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MOD
         const pinsComp = entity.components.WiredPins;
 
         switch (itemProcessorComp.processingRequirement) {
+            
+            
             case _components_item_processor__WEBPACK_IMPORTED_MODULE_2__["enumItemProcessorRequirements"].painterQuad: {
                 if (slotIndex === 0) {
                     // Always accept the shape
@@ -61026,9 +61482,11 @@ class ItemProcessorSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MOD
             }
 
             case _components_item_processor__WEBPACK_IMPORTED_MODULE_2__["enumItemProcessorRequirements"].shapeMerger: {
+                // @ts-ignore
                 if(!(item.definition.layers.length == 1)) {
                     return false;
                 }
+                // @ts-ignore
                 const layer = item.definition.layers[0];
                 for(let quad = 0; quad < 4; ++quad) {
                     if(_shape_definition__WEBPACK_IMPORTED_MODULE_8__["enumMergedShape"][layer[quad].subShape]) {
@@ -61039,6 +61497,7 @@ class ItemProcessorSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MOD
             }
             // By default, everything is accepted
             default:
+            case _components_item_processor__WEBPACK_IMPORTED_MODULE_2__["enumItemProcessorRequirements"].smartStacker: 
                 return true;
         }
     }
@@ -61058,6 +61517,23 @@ class ItemProcessorSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MOD
                 return processorComp.inputSlots.length >= processorComp.inputsPerCharge;
             }
 
+            case _components_item_processor__WEBPACK_IMPORTED_MODULE_2__["enumItemProcessorRequirements"].smartStacker: {
+                const hasEnoughInputs = processorComp.inputSlots.length >= processorComp.inputsPerCharge;
+
+                /** @type {Object.<number, { item: BaseItem, sourceSlot: number }>} */
+                const itemsBySlot = {};
+                for (let i = 0; i < processorComp.inputSlots.length; ++i) {
+                    itemsBySlot[processorComp.inputSlots[i].sourceSlot] = processorComp.inputSlots[i];
+                }
+
+                if (!itemsBySlot[0]) {
+                    return false;
+                }
+                if(!hasEnoughInputs) {
+                    return false;
+                }
+                return true;
+            }
 
             // QUAD PAINTER
             // For the quad painter, it might be possible to start processing earlier
@@ -61159,9 +61635,6 @@ class ItemProcessorSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MOD
         }
         // Queue Charge
         let baseSpeed = this.root.hubGoals.getProcessorBaseSpeed(processorComp.type);
-        if(entity.components.HyperlinkAcceptor || entity.components.HyperlinkEjector) {
-            baseSpeed = this.root.hubGoals.getProcessorBaseSpeed(_components_item_processor__WEBPACK_IMPORTED_MODULE_2__["enumItemProcessorTypes"].hyperlink);
-        }
         processorComp.ongoingCharges.push({
             items: outItems,
             remainingTime: 1 / baseSpeed,
@@ -61351,6 +61824,29 @@ class ItemProcessorSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MOD
         const stackedDefinition = this.root.shapeDefinitionMgr.shapeActionStack(
             lowerItem.definition,
             upperItem.definition
+        );
+        payload.outItems.push({
+            item: this.root.shapeDefinitionMgr.getShapeItemFromDefinition(stackedDefinition),
+        });
+    }
+
+    /**
+     * @param {ProcessorImplementationPayload} payload
+     */
+    process_SMART_STACKER(payload) {
+        const mainItem = /** @type {ShapeItem} */ (payload.itemsBySlot[0]);
+        const item1 = /** @type {ShapeItem} */ (payload.itemsBySlot[1]);
+        const item2 = /** @type {ShapeItem} */ (payload.itemsBySlot[2]);
+        const item3 = /** @type {ShapeItem} */ (payload.itemsBySlot[3]);
+
+        window.assert(mainItem, "Must have a base item to stack with.");
+        window.assert(item1 || item2 || item3, "Must have something to stack with.");
+
+        const stackedDefinition = this.root.shapeDefinitionMgr.shapeActionSmartStack(
+            mainItem.definition,
+            item1? item1.definition : null,
+            item2? item2.definition : null,
+            item3? item3.definition : null,
         );
         payload.outItems.push({
             item: this.root.shapeDefinitionMgr.getShapeItemFromDefinition(stackedDefinition),
@@ -62572,7 +63068,7 @@ class SmartBalancerSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MOD
 
     }
 
-    updateSmartBalancerVariant(entity) { // @HERE
+    updateSmartBalancerVariant(entity) {
         if (!this.root.gameInitialized) {
             return;
         }
@@ -62907,15 +63403,19 @@ class StorageSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MODULE_0_
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "UndergroundBeltSystem", function() { return UndergroundBeltSystem; });
 /* harmony import */ var _core_config__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../core/config */ "./src/js/core/config.js");
-/* harmony import */ var _core_loader__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../core/loader */ "./src/js/core/loader.js");
-/* harmony import */ var _core_logging__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../core/logging */ "./src/js/core/logging.js");
-/* harmony import */ var _core_rectangle__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../core/rectangle */ "./src/js/core/rectangle.js");
-/* harmony import */ var _core_stale_area_detector__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../core/stale_area_detector */ "./src/js/core/stale_area_detector.js");
-/* harmony import */ var _core_utils__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../core/utils */ "./src/js/core/utils.js");
-/* harmony import */ var _core_vector__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../../core/vector */ "./src/js/core/vector.js");
-/* harmony import */ var _components_underground_belt__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../components/underground_belt */ "./src/js/game/components/underground_belt.js");
-/* harmony import */ var _entity__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../entity */ "./src/js/game/entity.js");
-/* harmony import */ var _game_system_with_filter__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../game_system_with_filter */ "./src/js/game/game_system_with_filter.js");
+/* harmony import */ var _core_global_registries__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../core/global_registries */ "./src/js/core/global_registries.js");
+/* harmony import */ var _core_vector__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../core/vector */ "./src/js/core/vector.js");
+/* harmony import */ var _core_loader__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../core/loader */ "./src/js/core/loader.js");
+/* harmony import */ var _core_logging__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../core/logging */ "./src/js/core/logging.js");
+/* harmony import */ var _core_rectangle__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../core/rectangle */ "./src/js/core/rectangle.js");
+/* harmony import */ var _building_codes__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../building_codes */ "./src/js/game/building_codes.js");
+/* harmony import */ var _core_stale_area_detector__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../../core/stale_area_detector */ "./src/js/core/stale_area_detector.js");
+/* harmony import */ var _core_utils__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../../core/utils */ "./src/js/core/utils.js");
+/* harmony import */ var _components_underground_belt__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../components/underground_belt */ "./src/js/game/components/underground_belt.js");
+/* harmony import */ var _entity__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../entity */ "./src/js/game/entity.js");
+/* harmony import */ var _game_system_with_filter__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../game_system_with_filter */ "./src/js/game/game_system_with_filter.js");
+/* harmony import */ var _buildings_underground_belt__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ../buildings/underground_belt */ "./src/js/game/buildings/underground_belt.js");
+/* harmony import */ var _components_belt__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ../components/belt */ "./src/js/game/components/belt.js");
 
 
 
@@ -62927,22 +63427,27 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const logger = Object(_core_logging__WEBPACK_IMPORTED_MODULE_2__["createLogger"])("tunnels");
 
-class UndergroundBeltSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MODULE_9__["GameSystemWithFilter"] {
+
+
+
+
+const logger = Object(_core_logging__WEBPACK_IMPORTED_MODULE_4__["createLogger"])("tunnels");
+
+class UndergroundBeltSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MODULE_11__["GameSystemWithFilter"] {
     constructor(root) {
-        super(root, [_components_underground_belt__WEBPACK_IMPORTED_MODULE_7__["UndergroundBeltComponent"]]);
+        super(root, [_components_underground_belt__WEBPACK_IMPORTED_MODULE_9__["UndergroundBeltComponent"]]);
 
         this.beltSprites = {
-            [_components_underground_belt__WEBPACK_IMPORTED_MODULE_7__["enumUndergroundBeltMode"].sender]: _core_loader__WEBPACK_IMPORTED_MODULE_1__["Loader"].getSprite(
+            [_components_underground_belt__WEBPACK_IMPORTED_MODULE_9__["enumUndergroundBeltMode"].sender]: _core_loader__WEBPACK_IMPORTED_MODULE_3__["Loader"].getSprite(
                 "sprites/buildings/underground_belt_entry.png"
             ),
-            [_components_underground_belt__WEBPACK_IMPORTED_MODULE_7__["enumUndergroundBeltMode"].receiver]: _core_loader__WEBPACK_IMPORTED_MODULE_1__["Loader"].getSprite(
+            [_components_underground_belt__WEBPACK_IMPORTED_MODULE_9__["enumUndergroundBeltMode"].receiver]: _core_loader__WEBPACK_IMPORTED_MODULE_3__["Loader"].getSprite(
                 "sprites/buildings/underground_belt_exit.png"
             ),
         };
 
-        this.staleAreaWatcher = new _core_stale_area_detector__WEBPACK_IMPORTED_MODULE_4__["StaleAreaDetector"]({
+        this.staleAreaWatcher = new _core_stale_area_detector__WEBPACK_IMPORTED_MODULE_7__["StaleAreaDetector"]({
             root: this.root,
             name: "underground-belt",
             recomputeMethod: this.recomputeArea.bind(this),
@@ -62953,9 +63458,14 @@ class UndergroundBeltSystem extends _game_system_with_filter__WEBPACK_IMPORTED_M
         // NOTICE: Once we remove a tunnel, we need to update the whole area to
         // clear outdated handles
         this.staleAreaWatcher.recomputeOnComponentsChanged(
-            [_components_underground_belt__WEBPACK_IMPORTED_MODULE_7__["UndergroundBeltComponent"]],
+            [_components_underground_belt__WEBPACK_IMPORTED_MODULE_9__["UndergroundBeltComponent"]],
             _core_config__WEBPACK_IMPORTED_MODULE_0__["globalConfig"].undergroundBeltMaxTilesByTier[_core_config__WEBPACK_IMPORTED_MODULE_0__["globalConfig"].undergroundBeltMaxTilesByTier.length - 1]
         );
+
+        this.root.signals.entityDestroyed.add(this.updateSmartUndergroundBeltVariant, this);
+
+        // Notice: These must come *after* the entity destroyed signals
+        this.root.signals.entityAdded.add(this.updateSmartUndergroundBeltVariant, this);
     }
 
     /**
@@ -62969,13 +63479,13 @@ class UndergroundBeltSystem extends _game_system_with_filter__WEBPACK_IMPORTED_M
         }
 
         const undergroundComp = entity.components.UndergroundBelt;
-        if (undergroundComp && undergroundComp.mode === _components_underground_belt__WEBPACK_IMPORTED_MODULE_7__["enumUndergroundBeltMode"].receiver) {
+        if (undergroundComp && undergroundComp.mode === _components_underground_belt__WEBPACK_IMPORTED_MODULE_9__["enumUndergroundBeltMode"].receiver) {
             const staticComp = entity.components.StaticMapEntity;
             const tile = staticComp.origin;
 
-            const direction = _core_vector__WEBPACK_IMPORTED_MODULE_6__["enumAngleToDirection"][staticComp.rotation];
-            const inverseDirection = _core_vector__WEBPACK_IMPORTED_MODULE_6__["enumInvertedDirections"][direction];
-            const offset = _core_vector__WEBPACK_IMPORTED_MODULE_6__["enumDirectionToVector"][inverseDirection];
+            const direction = _core_vector__WEBPACK_IMPORTED_MODULE_2__["enumAngleToDirection"][staticComp.rotation];
+            const inverseDirection = _core_vector__WEBPACK_IMPORTED_MODULE_2__["enumInvertedDirections"][direction];
+            const offset = _core_vector__WEBPACK_IMPORTED_MODULE_2__["enumDirectionToVector"][inverseDirection];
 
             let currentPos = tile.copy();
 
@@ -62996,8 +63506,8 @@ class UndergroundBeltSystem extends _game_system_with_filter__WEBPACK_IMPORTED_M
                 if (
                     contentsUndergroundComp &&
                     contentsUndergroundComp.tier === undergroundComp.tier &&
-                    contentsUndergroundComp.mode === _components_underground_belt__WEBPACK_IMPORTED_MODULE_7__["enumUndergroundBeltMode"].sender &&
-                    _core_vector__WEBPACK_IMPORTED_MODULE_6__["enumAngleToDirection"][contentsStaticComp.rotation] === direction
+                    contentsUndergroundComp.mode === _components_underground_belt__WEBPACK_IMPORTED_MODULE_9__["enumUndergroundBeltMode"].sender &&
+                    _core_vector__WEBPACK_IMPORTED_MODULE_2__["enumAngleToDirection"][contentsStaticComp.rotation] === direction
                 ) {
                     matchingEntrance = {
                         entity: contents,
@@ -63034,8 +63544,8 @@ class UndergroundBeltSystem extends _game_system_with_filter__WEBPACK_IMPORTED_M
 
                 // It's a belt
                 if (
-                    contentsBeltComp.direction !== _core_vector__WEBPACK_IMPORTED_MODULE_6__["enumDirection"].top ||
-                    _core_vector__WEBPACK_IMPORTED_MODULE_6__["enumAngleToDirection"][contentsStaticComp.rotation] !== direction
+                    contentsBeltComp.direction !== _core_vector__WEBPACK_IMPORTED_MODULE_2__["enumDirection"].top ||
+                    _core_vector__WEBPACK_IMPORTED_MODULE_2__["enumAngleToDirection"][contentsStaticComp.rotation] !== direction
                 ) {
                     allBeltsMatch = false;
                     break;
@@ -63086,8 +63596,8 @@ class UndergroundBeltSystem extends _game_system_with_filter__WEBPACK_IMPORTED_M
                 }
 
                 if (
-                    undergroundBefore.mode !== _components_underground_belt__WEBPACK_IMPORTED_MODULE_7__["enumUndergroundBeltMode"].sender ||
-                    undergroundAfter.mode !== _components_underground_belt__WEBPACK_IMPORTED_MODULE_7__["enumUndergroundBeltMode"].receiver
+                    undergroundBefore.mode !== _components_underground_belt__WEBPACK_IMPORTED_MODULE_9__["enumUndergroundBeltMode"].sender ||
+                    undergroundAfter.mode !== _components_underground_belt__WEBPACK_IMPORTED_MODULE_9__["enumUndergroundBeltMode"].receiver
                 ) {
                     // Not the right mode
                     continue;
@@ -63098,8 +63608,8 @@ class UndergroundBeltSystem extends _game_system_with_filter__WEBPACK_IMPORTED_M
                 const staticAfter = entityAfter.components.StaticMapEntity;
 
                 if (
-                    _core_vector__WEBPACK_IMPORTED_MODULE_6__["enumAngleToDirection"][staticBefore.rotation] !== direction ||
-                    _core_vector__WEBPACK_IMPORTED_MODULE_6__["enumAngleToDirection"][staticAfter.rotation] !== direction
+                    _core_vector__WEBPACK_IMPORTED_MODULE_2__["enumAngleToDirection"][staticBefore.rotation] !== direction ||
+                    _core_vector__WEBPACK_IMPORTED_MODULE_2__["enumAngleToDirection"][staticAfter.rotation] !== direction
                 ) {
                     // Wrong rotation
                     continue;
@@ -63108,6 +63618,70 @@ class UndergroundBeltSystem extends _game_system_with_filter__WEBPACK_IMPORTED_M
                 // All good, can remove
                 this.root.logic.tryDeleteBuilding(entityBefore);
                 this.root.logic.tryDeleteBuilding(entityAfter);
+            }
+        }
+    }
+
+    updateSmartUndergroundBeltVariant(entity) {
+        if (!this.root.gameInitialized) {
+            return;
+        }
+
+        const staticComp = entity.components.StaticMapEntity;
+        if (!staticComp) {
+            return;
+        }
+
+        const metaUndergroundBelt = _core_global_registries__WEBPACK_IMPORTED_MODULE_1__["gMetaBuildingRegistry"].findByClass(_buildings_underground_belt__WEBPACK_IMPORTED_MODULE_12__["MetaUndergroundBeltBuilding"]);
+        // Compute affected area
+        const originalRect = staticComp.getTileSpaceBounds();
+        const affectedArea = originalRect.expandedInAllDirections(1);
+
+
+        for (let x = affectedArea.x; x < affectedArea.right(); ++x) {
+            for (let y = affectedArea.y; y < affectedArea.bottom(); ++y) {
+                if (originalRect.containsPoint(x, y)) {
+                    // Make sure we don't update the original entity
+                    continue;
+                }
+
+                const targetEntities = this.root.map.getLayersContentsMultipleXY(x, y);
+                for (let i = 0; i < targetEntities.length; ++i) {
+                    const targetEntity = targetEntities[i];
+
+                    const targetUndergroundBeltComp = targetEntity.components.UndergroundBelt;
+                    const targetStaticComp = targetEntity.components.StaticMapEntity;
+
+                    if (!targetUndergroundBeltComp || !(targetUndergroundBeltComp.tier == 2)) {
+                        // Not a smart tunnel
+                        continue;
+                    }
+
+                    const {
+                        rotation,
+                        rotationVariant,
+                    } = metaUndergroundBelt.computeOptimalDirectionAndRotationVariantAtTile({
+                        root: this.root,
+                        tile: new _core_vector__WEBPACK_IMPORTED_MODULE_2__["Vector"](x, y),
+                        rotation: targetStaticComp.originalRotation,
+                        variant: _buildings_underground_belt__WEBPACK_IMPORTED_MODULE_12__["enumUndergroundBeltVariants"].smart,
+                        layer: targetEntity.layer,
+                        entity: targetEntity
+                    });
+                    // Change stuff
+                    metaUndergroundBelt.updateVariants(targetEntity, rotationVariant, _buildings_underground_belt__WEBPACK_IMPORTED_MODULE_12__["enumUndergroundBeltVariants"].smart);
+
+                    // Update code as well
+                    targetStaticComp.code = Object(_building_codes__WEBPACK_IMPORTED_MODULE_6__["getCodeFromBuildingData"])(
+                        metaUndergroundBelt,
+                        _buildings_underground_belt__WEBPACK_IMPORTED_MODULE_12__["enumUndergroundBeltVariants"].smart,
+                        rotationVariant
+                    );
+
+                    // Make sure the chunks know about the update
+                    this.root.signals.entityChanged.dispatch(targetEntity);
+                    
+                }
             }
         }
     }
@@ -63138,7 +63712,7 @@ class UndergroundBeltSystem extends _game_system_with_filter__WEBPACK_IMPORTED_M
         for (let i = 0; i < this.allEntities.length; ++i) {
             const entity = this.allEntities[i];
             const undergroundComp = entity.components.UndergroundBelt;
-            if (undergroundComp.mode === _components_underground_belt__WEBPACK_IMPORTED_MODULE_7__["enumUndergroundBeltMode"].sender) {
+            if (undergroundComp.mode === _components_underground_belt__WEBPACK_IMPORTED_MODULE_9__["enumUndergroundBeltMode"].sender) {
                 this.handleSender(entity);
             } else {
                 this.handleReceiver(entity);
@@ -63154,9 +63728,9 @@ class UndergroundBeltSystem extends _game_system_with_filter__WEBPACK_IMPORTED_M
     findRecieverForSender(entity) {
         const staticComp = entity.components.StaticMapEntity;
         const undergroundComp = entity.components.UndergroundBelt;
-        const searchDirection = staticComp.localDirectionToWorld(_core_vector__WEBPACK_IMPORTED_MODULE_6__["enumDirection"].top);
-        const searchVector = _core_vector__WEBPACK_IMPORTED_MODULE_6__["enumDirectionToVector"][searchDirection];
-        const targetRotation = _core_vector__WEBPACK_IMPORTED_MODULE_6__["enumDirectionToAngle"][searchDirection];
+        const searchDirection = staticComp.localDirectionToWorld(_core_vector__WEBPACK_IMPORTED_MODULE_2__["enumDirection"].top);
+        const searchVector = _core_vector__WEBPACK_IMPORTED_MODULE_2__["enumDirectionToVector"][searchDirection];
+        const targetRotation = _core_vector__WEBPACK_IMPORTED_MODULE_2__["enumDirectionToAngle"][searchDirection];
         let currentTile = staticComp.origin;
 
         // Search in the direction of the tunnel
@@ -63184,7 +63758,7 @@ class UndergroundBeltSystem extends _game_system_with_filter__WEBPACK_IMPORTED_M
                 continue;
             }
 
-            if (receiverUndergroundComp.mode !== _components_underground_belt__WEBPACK_IMPORTED_MODULE_7__["enumUndergroundBeltMode"].receiver) {
+            if (receiverUndergroundComp.mode !== _components_underground_belt__WEBPACK_IMPORTED_MODULE_9__["enumUndergroundBeltMode"].receiver) {
                 // Not a receiver, but a sender -> Abort to make sure we don't deliver double
                 break;
             }
@@ -63230,7 +63804,7 @@ class UndergroundBeltSystem extends _game_system_with_filter__WEBPACK_IMPORTED_M
                 )
             ) {
                 // Drop this item
-                Object(_core_utils__WEBPACK_IMPORTED_MODULE_5__["fastArrayDelete"])(undergroundComp.pendingItems, 0);
+                Object(_core_utils__WEBPACK_IMPORTED_MODULE_8__["fastArrayDelete"])(undergroundComp.pendingItems, 0);
             }
         }
     }
@@ -65086,7 +65660,7 @@ if (window.coreThreadLoadedCb) {
 
 console.log(
     `%cshapez.io ️%c\n© 2020 Tobias Springer IT Solutions\nCommit %c${"de24d771"}%c on %c${new Date(
-        1610460263666
+        1610887464572
     ).toLocaleString()}\n`,
     "font-size: 35px; font-family: Arial;font-weight: bold; padding: 10px 0;",
     "color: #aaa",
@@ -74048,7 +74622,7 @@ class SettingsState extends _core_textual_game_state__WEBPACK_IMPORTED_MODULE_0_
 
     renderBuildText() {
         const labelVersion = this.htmlElement.querySelector(".buildVersion");
-        const lastBuildMs = new Date().getTime() - 1610460263666;
+        const lastBuildMs = new Date().getTime() - 1610887464572;
         const lastBuildText = Object(_core_utils__WEBPACK_IMPORTED_MODULE_1__["formatSecondsToTimeAgo"])(lastBuildMs / 1000.0);
 
         const version = _translations__WEBPACK_IMPORTED_MODULE_3__["T"].settings.versionBadges["dev"];
@@ -74317,7 +74891,7 @@ module.exports = function() {
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = function() {
-  return __webpack_require__(/*! !./node_modules/worker-loader/dist/workers/InlineWorker.js */ "./node_modules/worker-loader/dist/workers/InlineWorker.js")("/******/ (function(modules) { // webpackBootstrap\n/******/ \t// The module cache\n/******/ \tvar installedModules = {};\n/******/\n/******/ \t// The require function\n/******/ \tfunction __webpack_require__(moduleId) {\n/******/\n/******/ \t\t// Check if module is in cache\n/******/ \t\tif(installedModules[moduleId]) {\n/******/ \t\t\treturn installedModules[moduleId].exports;\n/******/ \t\t}\n/******/ \t\t// Create a new module (and put it into the cache)\n/******/ \t\tvar module = installedModules[moduleId] = {\n/******/ \t\t\ti: moduleId,\n/******/ \t\t\tl: false,\n/******/ \t\t\texports: {}\n/******/ \t\t};\n/******/\n/******/ \t\t// Execute the module function\n/******/ \t\tmodules[moduleId].call(module.exports, module, module.exports, __webpack_require__);\n/******/\n/******/ \t\t// Flag the module as loaded\n/******/ \t\tmodule.l = true;\n/******/\n/******/ \t\t// Return the exports of the module\n/******/ \t\treturn module.exports;\n/******/ \t}\n/******/\n/******/\n/******/ \t// expose the modules object (__webpack_modules__)\n/******/ \t__webpack_require__.m = modules;\n/******/\n/******/ \t// expose the module cache\n/******/ \t__webpack_require__.c = installedModules;\n/******/\n/******/ \t// define getter function for harmony exports\n/******/ \t__webpack_require__.d = function(exports, name, getter) {\n/******/ \t\tif(!__webpack_require__.o(exports, name)) {\n/******/ \t\t\tObject.defineProperty(exports, name, { enumerable: true, get: getter });\n/******/ \t\t}\n/******/ \t};\n/******/\n/******/ \t// define __esModule on exports\n/******/ \t__webpack_require__.r = function(exports) {\n/******/ \t\tif(typeof Symbol !== 'undefined' && Symbol.toStringTag) {\n/******/ \t\t\tObject.defineProperty(exports, Symbol.toStringTag, { value: 'Module' });\n/******/ \t\t}\n/******/ \t\tObject.defineProperty(exports, '__esModule', { value: true });\n/******/ \t};\n/******/\n/******/ \t// create a fake namespace object\n/******/ \t// mode & 1: value is a module id, require it\n/******/ \t// mode & 2: merge all properties of value into the ns\n/******/ \t// mode & 4: return value when already ns object\n/******/ \t// mode & 8|1: behave like require\n/******/ \t__webpack_require__.t = function(value, mode) {\n/******/ \t\tif(mode & 1) value = __webpack_require__(value);\n/******/ \t\tif(mode & 8) return value;\n/******/ \t\tif((mode & 4) && typeof value === 'object' && value && value.__esModule) return value;\n/******/ \t\tvar ns = Object.create(null);\n/******/ \t\t__webpack_require__.r(ns);\n/******/ \t\tObject.defineProperty(ns, 'default', { enumerable: true, value: value });\n/******/ \t\tif(mode & 2 && typeof value != 'string') for(var key in value) __webpack_require__.d(ns, key, function(key) { return value[key]; }.bind(null, key));\n/******/ \t\treturn ns;\n/******/ \t};\n/******/\n/******/ \t// getDefaultExport function for compatibility with non-harmony modules\n/******/ \t__webpack_require__.n = function(module) {\n/******/ \t\tvar getter = module && module.__esModule ?\n/******/ \t\t\tfunction getDefault() { return module['default']; } :\n/******/ \t\t\tfunction getModuleExports() { return module; };\n/******/ \t\t__webpack_require__.d(getter, 'a', getter);\n/******/ \t\treturn getter;\n/******/ \t};\n/******/\n/******/ \t// Object.prototype.hasOwnProperty.call\n/******/ \t__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };\n/******/\n/******/ \t// __webpack_public_path__\n/******/ \t__webpack_require__.p = \"\";\n/******/\n/******/\n/******/ \t// Load entry module and return exports\n/******/ \treturn __webpack_require__(__webpack_require__.s = \"./node_modules/webpack-strip-block/index.js?!./src/js/webworkers/compression.worker.js\");\n/******/ })\n/************************************************************************/\n/******/ ({\n\n/***/ \"./gulp/node_modules/base64-js/index.js\":\n/*!**********************************************!*\\\n  !*** ./gulp/node_modules/base64-js/index.js ***!\n  \\**********************************************/\n/*! no static exports found */\n/***/ (function(module, exports, __webpack_require__) {\n\n\"use strict\";\n\n\nexports.byteLength = byteLength\nexports.toByteArray = toByteArray\nexports.fromByteArray = fromByteArray\n\nvar lookup = []\nvar revLookup = []\nvar Arr = typeof Uint8Array !== 'undefined' ? Uint8Array : Array\n\nvar code = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'\nfor (var i = 0, len = code.length; i < len; ++i) {\n  lookup[i] = code[i]\n  revLookup[code.charCodeAt(i)] = i\n}\n\n// Support decoding URL-safe base64 strings, as Node.js does.\n// See: https://en.wikipedia.org/wiki/Base64#URL_applications\nrevLookup['-'.charCodeAt(0)] = 62\nrevLookup['_'.charCodeAt(0)] = 63\n\nfunction getLens (b64) {\n  var len = b64.length\n\n  if (len % 4 > 0) {\n    throw new Error('Invalid string. Length must be a multiple of 4')\n  }\n\n  // Trim off extra bytes after placeholder bytes are found\n  // See: https://github.com/beatgammit/base64-js/issues/42\n  var validLen = b64.indexOf('=')\n  if (validLen === -1) validLen = len\n\n  var placeHoldersLen = validLen === len\n    ? 0\n    : 4 - (validLen % 4)\n\n  return [validLen, placeHoldersLen]\n}\n\n// base64 is 4/3 + up to two characters of the original data\nfunction byteLength (b64) {\n  var lens = getLens(b64)\n  var validLen = lens[0]\n  var placeHoldersLen = lens[1]\n  return ((validLen + placeHoldersLen) * 3 / 4) - placeHoldersLen\n}\n\nfunction _byteLength (b64, validLen, placeHoldersLen) {\n  return ((validLen + placeHoldersLen) * 3 / 4) - placeHoldersLen\n}\n\nfunction toByteArray (b64) {\n  var tmp\n  var lens = getLens(b64)\n  var validLen = lens[0]\n  var placeHoldersLen = lens[1]\n\n  var arr = new Arr(_byteLength(b64, validLen, placeHoldersLen))\n\n  var curByte = 0\n\n  // if there are placeholders, only get up to the last complete 4 chars\n  var len = placeHoldersLen > 0\n    ? validLen - 4\n    : validLen\n\n  var i\n  for (i = 0; i < len; i += 4) {\n    tmp =\n      (revLookup[b64.charCodeAt(i)] << 18) |\n      (revLookup[b64.charCodeAt(i + 1)] << 12) |\n      (revLookup[b64.charCodeAt(i + 2)] << 6) |\n      revLookup[b64.charCodeAt(i + 3)]\n    arr[curByte++] = (tmp >> 16) & 0xFF\n    arr[curByte++] = (tmp >> 8) & 0xFF\n    arr[curByte++] = tmp & 0xFF\n  }\n\n  if (placeHoldersLen === 2) {\n    tmp =\n      (revLookup[b64.charCodeAt(i)] << 2) |\n      (revLookup[b64.charCodeAt(i + 1)] >> 4)\n    arr[curByte++] = tmp & 0xFF\n  }\n\n  if (placeHoldersLen === 1) {\n    tmp =\n      (revLookup[b64.charCodeAt(i)] << 10) |\n      (revLookup[b64.charCodeAt(i + 1)] << 4) |\n      (revLookup[b64.charCodeAt(i + 2)] >> 2)\n    arr[curByte++] = (tmp >> 8) & 0xFF\n    arr[curByte++] = tmp & 0xFF\n  }\n\n  return arr\n}\n\nfunction tripletToBase64 (num) {\n  return lookup[num >> 18 & 0x3F] +\n    lookup[num >> 12 & 0x3F] +\n    lookup[num >> 6 & 0x3F] +\n    lookup[num & 0x3F]\n}\n\nfunction encodeChunk (uint8, start, end) {\n  var tmp\n  var output = []\n  for (var i = start; i < end; i += 3) {\n    tmp =\n      ((uint8[i] << 16) & 0xFF0000) +\n      ((uint8[i + 1] << 8) & 0xFF00) +\n      (uint8[i + 2] & 0xFF)\n    output.push(tripletToBase64(tmp))\n  }\n  return output.join('')\n}\n\nfunction fromByteArray (uint8) {\n  var tmp\n  var len = uint8.length\n  var extraBytes = len % 3 // if we have 1 byte left, pad 2 bytes\n  var parts = []\n  var maxChunkLength = 16383 // must be multiple of 3\n\n  // go through the array every three bytes, we'll deal with trailing stuff later\n  for (var i = 0, len2 = len - extraBytes; i < len2; i += maxChunkLength) {\n    parts.push(encodeChunk(\n      uint8, i, (i + maxChunkLength) > len2 ? len2 : (i + maxChunkLength)\n    ))\n  }\n\n  // pad the end with zeros, but make sure to not forget the extra bytes\n  if (extraBytes === 1) {\n    tmp = uint8[len - 1]\n    parts.push(\n      lookup[tmp >> 2] +\n      lookup[(tmp << 4) & 0x3F] +\n      '=='\n    )\n  } else if (extraBytes === 2) {\n    tmp = (uint8[len - 2] << 8) + uint8[len - 1]\n    parts.push(\n      lookup[tmp >> 10] +\n      lookup[(tmp >> 4) & 0x3F] +\n      lookup[(tmp << 2) & 0x3F] +\n      '='\n    )\n  }\n\n  return parts.join('')\n}\n\n\n/***/ }),\n\n/***/ \"./gulp/node_modules/ieee754/index.js\":\n/*!********************************************!*\\\n  !*** ./gulp/node_modules/ieee754/index.js ***!\n  \\********************************************/\n/*! no static exports found */\n/***/ (function(module, exports) {\n\nexports.read = function (buffer, offset, isLE, mLen, nBytes) {\n  var e, m\n  var eLen = (nBytes * 8) - mLen - 1\n  var eMax = (1 << eLen) - 1\n  var eBias = eMax >> 1\n  var nBits = -7\n  var i = isLE ? (nBytes - 1) : 0\n  var d = isLE ? -1 : 1\n  var s = buffer[offset + i]\n\n  i += d\n\n  e = s & ((1 << (-nBits)) - 1)\n  s >>= (-nBits)\n  nBits += eLen\n  for (; nBits > 0; e = (e * 256) + buffer[offset + i], i += d, nBits -= 8) {}\n\n  m = e & ((1 << (-nBits)) - 1)\n  e >>= (-nBits)\n  nBits += mLen\n  for (; nBits > 0; m = (m * 256) + buffer[offset + i], i += d, nBits -= 8) {}\n\n  if (e === 0) {\n    e = 1 - eBias\n  } else if (e === eMax) {\n    return m ? NaN : ((s ? -1 : 1) * Infinity)\n  } else {\n    m = m + Math.pow(2, mLen)\n    e = e - eBias\n  }\n  return (s ? -1 : 1) * m * Math.pow(2, e - mLen)\n}\n\nexports.write = function (buffer, value, offset, isLE, mLen, nBytes) {\n  var e, m, c\n  var eLen = (nBytes * 8) - mLen - 1\n  var eMax = (1 << eLen) - 1\n  var eBias = eMax >> 1\n  var rt = (mLen === 23 ? Math.pow(2, -24) - Math.pow(2, -77) : 0)\n  var i = isLE ? 0 : (nBytes - 1)\n  var d = isLE ? 1 : -1\n  var s = value < 0 || (value === 0 && 1 / value < 0) ? 1 : 0\n\n  value = Math.abs(value)\n\n  if (isNaN(value) || value === Infinity) {\n    m = isNaN(value) ? 1 : 0\n    e = eMax\n  } else {\n    e = Math.floor(Math.log(value) / Math.LN2)\n    if (value * (c = Math.pow(2, -e)) < 1) {\n      e--\n      c *= 2\n    }\n    if (e + eBias >= 1) {\n      value += rt / c\n    } else {\n      value += rt * Math.pow(2, 1 - eBias)\n    }\n    if (value * c >= 2) {\n      e++\n      c /= 2\n    }\n\n    if (e + eBias >= eMax) {\n      m = 0\n      e = eMax\n    } else if (e + eBias >= 1) {\n      m = ((value * c) - 1) * Math.pow(2, mLen)\n      e = e + eBias\n    } else {\n      m = value * Math.pow(2, eBias - 1) * Math.pow(2, mLen)\n      e = 0\n    }\n  }\n\n  for (; mLen >= 8; buffer[offset + i] = m & 0xff, i += d, m /= 256, mLen -= 8) {}\n\n  e = (e << mLen) | m\n  eLen += mLen\n  for (; eLen > 0; buffer[offset + i] = e & 0xff, i += d, e /= 256, eLen -= 8) {}\n\n  buffer[offset + i - d] |= s * 128\n}\n\n\n/***/ }),\n\n/***/ \"./gulp/node_modules/isarray/index.js\":\n/*!********************************************!*\\\n  !*** ./gulp/node_modules/isarray/index.js ***!\n  \\********************************************/\n/*! no static exports found */\n/***/ (function(module, exports) {\n\nvar toString = {}.toString;\n\nmodule.exports = Array.isArray || function (arr) {\n  return toString.call(arr) == '[object Array]';\n};\n\n\n/***/ }),\n\n/***/ \"./gulp/node_modules/node-libs-browser/node_modules/buffer/index.js\":\n/*!**************************************************************************!*\\\n  !*** ./gulp/node_modules/node-libs-browser/node_modules/buffer/index.js ***!\n  \\**************************************************************************/\n/*! no static exports found */\n/***/ (function(module, exports, __webpack_require__) {\n\n\"use strict\";\n/* WEBPACK VAR INJECTION */(function(global) {/*!\n * The buffer module from node.js, for the browser.\n *\n * @author   Feross Aboukhadijeh <feross@feross.org> <http://feross.org>\n * @license  MIT\n */\n/* eslint-disable no-proto */\n\n\n\nvar base64 = __webpack_require__(/*! base64-js */ \"./gulp/node_modules/base64-js/index.js\")\nvar ieee754 = __webpack_require__(/*! ieee754 */ \"./gulp/node_modules/ieee754/index.js\")\nvar isArray = __webpack_require__(/*! isarray */ \"./gulp/node_modules/isarray/index.js\")\n\nexports.Buffer = Buffer\nexports.SlowBuffer = SlowBuffer\nexports.INSPECT_MAX_BYTES = 50\n\n/**\n * If `Buffer.TYPED_ARRAY_SUPPORT`:\n *   === true    Use Uint8Array implementation (fastest)\n *   === false   Use Object implementation (most compatible, even IE6)\n *\n * Browsers that support typed arrays are IE 10+, Firefox 4+, Chrome 7+, Safari 5.1+,\n * Opera 11.6+, iOS 4.2+.\n *\n * Due to various browser bugs, sometimes the Object implementation will be used even\n * when the browser supports typed arrays.\n *\n * Note:\n *\n *   - Firefox 4-29 lacks support for adding new properties to `Uint8Array` instances,\n *     See: https://bugzilla.mozilla.org/show_bug.cgi?id=695438.\n *\n *   - Chrome 9-10 is missing the `TypedArray.prototype.subarray` function.\n *\n *   - IE10 has a broken `TypedArray.prototype.subarray` function which returns arrays of\n *     incorrect length in some situations.\n\n * We detect these buggy browsers and set `Buffer.TYPED_ARRAY_SUPPORT` to `false` so they\n * get the Object implementation, which is slower but behaves correctly.\n */\nBuffer.TYPED_ARRAY_SUPPORT = global.TYPED_ARRAY_SUPPORT !== undefined\n  ? global.TYPED_ARRAY_SUPPORT\n  : typedArraySupport()\n\n/*\n * Export kMaxLength after typed array support is determined.\n */\nexports.kMaxLength = kMaxLength()\n\nfunction typedArraySupport () {\n  try {\n    var arr = new Uint8Array(1)\n    arr.__proto__ = {__proto__: Uint8Array.prototype, foo: function () { return 42 }}\n    return arr.foo() === 42 && // typed array instances can be augmented\n        typeof arr.subarray === 'function' && // chrome 9-10 lack `subarray`\n        arr.subarray(1, 1).byteLength === 0 // ie10 has broken `subarray`\n  } catch (e) {\n    return false\n  }\n}\n\nfunction kMaxLength () {\n  return Buffer.TYPED_ARRAY_SUPPORT\n    ? 0x7fffffff\n    : 0x3fffffff\n}\n\nfunction createBuffer (that, length) {\n  if (kMaxLength() < length) {\n    throw new RangeError('Invalid typed array length')\n  }\n  if (Buffer.TYPED_ARRAY_SUPPORT) {\n    // Return an augmented `Uint8Array` instance, for best performance\n    that = new Uint8Array(length)\n    that.__proto__ = Buffer.prototype\n  } else {\n    // Fallback: Return an object instance of the Buffer class\n    if (that === null) {\n      that = new Buffer(length)\n    }\n    that.length = length\n  }\n\n  return that\n}\n\n/**\n * The Buffer constructor returns instances of `Uint8Array` that have their\n * prototype changed to `Buffer.prototype`. Furthermore, `Buffer` is a subclass of\n * `Uint8Array`, so the returned instances will have all the node `Buffer` methods\n * and the `Uint8Array` methods. Square bracket notation works as expected -- it\n * returns a single octet.\n *\n * The `Uint8Array` prototype remains unmodified.\n */\n\nfunction Buffer (arg, encodingOrOffset, length) {\n  if (!Buffer.TYPED_ARRAY_SUPPORT && !(this instanceof Buffer)) {\n    return new Buffer(arg, encodingOrOffset, length)\n  }\n\n  // Common case.\n  if (typeof arg === 'number') {\n    if (typeof encodingOrOffset === 'string') {\n      throw new Error(\n        'If encoding is specified then the first argument must be a string'\n      )\n    }\n    return allocUnsafe(this, arg)\n  }\n  return from(this, arg, encodingOrOffset, length)\n}\n\nBuffer.poolSize = 8192 // not used by this implementation\n\n// TODO: Legacy, not needed anymore. Remove in next major version.\nBuffer._augment = function (arr) {\n  arr.__proto__ = Buffer.prototype\n  return arr\n}\n\nfunction from (that, value, encodingOrOffset, length) {\n  if (typeof value === 'number') {\n    throw new TypeError('\"value\" argument must not be a number')\n  }\n\n  if (typeof ArrayBuffer !== 'undefined' && value instanceof ArrayBuffer) {\n    return fromArrayBuffer(that, value, encodingOrOffset, length)\n  }\n\n  if (typeof value === 'string') {\n    return fromString(that, value, encodingOrOffset)\n  }\n\n  return fromObject(that, value)\n}\n\n/**\n * Functionally equivalent to Buffer(arg, encoding) but throws a TypeError\n * if value is a number.\n * Buffer.from(str[, encoding])\n * Buffer.from(array)\n * Buffer.from(buffer)\n * Buffer.from(arrayBuffer[, byteOffset[, length]])\n **/\nBuffer.from = function (value, encodingOrOffset, length) {\n  return from(null, value, encodingOrOffset, length)\n}\n\nif (Buffer.TYPED_ARRAY_SUPPORT) {\n  Buffer.prototype.__proto__ = Uint8Array.prototype\n  Buffer.__proto__ = Uint8Array\n  if (typeof Symbol !== 'undefined' && Symbol.species &&\n      Buffer[Symbol.species] === Buffer) {\n    // Fix subarray() in ES2016. See: https://github.com/feross/buffer/pull/97\n    Object.defineProperty(Buffer, Symbol.species, {\n      value: null,\n      configurable: true\n    })\n  }\n}\n\nfunction assertSize (size) {\n  if (typeof size !== 'number') {\n    throw new TypeError('\"size\" argument must be a number')\n  } else if (size < 0) {\n    throw new RangeError('\"size\" argument must not be negative')\n  }\n}\n\nfunction alloc (that, size, fill, encoding) {\n  assertSize(size)\n  if (size <= 0) {\n    return createBuffer(that, size)\n  }\n  if (fill !== undefined) {\n    // Only pay attention to encoding if it's a string. This\n    // prevents accidentally sending in a number that would\n    // be interpretted as a start offset.\n    return typeof encoding === 'string'\n      ? createBuffer(that, size).fill(fill, encoding)\n      : createBuffer(that, size).fill(fill)\n  }\n  return createBuffer(that, size)\n}\n\n/**\n * Creates a new filled Buffer instance.\n * alloc(size[, fill[, encoding]])\n **/\nBuffer.alloc = function (size, fill, encoding) {\n  return alloc(null, size, fill, encoding)\n}\n\nfunction allocUnsafe (that, size) {\n  assertSize(size)\n  that = createBuffer(that, size < 0 ? 0 : checked(size) | 0)\n  if (!Buffer.TYPED_ARRAY_SUPPORT) {\n    for (var i = 0; i < size; ++i) {\n      that[i] = 0\n    }\n  }\n  return that\n}\n\n/**\n * Equivalent to Buffer(num), by default creates a non-zero-filled Buffer instance.\n * */\nBuffer.allocUnsafe = function (size) {\n  return allocUnsafe(null, size)\n}\n/**\n * Equivalent to SlowBuffer(num), by default creates a non-zero-filled Buffer instance.\n */\nBuffer.allocUnsafeSlow = function (size) {\n  return allocUnsafe(null, size)\n}\n\nfunction fromString (that, string, encoding) {\n  if (typeof encoding !== 'string' || encoding === '') {\n    encoding = 'utf8'\n  }\n\n  if (!Buffer.isEncoding(encoding)) {\n    throw new TypeError('\"encoding\" must be a valid string encoding')\n  }\n\n  var length = byteLength(string, encoding) | 0\n  that = createBuffer(that, length)\n\n  var actual = that.write(string, encoding)\n\n  if (actual !== length) {\n    // Writing a hex string, for example, that contains invalid characters will\n    // cause everything after the first invalid character to be ignored. (e.g.\n    // 'abxxcd' will be treated as 'ab')\n    that = that.slice(0, actual)\n  }\n\n  return that\n}\n\nfunction fromArrayLike (that, array) {\n  var length = array.length < 0 ? 0 : checked(array.length) | 0\n  that = createBuffer(that, length)\n  for (var i = 0; i < length; i += 1) {\n    that[i] = array[i] & 255\n  }\n  return that\n}\n\nfunction fromArrayBuffer (that, array, byteOffset, length) {\n  array.byteLength // this throws if `array` is not a valid ArrayBuffer\n\n  if (byteOffset < 0 || array.byteLength < byteOffset) {\n    throw new RangeError('\\'offset\\' is out of bounds')\n  }\n\n  if (array.byteLength < byteOffset + (length || 0)) {\n    throw new RangeError('\\'length\\' is out of bounds')\n  }\n\n  if (byteOffset === undefined && length === undefined) {\n    array = new Uint8Array(array)\n  } else if (length === undefined) {\n    array = new Uint8Array(array, byteOffset)\n  } else {\n    array = new Uint8Array(array, byteOffset, length)\n  }\n\n  if (Buffer.TYPED_ARRAY_SUPPORT) {\n    // Return an augmented `Uint8Array` instance, for best performance\n    that = array\n    that.__proto__ = Buffer.prototype\n  } else {\n    // Fallback: Return an object instance of the Buffer class\n    that = fromArrayLike(that, array)\n  }\n  return that\n}\n\nfunction fromObject (that, obj) {\n  if (Buffer.isBuffer(obj)) {\n    var len = checked(obj.length) | 0\n    that = createBuffer(that, len)\n\n    if (that.length === 0) {\n      return that\n    }\n\n    obj.copy(that, 0, 0, len)\n    return that\n  }\n\n  if (obj) {\n    if ((typeof ArrayBuffer !== 'undefined' &&\n        obj.buffer instanceof ArrayBuffer) || 'length' in obj) {\n      if (typeof obj.length !== 'number' || isnan(obj.length)) {\n        return createBuffer(that, 0)\n      }\n      return fromArrayLike(that, obj)\n    }\n\n    if (obj.type === 'Buffer' && isArray(obj.data)) {\n      return fromArrayLike(that, obj.data)\n    }\n  }\n\n  throw new TypeError('First argument must be a string, Buffer, ArrayBuffer, Array, or array-like object.')\n}\n\nfunction checked (length) {\n  // Note: cannot use `length < kMaxLength()` here because that fails when\n  // length is NaN (which is otherwise coerced to zero.)\n  if (length >= kMaxLength()) {\n    throw new RangeError('Attempt to allocate Buffer larger than maximum ' +\n                         'size: 0x' + kMaxLength().toString(16) + ' bytes')\n  }\n  return length | 0\n}\n\nfunction SlowBuffer (length) {\n  if (+length != length) { // eslint-disable-line eqeqeq\n    length = 0\n  }\n  return Buffer.alloc(+length)\n}\n\nBuffer.isBuffer = function isBuffer (b) {\n  return !!(b != null && b._isBuffer)\n}\n\nBuffer.compare = function compare (a, b) {\n  if (!Buffer.isBuffer(a) || !Buffer.isBuffer(b)) {\n    throw new TypeError('Arguments must be Buffers')\n  }\n\n  if (a === b) return 0\n\n  var x = a.length\n  var y = b.length\n\n  for (var i = 0, len = Math.min(x, y); i < len; ++i) {\n    if (a[i] !== b[i]) {\n      x = a[i]\n      y = b[i]\n      break\n    }\n  }\n\n  if (x < y) return -1\n  if (y < x) return 1\n  return 0\n}\n\nBuffer.isEncoding = function isEncoding (encoding) {\n  switch (String(encoding).toLowerCase()) {\n    case 'hex':\n    case 'utf8':\n    case 'utf-8':\n    case 'ascii':\n    case 'latin1':\n    case 'binary':\n    case 'base64':\n    case 'ucs2':\n    case 'ucs-2':\n    case 'utf16le':\n    case 'utf-16le':\n      return true\n    default:\n      return false\n  }\n}\n\nBuffer.concat = function concat (list, length) {\n  if (!isArray(list)) {\n    throw new TypeError('\"list\" argument must be an Array of Buffers')\n  }\n\n  if (list.length === 0) {\n    return Buffer.alloc(0)\n  }\n\n  var i\n  if (length === undefined) {\n    length = 0\n    for (i = 0; i < list.length; ++i) {\n      length += list[i].length\n    }\n  }\n\n  var buffer = Buffer.allocUnsafe(length)\n  var pos = 0\n  for (i = 0; i < list.length; ++i) {\n    var buf = list[i]\n    if (!Buffer.isBuffer(buf)) {\n      throw new TypeError('\"list\" argument must be an Array of Buffers')\n    }\n    buf.copy(buffer, pos)\n    pos += buf.length\n  }\n  return buffer\n}\n\nfunction byteLength (string, encoding) {\n  if (Buffer.isBuffer(string)) {\n    return string.length\n  }\n  if (typeof ArrayBuffer !== 'undefined' && typeof ArrayBuffer.isView === 'function' &&\n      (ArrayBuffer.isView(string) || string instanceof ArrayBuffer)) {\n    return string.byteLength\n  }\n  if (typeof string !== 'string') {\n    string = '' + string\n  }\n\n  var len = string.length\n  if (len === 0) return 0\n\n  // Use a for loop to avoid recursion\n  var loweredCase = false\n  for (;;) {\n    switch (encoding) {\n      case 'ascii':\n      case 'latin1':\n      case 'binary':\n        return len\n      case 'utf8':\n      case 'utf-8':\n      case undefined:\n        return utf8ToBytes(string).length\n      case 'ucs2':\n      case 'ucs-2':\n      case 'utf16le':\n      case 'utf-16le':\n        return len * 2\n      case 'hex':\n        return len >>> 1\n      case 'base64':\n        return base64ToBytes(string).length\n      default:\n        if (loweredCase) return utf8ToBytes(string).length // assume utf8\n        encoding = ('' + encoding).toLowerCase()\n        loweredCase = true\n    }\n  }\n}\nBuffer.byteLength = byteLength\n\nfunction slowToString (encoding, start, end) {\n  var loweredCase = false\n\n  // No need to verify that \"this.length <= MAX_UINT32\" since it's a read-only\n  // property of a typed array.\n\n  // This behaves neither like String nor Uint8Array in that we set start/end\n  // to their upper/lower bounds if the value passed is out of range.\n  // undefined is handled specially as per ECMA-262 6th Edition,\n  // Section 13.3.3.7 Runtime Semantics: KeyedBindingInitialization.\n  if (start === undefined || start < 0) {\n    start = 0\n  }\n  // Return early if start > this.length. Done here to prevent potential uint32\n  // coercion fail below.\n  if (start > this.length) {\n    return ''\n  }\n\n  if (end === undefined || end > this.length) {\n    end = this.length\n  }\n\n  if (end <= 0) {\n    return ''\n  }\n\n  // Force coersion to uint32. This will also coerce falsey/NaN values to 0.\n  end >>>= 0\n  start >>>= 0\n\n  if (end <= start) {\n    return ''\n  }\n\n  if (!encoding) encoding = 'utf8'\n\n  while (true) {\n    switch (encoding) {\n      case 'hex':\n        return hexSlice(this, start, end)\n\n      case 'utf8':\n      case 'utf-8':\n        return utf8Slice(this, start, end)\n\n      case 'ascii':\n        return asciiSlice(this, start, end)\n\n      case 'latin1':\n      case 'binary':\n        return latin1Slice(this, start, end)\n\n      case 'base64':\n        return base64Slice(this, start, end)\n\n      case 'ucs2':\n      case 'ucs-2':\n      case 'utf16le':\n      case 'utf-16le':\n        return utf16leSlice(this, start, end)\n\n      default:\n        if (loweredCase) throw new TypeError('Unknown encoding: ' + encoding)\n        encoding = (encoding + '').toLowerCase()\n        loweredCase = true\n    }\n  }\n}\n\n// The property is used by `Buffer.isBuffer` and `is-buffer` (in Safari 5-7) to detect\n// Buffer instances.\nBuffer.prototype._isBuffer = true\n\nfunction swap (b, n, m) {\n  var i = b[n]\n  b[n] = b[m]\n  b[m] = i\n}\n\nBuffer.prototype.swap16 = function swap16 () {\n  var len = this.length\n  if (len % 2 !== 0) {\n    throw new RangeError('Buffer size must be a multiple of 16-bits')\n  }\n  for (var i = 0; i < len; i += 2) {\n    swap(this, i, i + 1)\n  }\n  return this\n}\n\nBuffer.prototype.swap32 = function swap32 () {\n  var len = this.length\n  if (len % 4 !== 0) {\n    throw new RangeError('Buffer size must be a multiple of 32-bits')\n  }\n  for (var i = 0; i < len; i += 4) {\n    swap(this, i, i + 3)\n    swap(this, i + 1, i + 2)\n  }\n  return this\n}\n\nBuffer.prototype.swap64 = function swap64 () {\n  var len = this.length\n  if (len % 8 !== 0) {\n    throw new RangeError('Buffer size must be a multiple of 64-bits')\n  }\n  for (var i = 0; i < len; i += 8) {\n    swap(this, i, i + 7)\n    swap(this, i + 1, i + 6)\n    swap(this, i + 2, i + 5)\n    swap(this, i + 3, i + 4)\n  }\n  return this\n}\n\nBuffer.prototype.toString = function toString () {\n  var length = this.length | 0\n  if (length === 0) return ''\n  if (arguments.length === 0) return utf8Slice(this, 0, length)\n  return slowToString.apply(this, arguments)\n}\n\nBuffer.prototype.equals = function equals (b) {\n  if (!Buffer.isBuffer(b)) throw new TypeError('Argument must be a Buffer')\n  if (this === b) return true\n  return Buffer.compare(this, b) === 0\n}\n\nBuffer.prototype.inspect = function inspect () {\n  var str = ''\n  var max = exports.INSPECT_MAX_BYTES\n  if (this.length > 0) {\n    str = this.toString('hex', 0, max).match(/.{2}/g).join(' ')\n    if (this.length > max) str += ' ... '\n  }\n  return '<Buffer ' + str + '>'\n}\n\nBuffer.prototype.compare = function compare (target, start, end, thisStart, thisEnd) {\n  if (!Buffer.isBuffer(target)) {\n    throw new TypeError('Argument must be a Buffer')\n  }\n\n  if (start === undefined) {\n    start = 0\n  }\n  if (end === undefined) {\n    end = target ? target.length : 0\n  }\n  if (thisStart === undefined) {\n    thisStart = 0\n  }\n  if (thisEnd === undefined) {\n    thisEnd = this.length\n  }\n\n  if (start < 0 || end > target.length || thisStart < 0 || thisEnd > this.length) {\n    throw new RangeError('out of range index')\n  }\n\n  if (thisStart >= thisEnd && start >= end) {\n    return 0\n  }\n  if (thisStart >= thisEnd) {\n    return -1\n  }\n  if (start >= end) {\n    return 1\n  }\n\n  start >>>= 0\n  end >>>= 0\n  thisStart >>>= 0\n  thisEnd >>>= 0\n\n  if (this === target) return 0\n\n  var x = thisEnd - thisStart\n  var y = end - start\n  var len = Math.min(x, y)\n\n  var thisCopy = this.slice(thisStart, thisEnd)\n  var targetCopy = target.slice(start, end)\n\n  for (var i = 0; i < len; ++i) {\n    if (thisCopy[i] !== targetCopy[i]) {\n      x = thisCopy[i]\n      y = targetCopy[i]\n      break\n    }\n  }\n\n  if (x < y) return -1\n  if (y < x) return 1\n  return 0\n}\n\n// Finds either the first index of `val` in `buffer` at offset >= `byteOffset`,\n// OR the last index of `val` in `buffer` at offset <= `byteOffset`.\n//\n// Arguments:\n// - buffer - a Buffer to search\n// - val - a string, Buffer, or number\n// - byteOffset - an index into `buffer`; will be clamped to an int32\n// - encoding - an optional encoding, relevant is val is a string\n// - dir - true for indexOf, false for lastIndexOf\nfunction bidirectionalIndexOf (buffer, val, byteOffset, encoding, dir) {\n  // Empty buffer means no match\n  if (buffer.length === 0) return -1\n\n  // Normalize byteOffset\n  if (typeof byteOffset === 'string') {\n    encoding = byteOffset\n    byteOffset = 0\n  } else if (byteOffset > 0x7fffffff) {\n    byteOffset = 0x7fffffff\n  } else if (byteOffset < -0x80000000) {\n    byteOffset = -0x80000000\n  }\n  byteOffset = +byteOffset  // Coerce to Number.\n  if (isNaN(byteOffset)) {\n    // byteOffset: it it's undefined, null, NaN, \"foo\", etc, search whole buffer\n    byteOffset = dir ? 0 : (buffer.length - 1)\n  }\n\n  // Normalize byteOffset: negative offsets start from the end of the buffer\n  if (byteOffset < 0) byteOffset = buffer.length + byteOffset\n  if (byteOffset >= buffer.length) {\n    if (dir) return -1\n    else byteOffset = buffer.length - 1\n  } else if (byteOffset < 0) {\n    if (dir) byteOffset = 0\n    else return -1\n  }\n\n  // Normalize val\n  if (typeof val === 'string') {\n    val = Buffer.from(val, encoding)\n  }\n\n  // Finally, search either indexOf (if dir is true) or lastIndexOf\n  if (Buffer.isBuffer(val)) {\n    // Special case: looking for empty string/buffer always fails\n    if (val.length === 0) {\n      return -1\n    }\n    return arrayIndexOf(buffer, val, byteOffset, encoding, dir)\n  } else if (typeof val === 'number') {\n    val = val & 0xFF // Search for a byte value [0-255]\n    if (Buffer.TYPED_ARRAY_SUPPORT &&\n        typeof Uint8Array.prototype.indexOf === 'function') {\n      if (dir) {\n        return Uint8Array.prototype.indexOf.call(buffer, val, byteOffset)\n      } else {\n        return Uint8Array.prototype.lastIndexOf.call(buffer, val, byteOffset)\n      }\n    }\n    return arrayIndexOf(buffer, [ val ], byteOffset, encoding, dir)\n  }\n\n  throw new TypeError('val must be string, number or Buffer')\n}\n\nfunction arrayIndexOf (arr, val, byteOffset, encoding, dir) {\n  var indexSize = 1\n  var arrLength = arr.length\n  var valLength = val.length\n\n  if (encoding !== undefined) {\n    encoding = String(encoding).toLowerCase()\n    if (encoding === 'ucs2' || encoding === 'ucs-2' ||\n        encoding === 'utf16le' || encoding === 'utf-16le') {\n      if (arr.length < 2 || val.length < 2) {\n        return -1\n      }\n      indexSize = 2\n      arrLength /= 2\n      valLength /= 2\n      byteOffset /= 2\n    }\n  }\n\n  function read (buf, i) {\n    if (indexSize === 1) {\n      return buf[i]\n    } else {\n      return buf.readUInt16BE(i * indexSize)\n    }\n  }\n\n  var i\n  if (dir) {\n    var foundIndex = -1\n    for (i = byteOffset; i < arrLength; i++) {\n      if (read(arr, i) === read(val, foundIndex === -1 ? 0 : i - foundIndex)) {\n        if (foundIndex === -1) foundIndex = i\n        if (i - foundIndex + 1 === valLength) return foundIndex * indexSize\n      } else {\n        if (foundIndex !== -1) i -= i - foundIndex\n        foundIndex = -1\n      }\n    }\n  } else {\n    if (byteOffset + valLength > arrLength) byteOffset = arrLength - valLength\n    for (i = byteOffset; i >= 0; i--) {\n      var found = true\n      for (var j = 0; j < valLength; j++) {\n        if (read(arr, i + j) !== read(val, j)) {\n          found = false\n          break\n        }\n      }\n      if (found) return i\n    }\n  }\n\n  return -1\n}\n\nBuffer.prototype.includes = function includes (val, byteOffset, encoding) {\n  return this.indexOf(val, byteOffset, encoding) !== -1\n}\n\nBuffer.prototype.indexOf = function indexOf (val, byteOffset, encoding) {\n  return bidirectionalIndexOf(this, val, byteOffset, encoding, true)\n}\n\nBuffer.prototype.lastIndexOf = function lastIndexOf (val, byteOffset, encoding) {\n  return bidirectionalIndexOf(this, val, byteOffset, encoding, false)\n}\n\nfunction hexWrite (buf, string, offset, length) {\n  offset = Number(offset) || 0\n  var remaining = buf.length - offset\n  if (!length) {\n    length = remaining\n  } else {\n    length = Number(length)\n    if (length > remaining) {\n      length = remaining\n    }\n  }\n\n  // must be an even number of digits\n  var strLen = string.length\n  if (strLen % 2 !== 0) throw new TypeError('Invalid hex string')\n\n  if (length > strLen / 2) {\n    length = strLen / 2\n  }\n  for (var i = 0; i < length; ++i) {\n    var parsed = parseInt(string.substr(i * 2, 2), 16)\n    if (isNaN(parsed)) return i\n    buf[offset + i] = parsed\n  }\n  return i\n}\n\nfunction utf8Write (buf, string, offset, length) {\n  return blitBuffer(utf8ToBytes(string, buf.length - offset), buf, offset, length)\n}\n\nfunction asciiWrite (buf, string, offset, length) {\n  return blitBuffer(asciiToBytes(string), buf, offset, length)\n}\n\nfunction latin1Write (buf, string, offset, length) {\n  return asciiWrite(buf, string, offset, length)\n}\n\nfunction base64Write (buf, string, offset, length) {\n  return blitBuffer(base64ToBytes(string), buf, offset, length)\n}\n\nfunction ucs2Write (buf, string, offset, length) {\n  return blitBuffer(utf16leToBytes(string, buf.length - offset), buf, offset, length)\n}\n\nBuffer.prototype.write = function write (string, offset, length, encoding) {\n  // Buffer#write(string)\n  if (offset === undefined) {\n    encoding = 'utf8'\n    length = this.length\n    offset = 0\n  // Buffer#write(string, encoding)\n  } else if (length === undefined && typeof offset === 'string') {\n    encoding = offset\n    length = this.length\n    offset = 0\n  // Buffer#write(string, offset[, length][, encoding])\n  } else if (isFinite(offset)) {\n    offset = offset | 0\n    if (isFinite(length)) {\n      length = length | 0\n      if (encoding === undefined) encoding = 'utf8'\n    } else {\n      encoding = length\n      length = undefined\n    }\n  // legacy write(string, encoding, offset, length) - remove in v0.13\n  } else {\n    throw new Error(\n      'Buffer.write(string, encoding, offset[, length]) is no longer supported'\n    )\n  }\n\n  var remaining = this.length - offset\n  if (length === undefined || length > remaining) length = remaining\n\n  if ((string.length > 0 && (length < 0 || offset < 0)) || offset > this.length) {\n    throw new RangeError('Attempt to write outside buffer bounds')\n  }\n\n  if (!encoding) encoding = 'utf8'\n\n  var loweredCase = false\n  for (;;) {\n    switch (encoding) {\n      case 'hex':\n        return hexWrite(this, string, offset, length)\n\n      case 'utf8':\n      case 'utf-8':\n        return utf8Write(this, string, offset, length)\n\n      case 'ascii':\n        return asciiWrite(this, string, offset, length)\n\n      case 'latin1':\n      case 'binary':\n        return latin1Write(this, string, offset, length)\n\n      case 'base64':\n        // Warning: maxLength not taken into account in base64Write\n        return base64Write(this, string, offset, length)\n\n      case 'ucs2':\n      case 'ucs-2':\n      case 'utf16le':\n      case 'utf-16le':\n        return ucs2Write(this, string, offset, length)\n\n      default:\n        if (loweredCase) throw new TypeError('Unknown encoding: ' + encoding)\n        encoding = ('' + encoding).toLowerCase()\n        loweredCase = true\n    }\n  }\n}\n\nBuffer.prototype.toJSON = function toJSON () {\n  return {\n    type: 'Buffer',\n    data: Array.prototype.slice.call(this._arr || this, 0)\n  }\n}\n\nfunction base64Slice (buf, start, end) {\n  if (start === 0 && end === buf.length) {\n    return base64.fromByteArray(buf)\n  } else {\n    return base64.fromByteArray(buf.slice(start, end))\n  }\n}\n\nfunction utf8Slice (buf, start, end) {\n  end = Math.min(buf.length, end)\n  var res = []\n\n  var i = start\n  while (i < end) {\n    var firstByte = buf[i]\n    var codePoint = null\n    var bytesPerSequence = (firstByte > 0xEF) ? 4\n      : (firstByte > 0xDF) ? 3\n      : (firstByte > 0xBF) ? 2\n      : 1\n\n    if (i + bytesPerSequence <= end) {\n      var secondByte, thirdByte, fourthByte, tempCodePoint\n\n      switch (bytesPerSequence) {\n        case 1:\n          if (firstByte < 0x80) {\n            codePoint = firstByte\n          }\n          break\n        case 2:\n          secondByte = buf[i + 1]\n          if ((secondByte & 0xC0) === 0x80) {\n            tempCodePoint = (firstByte & 0x1F) << 0x6 | (secondByte & 0x3F)\n            if (tempCodePoint > 0x7F) {\n              codePoint = tempCodePoint\n            }\n          }\n          break\n        case 3:\n          secondByte = buf[i + 1]\n          thirdByte = buf[i + 2]\n          if ((secondByte & 0xC0) === 0x80 && (thirdByte & 0xC0) === 0x80) {\n            tempCodePoint = (firstByte & 0xF) << 0xC | (secondByte & 0x3F) << 0x6 | (thirdByte & 0x3F)\n            if (tempCodePoint > 0x7FF && (tempCodePoint < 0xD800 || tempCodePoint > 0xDFFF)) {\n              codePoint = tempCodePoint\n            }\n          }\n          break\n        case 4:\n          secondByte = buf[i + 1]\n          thirdByte = buf[i + 2]\n          fourthByte = buf[i + 3]\n          if ((secondByte & 0xC0) === 0x80 && (thirdByte & 0xC0) === 0x80 && (fourthByte & 0xC0) === 0x80) {\n            tempCodePoint = (firstByte & 0xF) << 0x12 | (secondByte & 0x3F) << 0xC | (thirdByte & 0x3F) << 0x6 | (fourthByte & 0x3F)\n            if (tempCodePoint > 0xFFFF && tempCodePoint < 0x110000) {\n              codePoint = tempCodePoint\n            }\n          }\n      }\n    }\n\n    if (codePoint === null) {\n      // we did not generate a valid codePoint so insert a\n      // replacement char (U+FFFD) and advance only 1 byte\n      codePoint = 0xFFFD\n      bytesPerSequence = 1\n    } else if (codePoint > 0xFFFF) {\n      // encode to utf16 (surrogate pair dance)\n      codePoint -= 0x10000\n      res.push(codePoint >>> 10 & 0x3FF | 0xD800)\n      codePoint = 0xDC00 | codePoint & 0x3FF\n    }\n\n    res.push(codePoint)\n    i += bytesPerSequence\n  }\n\n  return decodeCodePointsArray(res)\n}\n\n// Based on http://stackoverflow.com/a/22747272/680742, the browser with\n// the lowest limit is Chrome, with 0x10000 args.\n// We go 1 magnitude less, for safety\nvar MAX_ARGUMENTS_LENGTH = 0x1000\n\nfunction decodeCodePointsArray (codePoints) {\n  var len = codePoints.length\n  if (len <= MAX_ARGUMENTS_LENGTH) {\n    return String.fromCharCode.apply(String, codePoints) // avoid extra slice()\n  }\n\n  // Decode in chunks to avoid \"call stack size exceeded\".\n  var res = ''\n  var i = 0\n  while (i < len) {\n    res += String.fromCharCode.apply(\n      String,\n      codePoints.slice(i, i += MAX_ARGUMENTS_LENGTH)\n    )\n  }\n  return res\n}\n\nfunction asciiSlice (buf, start, end) {\n  var ret = ''\n  end = Math.min(buf.length, end)\n\n  for (var i = start; i < end; ++i) {\n    ret += String.fromCharCode(buf[i] & 0x7F)\n  }\n  return ret\n}\n\nfunction latin1Slice (buf, start, end) {\n  var ret = ''\n  end = Math.min(buf.length, end)\n\n  for (var i = start; i < end; ++i) {\n    ret += String.fromCharCode(buf[i])\n  }\n  return ret\n}\n\nfunction hexSlice (buf, start, end) {\n  var len = buf.length\n\n  if (!start || start < 0) start = 0\n  if (!end || end < 0 || end > len) end = len\n\n  var out = ''\n  for (var i = start; i < end; ++i) {\n    out += toHex(buf[i])\n  }\n  return out\n}\n\nfunction utf16leSlice (buf, start, end) {\n  var bytes = buf.slice(start, end)\n  var res = ''\n  for (var i = 0; i < bytes.length; i += 2) {\n    res += String.fromCharCode(bytes[i] + bytes[i + 1] * 256)\n  }\n  return res\n}\n\nBuffer.prototype.slice = function slice (start, end) {\n  var len = this.length\n  start = ~~start\n  end = end === undefined ? len : ~~end\n\n  if (start < 0) {\n    start += len\n    if (start < 0) start = 0\n  } else if (start > len) {\n    start = len\n  }\n\n  if (end < 0) {\n    end += len\n    if (end < 0) end = 0\n  } else if (end > len) {\n    end = len\n  }\n\n  if (end < start) end = start\n\n  var newBuf\n  if (Buffer.TYPED_ARRAY_SUPPORT) {\n    newBuf = this.subarray(start, end)\n    newBuf.__proto__ = Buffer.prototype\n  } else {\n    var sliceLen = end - start\n    newBuf = new Buffer(sliceLen, undefined)\n    for (var i = 0; i < sliceLen; ++i) {\n      newBuf[i] = this[i + start]\n    }\n  }\n\n  return newBuf\n}\n\n/*\n * Need to make sure that buffer isn't trying to write out of bounds.\n */\nfunction checkOffset (offset, ext, length) {\n  if ((offset % 1) !== 0 || offset < 0) throw new RangeError('offset is not uint')\n  if (offset + ext > length) throw new RangeError('Trying to access beyond buffer length')\n}\n\nBuffer.prototype.readUIntLE = function readUIntLE (offset, byteLength, noAssert) {\n  offset = offset | 0\n  byteLength = byteLength | 0\n  if (!noAssert) checkOffset(offset, byteLength, this.length)\n\n  var val = this[offset]\n  var mul = 1\n  var i = 0\n  while (++i < byteLength && (mul *= 0x100)) {\n    val += this[offset + i] * mul\n  }\n\n  return val\n}\n\nBuffer.prototype.readUIntBE = function readUIntBE (offset, byteLength, noAssert) {\n  offset = offset | 0\n  byteLength = byteLength | 0\n  if (!noAssert) {\n    checkOffset(offset, byteLength, this.length)\n  }\n\n  var val = this[offset + --byteLength]\n  var mul = 1\n  while (byteLength > 0 && (mul *= 0x100)) {\n    val += this[offset + --byteLength] * mul\n  }\n\n  return val\n}\n\nBuffer.prototype.readUInt8 = function readUInt8 (offset, noAssert) {\n  if (!noAssert) checkOffset(offset, 1, this.length)\n  return this[offset]\n}\n\nBuffer.prototype.readUInt16LE = function readUInt16LE (offset, noAssert) {\n  if (!noAssert) checkOffset(offset, 2, this.length)\n  return this[offset] | (this[offset + 1] << 8)\n}\n\nBuffer.prototype.readUInt16BE = function readUInt16BE (offset, noAssert) {\n  if (!noAssert) checkOffset(offset, 2, this.length)\n  return (this[offset] << 8) | this[offset + 1]\n}\n\nBuffer.prototype.readUInt32LE = function readUInt32LE (offset, noAssert) {\n  if (!noAssert) checkOffset(offset, 4, this.length)\n\n  return ((this[offset]) |\n      (this[offset + 1] << 8) |\n      (this[offset + 2] << 16)) +\n      (this[offset + 3] * 0x1000000)\n}\n\nBuffer.prototype.readUInt32BE = function readUInt32BE (offset, noAssert) {\n  if (!noAssert) checkOffset(offset, 4, this.length)\n\n  return (this[offset] * 0x1000000) +\n    ((this[offset + 1] << 16) |\n    (this[offset + 2] << 8) |\n    this[offset + 3])\n}\n\nBuffer.prototype.readIntLE = function readIntLE (offset, byteLength, noAssert) {\n  offset = offset | 0\n  byteLength = byteLength | 0\n  if (!noAssert) checkOffset(offset, byteLength, this.length)\n\n  var val = this[offset]\n  var mul = 1\n  var i = 0\n  while (++i < byteLength && (mul *= 0x100)) {\n    val += this[offset + i] * mul\n  }\n  mul *= 0x80\n\n  if (val >= mul) val -= Math.pow(2, 8 * byteLength)\n\n  return val\n}\n\nBuffer.prototype.readIntBE = function readIntBE (offset, byteLength, noAssert) {\n  offset = offset | 0\n  byteLength = byteLength | 0\n  if (!noAssert) checkOffset(offset, byteLength, this.length)\n\n  var i = byteLength\n  var mul = 1\n  var val = this[offset + --i]\n  while (i > 0 && (mul *= 0x100)) {\n    val += this[offset + --i] * mul\n  }\n  mul *= 0x80\n\n  if (val >= mul) val -= Math.pow(2, 8 * byteLength)\n\n  return val\n}\n\nBuffer.prototype.readInt8 = function readInt8 (offset, noAssert) {\n  if (!noAssert) checkOffset(offset, 1, this.length)\n  if (!(this[offset] & 0x80)) return (this[offset])\n  return ((0xff - this[offset] + 1) * -1)\n}\n\nBuffer.prototype.readInt16LE = function readInt16LE (offset, noAssert) {\n  if (!noAssert) checkOffset(offset, 2, this.length)\n  var val = this[offset] | (this[offset + 1] << 8)\n  return (val & 0x8000) ? val | 0xFFFF0000 : val\n}\n\nBuffer.prototype.readInt16BE = function readInt16BE (offset, noAssert) {\n  if (!noAssert) checkOffset(offset, 2, this.length)\n  var val = this[offset + 1] | (this[offset] << 8)\n  return (val & 0x8000) ? val | 0xFFFF0000 : val\n}\n\nBuffer.prototype.readInt32LE = function readInt32LE (offset, noAssert) {\n  if (!noAssert) checkOffset(offset, 4, this.length)\n\n  return (this[offset]) |\n    (this[offset + 1] << 8) |\n    (this[offset + 2] << 16) |\n    (this[offset + 3] << 24)\n}\n\nBuffer.prototype.readInt32BE = function readInt32BE (offset, noAssert) {\n  if (!noAssert) checkOffset(offset, 4, this.length)\n\n  return (this[offset] << 24) |\n    (this[offset + 1] << 16) |\n    (this[offset + 2] << 8) |\n    (this[offset + 3])\n}\n\nBuffer.prototype.readFloatLE = function readFloatLE (offset, noAssert) {\n  if (!noAssert) checkOffset(offset, 4, this.length)\n  return ieee754.read(this, offset, true, 23, 4)\n}\n\nBuffer.prototype.readFloatBE = function readFloatBE (offset, noAssert) {\n  if (!noAssert) checkOffset(offset, 4, this.length)\n  return ieee754.read(this, offset, false, 23, 4)\n}\n\nBuffer.prototype.readDoubleLE = function readDoubleLE (offset, noAssert) {\n  if (!noAssert) checkOffset(offset, 8, this.length)\n  return ieee754.read(this, offset, true, 52, 8)\n}\n\nBuffer.prototype.readDoubleBE = function readDoubleBE (offset, noAssert) {\n  if (!noAssert) checkOffset(offset, 8, this.length)\n  return ieee754.read(this, offset, false, 52, 8)\n}\n\nfunction checkInt (buf, value, offset, ext, max, min) {\n  if (!Buffer.isBuffer(buf)) throw new TypeError('\"buffer\" argument must be a Buffer instance')\n  if (value > max || value < min) throw new RangeError('\"value\" argument is out of bounds')\n  if (offset + ext > buf.length) throw new RangeError('Index out of range')\n}\n\nBuffer.prototype.writeUIntLE = function writeUIntLE (value, offset, byteLength, noAssert) {\n  value = +value\n  offset = offset | 0\n  byteLength = byteLength | 0\n  if (!noAssert) {\n    var maxBytes = Math.pow(2, 8 * byteLength) - 1\n    checkInt(this, value, offset, byteLength, maxBytes, 0)\n  }\n\n  var mul = 1\n  var i = 0\n  this[offset] = value & 0xFF\n  while (++i < byteLength && (mul *= 0x100)) {\n    this[offset + i] = (value / mul) & 0xFF\n  }\n\n  return offset + byteLength\n}\n\nBuffer.prototype.writeUIntBE = function writeUIntBE (value, offset, byteLength, noAssert) {\n  value = +value\n  offset = offset | 0\n  byteLength = byteLength | 0\n  if (!noAssert) {\n    var maxBytes = Math.pow(2, 8 * byteLength) - 1\n    checkInt(this, value, offset, byteLength, maxBytes, 0)\n  }\n\n  var i = byteLength - 1\n  var mul = 1\n  this[offset + i] = value & 0xFF\n  while (--i >= 0 && (mul *= 0x100)) {\n    this[offset + i] = (value / mul) & 0xFF\n  }\n\n  return offset + byteLength\n}\n\nBuffer.prototype.writeUInt8 = function writeUInt8 (value, offset, noAssert) {\n  value = +value\n  offset = offset | 0\n  if (!noAssert) checkInt(this, value, offset, 1, 0xff, 0)\n  if (!Buffer.TYPED_ARRAY_SUPPORT) value = Math.floor(value)\n  this[offset] = (value & 0xff)\n  return offset + 1\n}\n\nfunction objectWriteUInt16 (buf, value, offset, littleEndian) {\n  if (value < 0) value = 0xffff + value + 1\n  for (var i = 0, j = Math.min(buf.length - offset, 2); i < j; ++i) {\n    buf[offset + i] = (value & (0xff << (8 * (littleEndian ? i : 1 - i)))) >>>\n      (littleEndian ? i : 1 - i) * 8\n  }\n}\n\nBuffer.prototype.writeUInt16LE = function writeUInt16LE (value, offset, noAssert) {\n  value = +value\n  offset = offset | 0\n  if (!noAssert) checkInt(this, value, offset, 2, 0xffff, 0)\n  if (Buffer.TYPED_ARRAY_SUPPORT) {\n    this[offset] = (value & 0xff)\n    this[offset + 1] = (value >>> 8)\n  } else {\n    objectWriteUInt16(this, value, offset, true)\n  }\n  return offset + 2\n}\n\nBuffer.prototype.writeUInt16BE = function writeUInt16BE (value, offset, noAssert) {\n  value = +value\n  offset = offset | 0\n  if (!noAssert) checkInt(this, value, offset, 2, 0xffff, 0)\n  if (Buffer.TYPED_ARRAY_SUPPORT) {\n    this[offset] = (value >>> 8)\n    this[offset + 1] = (value & 0xff)\n  } else {\n    objectWriteUInt16(this, value, offset, false)\n  }\n  return offset + 2\n}\n\nfunction objectWriteUInt32 (buf, value, offset, littleEndian) {\n  if (value < 0) value = 0xffffffff + value + 1\n  for (var i = 0, j = Math.min(buf.length - offset, 4); i < j; ++i) {\n    buf[offset + i] = (value >>> (littleEndian ? i : 3 - i) * 8) & 0xff\n  }\n}\n\nBuffer.prototype.writeUInt32LE = function writeUInt32LE (value, offset, noAssert) {\n  value = +value\n  offset = offset | 0\n  if (!noAssert) checkInt(this, value, offset, 4, 0xffffffff, 0)\n  if (Buffer.TYPED_ARRAY_SUPPORT) {\n    this[offset + 3] = (value >>> 24)\n    this[offset + 2] = (value >>> 16)\n    this[offset + 1] = (value >>> 8)\n    this[offset] = (value & 0xff)\n  } else {\n    objectWriteUInt32(this, value, offset, true)\n  }\n  return offset + 4\n}\n\nBuffer.prototype.writeUInt32BE = function writeUInt32BE (value, offset, noAssert) {\n  value = +value\n  offset = offset | 0\n  if (!noAssert) checkInt(this, value, offset, 4, 0xffffffff, 0)\n  if (Buffer.TYPED_ARRAY_SUPPORT) {\n    this[offset] = (value >>> 24)\n    this[offset + 1] = (value >>> 16)\n    this[offset + 2] = (value >>> 8)\n    this[offset + 3] = (value & 0xff)\n  } else {\n    objectWriteUInt32(this, value, offset, false)\n  }\n  return offset + 4\n}\n\nBuffer.prototype.writeIntLE = function writeIntLE (value, offset, byteLength, noAssert) {\n  value = +value\n  offset = offset | 0\n  if (!noAssert) {\n    var limit = Math.pow(2, 8 * byteLength - 1)\n\n    checkInt(this, value, offset, byteLength, limit - 1, -limit)\n  }\n\n  var i = 0\n  var mul = 1\n  var sub = 0\n  this[offset] = value & 0xFF\n  while (++i < byteLength && (mul *= 0x100)) {\n    if (value < 0 && sub === 0 && this[offset + i - 1] !== 0) {\n      sub = 1\n    }\n    this[offset + i] = ((value / mul) >> 0) - sub & 0xFF\n  }\n\n  return offset + byteLength\n}\n\nBuffer.prototype.writeIntBE = function writeIntBE (value, offset, byteLength, noAssert) {\n  value = +value\n  offset = offset | 0\n  if (!noAssert) {\n    var limit = Math.pow(2, 8 * byteLength - 1)\n\n    checkInt(this, value, offset, byteLength, limit - 1, -limit)\n  }\n\n  var i = byteLength - 1\n  var mul = 1\n  var sub = 0\n  this[offset + i] = value & 0xFF\n  while (--i >= 0 && (mul *= 0x100)) {\n    if (value < 0 && sub === 0 && this[offset + i + 1] !== 0) {\n      sub = 1\n    }\n    this[offset + i] = ((value / mul) >> 0) - sub & 0xFF\n  }\n\n  return offset + byteLength\n}\n\nBuffer.prototype.writeInt8 = function writeInt8 (value, offset, noAssert) {\n  value = +value\n  offset = offset | 0\n  if (!noAssert) checkInt(this, value, offset, 1, 0x7f, -0x80)\n  if (!Buffer.TYPED_ARRAY_SUPPORT) value = Math.floor(value)\n  if (value < 0) value = 0xff + value + 1\n  this[offset] = (value & 0xff)\n  return offset + 1\n}\n\nBuffer.prototype.writeInt16LE = function writeInt16LE (value, offset, noAssert) {\n  value = +value\n  offset = offset | 0\n  if (!noAssert) checkInt(this, value, offset, 2, 0x7fff, -0x8000)\n  if (Buffer.TYPED_ARRAY_SUPPORT) {\n    this[offset] = (value & 0xff)\n    this[offset + 1] = (value >>> 8)\n  } else {\n    objectWriteUInt16(this, value, offset, true)\n  }\n  return offset + 2\n}\n\nBuffer.prototype.writeInt16BE = function writeInt16BE (value, offset, noAssert) {\n  value = +value\n  offset = offset | 0\n  if (!noAssert) checkInt(this, value, offset, 2, 0x7fff, -0x8000)\n  if (Buffer.TYPED_ARRAY_SUPPORT) {\n    this[offset] = (value >>> 8)\n    this[offset + 1] = (value & 0xff)\n  } else {\n    objectWriteUInt16(this, value, offset, false)\n  }\n  return offset + 2\n}\n\nBuffer.prototype.writeInt32LE = function writeInt32LE (value, offset, noAssert) {\n  value = +value\n  offset = offset | 0\n  if (!noAssert) checkInt(this, value, offset, 4, 0x7fffffff, -0x80000000)\n  if (Buffer.TYPED_ARRAY_SUPPORT) {\n    this[offset] = (value & 0xff)\n    this[offset + 1] = (value >>> 8)\n    this[offset + 2] = (value >>> 16)\n    this[offset + 3] = (value >>> 24)\n  } else {\n    objectWriteUInt32(this, value, offset, true)\n  }\n  return offset + 4\n}\n\nBuffer.prototype.writeInt32BE = function writeInt32BE (value, offset, noAssert) {\n  value = +value\n  offset = offset | 0\n  if (!noAssert) checkInt(this, value, offset, 4, 0x7fffffff, -0x80000000)\n  if (value < 0) value = 0xffffffff + value + 1\n  if (Buffer.TYPED_ARRAY_SUPPORT) {\n    this[offset] = (value >>> 24)\n    this[offset + 1] = (value >>> 16)\n    this[offset + 2] = (value >>> 8)\n    this[offset + 3] = (value & 0xff)\n  } else {\n    objectWriteUInt32(this, value, offset, false)\n  }\n  return offset + 4\n}\n\nfunction checkIEEE754 (buf, value, offset, ext, max, min) {\n  if (offset + ext > buf.length) throw new RangeError('Index out of range')\n  if (offset < 0) throw new RangeError('Index out of range')\n}\n\nfunction writeFloat (buf, value, offset, littleEndian, noAssert) {\n  if (!noAssert) {\n    checkIEEE754(buf, value, offset, 4, 3.4028234663852886e+38, -3.4028234663852886e+38)\n  }\n  ieee754.write(buf, value, offset, littleEndian, 23, 4)\n  return offset + 4\n}\n\nBuffer.prototype.writeFloatLE = function writeFloatLE (value, offset, noAssert) {\n  return writeFloat(this, value, offset, true, noAssert)\n}\n\nBuffer.prototype.writeFloatBE = function writeFloatBE (value, offset, noAssert) {\n  return writeFloat(this, value, offset, false, noAssert)\n}\n\nfunction writeDouble (buf, value, offset, littleEndian, noAssert) {\n  if (!noAssert) {\n    checkIEEE754(buf, value, offset, 8, 1.7976931348623157E+308, -1.7976931348623157E+308)\n  }\n  ieee754.write(buf, value, offset, littleEndian, 52, 8)\n  return offset + 8\n}\n\nBuffer.prototype.writeDoubleLE = function writeDoubleLE (value, offset, noAssert) {\n  return writeDouble(this, value, offset, true, noAssert)\n}\n\nBuffer.prototype.writeDoubleBE = function writeDoubleBE (value, offset, noAssert) {\n  return writeDouble(this, value, offset, false, noAssert)\n}\n\n// copy(targetBuffer, targetStart=0, sourceStart=0, sourceEnd=buffer.length)\nBuffer.prototype.copy = function copy (target, targetStart, start, end) {\n  if (!start) start = 0\n  if (!end && end !== 0) end = this.length\n  if (targetStart >= target.length) targetStart = target.length\n  if (!targetStart) targetStart = 0\n  if (end > 0 && end < start) end = start\n\n  // Copy 0 bytes; we're done\n  if (end === start) return 0\n  if (target.length === 0 || this.length === 0) return 0\n\n  // Fatal error conditions\n  if (targetStart < 0) {\n    throw new RangeError('targetStart out of bounds')\n  }\n  if (start < 0 || start >= this.length) throw new RangeError('sourceStart out of bounds')\n  if (end < 0) throw new RangeError('sourceEnd out of bounds')\n\n  // Are we oob?\n  if (end > this.length) end = this.length\n  if (target.length - targetStart < end - start) {\n    end = target.length - targetStart + start\n  }\n\n  var len = end - start\n  var i\n\n  if (this === target && start < targetStart && targetStart < end) {\n    // descending copy from end\n    for (i = len - 1; i >= 0; --i) {\n      target[i + targetStart] = this[i + start]\n    }\n  } else if (len < 1000 || !Buffer.TYPED_ARRAY_SUPPORT) {\n    // ascending copy from start\n    for (i = 0; i < len; ++i) {\n      target[i + targetStart] = this[i + start]\n    }\n  } else {\n    Uint8Array.prototype.set.call(\n      target,\n      this.subarray(start, start + len),\n      targetStart\n    )\n  }\n\n  return len\n}\n\n// Usage:\n//    buffer.fill(number[, offset[, end]])\n//    buffer.fill(buffer[, offset[, end]])\n//    buffer.fill(string[, offset[, end]][, encoding])\nBuffer.prototype.fill = function fill (val, start, end, encoding) {\n  // Handle string cases:\n  if (typeof val === 'string') {\n    if (typeof start === 'string') {\n      encoding = start\n      start = 0\n      end = this.length\n    } else if (typeof end === 'string') {\n      encoding = end\n      end = this.length\n    }\n    if (val.length === 1) {\n      var code = val.charCodeAt(0)\n      if (code < 256) {\n        val = code\n      }\n    }\n    if (encoding !== undefined && typeof encoding !== 'string') {\n      throw new TypeError('encoding must be a string')\n    }\n    if (typeof encoding === 'string' && !Buffer.isEncoding(encoding)) {\n      throw new TypeError('Unknown encoding: ' + encoding)\n    }\n  } else if (typeof val === 'number') {\n    val = val & 255\n  }\n\n  // Invalid ranges are not set to a default, so can range check early.\n  if (start < 0 || this.length < start || this.length < end) {\n    throw new RangeError('Out of range index')\n  }\n\n  if (end <= start) {\n    return this\n  }\n\n  start = start >>> 0\n  end = end === undefined ? this.length : end >>> 0\n\n  if (!val) val = 0\n\n  var i\n  if (typeof val === 'number') {\n    for (i = start; i < end; ++i) {\n      this[i] = val\n    }\n  } else {\n    var bytes = Buffer.isBuffer(val)\n      ? val\n      : utf8ToBytes(new Buffer(val, encoding).toString())\n    var len = bytes.length\n    for (i = 0; i < end - start; ++i) {\n      this[i + start] = bytes[i % len]\n    }\n  }\n\n  return this\n}\n\n// HELPER FUNCTIONS\n// ================\n\nvar INVALID_BASE64_RE = /[^+\\/0-9A-Za-z-_]/g\n\nfunction base64clean (str) {\n  // Node strips out invalid characters like \\n and \\t from the string, base64-js does not\n  str = stringtrim(str).replace(INVALID_BASE64_RE, '')\n  // Node converts strings with length < 2 to ''\n  if (str.length < 2) return ''\n  // Node allows for non-padded base64 strings (missing trailing ===), base64-js does not\n  while (str.length % 4 !== 0) {\n    str = str + '='\n  }\n  return str\n}\n\nfunction stringtrim (str) {\n  if (str.trim) return str.trim()\n  return str.replace(/^\\s+|\\s+$/g, '')\n}\n\nfunction toHex (n) {\n  if (n < 16) return '0' + n.toString(16)\n  return n.toString(16)\n}\n\nfunction utf8ToBytes (string, units) {\n  units = units || Infinity\n  var codePoint\n  var length = string.length\n  var leadSurrogate = null\n  var bytes = []\n\n  for (var i = 0; i < length; ++i) {\n    codePoint = string.charCodeAt(i)\n\n    // is surrogate component\n    if (codePoint > 0xD7FF && codePoint < 0xE000) {\n      // last char was a lead\n      if (!leadSurrogate) {\n        // no lead yet\n        if (codePoint > 0xDBFF) {\n          // unexpected trail\n          if ((units -= 3) > -1) bytes.push(0xEF, 0xBF, 0xBD)\n          continue\n        } else if (i + 1 === length) {\n          // unpaired lead\n          if ((units -= 3) > -1) bytes.push(0xEF, 0xBF, 0xBD)\n          continue\n        }\n\n        // valid lead\n        leadSurrogate = codePoint\n\n        continue\n      }\n\n      // 2 leads in a row\n      if (codePoint < 0xDC00) {\n        if ((units -= 3) > -1) bytes.push(0xEF, 0xBF, 0xBD)\n        leadSurrogate = codePoint\n        continue\n      }\n\n      // valid surrogate pair\n      codePoint = (leadSurrogate - 0xD800 << 10 | codePoint - 0xDC00) + 0x10000\n    } else if (leadSurrogate) {\n      // valid bmp char, but last char was a lead\n      if ((units -= 3) > -1) bytes.push(0xEF, 0xBF, 0xBD)\n    }\n\n    leadSurrogate = null\n\n    // encode utf8\n    if (codePoint < 0x80) {\n      if ((units -= 1) < 0) break\n      bytes.push(codePoint)\n    } else if (codePoint < 0x800) {\n      if ((units -= 2) < 0) break\n      bytes.push(\n        codePoint >> 0x6 | 0xC0,\n        codePoint & 0x3F | 0x80\n      )\n    } else if (codePoint < 0x10000) {\n      if ((units -= 3) < 0) break\n      bytes.push(\n        codePoint >> 0xC | 0xE0,\n        codePoint >> 0x6 & 0x3F | 0x80,\n        codePoint & 0x3F | 0x80\n      )\n    } else if (codePoint < 0x110000) {\n      if ((units -= 4) < 0) break\n      bytes.push(\n        codePoint >> 0x12 | 0xF0,\n        codePoint >> 0xC & 0x3F | 0x80,\n        codePoint >> 0x6 & 0x3F | 0x80,\n        codePoint & 0x3F | 0x80\n      )\n    } else {\n      throw new Error('Invalid code point')\n    }\n  }\n\n  return bytes\n}\n\nfunction asciiToBytes (str) {\n  var byteArray = []\n  for (var i = 0; i < str.length; ++i) {\n    // Node's code seems to be doing this and not & 0x7F..\n    byteArray.push(str.charCodeAt(i) & 0xFF)\n  }\n  return byteArray\n}\n\nfunction utf16leToBytes (str, units) {\n  var c, hi, lo\n  var byteArray = []\n  for (var i = 0; i < str.length; ++i) {\n    if ((units -= 2) < 0) break\n\n    c = str.charCodeAt(i)\n    hi = c >> 8\n    lo = c % 256\n    byteArray.push(lo)\n    byteArray.push(hi)\n  }\n\n  return byteArray\n}\n\nfunction base64ToBytes (str) {\n  return base64.toByteArray(base64clean(str))\n}\n\nfunction blitBuffer (src, dst, offset, length) {\n  for (var i = 0; i < length; ++i) {\n    if ((i + offset >= dst.length) || (i >= src.length)) break\n    dst[i + offset] = src[i]\n  }\n  return i\n}\n\nfunction isnan (val) {\n  return val !== val // eslint-disable-line no-self-compare\n}\n\n/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../../../webpack/buildin/global.js */ \"./gulp/node_modules/webpack/buildin/global.js\")))\n\n/***/ }),\n\n/***/ \"./gulp/node_modules/webpack/buildin/global.js\":\n/*!***********************************!*\\\n  !*** (webpack)/buildin/global.js ***!\n  \\***********************************/\n/*! no static exports found */\n/***/ (function(module, exports) {\n\nvar g;\n\n// This works in non-strict mode\ng = (function() {\n\treturn this;\n})();\n\ntry {\n\t// This works if eval is allowed (see CSP)\n\tg = g || new Function(\"return this\")();\n} catch (e) {\n\t// This works if the window reference is available\n\tif (typeof window === \"object\") g = window;\n}\n\n// g can still be undefined, but nothing to do about it...\n// We return undefined, instead of nothing here, so it's\n// easier to handle this case. if(!global) { ...}\n\nmodule.exports = g;\n\n\n/***/ }),\n\n/***/ \"./node_modules/crc/crc32.js\":\n/*!***********************************!*\\\n  !*** ./node_modules/crc/crc32.js ***!\n  \\***********************************/\n/*! exports provided: default */\n/***/ (function(module, __webpack_exports__, __webpack_require__) {\n\n\"use strict\";\n__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var buffer__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! buffer */ \"./gulp/node_modules/node-libs-browser/node_modules/buffer/index.js\");\n/* harmony import */ var buffer__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(buffer__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _create_buffer__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./create_buffer */ \"./node_modules/crc/create_buffer.js\");\n/* harmony import */ var _define_crc__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./define_crc */ \"./node_modules/crc/define_crc.js\");\n\n\n\n\n// Generated by `./pycrc.py --algorithm=table-driven --model=crc-32 --generate=c`\n// prettier-ignore\nlet TABLE = [\n  0x00000000, 0x77073096, 0xee0e612c, 0x990951ba,\n  0x076dc419, 0x706af48f, 0xe963a535, 0x9e6495a3,\n  0x0edb8832, 0x79dcb8a4, 0xe0d5e91e, 0x97d2d988,\n  0x09b64c2b, 0x7eb17cbd, 0xe7b82d07, 0x90bf1d91,\n  0x1db71064, 0x6ab020f2, 0xf3b97148, 0x84be41de,\n  0x1adad47d, 0x6ddde4eb, 0xf4d4b551, 0x83d385c7,\n  0x136c9856, 0x646ba8c0, 0xfd62f97a, 0x8a65c9ec,\n  0x14015c4f, 0x63066cd9, 0xfa0f3d63, 0x8d080df5,\n  0x3b6e20c8, 0x4c69105e, 0xd56041e4, 0xa2677172,\n  0x3c03e4d1, 0x4b04d447, 0xd20d85fd, 0xa50ab56b,\n  0x35b5a8fa, 0x42b2986c, 0xdbbbc9d6, 0xacbcf940,\n  0x32d86ce3, 0x45df5c75, 0xdcd60dcf, 0xabd13d59,\n  0x26d930ac, 0x51de003a, 0xc8d75180, 0xbfd06116,\n  0x21b4f4b5, 0x56b3c423, 0xcfba9599, 0xb8bda50f,\n  0x2802b89e, 0x5f058808, 0xc60cd9b2, 0xb10be924,\n  0x2f6f7c87, 0x58684c11, 0xc1611dab, 0xb6662d3d,\n  0x76dc4190, 0x01db7106, 0x98d220bc, 0xefd5102a,\n  0x71b18589, 0x06b6b51f, 0x9fbfe4a5, 0xe8b8d433,\n  0x7807c9a2, 0x0f00f934, 0x9609a88e, 0xe10e9818,\n  0x7f6a0dbb, 0x086d3d2d, 0x91646c97, 0xe6635c01,\n  0x6b6b51f4, 0x1c6c6162, 0x856530d8, 0xf262004e,\n  0x6c0695ed, 0x1b01a57b, 0x8208f4c1, 0xf50fc457,\n  0x65b0d9c6, 0x12b7e950, 0x8bbeb8ea, 0xfcb9887c,\n  0x62dd1ddf, 0x15da2d49, 0x8cd37cf3, 0xfbd44c65,\n  0x4db26158, 0x3ab551ce, 0xa3bc0074, 0xd4bb30e2,\n  0x4adfa541, 0x3dd895d7, 0xa4d1c46d, 0xd3d6f4fb,\n  0x4369e96a, 0x346ed9fc, 0xad678846, 0xda60b8d0,\n  0x44042d73, 0x33031de5, 0xaa0a4c5f, 0xdd0d7cc9,\n  0x5005713c, 0x270241aa, 0xbe0b1010, 0xc90c2086,\n  0x5768b525, 0x206f85b3, 0xb966d409, 0xce61e49f,\n  0x5edef90e, 0x29d9c998, 0xb0d09822, 0xc7d7a8b4,\n  0x59b33d17, 0x2eb40d81, 0xb7bd5c3b, 0xc0ba6cad,\n  0xedb88320, 0x9abfb3b6, 0x03b6e20c, 0x74b1d29a,\n  0xead54739, 0x9dd277af, 0x04db2615, 0x73dc1683,\n  0xe3630b12, 0x94643b84, 0x0d6d6a3e, 0x7a6a5aa8,\n  0xe40ecf0b, 0x9309ff9d, 0x0a00ae27, 0x7d079eb1,\n  0xf00f9344, 0x8708a3d2, 0x1e01f268, 0x6906c2fe,\n  0xf762575d, 0x806567cb, 0x196c3671, 0x6e6b06e7,\n  0xfed41b76, 0x89d32be0, 0x10da7a5a, 0x67dd4acc,\n  0xf9b9df6f, 0x8ebeeff9, 0x17b7be43, 0x60b08ed5,\n  0xd6d6a3e8, 0xa1d1937e, 0x38d8c2c4, 0x4fdff252,\n  0xd1bb67f1, 0xa6bc5767, 0x3fb506dd, 0x48b2364b,\n  0xd80d2bda, 0xaf0a1b4c, 0x36034af6, 0x41047a60,\n  0xdf60efc3, 0xa867df55, 0x316e8eef, 0x4669be79,\n  0xcb61b38c, 0xbc66831a, 0x256fd2a0, 0x5268e236,\n  0xcc0c7795, 0xbb0b4703, 0x220216b9, 0x5505262f,\n  0xc5ba3bbe, 0xb2bd0b28, 0x2bb45a92, 0x5cb36a04,\n  0xc2d7ffa7, 0xb5d0cf31, 0x2cd99e8b, 0x5bdeae1d,\n  0x9b64c2b0, 0xec63f226, 0x756aa39c, 0x026d930a,\n  0x9c0906a9, 0xeb0e363f, 0x72076785, 0x05005713,\n  0x95bf4a82, 0xe2b87a14, 0x7bb12bae, 0x0cb61b38,\n  0x92d28e9b, 0xe5d5be0d, 0x7cdcefb7, 0x0bdbdf21,\n  0x86d3d2d4, 0xf1d4e242, 0x68ddb3f8, 0x1fda836e,\n  0x81be16cd, 0xf6b9265b, 0x6fb077e1, 0x18b74777,\n  0x88085ae6, 0xff0f6a70, 0x66063bca, 0x11010b5c,\n  0x8f659eff, 0xf862ae69, 0x616bffd3, 0x166ccf45,\n  0xa00ae278, 0xd70dd2ee, 0x4e048354, 0x3903b3c2,\n  0xa7672661, 0xd06016f7, 0x4969474d, 0x3e6e77db,\n  0xaed16a4a, 0xd9d65adc, 0x40df0b66, 0x37d83bf0,\n  0xa9bcae53, 0xdebb9ec5, 0x47b2cf7f, 0x30b5ffe9,\n  0xbdbdf21c, 0xcabac28a, 0x53b39330, 0x24b4a3a6,\n  0xbad03605, 0xcdd70693, 0x54de5729, 0x23d967bf,\n  0xb3667a2e, 0xc4614ab8, 0x5d681b02, 0x2a6f2b94,\n  0xb40bbe37, 0xc30c8ea1, 0x5a05df1b, 0x2d02ef8d\n];\n\nif (typeof Int32Array !== 'undefined') TABLE = new Int32Array(TABLE);\n\nconst crc32 = Object(_define_crc__WEBPACK_IMPORTED_MODULE_2__[\"default\"])('crc-32', function(buf, previous) {\n  if (!buffer__WEBPACK_IMPORTED_MODULE_0__[\"Buffer\"].isBuffer(buf)) buf = Object(_create_buffer__WEBPACK_IMPORTED_MODULE_1__[\"default\"])(buf);\n\n  let crc = previous === 0 ? 0 : ~~previous ^ -1;\n\n  for (let index = 0; index < buf.length; index++) {\n    const byte = buf[index];\n    crc = TABLE[(crc ^ byte) & 0xff] ^ (crc >>> 8);\n  }\n\n  return crc ^ -1;\n});\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (crc32);\n\n\n/***/ }),\n\n/***/ \"./node_modules/crc/create_buffer.js\":\n/*!*******************************************!*\\\n  !*** ./node_modules/crc/create_buffer.js ***!\n  \\*******************************************/\n/*! exports provided: default */\n/***/ (function(module, __webpack_exports__, __webpack_require__) {\n\n\"use strict\";\n__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var buffer__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! buffer */ \"./gulp/node_modules/node-libs-browser/node_modules/buffer/index.js\");\n/* harmony import */ var buffer__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(buffer__WEBPACK_IMPORTED_MODULE_0__);\n\n\nconst createBuffer =\n  buffer__WEBPACK_IMPORTED_MODULE_0__[\"Buffer\"].from && buffer__WEBPACK_IMPORTED_MODULE_0__[\"Buffer\"].alloc && buffer__WEBPACK_IMPORTED_MODULE_0__[\"Buffer\"].allocUnsafe && buffer__WEBPACK_IMPORTED_MODULE_0__[\"Buffer\"].allocUnsafeSlow\n    ? buffer__WEBPACK_IMPORTED_MODULE_0__[\"Buffer\"].from\n    : // support for Node < 5.10\n      val => new buffer__WEBPACK_IMPORTED_MODULE_0__[\"Buffer\"](val);\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (createBuffer);\n\n\n/***/ }),\n\n/***/ \"./node_modules/crc/define_crc.js\":\n/*!****************************************!*\\\n  !*** ./node_modules/crc/define_crc.js ***!\n  \\****************************************/\n/*! exports provided: default */\n/***/ (function(module, __webpack_exports__, __webpack_require__) {\n\n\"use strict\";\n__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (function(model, calc) {\n  const fn = (buf, previous) => calc(buf, previous) >>> 0;\n  fn.signed = calc;\n  fn.unsigned = fn;\n  fn.model = model;\n\n  return fn;\n});\n\n\n/***/ }),\n\n/***/ \"./node_modules/rusha/dist/rusha.js\":\n/*!******************************************!*\\\n  !*** ./node_modules/rusha/dist/rusha.js ***!\n  \\******************************************/\n/*! no static exports found */\n/***/ (function(module, exports, __webpack_require__) {\n\n(function webpackUniversalModuleDefinition(root, factory) {\n\tif(true)\n\t\tmodule.exports = factory();\n\telse {}\n})(typeof self !== 'undefined' ? self : this, function() {\nreturn /******/ (function(modules) { // webpackBootstrap\n/******/ \t// The module cache\n/******/ \tvar installedModules = {};\n/******/\n/******/ \t// The require function\n/******/ \tfunction __webpack_require__(moduleId) {\n/******/\n/******/ \t\t// Check if module is in cache\n/******/ \t\tif(installedModules[moduleId]) {\n/******/ \t\t\treturn installedModules[moduleId].exports;\n/******/ \t\t}\n/******/ \t\t// Create a new module (and put it into the cache)\n/******/ \t\tvar module = installedModules[moduleId] = {\n/******/ \t\t\ti: moduleId,\n/******/ \t\t\tl: false,\n/******/ \t\t\texports: {}\n/******/ \t\t};\n/******/\n/******/ \t\t// Execute the module function\n/******/ \t\tmodules[moduleId].call(module.exports, module, module.exports, __webpack_require__);\n/******/\n/******/ \t\t// Flag the module as loaded\n/******/ \t\tmodule.l = true;\n/******/\n/******/ \t\t// Return the exports of the module\n/******/ \t\treturn module.exports;\n/******/ \t}\n/******/\n/******/\n/******/ \t// expose the modules object (__webpack_modules__)\n/******/ \t__webpack_require__.m = modules;\n/******/\n/******/ \t// expose the module cache\n/******/ \t__webpack_require__.c = installedModules;\n/******/\n/******/ \t// define getter function for harmony exports\n/******/ \t__webpack_require__.d = function(exports, name, getter) {\n/******/ \t\tif(!__webpack_require__.o(exports, name)) {\n/******/ \t\t\tObject.defineProperty(exports, name, {\n/******/ \t\t\t\tconfigurable: false,\n/******/ \t\t\t\tenumerable: true,\n/******/ \t\t\t\tget: getter\n/******/ \t\t\t});\n/******/ \t\t}\n/******/ \t};\n/******/\n/******/ \t// getDefaultExport function for compatibility with non-harmony modules\n/******/ \t__webpack_require__.n = function(module) {\n/******/ \t\tvar getter = module && module.__esModule ?\n/******/ \t\t\tfunction getDefault() { return module['default']; } :\n/******/ \t\t\tfunction getModuleExports() { return module; };\n/******/ \t\t__webpack_require__.d(getter, 'a', getter);\n/******/ \t\treturn getter;\n/******/ \t};\n/******/\n/******/ \t// Object.prototype.hasOwnProperty.call\n/******/ \t__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };\n/******/\n/******/ \t// __webpack_public_path__\n/******/ \t__webpack_require__.p = \"\";\n/******/\n/******/ \t// Load entry module and return exports\n/******/ \treturn __webpack_require__(__webpack_require__.s = 3);\n/******/ })\n/************************************************************************/\n/******/ ([\n/* 0 */\n/***/ (function(module, exports, __webpack_require__) {\n\nfunction _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError(\"Cannot call a class as a function\"); } }\n\n/* eslint-env commonjs, browser */\n\nvar RushaCore = __webpack_require__(5);\n\nvar _require = __webpack_require__(1),\n    toHex = _require.toHex,\n    ceilHeapSize = _require.ceilHeapSize;\n\nvar conv = __webpack_require__(6);\n\n// Calculate the length of buffer that the sha1 routine uses\n// including the padding.\nvar padlen = function (len) {\n  for (len += 9; len % 64 > 0; len += 1) {}\n  return len;\n};\n\nvar padZeroes = function (bin, len) {\n  var h8 = new Uint8Array(bin.buffer);\n  var om = len % 4,\n      align = len - om;\n  switch (om) {\n    case 0:\n      h8[align + 3] = 0;\n    case 1:\n      h8[align + 2] = 0;\n    case 2:\n      h8[align + 1] = 0;\n    case 3:\n      h8[align + 0] = 0;\n  }\n  for (var i = (len >> 2) + 1; i < bin.length; i++) {\n    bin[i] = 0;\n  }\n};\n\nvar padData = function (bin, chunkLen, msgLen) {\n  bin[chunkLen >> 2] |= 0x80 << 24 - (chunkLen % 4 << 3);\n  // To support msgLen >= 2 GiB, use a float division when computing the\n  // high 32-bits of the big-endian message length in bits.\n  bin[((chunkLen >> 2) + 2 & ~0x0f) + 14] = msgLen / (1 << 29) | 0;\n  bin[((chunkLen >> 2) + 2 & ~0x0f) + 15] = msgLen << 3;\n};\n\nvar getRawDigest = function (heap, padMaxChunkLen) {\n  var io = new Int32Array(heap, padMaxChunkLen + 320, 5);\n  var out = new Int32Array(5);\n  var arr = new DataView(out.buffer);\n  arr.setInt32(0, io[0], false);\n  arr.setInt32(4, io[1], false);\n  arr.setInt32(8, io[2], false);\n  arr.setInt32(12, io[3], false);\n  arr.setInt32(16, io[4], false);\n  return out;\n};\n\nvar Rusha = function () {\n  function Rusha(chunkSize) {\n    _classCallCheck(this, Rusha);\n\n    chunkSize = chunkSize || 64 * 1024;\n    if (chunkSize % 64 > 0) {\n      throw new Error('Chunk size must be a multiple of 128 bit');\n    }\n    this._offset = 0;\n    this._maxChunkLen = chunkSize;\n    this._padMaxChunkLen = padlen(chunkSize);\n    // The size of the heap is the sum of:\n    // 1. The padded input message size\n    // 2. The extended space the algorithm needs (320 byte)\n    // 3. The 160 bit state the algoritm uses\n    this._heap = new ArrayBuffer(ceilHeapSize(this._padMaxChunkLen + 320 + 20));\n    this._h32 = new Int32Array(this._heap);\n    this._h8 = new Int8Array(this._heap);\n    this._core = new RushaCore({ Int32Array: Int32Array }, {}, this._heap);\n  }\n\n  Rusha.prototype._initState = function _initState(heap, padMsgLen) {\n    this._offset = 0;\n    var io = new Int32Array(heap, padMsgLen + 320, 5);\n    io[0] = 1732584193;\n    io[1] = -271733879;\n    io[2] = -1732584194;\n    io[3] = 271733878;\n    io[4] = -1009589776;\n  };\n\n  Rusha.prototype._padChunk = function _padChunk(chunkLen, msgLen) {\n    var padChunkLen = padlen(chunkLen);\n    var view = new Int32Array(this._heap, 0, padChunkLen >> 2);\n    padZeroes(view, chunkLen);\n    padData(view, chunkLen, msgLen);\n    return padChunkLen;\n  };\n\n  Rusha.prototype._write = function _write(data, chunkOffset, chunkLen, off) {\n    conv(data, this._h8, this._h32, chunkOffset, chunkLen, off || 0);\n  };\n\n  Rusha.prototype._coreCall = function _coreCall(data, chunkOffset, chunkLen, msgLen, finalize) {\n    var padChunkLen = chunkLen;\n    this._write(data, chunkOffset, chunkLen);\n    if (finalize) {\n      padChunkLen = this._padChunk(chunkLen, msgLen);\n    }\n    this._core.hash(padChunkLen, this._padMaxChunkLen);\n  };\n\n  Rusha.prototype.rawDigest = function rawDigest(str) {\n    var msgLen = str.byteLength || str.length || str.size || 0;\n    this._initState(this._heap, this._padMaxChunkLen);\n    var chunkOffset = 0,\n        chunkLen = this._maxChunkLen;\n    for (chunkOffset = 0; msgLen > chunkOffset + chunkLen; chunkOffset += chunkLen) {\n      this._coreCall(str, chunkOffset, chunkLen, msgLen, false);\n    }\n    this._coreCall(str, chunkOffset, msgLen - chunkOffset, msgLen, true);\n    return getRawDigest(this._heap, this._padMaxChunkLen);\n  };\n\n  Rusha.prototype.digest = function digest(str) {\n    return toHex(this.rawDigest(str).buffer);\n  };\n\n  Rusha.prototype.digestFromString = function digestFromString(str) {\n    return this.digest(str);\n  };\n\n  Rusha.prototype.digestFromBuffer = function digestFromBuffer(str) {\n    return this.digest(str);\n  };\n\n  Rusha.prototype.digestFromArrayBuffer = function digestFromArrayBuffer(str) {\n    return this.digest(str);\n  };\n\n  Rusha.prototype.resetState = function resetState() {\n    this._initState(this._heap, this._padMaxChunkLen);\n    return this;\n  };\n\n  Rusha.prototype.append = function append(chunk) {\n    var chunkOffset = 0;\n    var chunkLen = chunk.byteLength || chunk.length || chunk.size || 0;\n    var turnOffset = this._offset % this._maxChunkLen;\n    var inputLen = void 0;\n\n    this._offset += chunkLen;\n    while (chunkOffset < chunkLen) {\n      inputLen = Math.min(chunkLen - chunkOffset, this._maxChunkLen - turnOffset);\n      this._write(chunk, chunkOffset, inputLen, turnOffset);\n      turnOffset += inputLen;\n      chunkOffset += inputLen;\n      if (turnOffset === this._maxChunkLen) {\n        this._core.hash(this._maxChunkLen, this._padMaxChunkLen);\n        turnOffset = 0;\n      }\n    }\n    return this;\n  };\n\n  Rusha.prototype.getState = function getState() {\n    var turnOffset = this._offset % this._maxChunkLen;\n    var heap = void 0;\n    if (!turnOffset) {\n      var io = new Int32Array(this._heap, this._padMaxChunkLen + 320, 5);\n      heap = io.buffer.slice(io.byteOffset, io.byteOffset + io.byteLength);\n    } else {\n      heap = this._heap.slice(0);\n    }\n    return {\n      offset: this._offset,\n      heap: heap\n    };\n  };\n\n  Rusha.prototype.setState = function setState(state) {\n    this._offset = state.offset;\n    if (state.heap.byteLength === 20) {\n      var io = new Int32Array(this._heap, this._padMaxChunkLen + 320, 5);\n      io.set(new Int32Array(state.heap));\n    } else {\n      this._h32.set(new Int32Array(state.heap));\n    }\n    return this;\n  };\n\n  Rusha.prototype.rawEnd = function rawEnd() {\n    var msgLen = this._offset;\n    var chunkLen = msgLen % this._maxChunkLen;\n    var padChunkLen = this._padChunk(chunkLen, msgLen);\n    this._core.hash(padChunkLen, this._padMaxChunkLen);\n    var result = getRawDigest(this._heap, this._padMaxChunkLen);\n    this._initState(this._heap, this._padMaxChunkLen);\n    return result;\n  };\n\n  Rusha.prototype.end = function end() {\n    return toHex(this.rawEnd().buffer);\n  };\n\n  return Rusha;\n}();\n\nmodule.exports = Rusha;\nmodule.exports._core = RushaCore;\n\n/***/ }),\n/* 1 */\n/***/ (function(module, exports) {\n\n/* eslint-env commonjs, browser */\n\n//\n// toHex\n//\n\nvar precomputedHex = new Array(256);\nfor (var i = 0; i < 256; i++) {\n  precomputedHex[i] = (i < 0x10 ? '0' : '') + i.toString(16);\n}\n\nmodule.exports.toHex = function (arrayBuffer) {\n  var binarray = new Uint8Array(arrayBuffer);\n  var res = new Array(arrayBuffer.byteLength);\n  for (var _i = 0; _i < res.length; _i++) {\n    res[_i] = precomputedHex[binarray[_i]];\n  }\n  return res.join('');\n};\n\n//\n// ceilHeapSize\n//\n\nmodule.exports.ceilHeapSize = function (v) {\n  // The asm.js spec says:\n  // The heap object's byteLength must be either\n  // 2^n for n in [12, 24) or 2^24 * n for n ≥ 1.\n  // Also, byteLengths smaller than 2^16 are deprecated.\n  var p = 0;\n  // If v is smaller than 2^16, the smallest possible solution\n  // is 2^16.\n  if (v <= 65536) return 65536;\n  // If v < 2^24, we round up to 2^n,\n  // otherwise we round up to 2^24 * n.\n  if (v < 16777216) {\n    for (p = 1; p < v; p = p << 1) {}\n  } else {\n    for (p = 16777216; p < v; p += 16777216) {}\n  }\n  return p;\n};\n\n//\n// isDedicatedWorkerScope\n//\n\nmodule.exports.isDedicatedWorkerScope = function (self) {\n  var isRunningInWorker = 'WorkerGlobalScope' in self && self instanceof self.WorkerGlobalScope;\n  var isRunningInSharedWorker = 'SharedWorkerGlobalScope' in self && self instanceof self.SharedWorkerGlobalScope;\n  var isRunningInServiceWorker = 'ServiceWorkerGlobalScope' in self && self instanceof self.ServiceWorkerGlobalScope;\n\n  // Detects whether we run inside a dedicated worker or not.\n  //\n  // We can't just check for `DedicatedWorkerGlobalScope`, since IE11\n  // has a bug where it only supports `WorkerGlobalScope`.\n  //\n  // Therefore, we consider us as running inside a dedicated worker\n  // when we are running inside a worker, but not in a shared or service worker.\n  //\n  // When new types of workers are introduced, we will need to adjust this code.\n  return isRunningInWorker && !isRunningInSharedWorker && !isRunningInServiceWorker;\n};\n\n/***/ }),\n/* 2 */\n/***/ (function(module, exports, __webpack_require__) {\n\n/* eslint-env commonjs, worker */\n\nmodule.exports = function () {\n  var Rusha = __webpack_require__(0);\n\n  var hashData = function (hasher, data, cb) {\n    try {\n      return cb(null, hasher.digest(data));\n    } catch (e) {\n      return cb(e);\n    }\n  };\n\n  var hashFile = function (hasher, readTotal, blockSize, file, cb) {\n    var reader = new self.FileReader();\n    reader.onloadend = function onloadend() {\n      if (reader.error) {\n        return cb(reader.error);\n      }\n      var buffer = reader.result;\n      readTotal += reader.result.byteLength;\n      try {\n        hasher.append(buffer);\n      } catch (e) {\n        cb(e);\n        return;\n      }\n      if (readTotal < file.size) {\n        hashFile(hasher, readTotal, blockSize, file, cb);\n      } else {\n        cb(null, hasher.end());\n      }\n    };\n    reader.readAsArrayBuffer(file.slice(readTotal, readTotal + blockSize));\n  };\n\n  var workerBehaviourEnabled = true;\n\n  self.onmessage = function (event) {\n    if (!workerBehaviourEnabled) {\n      return;\n    }\n\n    var data = event.data.data,\n        file = event.data.file,\n        id = event.data.id;\n    if (typeof id === 'undefined') return;\n    if (!file && !data) return;\n    var blockSize = event.data.blockSize || 4 * 1024 * 1024;\n    var hasher = new Rusha(blockSize);\n    hasher.resetState();\n    var done = function (err, hash) {\n      if (!err) {\n        self.postMessage({ id: id, hash: hash });\n      } else {\n        self.postMessage({ id: id, error: err.name });\n      }\n    };\n    if (data) hashData(hasher, data, done);\n    if (file) hashFile(hasher, 0, blockSize, file, done);\n  };\n\n  return function () {\n    workerBehaviourEnabled = false;\n  };\n};\n\n/***/ }),\n/* 3 */\n/***/ (function(module, exports, __webpack_require__) {\n\n/* eslint-env commonjs, browser */\n\nvar work = __webpack_require__(4);\nvar Rusha = __webpack_require__(0);\nvar createHash = __webpack_require__(7);\nvar runWorker = __webpack_require__(2);\n\nvar _require = __webpack_require__(1),\n    isDedicatedWorkerScope = _require.isDedicatedWorkerScope;\n\nvar isRunningInDedicatedWorker = typeof self !== 'undefined' && isDedicatedWorkerScope(self);\n\nRusha.disableWorkerBehaviour = isRunningInDedicatedWorker ? runWorker() : function () {};\n\nRusha.createWorker = function () {\n  var worker = work(/*require.resolve*/(2));\n  var terminate = worker.terminate;\n  worker.terminate = function () {\n    URL.revokeObjectURL(worker.objectURL);\n    terminate.call(worker);\n  };\n  return worker;\n};\n\nRusha.createHash = createHash;\n\nmodule.exports = Rusha;\n\n/***/ }),\n/* 4 */\n/***/ (function(module, exports, __webpack_require__) {\n\nfunction webpackBootstrapFunc (modules) {\n/******/  // The module cache\n/******/  var installedModules = {};\n\n/******/  // The require function\n/******/  function __webpack_require__(moduleId) {\n\n/******/    // Check if module is in cache\n/******/    if(installedModules[moduleId])\n/******/      return installedModules[moduleId].exports;\n\n/******/    // Create a new module (and put it into the cache)\n/******/    var module = installedModules[moduleId] = {\n/******/      i: moduleId,\n/******/      l: false,\n/******/      exports: {}\n/******/    };\n\n/******/    // Execute the module function\n/******/    modules[moduleId].call(module.exports, module, module.exports, __webpack_require__);\n\n/******/    // Flag the module as loaded\n/******/    module.l = true;\n\n/******/    // Return the exports of the module\n/******/    return module.exports;\n/******/  }\n\n/******/  // expose the modules object (__webpack_modules__)\n/******/  __webpack_require__.m = modules;\n\n/******/  // expose the module cache\n/******/  __webpack_require__.c = installedModules;\n\n/******/  // identity function for calling harmony imports with the correct context\n/******/  __webpack_require__.i = function(value) { return value; };\n\n/******/  // define getter function for harmony exports\n/******/  __webpack_require__.d = function(exports, name, getter) {\n/******/    if(!__webpack_require__.o(exports, name)) {\n/******/      Object.defineProperty(exports, name, {\n/******/        configurable: false,\n/******/        enumerable: true,\n/******/        get: getter\n/******/      });\n/******/    }\n/******/  };\n\n/******/  // define __esModule on exports\n/******/  __webpack_require__.r = function(exports) {\n/******/    Object.defineProperty(exports, '__esModule', { value: true });\n/******/  };\n\n/******/  // getDefaultExport function for compatibility with non-harmony modules\n/******/  __webpack_require__.n = function(module) {\n/******/    var getter = module && module.__esModule ?\n/******/      function getDefault() { return module['default']; } :\n/******/      function getModuleExports() { return module; };\n/******/    __webpack_require__.d(getter, 'a', getter);\n/******/    return getter;\n/******/  };\n\n/******/  // Object.prototype.hasOwnProperty.call\n/******/  __webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };\n\n/******/  // __webpack_public_path__\n/******/  __webpack_require__.p = \"/\";\n\n/******/  // on error function for async loading\n/******/  __webpack_require__.oe = function(err) { console.error(err); throw err; };\n\n  var f = __webpack_require__(__webpack_require__.s = ENTRY_MODULE)\n  return f.default || f // try to call default if defined to also support babel esmodule exports\n}\n\nvar moduleNameReqExp = '[\\\\.|\\\\-|\\\\+|\\\\w|\\/|@]+'\nvar dependencyRegExp = '\\\\((\\/\\\\*.*?\\\\*\\/)?\\s?.*?(' + moduleNameReqExp + ').*?\\\\)' // additional chars when output.pathinfo is true\n\n// http://stackoverflow.com/a/2593661/130442\nfunction quoteRegExp (str) {\n  return (str + '').replace(/[.?*+^$[\\]\\\\(){}|-]/g, '\\\\$&')\n}\n\nfunction getModuleDependencies (sources, module, queueName) {\n  var retval = {}\n  retval[queueName] = []\n\n  var fnString = module.toString()\n  var wrapperSignature = fnString.match(/^function\\s?\\(\\w+,\\s*\\w+,\\s*(\\w+)\\)/)\n  if (!wrapperSignature) return retval\n  var webpackRequireName = wrapperSignature[1]\n\n  // main bundle deps\n  var re = new RegExp('(\\\\\\\\n|\\\\W)' + quoteRegExp(webpackRequireName) + dependencyRegExp, 'g')\n  var match\n  while ((match = re.exec(fnString))) {\n    if (match[3] === 'dll-reference') continue\n    retval[queueName].push(match[3])\n  }\n\n  // dll deps\n  re = new RegExp('\\\\(' + quoteRegExp(webpackRequireName) + '\\\\(\"(dll-reference\\\\s(' + moduleNameReqExp + '))\"\\\\)\\\\)' + dependencyRegExp, 'g')\n  while ((match = re.exec(fnString))) {\n    if (!sources[match[2]]) {\n      retval[queueName].push(match[1])\n      sources[match[2]] = __webpack_require__(match[1]).m\n    }\n    retval[match[2]] = retval[match[2]] || []\n    retval[match[2]].push(match[4])\n  }\n\n  return retval\n}\n\nfunction hasValuesInQueues (queues) {\n  var keys = Object.keys(queues)\n  return keys.reduce(function (hasValues, key) {\n    return hasValues || queues[key].length > 0\n  }, false)\n}\n\nfunction getRequiredModules (sources, moduleId) {\n  var modulesQueue = {\n    main: [moduleId]\n  }\n  var requiredModules = {\n    main: []\n  }\n  var seenModules = {\n    main: {}\n  }\n\n  while (hasValuesInQueues(modulesQueue)) {\n    var queues = Object.keys(modulesQueue)\n    for (var i = 0; i < queues.length; i++) {\n      var queueName = queues[i]\n      var queue = modulesQueue[queueName]\n      var moduleToCheck = queue.pop()\n      seenModules[queueName] = seenModules[queueName] || {}\n      if (seenModules[queueName][moduleToCheck] || !sources[queueName][moduleToCheck]) continue\n      seenModules[queueName][moduleToCheck] = true\n      requiredModules[queueName] = requiredModules[queueName] || []\n      requiredModules[queueName].push(moduleToCheck)\n      var newModules = getModuleDependencies(sources, sources[queueName][moduleToCheck], queueName)\n      var newModulesKeys = Object.keys(newModules)\n      for (var j = 0; j < newModulesKeys.length; j++) {\n        modulesQueue[newModulesKeys[j]] = modulesQueue[newModulesKeys[j]] || []\n        modulesQueue[newModulesKeys[j]] = modulesQueue[newModulesKeys[j]].concat(newModules[newModulesKeys[j]])\n      }\n    }\n  }\n\n  return requiredModules\n}\n\nmodule.exports = function (moduleId, options) {\n  options = options || {}\n  var sources = {\n    main: __webpack_require__.m\n  }\n\n  var requiredModules = options.all ? { main: Object.keys(sources) } : getRequiredModules(sources, moduleId)\n\n  var src = ''\n\n  Object.keys(requiredModules).filter(function (m) { return m !== 'main' }).forEach(function (module) {\n    var entryModule = 0\n    while (requiredModules[module][entryModule]) {\n      entryModule++\n    }\n    requiredModules[module].push(entryModule)\n    sources[module][entryModule] = '(function(module, exports, __webpack_require__) { module.exports = __webpack_require__; })'\n    src = src + 'var ' + module + ' = (' + webpackBootstrapFunc.toString().replace('ENTRY_MODULE', JSON.stringify(entryModule)) + ')({' + requiredModules[module].map(function (id) { return '' + JSON.stringify(id) + ': ' + sources[module][id].toString() }).join(',') + '});\\n'\n  })\n\n  src = src + '(' + webpackBootstrapFunc.toString().replace('ENTRY_MODULE', JSON.stringify(moduleId)) + ')({' + requiredModules.main.map(function (id) { return '' + JSON.stringify(id) + ': ' + sources.main[id].toString() }).join(',') + '})(self);'\n\n  var blob = new window.Blob([src], { type: 'text/javascript' })\n  if (options.bare) { return blob }\n\n  var URL = window.URL || window.webkitURL || window.mozURL || window.msURL\n\n  var workerUrl = URL.createObjectURL(blob)\n  var worker = new window.Worker(workerUrl)\n  worker.objectURL = workerUrl\n\n  return worker\n}\n\n\n/***/ }),\n/* 5 */\n/***/ (function(module, exports) {\n\n// The low-level RushCore module provides the heart of Rusha,\n// a high-speed sha1 implementation working on an Int32Array heap.\n// At first glance, the implementation seems complicated, however\n// with the SHA1 spec at hand, it is obvious this almost a textbook\n// implementation that has a few functions hand-inlined and a few loops\n// hand-unrolled.\nmodule.exports = function RushaCore(stdlib$846, foreign$847, heap$848) {\n    'use asm';\n    var H$849 = new stdlib$846.Int32Array(heap$848);\n    function hash$850(k$851, x$852) {\n        // k in bytes\n        k$851 = k$851 | 0;\n        x$852 = x$852 | 0;\n        var i$853 = 0, j$854 = 0, y0$855 = 0, z0$856 = 0, y1$857 = 0, z1$858 = 0, y2$859 = 0, z2$860 = 0, y3$861 = 0, z3$862 = 0, y4$863 = 0, z4$864 = 0, t0$865 = 0, t1$866 = 0;\n        y0$855 = H$849[x$852 + 320 >> 2] | 0;\n        y1$857 = H$849[x$852 + 324 >> 2] | 0;\n        y2$859 = H$849[x$852 + 328 >> 2] | 0;\n        y3$861 = H$849[x$852 + 332 >> 2] | 0;\n        y4$863 = H$849[x$852 + 336 >> 2] | 0;\n        for (i$853 = 0; (i$853 | 0) < (k$851 | 0); i$853 = i$853 + 64 | 0) {\n            z0$856 = y0$855;\n            z1$858 = y1$857;\n            z2$860 = y2$859;\n            z3$862 = y3$861;\n            z4$864 = y4$863;\n            for (j$854 = 0; (j$854 | 0) < 64; j$854 = j$854 + 4 | 0) {\n                t1$866 = H$849[i$853 + j$854 >> 2] | 0;\n                t0$865 = ((y0$855 << 5 | y0$855 >>> 27) + (y1$857 & y2$859 | ~y1$857 & y3$861) | 0) + ((t1$866 + y4$863 | 0) + 1518500249 | 0) | 0;\n                y4$863 = y3$861;\n                y3$861 = y2$859;\n                y2$859 = y1$857 << 30 | y1$857 >>> 2;\n                y1$857 = y0$855;\n                y0$855 = t0$865;\n                H$849[k$851 + j$854 >> 2] = t1$866;\n            }\n            for (j$854 = k$851 + 64 | 0; (j$854 | 0) < (k$851 + 80 | 0); j$854 = j$854 + 4 | 0) {\n                t1$866 = (H$849[j$854 - 12 >> 2] ^ H$849[j$854 - 32 >> 2] ^ H$849[j$854 - 56 >> 2] ^ H$849[j$854 - 64 >> 2]) << 1 | (H$849[j$854 - 12 >> 2] ^ H$849[j$854 - 32 >> 2] ^ H$849[j$854 - 56 >> 2] ^ H$849[j$854 - 64 >> 2]) >>> 31;\n                t0$865 = ((y0$855 << 5 | y0$855 >>> 27) + (y1$857 & y2$859 | ~y1$857 & y3$861) | 0) + ((t1$866 + y4$863 | 0) + 1518500249 | 0) | 0;\n                y4$863 = y3$861;\n                y3$861 = y2$859;\n                y2$859 = y1$857 << 30 | y1$857 >>> 2;\n                y1$857 = y0$855;\n                y0$855 = t0$865;\n                H$849[j$854 >> 2] = t1$866;\n            }\n            for (j$854 = k$851 + 80 | 0; (j$854 | 0) < (k$851 + 160 | 0); j$854 = j$854 + 4 | 0) {\n                t1$866 = (H$849[j$854 - 12 >> 2] ^ H$849[j$854 - 32 >> 2] ^ H$849[j$854 - 56 >> 2] ^ H$849[j$854 - 64 >> 2]) << 1 | (H$849[j$854 - 12 >> 2] ^ H$849[j$854 - 32 >> 2] ^ H$849[j$854 - 56 >> 2] ^ H$849[j$854 - 64 >> 2]) >>> 31;\n                t0$865 = ((y0$855 << 5 | y0$855 >>> 27) + (y1$857 ^ y2$859 ^ y3$861) | 0) + ((t1$866 + y4$863 | 0) + 1859775393 | 0) | 0;\n                y4$863 = y3$861;\n                y3$861 = y2$859;\n                y2$859 = y1$857 << 30 | y1$857 >>> 2;\n                y1$857 = y0$855;\n                y0$855 = t0$865;\n                H$849[j$854 >> 2] = t1$866;\n            }\n            for (j$854 = k$851 + 160 | 0; (j$854 | 0) < (k$851 + 240 | 0); j$854 = j$854 + 4 | 0) {\n                t1$866 = (H$849[j$854 - 12 >> 2] ^ H$849[j$854 - 32 >> 2] ^ H$849[j$854 - 56 >> 2] ^ H$849[j$854 - 64 >> 2]) << 1 | (H$849[j$854 - 12 >> 2] ^ H$849[j$854 - 32 >> 2] ^ H$849[j$854 - 56 >> 2] ^ H$849[j$854 - 64 >> 2]) >>> 31;\n                t0$865 = ((y0$855 << 5 | y0$855 >>> 27) + (y1$857 & y2$859 | y1$857 & y3$861 | y2$859 & y3$861) | 0) + ((t1$866 + y4$863 | 0) - 1894007588 | 0) | 0;\n                y4$863 = y3$861;\n                y3$861 = y2$859;\n                y2$859 = y1$857 << 30 | y1$857 >>> 2;\n                y1$857 = y0$855;\n                y0$855 = t0$865;\n                H$849[j$854 >> 2] = t1$866;\n            }\n            for (j$854 = k$851 + 240 | 0; (j$854 | 0) < (k$851 + 320 | 0); j$854 = j$854 + 4 | 0) {\n                t1$866 = (H$849[j$854 - 12 >> 2] ^ H$849[j$854 - 32 >> 2] ^ H$849[j$854 - 56 >> 2] ^ H$849[j$854 - 64 >> 2]) << 1 | (H$849[j$854 - 12 >> 2] ^ H$849[j$854 - 32 >> 2] ^ H$849[j$854 - 56 >> 2] ^ H$849[j$854 - 64 >> 2]) >>> 31;\n                t0$865 = ((y0$855 << 5 | y0$855 >>> 27) + (y1$857 ^ y2$859 ^ y3$861) | 0) + ((t1$866 + y4$863 | 0) - 899497514 | 0) | 0;\n                y4$863 = y3$861;\n                y3$861 = y2$859;\n                y2$859 = y1$857 << 30 | y1$857 >>> 2;\n                y1$857 = y0$855;\n                y0$855 = t0$865;\n                H$849[j$854 >> 2] = t1$866;\n            }\n            y0$855 = y0$855 + z0$856 | 0;\n            y1$857 = y1$857 + z1$858 | 0;\n            y2$859 = y2$859 + z2$860 | 0;\n            y3$861 = y3$861 + z3$862 | 0;\n            y4$863 = y4$863 + z4$864 | 0;\n        }\n        H$849[x$852 + 320 >> 2] = y0$855;\n        H$849[x$852 + 324 >> 2] = y1$857;\n        H$849[x$852 + 328 >> 2] = y2$859;\n        H$849[x$852 + 332 >> 2] = y3$861;\n        H$849[x$852 + 336 >> 2] = y4$863;\n    }\n    return { hash: hash$850 };\n};\n\n/***/ }),\n/* 6 */\n/***/ (function(module, exports) {\n\nvar _this = this;\n\n/* eslint-env commonjs, browser */\n\nvar reader = void 0;\nif (typeof self !== 'undefined' && typeof self.FileReaderSync !== 'undefined') {\n  reader = new self.FileReaderSync();\n}\n\n// Convert a binary string and write it to the heap.\n// A binary string is expected to only contain char codes < 256.\nvar convStr = function (str, H8, H32, start, len, off) {\n  var i = void 0,\n      om = off % 4,\n      lm = (len + om) % 4,\n      j = len - lm;\n  switch (om) {\n    case 0:\n      H8[off] = str.charCodeAt(start + 3);\n    case 1:\n      H8[off + 1 - (om << 1) | 0] = str.charCodeAt(start + 2);\n    case 2:\n      H8[off + 2 - (om << 1) | 0] = str.charCodeAt(start + 1);\n    case 3:\n      H8[off + 3 - (om << 1) | 0] = str.charCodeAt(start);\n  }\n  if (len < lm + (4 - om)) {\n    return;\n  }\n  for (i = 4 - om; i < j; i = i + 4 | 0) {\n    H32[off + i >> 2] = str.charCodeAt(start + i) << 24 | str.charCodeAt(start + i + 1) << 16 | str.charCodeAt(start + i + 2) << 8 | str.charCodeAt(start + i + 3);\n  }\n  switch (lm) {\n    case 3:\n      H8[off + j + 1 | 0] = str.charCodeAt(start + j + 2);\n    case 2:\n      H8[off + j + 2 | 0] = str.charCodeAt(start + j + 1);\n    case 1:\n      H8[off + j + 3 | 0] = str.charCodeAt(start + j);\n  }\n};\n\n// Convert a buffer or array and write it to the heap.\n// The buffer or array is expected to only contain elements < 256.\nvar convBuf = function (buf, H8, H32, start, len, off) {\n  var i = void 0,\n      om = off % 4,\n      lm = (len + om) % 4,\n      j = len - lm;\n  switch (om) {\n    case 0:\n      H8[off] = buf[start + 3];\n    case 1:\n      H8[off + 1 - (om << 1) | 0] = buf[start + 2];\n    case 2:\n      H8[off + 2 - (om << 1) | 0] = buf[start + 1];\n    case 3:\n      H8[off + 3 - (om << 1) | 0] = buf[start];\n  }\n  if (len < lm + (4 - om)) {\n    return;\n  }\n  for (i = 4 - om; i < j; i = i + 4 | 0) {\n    H32[off + i >> 2 | 0] = buf[start + i] << 24 | buf[start + i + 1] << 16 | buf[start + i + 2] << 8 | buf[start + i + 3];\n  }\n  switch (lm) {\n    case 3:\n      H8[off + j + 1 | 0] = buf[start + j + 2];\n    case 2:\n      H8[off + j + 2 | 0] = buf[start + j + 1];\n    case 1:\n      H8[off + j + 3 | 0] = buf[start + j];\n  }\n};\n\nvar convBlob = function (blob, H8, H32, start, len, off) {\n  var i = void 0,\n      om = off % 4,\n      lm = (len + om) % 4,\n      j = len - lm;\n  var buf = new Uint8Array(reader.readAsArrayBuffer(blob.slice(start, start + len)));\n  switch (om) {\n    case 0:\n      H8[off] = buf[3];\n    case 1:\n      H8[off + 1 - (om << 1) | 0] = buf[2];\n    case 2:\n      H8[off + 2 - (om << 1) | 0] = buf[1];\n    case 3:\n      H8[off + 3 - (om << 1) | 0] = buf[0];\n  }\n  if (len < lm + (4 - om)) {\n    return;\n  }\n  for (i = 4 - om; i < j; i = i + 4 | 0) {\n    H32[off + i >> 2 | 0] = buf[i] << 24 | buf[i + 1] << 16 | buf[i + 2] << 8 | buf[i + 3];\n  }\n  switch (lm) {\n    case 3:\n      H8[off + j + 1 | 0] = buf[j + 2];\n    case 2:\n      H8[off + j + 2 | 0] = buf[j + 1];\n    case 1:\n      H8[off + j + 3 | 0] = buf[j];\n  }\n};\n\nmodule.exports = function (data, H8, H32, start, len, off) {\n  if (typeof data === 'string') {\n    return convStr(data, H8, H32, start, len, off);\n  }\n  if (data instanceof Array) {\n    return convBuf(data, H8, H32, start, len, off);\n  }\n  // Safely doing a Buffer check using \"this\" to avoid Buffer polyfill to be included in the dist\n  if (_this && _this.Buffer && _this.Buffer.isBuffer(data)) {\n    return convBuf(data, H8, H32, start, len, off);\n  }\n  if (data instanceof ArrayBuffer) {\n    return convBuf(new Uint8Array(data), H8, H32, start, len, off);\n  }\n  if (data.buffer instanceof ArrayBuffer) {\n    return convBuf(new Uint8Array(data.buffer, data.byteOffset, data.byteLength), H8, H32, start, len, off);\n  }\n  if (data instanceof Blob) {\n    return convBlob(data, H8, H32, start, len, off);\n  }\n  throw new Error('Unsupported data type.');\n};\n\n/***/ }),\n/* 7 */\n/***/ (function(module, exports, __webpack_require__) {\n\nfunction _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError(\"Cannot call a class as a function\"); } }\n\n/* eslint-env commonjs, browser */\n\nvar Rusha = __webpack_require__(0);\n\nvar _require = __webpack_require__(1),\n    toHex = _require.toHex;\n\nvar Hash = function () {\n  function Hash() {\n    _classCallCheck(this, Hash);\n\n    this._rusha = new Rusha();\n    this._rusha.resetState();\n  }\n\n  Hash.prototype.update = function update(data) {\n    this._rusha.append(data);\n    return this;\n  };\n\n  Hash.prototype.digest = function digest(encoding) {\n    var digest = this._rusha.rawEnd().buffer;\n    if (!encoding) {\n      return digest;\n    }\n    if (encoding === 'hex') {\n      return toHex(digest);\n    }\n    throw new Error('unsupported digest encoding');\n  };\n\n  return Hash;\n}();\n\nmodule.exports = function () {\n  return new Hash();\n};\n\n/***/ })\n/******/ ]);\n});\n\n/***/ }),\n\n/***/ \"./node_modules/webpack-strip-block/index.js?!./src/js/webworkers/compression.worker.js\":\n/*!**********************************************************************************************!*\\\n  !*** ./node_modules/webpack-strip-block??ref--7-0!./src/js/webworkers/compression.worker.js ***!\n  \\**********************************************************************************************/\n/*! no exports provided */\n/***/ (function(module, __webpack_exports__, __webpack_require__) {\n\n\"use strict\";\n__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _core_config__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../core/config */ \"./src/js/core/config.js\");\n/* harmony import */ var _core_lzstring__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../core/lzstring */ \"./src/js/core/lzstring.js\");\n/* harmony import */ var _core_sensitive_utils_encrypt__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../core/sensitive_utils.encrypt */ \"./src/js/core/sensitive_utils.encrypt.js\");\n/* harmony import */ var _savegame_savegame_compressor__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../savegame/savegame_compressor */ \"./src/js/savegame/savegame_compressor.js\");\n\r\n\r\n\r\n\r\n\r\nfunction accessNestedPropertyReverse(obj, keys) {\r\n    let result = obj;\r\n    for (let i = keys.length - 1; i >= 0; --i) {\r\n        result = result[keys[i]];\r\n    }\r\n    return result;\r\n}\r\n\r\nconst salt = accessNestedPropertyReverse(_core_config__WEBPACK_IMPORTED_MODULE_0__[\"globalConfig\"], [\"file\", \"info\"]);\r\n\r\nself.addEventListener(\"message\", event => {\r\n    // @ts-ignore\r\n    const { jobId, job, data } = event.data;\r\n    const result = performJob(job, data);\r\n\r\n    // @ts-ignore\r\n    self.postMessage({ jobId, result });\r\n});\r\n\r\nfunction performJob(job, data) {\r\n    switch (job) {\r\n        case \"compressX64\": {\r\n            return Object(_core_lzstring__WEBPACK_IMPORTED_MODULE_1__[\"compressX64\"])(data);\r\n        }\r\n\r\n        case \"compressObject\": {\r\n            const optimized = Object(_savegame_savegame_compressor__WEBPACK_IMPORTED_MODULE_3__[\"compressObject\"])(data.obj);\r\n            const stringified = JSON.stringify(optimized);\r\n\r\n            const checksum = Object(_core_sensitive_utils_encrypt__WEBPACK_IMPORTED_MODULE_2__[\"computeCrc\"])(stringified + salt);\r\n            return data.compressionPrefix + Object(_core_lzstring__WEBPACK_IMPORTED_MODULE_1__[\"compressX64\"])(checksum + stringified);\r\n        }\r\n        default:\r\n            throw new Error(\"Webworker: Unknown job: \" + job);\r\n    }\r\n}\r\n\n\n/***/ }),\n\n/***/ \"./src/js/core/config.js\":\n/*!*******************************!*\\\n  !*** ./src/js/core/config.js ***!\n  \\*******************************/\n/*! exports provided: IS_DEBUG, SUPPORT_TOUCH, IS_MAC, THIRDPARTY_URLS, A_B_TESTING_LINK_TYPE, globalConfig, IS_MOBILE */\n/***/ (function(module, __webpack_exports__, __webpack_require__) {\n\n\"use strict\";\n__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"IS_DEBUG\", function() { return IS_DEBUG; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"SUPPORT_TOUCH\", function() { return SUPPORT_TOUCH; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"IS_MAC\", function() { return IS_MAC; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"THIRDPARTY_URLS\", function() { return THIRDPARTY_URLS; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"A_B_TESTING_LINK_TYPE\", function() { return A_B_TESTING_LINK_TYPE; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"globalConfig\", function() { return globalConfig; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"IS_MOBILE\", function() { return IS_MOBILE; });\nconst IS_DEBUG =\r\n     true &&\r\n    typeof window !== \"undefined\" &&\r\n    window.location.port === \"3005\" &&\r\n    (window.location.host.indexOf(\"localhost:\") >= 0 || window.location.host.indexOf(\"192.168.0.\") >= 0) &&\r\n    window.location.search.indexOf(\"nodebug\") < 0;\r\n\r\nconst SUPPORT_TOUCH = false;\r\n\r\nconst IS_MAC = navigator.platform.toLowerCase().indexOf(\"mac\") >= 0;\r\n\r\nconst smoothCanvas = true;\r\n\r\nconst THIRDPARTY_URLS = {\r\n    discord: \"https://discord.gg/HN7EVzV\",\r\n    github: \"https://github.com/tobspr/shapez.io\",\r\n    reddit: \"https://www.reddit.com/r/shapezio\",\r\n    shapeViewer: \"https://viewer.shapez.io\",\r\n\r\n    standaloneStorePage: \"https://store.steampowered.com/app/1318690/shapezio/\",\r\n\r\n    levelTutorialVideos: {\r\n        21: \"https://www.youtube.com/watch?v=0nUfRLMCcgo&\",\r\n        25: \"https://www.youtube.com/watch?v=7OCV1g40Iew&\",\r\n        26: \"https://www.youtube.com/watch?v=gfm6dS1dCoY\",\r\n    },\r\n};\r\n\r\n// export const A_B_TESTING_LINK_TYPE = Math.random() > 0.95 ? \"steam_1_pr\" : \"steam_2_npr\";\r\nconst A_B_TESTING_LINK_TYPE = \"steam_2_npr\";\r\n\r\nconst globalConfig = {\r\n    // Size of a single tile in Pixels.\r\n    // NOTICE: Update webpack.production.config too!\r\n    tileSize: 32,\r\n    halfTileSize: 16,\r\n\r\n    // Which dpi the assets have\r\n    assetsDpi: 192 / 32,\r\n    assetsSharpness: 1.5,\r\n    shapesSharpness: 1.4,\r\n\r\n    // Production analytics\r\n    statisticsGraphDpi: 2.5,\r\n    statisticsGraphSlices: 100,\r\n    analyticsSliceDurationSeconds:  true ? 1 : undefined,\r\n\r\n    minimumTickRate: 25,\r\n    maximumTickRate: 500,\r\n\r\n    // Map\r\n    mapChunkSize: 16,\r\n    mapChunkOverviewMinZoom: 0.9,\r\n    mapChunkWorldSize: null, // COMPUTED\r\n\r\n    // Belt speeds\r\n    // NOTICE: Update webpack.production.config too!\r\n    beltSpeedItemsPerSecond: 2,\r\n    minerSpeedItemsPerSecond: 0, // COMPUTED\r\n\r\n    defaultItemDiameter: 20,\r\n\r\n    itemSpacingOnBelts: 0.63,\r\n\r\n    wiresSpeedItemsPerSecond: 6,\r\n\r\n    undergroundBeltMaxTilesByTier: [5, 9],\r\n\r\n    readerAnalyzeIntervalSeconds: 10,\r\n\r\n    buildingSpeeds: {\r\n        cutter: 1 / 4,\r\n        cutterQuad: 1 / 4,\r\n        cutterLaser: 1 / 3,\r\n        rotater: 1 / 1,\r\n        rotaterCCW: 1 / 1,\r\n        rotater180: 1 / 1,\r\n        painter: 1 / 6,\r\n        painterDouble: 1 / 8,\r\n        painterQuad: 1 / 2,\r\n        mixer: 1 / 5,\r\n        stacker: 1 / 8,\r\n        shapeMerger: 1 / 8,\r\n    },\r\n\r\n    // Zooming\r\n    initialZoom: 1.9,\r\n    minZoomLevel: 0.1,\r\n    maxZoomLevel: 3,\r\n\r\n    // Global game speed\r\n    gameSpeed: 1,\r\n\r\n    warmupTimeSecondsFast: 0.5,\r\n    warmupTimeSecondsRegular: 3,\r\n\r\n    smoothing: {\r\n        smoothMainCanvas: smoothCanvas && true,\r\n        quality: \"low\", // Low is CRUCIAL for mobile performance!\r\n    },\r\n\r\n    rendering: {},\r\n    debug: __webpack_require__(/*! ./config.local */ \"./src/js/core/config.local.js\").default,\r\n\r\n    // Secret vars\r\n    info: {\r\n        // Binary file salt\r\n        file: \"Ec'])@^+*9zMevK3uMV4432x9%iK'=\",\r\n\r\n        // Savegame salt\r\n        sgSalt: \"}95Q3%8/.837Lqym_BJx%q7)pAHJbF\",\r\n\r\n        // Analytics key\r\n        analyticsApiKey: \"baf6a50f0cc7dfdec5a0e21c88a1c69a4b34bc4a\",\r\n    },\r\n};\r\n\r\nconst IS_MOBILE = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);\r\n\r\n// Automatic calculations\r\nglobalConfig.minerSpeedItemsPerSecond = globalConfig.beltSpeedItemsPerSecond / 5;\r\n\r\nglobalConfig.mapChunkWorldSize = globalConfig.mapChunkSize * globalConfig.tileSize;\r\n\r\n// Dynamic calculations\r\nif (globalConfig.debug.disableMapOverview) {\r\n    globalConfig.mapChunkOverviewMinZoom = 0;\r\n}\r\n\r\n// Stuff for making the trailer\r\nif ( true && globalConfig.debug.renderForTrailer) {\r\n    globalConfig.debug.framePausesBetweenTicks = 32;\r\n    // globalConfig.mapChunkOverviewMinZoom = 0.0;\r\n    // globalConfig.debug.instantBelts = true;\r\n    // globalConfig.debug.instantProcessors = true;\r\n    // globalConfig.debug.instantMiners = true;\r\n    globalConfig.debug.disableSavegameWrite = true;\r\n    // globalConfig.beltSpeedItemsPerSecond *= 2;\r\n}\r\n\r\nif (globalConfig.debug.fastGameEnter) {\r\n    globalConfig.debug.noArtificialDelays = true;\r\n}\r\n\r\nif ( true && globalConfig.debug.noArtificialDelays) {\r\n    globalConfig.warmupTimeSecondsFast = 0;\r\n    globalConfig.warmupTimeSecondsRegular = 0;\r\n}\r\n\n\n/***/ }),\n\n/***/ \"./src/js/core/config.local.js\":\n/*!*************************************!*\\\n  !*** ./src/js/core/config.local.js ***!\n  \\*************************************/\n/*! exports provided: default */\n/***/ (function(module, __webpack_exports__, __webpack_require__) {\n\n\"use strict\";\n__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\r\n    // You can set any debug options here!\r\n    /* dev:start */\r\n    // -----------------------------------------------------------------------------------\r\n    // Quickly enters the game and skips the main menu - good for fast iterating\r\n    // fastGameEnter: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Skips any delays like transitions between states and such\r\n    // noArtificialDelays: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Disables writing of savegames, useful for testing the same savegame over and over\r\n    // disableSavegameWrite: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Shows bounds of all entities\r\n    // showEntityBounds: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Shows arrows for every ejector / acceptor\r\n    // showAcceptorEjectors: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Disables the music (Overrides any setting, can cause weird behaviour)\r\n    // disableMusic: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Do not render static map entities (=most buildings)\r\n    // doNotRenderStatics: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Allow to zoom freely without limits\r\n    // disableZoomLimits: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // All rewards can be unlocked by passing just 1 of any shape\r\n    // rewardsInstant: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Unlocks all buildings\r\n    // allBuildingsUnlocked: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Disables cost of blueprints\r\n    // blueprintsNoCost: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Disables cost of upgrades\r\n    // upgradesNoCost: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Disables the dialog when completing a level\r\n    // disableUnlockDialog: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Disables the simulation - This effectively pauses the game.\r\n    // disableLogicTicks: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Test the rendering if everything is clipped out properly\r\n    // testClipping: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Allows to render slower, useful for recording at half speed to avoid stuttering\r\n    // framePausesBetweenTicks: 250,\r\n    // -----------------------------------------------------------------------------------\r\n    // Replace all translations with emojis to see which texts are translateable\r\n    // testTranslations: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Enables an inspector which shows information about the entity below the curosr\r\n    // enableEntityInspector: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Enables ads in the local build (normally they are deactivated there)\r\n    // testAds: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Disables the automatic switch to an overview when zooming out\r\n    // disableMapOverview: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Disables the notification when there are new entries in the changelog since last played\r\n    // disableUpgradeNotification: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Makes belts almost infinitely fast\r\n    // instantBelts: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Makes item processors almost infinitely fast\r\n    // instantProcessors: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Makes miners almost infinitely fast\r\n    // instantMiners: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // When using fastGameEnter, controls whether a new game is started or the last one is resumed\r\n    // resumeGameOnFastEnter: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Special option used to render the trailer\r\n    // renderForTrailer: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Whether to render changes\r\n    // renderChanges: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Whether to render belt paths\r\n    // renderBeltPaths: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Whether to check belt paths\r\n    // checkBeltPaths: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Whether to items / s instead of items / m in stats\r\n    // detailedStatistics: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Shows detailed information about which atlas is used\r\n    // showAtlasInfo: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Renders the rotation of all wires\r\n    // renderWireRotations: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Renders information about wire networks\r\n    // renderWireNetworkInfos: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Disables ejector animations and processing\r\n    // disableEjectorProcessing: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Allows manual ticking\r\n    // manualTickOnly: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Disables slow asserts, useful for debugging performance\r\n    // disableSlowAsserts: true,\r\n    // -----------------------------------------------------------------------------------\r\n    /* dev:end */\r\n});\r\n\n\n/***/ }),\n\n/***/ \"./src/js/core/lzstring.js\":\n/*!*********************************!*\\\n  !*** ./src/js/core/lzstring.js ***!\n  \\*********************************/\n/*! exports provided: compressU8, compressU8WHeader, decompressU8WHeader, compressX64, decompressX64 */\n/***/ (function(module, __webpack_exports__, __webpack_require__) {\n\n\"use strict\";\n__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"compressU8\", function() { return compressU8; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"compressU8WHeader\", function() { return compressU8WHeader; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"decompressU8WHeader\", function() { return decompressU8WHeader; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"compressX64\", function() { return compressX64; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"decompressX64\", function() { return decompressX64; });\n// Copyright (c) 2013 Pieroxy <pieroxy@pieroxy.net>\r\n// This work is free. You can redistribute it and/or modify it\r\n// under the terms of the WTFPL, Version 2\r\n// For more information see LICENSE.txt or http://www.wtfpl.net/\r\n//\r\n// For more information, the home page:\r\n// http://pieroxy.net/blog/pages/lz-string/testing.html\r\n//\r\n// LZ-based compression algorithm, version 1.4.4\r\n\r\nconst fromCharCode = String.fromCharCode;\r\nconst hasOwnProperty = Object.prototype.hasOwnProperty;\r\n\r\nconst keyStrUriSafe = \"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+-$\";\r\nconst baseReverseDic = {};\r\n\r\nfunction getBaseValue(alphabet, character) {\r\n    if (!baseReverseDic[alphabet]) {\r\n        baseReverseDic[alphabet] = {};\r\n        for (let i = 0; i < alphabet.length; i++) {\r\n            baseReverseDic[alphabet][alphabet.charAt(i)] = i;\r\n        }\r\n    }\r\n    return baseReverseDic[alphabet][character];\r\n}\r\n\r\n//compress into uint8array (UCS-2 big endian format)\r\nfunction compressU8(uncompressed) {\r\n    let compressed = compress(uncompressed);\r\n    let buf = new Uint8Array(compressed.length * 2); // 2 bytes per character\r\n\r\n    for (let i = 0, TotalLen = compressed.length; i < TotalLen; i++) {\r\n        let current_value = compressed.charCodeAt(i);\r\n        buf[i * 2] = current_value >>> 8;\r\n        buf[i * 2 + 1] = current_value % 256;\r\n    }\r\n    return buf;\r\n}\r\n\r\n// Compreses with header\r\n/**\r\n * @param {string} uncompressed\r\n * @param {number} header\r\n */\r\nfunction compressU8WHeader(uncompressed, header) {\r\n    let compressed = compress(uncompressed);\r\n    let buf = new Uint8Array(2 + compressed.length * 2); // 2 bytes per character\r\n\r\n    buf[0] = header >>> 8;\r\n    buf[1] = header % 256;\r\n    for (let i = 0, TotalLen = compressed.length; i < TotalLen; i++) {\r\n        let current_value = compressed.charCodeAt(i);\r\n        buf[2 + i * 2] = current_value >>> 8;\r\n        buf[2 + i * 2 + 1] = current_value % 256;\r\n    }\r\n    return buf;\r\n}\r\n\r\n//decompress from uint8array (UCS-2 big endian format)\r\n/**\r\n *\r\n * @param {Uint8Array} compressed\r\n */\r\nfunction decompressU8WHeader(compressed) {\r\n    // let buf = new Array(compressed.length / 2); // 2 bytes per character\r\n    // for (let i = 0, TotalLen = buf.length; i < TotalLen; i++) {\r\n    //     buf[i] = compressed[i * 2] * 256 + compressed[i * 2 + 1];\r\n    // }\r\n\r\n    // let result = [];\r\n    // buf.forEach(function (c) {\r\n    //     result.push(fromCharCode(c));\r\n    // });\r\n    let result = [];\r\n    for (let i = 2, n = compressed.length; i < n; i += 2) {\r\n        const code = compressed[i] * 256 + compressed[i + 1];\r\n        result.push(fromCharCode(code));\r\n    }\r\n    return decompress(result.join(\"\"));\r\n}\r\n\r\n//compress into a string that is already URI encoded\r\nfunction compressX64(input) {\r\n    if (input == null) return \"\";\r\n    return _compress(input, 6, function (a) {\r\n        return keyStrUriSafe.charAt(a);\r\n    });\r\n}\r\n\r\n//decompress from an output of compressToEncodedURIComponent\r\nfunction decompressX64(input) {\r\n    if (input == null) return \"\";\r\n    if (input == \"\") return null;\r\n    input = input.replace(/ /g, \"+\");\r\n    return _decompress(input.length, 32, function (index) {\r\n        return getBaseValue(keyStrUriSafe, input.charAt(index));\r\n    });\r\n}\r\n\r\nfunction compress(uncompressed) {\r\n    return _compress(uncompressed, 16, function (a) {\r\n        return fromCharCode(a);\r\n    });\r\n}\r\n\r\nfunction _compress(uncompressed, bitsPerChar, getCharFromInt) {\r\n    if (uncompressed == null) return \"\";\r\n    let i,\r\n        value,\r\n        context_dictionary = {},\r\n        context_dictionaryToCreate = {},\r\n        context_c = \"\",\r\n        context_wc = \"\",\r\n        context_w = \"\",\r\n        context_enlargeIn = 2, // Compensate for the first entry which should not count\r\n        context_dictSize = 3,\r\n        context_numBits = 2,\r\n        context_data = [],\r\n        context_data_val = 0,\r\n        context_data_position = 0,\r\n        ii;\r\n\r\n    for (ii = 0; ii < uncompressed.length; ii += 1) {\r\n        context_c = uncompressed.charAt(ii);\r\n        if (!hasOwnProperty.call(context_dictionary, context_c)) {\r\n            context_dictionary[context_c] = context_dictSize++;\r\n            context_dictionaryToCreate[context_c] = true;\r\n        }\r\n\r\n        context_wc = context_w + context_c;\r\n        if (hasOwnProperty.call(context_dictionary, context_wc)) {\r\n            context_w = context_wc;\r\n        } else {\r\n            if (hasOwnProperty.call(context_dictionaryToCreate, context_w)) {\r\n                if (context_w.charCodeAt(0) < 256) {\r\n                    for (i = 0; i < context_numBits; i++) {\r\n                        context_data_val = context_data_val << 1;\r\n                        if (context_data_position == bitsPerChar - 1) {\r\n                            context_data_position = 0;\r\n                            context_data.push(getCharFromInt(context_data_val));\r\n                            context_data_val = 0;\r\n                        } else {\r\n                            context_data_position++;\r\n                        }\r\n                    }\r\n                    value = context_w.charCodeAt(0);\r\n                    for (i = 0; i < 8; i++) {\r\n                        context_data_val = (context_data_val << 1) | (value & 1);\r\n                        if (context_data_position == bitsPerChar - 1) {\r\n                            context_data_position = 0;\r\n                            context_data.push(getCharFromInt(context_data_val));\r\n                            context_data_val = 0;\r\n                        } else {\r\n                            context_data_position++;\r\n                        }\r\n                        value = value >> 1;\r\n                    }\r\n                } else {\r\n                    value = 1;\r\n                    for (i = 0; i < context_numBits; i++) {\r\n                        context_data_val = (context_data_val << 1) | value;\r\n                        if (context_data_position == bitsPerChar - 1) {\r\n                            context_data_position = 0;\r\n                            context_data.push(getCharFromInt(context_data_val));\r\n                            context_data_val = 0;\r\n                        } else {\r\n                            context_data_position++;\r\n                        }\r\n                        value = 0;\r\n                    }\r\n                    value = context_w.charCodeAt(0);\r\n                    for (i = 0; i < 16; i++) {\r\n                        context_data_val = (context_data_val << 1) | (value & 1);\r\n                        if (context_data_position == bitsPerChar - 1) {\r\n                            context_data_position = 0;\r\n                            context_data.push(getCharFromInt(context_data_val));\r\n                            context_data_val = 0;\r\n                        } else {\r\n                            context_data_position++;\r\n                        }\r\n                        value = value >> 1;\r\n                    }\r\n                }\r\n                context_enlargeIn--;\r\n                if (context_enlargeIn == 0) {\r\n                    context_enlargeIn = Math.pow(2, context_numBits);\r\n                    context_numBits++;\r\n                }\r\n                delete context_dictionaryToCreate[context_w];\r\n            } else {\r\n                value = context_dictionary[context_w];\r\n                for (i = 0; i < context_numBits; i++) {\r\n                    context_data_val = (context_data_val << 1) | (value & 1);\r\n                    if (context_data_position == bitsPerChar - 1) {\r\n                        context_data_position = 0;\r\n                        context_data.push(getCharFromInt(context_data_val));\r\n                        context_data_val = 0;\r\n                    } else {\r\n                        context_data_position++;\r\n                    }\r\n                    value = value >> 1;\r\n                }\r\n            }\r\n            context_enlargeIn--;\r\n            if (context_enlargeIn == 0) {\r\n                context_enlargeIn = Math.pow(2, context_numBits);\r\n                context_numBits++;\r\n            }\r\n            // Add wc to the dictionary.\r\n            context_dictionary[context_wc] = context_dictSize++;\r\n            context_w = String(context_c);\r\n        }\r\n    }\r\n\r\n    // Output the code for w.\r\n    if (context_w !== \"\") {\r\n        if (hasOwnProperty.call(context_dictionaryToCreate, context_w)) {\r\n            if (context_w.charCodeAt(0) < 256) {\r\n                for (i = 0; i < context_numBits; i++) {\r\n                    context_data_val = context_data_val << 1;\r\n                    if (context_data_position == bitsPerChar - 1) {\r\n                        context_data_position = 0;\r\n                        context_data.push(getCharFromInt(context_data_val));\r\n                        context_data_val = 0;\r\n                    } else {\r\n                        context_data_position++;\r\n                    }\r\n                }\r\n                value = context_w.charCodeAt(0);\r\n                for (i = 0; i < 8; i++) {\r\n                    context_data_val = (context_data_val << 1) | (value & 1);\r\n                    if (context_data_position == bitsPerChar - 1) {\r\n                        context_data_position = 0;\r\n                        context_data.push(getCharFromInt(context_data_val));\r\n                        context_data_val = 0;\r\n                    } else {\r\n                        context_data_position++;\r\n                    }\r\n                    value = value >> 1;\r\n                }\r\n            } else {\r\n                value = 1;\r\n                for (i = 0; i < context_numBits; i++) {\r\n                    context_data_val = (context_data_val << 1) | value;\r\n                    if (context_data_position == bitsPerChar - 1) {\r\n                        context_data_position = 0;\r\n                        context_data.push(getCharFromInt(context_data_val));\r\n                        context_data_val = 0;\r\n                    } else {\r\n                        context_data_position++;\r\n                    }\r\n                    value = 0;\r\n                }\r\n                value = context_w.charCodeAt(0);\r\n                for (i = 0; i < 16; i++) {\r\n                    context_data_val = (context_data_val << 1) | (value & 1);\r\n                    if (context_data_position == bitsPerChar - 1) {\r\n                        context_data_position = 0;\r\n                        context_data.push(getCharFromInt(context_data_val));\r\n                        context_data_val = 0;\r\n                    } else {\r\n                        context_data_position++;\r\n                    }\r\n                    value = value >> 1;\r\n                }\r\n            }\r\n            context_enlargeIn--;\r\n            if (context_enlargeIn == 0) {\r\n                context_enlargeIn = Math.pow(2, context_numBits);\r\n                context_numBits++;\r\n            }\r\n            delete context_dictionaryToCreate[context_w];\r\n        } else {\r\n            value = context_dictionary[context_w];\r\n            for (i = 0; i < context_numBits; i++) {\r\n                context_data_val = (context_data_val << 1) | (value & 1);\r\n                if (context_data_position == bitsPerChar - 1) {\r\n                    context_data_position = 0;\r\n                    context_data.push(getCharFromInt(context_data_val));\r\n                    context_data_val = 0;\r\n                } else {\r\n                    context_data_position++;\r\n                }\r\n                value = value >> 1;\r\n            }\r\n        }\r\n        context_enlargeIn--;\r\n        if (context_enlargeIn == 0) {\r\n            context_enlargeIn = Math.pow(2, context_numBits);\r\n            context_numBits++;\r\n        }\r\n    }\r\n\r\n    // Mark the end of the stream\r\n    value = 2;\r\n    for (i = 0; i < context_numBits; i++) {\r\n        context_data_val = (context_data_val << 1) | (value & 1);\r\n        if (context_data_position == bitsPerChar - 1) {\r\n            context_data_position = 0;\r\n            context_data.push(getCharFromInt(context_data_val));\r\n            context_data_val = 0;\r\n        } else {\r\n            context_data_position++;\r\n        }\r\n        value = value >> 1;\r\n    }\r\n\r\n    // Flush the last char\r\n    // eslint-disable-next-line no-constant-condition\r\n    while (true) {\r\n        context_data_val = context_data_val << 1;\r\n        if (context_data_position == bitsPerChar - 1) {\r\n            context_data.push(getCharFromInt(context_data_val));\r\n            break;\r\n        } else context_data_position++;\r\n    }\r\n    return context_data.join(\"\");\r\n}\r\n\r\nfunction decompress(compressed) {\r\n    if (compressed == null) return \"\";\r\n    if (compressed == \"\") return null;\r\n    return _decompress(compressed.length, 32768, function (index) {\r\n        return compressed.charCodeAt(index);\r\n    });\r\n}\r\n\r\nfunction _decompress(length, resetValue, getNextValue) {\r\n    let dictionary = [],\r\n        next,\r\n        enlargeIn = 4,\r\n        dictSize = 4,\r\n        numBits = 3,\r\n        entry = \"\",\r\n        result = [],\r\n        i,\r\n        w,\r\n        bits,\r\n        resb,\r\n        maxpower,\r\n        power,\r\n        c,\r\n        data = { val: getNextValue(0), position: resetValue, index: 1 };\r\n\r\n    for (i = 0; i < 3; i += 1) {\r\n        dictionary[i] = i;\r\n    }\r\n\r\n    bits = 0;\r\n    maxpower = Math.pow(2, 2);\r\n    power = 1;\r\n    while (power != maxpower) {\r\n        resb = data.val & data.position;\r\n        data.position >>= 1;\r\n        if (data.position == 0) {\r\n            data.position = resetValue;\r\n            data.val = getNextValue(data.index++);\r\n        }\r\n        bits |= (resb > 0 ? 1 : 0) * power;\r\n        power <<= 1;\r\n    }\r\n\r\n    switch ((next = bits)) {\r\n        case 0:\r\n            bits = 0;\r\n            maxpower = Math.pow(2, 8);\r\n            power = 1;\r\n            while (power != maxpower) {\r\n                resb = data.val & data.position;\r\n                data.position >>= 1;\r\n                if (data.position == 0) {\r\n                    data.position = resetValue;\r\n                    data.val = getNextValue(data.index++);\r\n                }\r\n                bits |= (resb > 0 ? 1 : 0) * power;\r\n                power <<= 1;\r\n            }\r\n            c = fromCharCode(bits);\r\n            break;\r\n        case 1:\r\n            bits = 0;\r\n            maxpower = Math.pow(2, 16);\r\n            power = 1;\r\n            while (power != maxpower) {\r\n                resb = data.val & data.position;\r\n                data.position >>= 1;\r\n                if (data.position == 0) {\r\n                    data.position = resetValue;\r\n                    data.val = getNextValue(data.index++);\r\n                }\r\n                bits |= (resb > 0 ? 1 : 0) * power;\r\n                power <<= 1;\r\n            }\r\n            c = fromCharCode(bits);\r\n            break;\r\n        case 2:\r\n            return \"\";\r\n    }\r\n    dictionary[3] = c;\r\n    w = c;\r\n    result.push(c);\r\n\r\n    // eslint-disable-next-line no-constant-condition\r\n    while (true) {\r\n        if (data.index > length) {\r\n            return \"\";\r\n        }\r\n\r\n        bits = 0;\r\n        maxpower = Math.pow(2, numBits);\r\n        power = 1;\r\n        while (power != maxpower) {\r\n            resb = data.val & data.position;\r\n            data.position >>= 1;\r\n            if (data.position == 0) {\r\n                data.position = resetValue;\r\n                data.val = getNextValue(data.index++);\r\n            }\r\n            bits |= (resb > 0 ? 1 : 0) * power;\r\n            power <<= 1;\r\n        }\r\n\r\n        switch ((c = bits)) {\r\n            case 0:\r\n                bits = 0;\r\n                maxpower = Math.pow(2, 8);\r\n                power = 1;\r\n                while (power != maxpower) {\r\n                    resb = data.val & data.position;\r\n                    data.position >>= 1;\r\n                    if (data.position == 0) {\r\n                        data.position = resetValue;\r\n                        data.val = getNextValue(data.index++);\r\n                    }\r\n                    bits |= (resb > 0 ? 1 : 0) * power;\r\n                    power <<= 1;\r\n                }\r\n\r\n                dictionary[dictSize++] = fromCharCode(bits);\r\n                c = dictSize - 1;\r\n                enlargeIn--;\r\n                break;\r\n            case 1:\r\n                bits = 0;\r\n                maxpower = Math.pow(2, 16);\r\n                power = 1;\r\n                while (power != maxpower) {\r\n                    resb = data.val & data.position;\r\n                    data.position >>= 1;\r\n                    if (data.position == 0) {\r\n                        data.position = resetValue;\r\n                        data.val = getNextValue(data.index++);\r\n                    }\r\n                    bits |= (resb > 0 ? 1 : 0) * power;\r\n                    power <<= 1;\r\n                }\r\n                dictionary[dictSize++] = fromCharCode(bits);\r\n                c = dictSize - 1;\r\n                enlargeIn--;\r\n                break;\r\n            case 2:\r\n                return result.join(\"\");\r\n        }\r\n\r\n        if (enlargeIn == 0) {\r\n            enlargeIn = Math.pow(2, numBits);\r\n            numBits++;\r\n        }\r\n\r\n        if (dictionary[c]) {\r\n            // @ts-ignore\r\n            entry = dictionary[c];\r\n        } else {\r\n            if (c === dictSize) {\r\n                entry = w + w.charAt(0);\r\n            } else {\r\n                return null;\r\n            }\r\n        }\r\n        result.push(entry);\r\n\r\n        // Add w+entry[0] to the dictionary.\r\n        dictionary[dictSize++] = w + entry.charAt(0);\r\n        enlargeIn--;\r\n\r\n        w = entry;\r\n\r\n        if (enlargeIn == 0) {\r\n            enlargeIn = Math.pow(2, numBits);\r\n            numBits++;\r\n        }\r\n    }\r\n}\r\n\n\n/***/ }),\n\n/***/ \"./src/js/core/sensitive_utils.encrypt.js\":\n/*!************************************************!*\\\n  !*** ./src/js/core/sensitive_utils.encrypt.js ***!\n  \\************************************************/\n/*! exports provided: sha1, getNameOfProvider, CRC_PREFIX, computeCrc */\n/***/ (function(module, __webpack_exports__, __webpack_require__) {\n\n\"use strict\";\n__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"sha1\", function() { return sha1; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"getNameOfProvider\", function() { return getNameOfProvider; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"CRC_PREFIX\", function() { return CRC_PREFIX; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"computeCrc\", function() { return computeCrc; });\n/* harmony import */ var rusha__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! rusha */ \"./node_modules/rusha/dist/rusha.js\");\n/* harmony import */ var rusha__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(rusha__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var crc_crc32__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! crc/crc32 */ \"./node_modules/crc/crc32.js\");\n/* harmony import */ var _lzstring__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./lzstring */ \"./src/js/core/lzstring.js\");\n\r\n\r\n\r\n\r\nfunction sha1(str) {\r\n    return Object(rusha__WEBPACK_IMPORTED_MODULE_0__[\"createHash\"])().update(str).digest(\"hex\");\r\n}\r\n\r\n// Window.location.host\r\nfunction getNameOfProvider() {\r\n    return window[Object(_lzstring__WEBPACK_IMPORTED_MODULE_2__[\"decompressX64\"])(\"DYewxghgLgliB2Q\")][Object(_lzstring__WEBPACK_IMPORTED_MODULE_2__[\"decompressX64\"])(\"BYewzgLgdghgtgUyA\")];\r\n}\r\n\r\n// Distinguish legacy crc prefixes\r\nconst CRC_PREFIX = \"crc32\".padEnd(32, \"-\");\r\n\r\n/**\r\n * Computes the crc for a given string\r\n * @param {string} str\r\n */\r\nfunction computeCrc(str) {\r\n    return CRC_PREFIX + Object(crc_crc32__WEBPACK_IMPORTED_MODULE_1__[\"default\"])(str).toString(16).padStart(8, \"0\");\r\n}\r\n\n\n/***/ }),\n\n/***/ \"./src/js/savegame/savegame_compressor.js\":\n/*!************************************************!*\\\n  !*** ./src/js/savegame/savegame_compressor.js ***!\n  \\************************************************/\n/*! exports provided: compressObject, decompressObject */\n/***/ (function(module, __webpack_exports__, __webpack_require__) {\n\n\"use strict\";\n__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"compressObject\", function() { return compressObject; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"decompressObject\", function() { return decompressObject; });\nconst charmap =\r\n    \"!#%&'()*+,-./:;<=>?@[]^_`{|}~¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿABCDEFGHIJKLMNOPQRSTUVWXYZ\";\r\n\r\nlet compressionCache = {};\r\nlet decompressionCache = {};\r\n\r\n/**\r\n * Compresses an integer into a tight string representation\r\n * @param {number} i\r\n * @returns {string}\r\n */\r\nfunction compressInt(i) {\r\n    // Zero value breaks\r\n    i += 1;\r\n\r\n    if (compressionCache[i]) {\r\n        return compressionCache[i];\r\n    }\r\n    let result = \"\";\r\n    do {\r\n        result += charmap[i % charmap.length];\r\n        i = Math.floor(i / charmap.length);\r\n    } while (i > 0);\r\n    return (compressionCache[i] = result);\r\n}\r\n\r\n/**\r\n * Decompresses an integer from its tight string representation\r\n * @param {string} s\r\n * @returns {number}\r\n */\r\nfunction decompressInt(s) {\r\n    if (decompressionCache[s]) {\r\n        return decompressionCache[s];\r\n    }\r\n    s = \"\" + s;\r\n    let result = 0;\r\n    for (let i = s.length - 1; i >= 0; --i) {\r\n        result = result * charmap.length + charmap.indexOf(s.charAt(i));\r\n    }\r\n    // Fixes zero value break fix from above\r\n    result -= 1;\r\n    return (decompressionCache[s] = result);\r\n}\r\n\r\n// Sanity\r\nif (true) {\r\n    for (let i = 0; i < 10000; ++i) {\r\n        if (decompressInt(compressInt(i)) !== i) {\r\n            throw new Error(\r\n                \"Bad compression for: \" +\r\n                    i +\r\n                    \" compressed: \" +\r\n                    compressInt(i) +\r\n                    \" decompressed: \" +\r\n                    decompressInt(compressInt(i))\r\n            );\r\n        }\r\n    }\r\n}\r\n\r\n/**\r\n * @param {any} obj\r\n * @param {Map} keys\r\n * @param {Map} values\r\n * @returns {any[]|object|number|string}\r\n */\r\nfunction compressObjectInternal(obj, keys, values) {\r\n    if (Array.isArray(obj)) {\r\n        let result = [];\r\n        for (let i = 0; i < obj.length; ++i) {\r\n            result.push(compressObjectInternal(obj[i], keys, values));\r\n        }\r\n        return result;\r\n    } else if (typeof obj === \"object\" && obj !== null) {\r\n        let result = {};\r\n        for (const key in obj) {\r\n            let index = keys.get(key);\r\n            if (index === undefined) {\r\n                index = keys.size;\r\n                keys.set(key, index);\r\n            }\r\n            const value = obj[key];\r\n            result[compressInt(index)] = compressObjectInternal(value, keys, values);\r\n        }\r\n        return result;\r\n    } else if (typeof obj === \"string\") {\r\n        let index = values.get(obj);\r\n        if (index === undefined) {\r\n            index = values.size;\r\n            values.set(obj, index);\r\n        }\r\n        return compressInt(index);\r\n    }\r\n    return obj;\r\n}\r\n\r\n/**\r\n * @param {Map} hashMap\r\n * @returns {Array}\r\n */\r\nfunction indexMapToArray(hashMap) {\r\n    const result = new Array(hashMap.size);\r\n    hashMap.forEach((index, key) => {\r\n        result[index] = key;\r\n    });\r\n    return result;\r\n}\r\n\r\n/**\r\n * @param {object} obj\r\n */\r\nfunction compressObject(obj) {\r\n    const keys = new Map();\r\n    const values = new Map();\r\n    const data = compressObjectInternal(obj, keys, values);\r\n    return {\r\n        keys: indexMapToArray(keys),\r\n        values: indexMapToArray(values),\r\n        data,\r\n    };\r\n}\r\n\r\n/**\r\n * @param {object} obj\r\n * @param {string[]} keys\r\n * @param {any[]} values\r\n * @returns {object}\r\n */\r\nfunction decompressObjectInternal(obj, keys = [], values = []) {\r\n    if (Array.isArray(obj)) {\r\n        let result = [];\r\n        for (let i = 0; i < obj.length; ++i) {\r\n            result.push(decompressObjectInternal(obj[i], keys, values));\r\n        }\r\n        return result;\r\n    } else if (typeof obj === \"object\" && obj !== null) {\r\n        let result = {};\r\n        for (const key in obj) {\r\n            const realIndex = decompressInt(key);\r\n            const value = obj[key];\r\n            result[keys[realIndex]] = decompressObjectInternal(value, keys, values);\r\n        }\r\n        return result;\r\n    } else if (typeof obj === \"string\") {\r\n        const realIndex = decompressInt(obj);\r\n        return values[realIndex];\r\n    }\r\n    return obj;\r\n}\r\n\r\n/**\r\n * @param {object} obj\r\n */\r\nfunction decompressObject(obj) {\r\n    if (obj.keys && obj.values && obj.data) {\r\n        const keys = obj.keys;\r\n        const values = obj.values;\r\n        const result = decompressObjectInternal(obj.data, keys, values);\r\n        return result;\r\n    }\r\n    return obj;\r\n}\r\n\n\n/***/ })\n\n/******/ });\n//# sourceMappingURL=4c31cce6a01e75a69626.worker.js.map", null);
+  return __webpack_require__(/*! !./node_modules/worker-loader/dist/workers/InlineWorker.js */ "./node_modules/worker-loader/dist/workers/InlineWorker.js")("/******/ (function(modules) { // webpackBootstrap\n/******/ \t// The module cache\n/******/ \tvar installedModules = {};\n/******/\n/******/ \t// The require function\n/******/ \tfunction __webpack_require__(moduleId) {\n/******/\n/******/ \t\t// Check if module is in cache\n/******/ \t\tif(installedModules[moduleId]) {\n/******/ \t\t\treturn installedModules[moduleId].exports;\n/******/ \t\t}\n/******/ \t\t// Create a new module (and put it into the cache)\n/******/ \t\tvar module = installedModules[moduleId] = {\n/******/ \t\t\ti: moduleId,\n/******/ \t\t\tl: false,\n/******/ \t\t\texports: {}\n/******/ \t\t};\n/******/\n/******/ \t\t// Execute the module function\n/******/ \t\tmodules[moduleId].call(module.exports, module, module.exports, __webpack_require__);\n/******/\n/******/ \t\t// Flag the module as loaded\n/******/ \t\tmodule.l = true;\n/******/\n/******/ \t\t// Return the exports of the module\n/******/ \t\treturn module.exports;\n/******/ \t}\n/******/\n/******/\n/******/ \t// expose the modules object (__webpack_modules__)\n/******/ \t__webpack_require__.m = modules;\n/******/\n/******/ \t// expose the module cache\n/******/ \t__webpack_require__.c = installedModules;\n/******/\n/******/ \t// define getter function for harmony exports\n/******/ \t__webpack_require__.d = function(exports, name, getter) {\n/******/ \t\tif(!__webpack_require__.o(exports, name)) {\n/******/ \t\t\tObject.defineProperty(exports, name, { enumerable: true, get: getter });\n/******/ \t\t}\n/******/ \t};\n/******/\n/******/ \t// define __esModule on exports\n/******/ \t__webpack_require__.r = function(exports) {\n/******/ \t\tif(typeof Symbol !== 'undefined' && Symbol.toStringTag) {\n/******/ \t\t\tObject.defineProperty(exports, Symbol.toStringTag, { value: 'Module' });\n/******/ \t\t}\n/******/ \t\tObject.defineProperty(exports, '__esModule', { value: true });\n/******/ \t};\n/******/\n/******/ \t// create a fake namespace object\n/******/ \t// mode & 1: value is a module id, require it\n/******/ \t// mode & 2: merge all properties of value into the ns\n/******/ \t// mode & 4: return value when already ns object\n/******/ \t// mode & 8|1: behave like require\n/******/ \t__webpack_require__.t = function(value, mode) {\n/******/ \t\tif(mode & 1) value = __webpack_require__(value);\n/******/ \t\tif(mode & 8) return value;\n/******/ \t\tif((mode & 4) && typeof value === 'object' && value && value.__esModule) return value;\n/******/ \t\tvar ns = Object.create(null);\n/******/ \t\t__webpack_require__.r(ns);\n/******/ \t\tObject.defineProperty(ns, 'default', { enumerable: true, value: value });\n/******/ \t\tif(mode & 2 && typeof value != 'string') for(var key in value) __webpack_require__.d(ns, key, function(key) { return value[key]; }.bind(null, key));\n/******/ \t\treturn ns;\n/******/ \t};\n/******/\n/******/ \t// getDefaultExport function for compatibility with non-harmony modules\n/******/ \t__webpack_require__.n = function(module) {\n/******/ \t\tvar getter = module && module.__esModule ?\n/******/ \t\t\tfunction getDefault() { return module['default']; } :\n/******/ \t\t\tfunction getModuleExports() { return module; };\n/******/ \t\t__webpack_require__.d(getter, 'a', getter);\n/******/ \t\treturn getter;\n/******/ \t};\n/******/\n/******/ \t// Object.prototype.hasOwnProperty.call\n/******/ \t__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };\n/******/\n/******/ \t// __webpack_public_path__\n/******/ \t__webpack_require__.p = \"\";\n/******/\n/******/\n/******/ \t// Load entry module and return exports\n/******/ \treturn __webpack_require__(__webpack_require__.s = \"./node_modules/webpack-strip-block/index.js?!./src/js/webworkers/compression.worker.js\");\n/******/ })\n/************************************************************************/\n/******/ ({\n\n/***/ \"./gulp/node_modules/base64-js/index.js\":\n/*!**********************************************!*\\\n  !*** ./gulp/node_modules/base64-js/index.js ***!\n  \\**********************************************/\n/*! no static exports found */\n/***/ (function(module, exports, __webpack_require__) {\n\n\"use strict\";\n\n\nexports.byteLength = byteLength\nexports.toByteArray = toByteArray\nexports.fromByteArray = fromByteArray\n\nvar lookup = []\nvar revLookup = []\nvar Arr = typeof Uint8Array !== 'undefined' ? Uint8Array : Array\n\nvar code = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'\nfor (var i = 0, len = code.length; i < len; ++i) {\n  lookup[i] = code[i]\n  revLookup[code.charCodeAt(i)] = i\n}\n\n// Support decoding URL-safe base64 strings, as Node.js does.\n// See: https://en.wikipedia.org/wiki/Base64#URL_applications\nrevLookup['-'.charCodeAt(0)] = 62\nrevLookup['_'.charCodeAt(0)] = 63\n\nfunction getLens (b64) {\n  var len = b64.length\n\n  if (len % 4 > 0) {\n    throw new Error('Invalid string. Length must be a multiple of 4')\n  }\n\n  // Trim off extra bytes after placeholder bytes are found\n  // See: https://github.com/beatgammit/base64-js/issues/42\n  var validLen = b64.indexOf('=')\n  if (validLen === -1) validLen = len\n\n  var placeHoldersLen = validLen === len\n    ? 0\n    : 4 - (validLen % 4)\n\n  return [validLen, placeHoldersLen]\n}\n\n// base64 is 4/3 + up to two characters of the original data\nfunction byteLength (b64) {\n  var lens = getLens(b64)\n  var validLen = lens[0]\n  var placeHoldersLen = lens[1]\n  return ((validLen + placeHoldersLen) * 3 / 4) - placeHoldersLen\n}\n\nfunction _byteLength (b64, validLen, placeHoldersLen) {\n  return ((validLen + placeHoldersLen) * 3 / 4) - placeHoldersLen\n}\n\nfunction toByteArray (b64) {\n  var tmp\n  var lens = getLens(b64)\n  var validLen = lens[0]\n  var placeHoldersLen = lens[1]\n\n  var arr = new Arr(_byteLength(b64, validLen, placeHoldersLen))\n\n  var curByte = 0\n\n  // if there are placeholders, only get up to the last complete 4 chars\n  var len = placeHoldersLen > 0\n    ? validLen - 4\n    : validLen\n\n  var i\n  for (i = 0; i < len; i += 4) {\n    tmp =\n      (revLookup[b64.charCodeAt(i)] << 18) |\n      (revLookup[b64.charCodeAt(i + 1)] << 12) |\n      (revLookup[b64.charCodeAt(i + 2)] << 6) |\n      revLookup[b64.charCodeAt(i + 3)]\n    arr[curByte++] = (tmp >> 16) & 0xFF\n    arr[curByte++] = (tmp >> 8) & 0xFF\n    arr[curByte++] = tmp & 0xFF\n  }\n\n  if (placeHoldersLen === 2) {\n    tmp =\n      (revLookup[b64.charCodeAt(i)] << 2) |\n      (revLookup[b64.charCodeAt(i + 1)] >> 4)\n    arr[curByte++] = tmp & 0xFF\n  }\n\n  if (placeHoldersLen === 1) {\n    tmp =\n      (revLookup[b64.charCodeAt(i)] << 10) |\n      (revLookup[b64.charCodeAt(i + 1)] << 4) |\n      (revLookup[b64.charCodeAt(i + 2)] >> 2)\n    arr[curByte++] = (tmp >> 8) & 0xFF\n    arr[curByte++] = tmp & 0xFF\n  }\n\n  return arr\n}\n\nfunction tripletToBase64 (num) {\n  return lookup[num >> 18 & 0x3F] +\n    lookup[num >> 12 & 0x3F] +\n    lookup[num >> 6 & 0x3F] +\n    lookup[num & 0x3F]\n}\n\nfunction encodeChunk (uint8, start, end) {\n  var tmp\n  var output = []\n  for (var i = start; i < end; i += 3) {\n    tmp =\n      ((uint8[i] << 16) & 0xFF0000) +\n      ((uint8[i + 1] << 8) & 0xFF00) +\n      (uint8[i + 2] & 0xFF)\n    output.push(tripletToBase64(tmp))\n  }\n  return output.join('')\n}\n\nfunction fromByteArray (uint8) {\n  var tmp\n  var len = uint8.length\n  var extraBytes = len % 3 // if we have 1 byte left, pad 2 bytes\n  var parts = []\n  var maxChunkLength = 16383 // must be multiple of 3\n\n  // go through the array every three bytes, we'll deal with trailing stuff later\n  for (var i = 0, len2 = len - extraBytes; i < len2; i += maxChunkLength) {\n    parts.push(encodeChunk(\n      uint8, i, (i + maxChunkLength) > len2 ? len2 : (i + maxChunkLength)\n    ))\n  }\n\n  // pad the end with zeros, but make sure to not forget the extra bytes\n  if (extraBytes === 1) {\n    tmp = uint8[len - 1]\n    parts.push(\n      lookup[tmp >> 2] +\n      lookup[(tmp << 4) & 0x3F] +\n      '=='\n    )\n  } else if (extraBytes === 2) {\n    tmp = (uint8[len - 2] << 8) + uint8[len - 1]\n    parts.push(\n      lookup[tmp >> 10] +\n      lookup[(tmp >> 4) & 0x3F] +\n      lookup[(tmp << 2) & 0x3F] +\n      '='\n    )\n  }\n\n  return parts.join('')\n}\n\n\n/***/ }),\n\n/***/ \"./gulp/node_modules/ieee754/index.js\":\n/*!********************************************!*\\\n  !*** ./gulp/node_modules/ieee754/index.js ***!\n  \\********************************************/\n/*! no static exports found */\n/***/ (function(module, exports) {\n\nexports.read = function (buffer, offset, isLE, mLen, nBytes) {\n  var e, m\n  var eLen = (nBytes * 8) - mLen - 1\n  var eMax = (1 << eLen) - 1\n  var eBias = eMax >> 1\n  var nBits = -7\n  var i = isLE ? (nBytes - 1) : 0\n  var d = isLE ? -1 : 1\n  var s = buffer[offset + i]\n\n  i += d\n\n  e = s & ((1 << (-nBits)) - 1)\n  s >>= (-nBits)\n  nBits += eLen\n  for (; nBits > 0; e = (e * 256) + buffer[offset + i], i += d, nBits -= 8) {}\n\n  m = e & ((1 << (-nBits)) - 1)\n  e >>= (-nBits)\n  nBits += mLen\n  for (; nBits > 0; m = (m * 256) + buffer[offset + i], i += d, nBits -= 8) {}\n\n  if (e === 0) {\n    e = 1 - eBias\n  } else if (e === eMax) {\n    return m ? NaN : ((s ? -1 : 1) * Infinity)\n  } else {\n    m = m + Math.pow(2, mLen)\n    e = e - eBias\n  }\n  return (s ? -1 : 1) * m * Math.pow(2, e - mLen)\n}\n\nexports.write = function (buffer, value, offset, isLE, mLen, nBytes) {\n  var e, m, c\n  var eLen = (nBytes * 8) - mLen - 1\n  var eMax = (1 << eLen) - 1\n  var eBias = eMax >> 1\n  var rt = (mLen === 23 ? Math.pow(2, -24) - Math.pow(2, -77) : 0)\n  var i = isLE ? 0 : (nBytes - 1)\n  var d = isLE ? 1 : -1\n  var s = value < 0 || (value === 0 && 1 / value < 0) ? 1 : 0\n\n  value = Math.abs(value)\n\n  if (isNaN(value) || value === Infinity) {\n    m = isNaN(value) ? 1 : 0\n    e = eMax\n  } else {\n    e = Math.floor(Math.log(value) / Math.LN2)\n    if (value * (c = Math.pow(2, -e)) < 1) {\n      e--\n      c *= 2\n    }\n    if (e + eBias >= 1) {\n      value += rt / c\n    } else {\n      value += rt * Math.pow(2, 1 - eBias)\n    }\n    if (value * c >= 2) {\n      e++\n      c /= 2\n    }\n\n    if (e + eBias >= eMax) {\n      m = 0\n      e = eMax\n    } else if (e + eBias >= 1) {\n      m = ((value * c) - 1) * Math.pow(2, mLen)\n      e = e + eBias\n    } else {\n      m = value * Math.pow(2, eBias - 1) * Math.pow(2, mLen)\n      e = 0\n    }\n  }\n\n  for (; mLen >= 8; buffer[offset + i] = m & 0xff, i += d, m /= 256, mLen -= 8) {}\n\n  e = (e << mLen) | m\n  eLen += mLen\n  for (; eLen > 0; buffer[offset + i] = e & 0xff, i += d, e /= 256, eLen -= 8) {}\n\n  buffer[offset + i - d] |= s * 128\n}\n\n\n/***/ }),\n\n/***/ \"./gulp/node_modules/isarray/index.js\":\n/*!********************************************!*\\\n  !*** ./gulp/node_modules/isarray/index.js ***!\n  \\********************************************/\n/*! no static exports found */\n/***/ (function(module, exports) {\n\nvar toString = {}.toString;\n\nmodule.exports = Array.isArray || function (arr) {\n  return toString.call(arr) == '[object Array]';\n};\n\n\n/***/ }),\n\n/***/ \"./gulp/node_modules/node-libs-browser/node_modules/buffer/index.js\":\n/*!**************************************************************************!*\\\n  !*** ./gulp/node_modules/node-libs-browser/node_modules/buffer/index.js ***!\n  \\**************************************************************************/\n/*! no static exports found */\n/***/ (function(module, exports, __webpack_require__) {\n\n\"use strict\";\n/* WEBPACK VAR INJECTION */(function(global) {/*!\n * The buffer module from node.js, for the browser.\n *\n * @author   Feross Aboukhadijeh <feross@feross.org> <http://feross.org>\n * @license  MIT\n */\n/* eslint-disable no-proto */\n\n\n\nvar base64 = __webpack_require__(/*! base64-js */ \"./gulp/node_modules/base64-js/index.js\")\nvar ieee754 = __webpack_require__(/*! ieee754 */ \"./gulp/node_modules/ieee754/index.js\")\nvar isArray = __webpack_require__(/*! isarray */ \"./gulp/node_modules/isarray/index.js\")\n\nexports.Buffer = Buffer\nexports.SlowBuffer = SlowBuffer\nexports.INSPECT_MAX_BYTES = 50\n\n/**\n * If `Buffer.TYPED_ARRAY_SUPPORT`:\n *   === true    Use Uint8Array implementation (fastest)\n *   === false   Use Object implementation (most compatible, even IE6)\n *\n * Browsers that support typed arrays are IE 10+, Firefox 4+, Chrome 7+, Safari 5.1+,\n * Opera 11.6+, iOS 4.2+.\n *\n * Due to various browser bugs, sometimes the Object implementation will be used even\n * when the browser supports typed arrays.\n *\n * Note:\n *\n *   - Firefox 4-29 lacks support for adding new properties to `Uint8Array` instances,\n *     See: https://bugzilla.mozilla.org/show_bug.cgi?id=695438.\n *\n *   - Chrome 9-10 is missing the `TypedArray.prototype.subarray` function.\n *\n *   - IE10 has a broken `TypedArray.prototype.subarray` function which returns arrays of\n *     incorrect length in some situations.\n\n * We detect these buggy browsers and set `Buffer.TYPED_ARRAY_SUPPORT` to `false` so they\n * get the Object implementation, which is slower but behaves correctly.\n */\nBuffer.TYPED_ARRAY_SUPPORT = global.TYPED_ARRAY_SUPPORT !== undefined\n  ? global.TYPED_ARRAY_SUPPORT\n  : typedArraySupport()\n\n/*\n * Export kMaxLength after typed array support is determined.\n */\nexports.kMaxLength = kMaxLength()\n\nfunction typedArraySupport () {\n  try {\n    var arr = new Uint8Array(1)\n    arr.__proto__ = {__proto__: Uint8Array.prototype, foo: function () { return 42 }}\n    return arr.foo() === 42 && // typed array instances can be augmented\n        typeof arr.subarray === 'function' && // chrome 9-10 lack `subarray`\n        arr.subarray(1, 1).byteLength === 0 // ie10 has broken `subarray`\n  } catch (e) {\n    return false\n  }\n}\n\nfunction kMaxLength () {\n  return Buffer.TYPED_ARRAY_SUPPORT\n    ? 0x7fffffff\n    : 0x3fffffff\n}\n\nfunction createBuffer (that, length) {\n  if (kMaxLength() < length) {\n    throw new RangeError('Invalid typed array length')\n  }\n  if (Buffer.TYPED_ARRAY_SUPPORT) {\n    // Return an augmented `Uint8Array` instance, for best performance\n    that = new Uint8Array(length)\n    that.__proto__ = Buffer.prototype\n  } else {\n    // Fallback: Return an object instance of the Buffer class\n    if (that === null) {\n      that = new Buffer(length)\n    }\n    that.length = length\n  }\n\n  return that\n}\n\n/**\n * The Buffer constructor returns instances of `Uint8Array` that have their\n * prototype changed to `Buffer.prototype`. Furthermore, `Buffer` is a subclass of\n * `Uint8Array`, so the returned instances will have all the node `Buffer` methods\n * and the `Uint8Array` methods. Square bracket notation works as expected -- it\n * returns a single octet.\n *\n * The `Uint8Array` prototype remains unmodified.\n */\n\nfunction Buffer (arg, encodingOrOffset, length) {\n  if (!Buffer.TYPED_ARRAY_SUPPORT && !(this instanceof Buffer)) {\n    return new Buffer(arg, encodingOrOffset, length)\n  }\n\n  // Common case.\n  if (typeof arg === 'number') {\n    if (typeof encodingOrOffset === 'string') {\n      throw new Error(\n        'If encoding is specified then the first argument must be a string'\n      )\n    }\n    return allocUnsafe(this, arg)\n  }\n  return from(this, arg, encodingOrOffset, length)\n}\n\nBuffer.poolSize = 8192 // not used by this implementation\n\n// TODO: Legacy, not needed anymore. Remove in next major version.\nBuffer._augment = function (arr) {\n  arr.__proto__ = Buffer.prototype\n  return arr\n}\n\nfunction from (that, value, encodingOrOffset, length) {\n  if (typeof value === 'number') {\n    throw new TypeError('\"value\" argument must not be a number')\n  }\n\n  if (typeof ArrayBuffer !== 'undefined' && value instanceof ArrayBuffer) {\n    return fromArrayBuffer(that, value, encodingOrOffset, length)\n  }\n\n  if (typeof value === 'string') {\n    return fromString(that, value, encodingOrOffset)\n  }\n\n  return fromObject(that, value)\n}\n\n/**\n * Functionally equivalent to Buffer(arg, encoding) but throws a TypeError\n * if value is a number.\n * Buffer.from(str[, encoding])\n * Buffer.from(array)\n * Buffer.from(buffer)\n * Buffer.from(arrayBuffer[, byteOffset[, length]])\n **/\nBuffer.from = function (value, encodingOrOffset, length) {\n  return from(null, value, encodingOrOffset, length)\n}\n\nif (Buffer.TYPED_ARRAY_SUPPORT) {\n  Buffer.prototype.__proto__ = Uint8Array.prototype\n  Buffer.__proto__ = Uint8Array\n  if (typeof Symbol !== 'undefined' && Symbol.species &&\n      Buffer[Symbol.species] === Buffer) {\n    // Fix subarray() in ES2016. See: https://github.com/feross/buffer/pull/97\n    Object.defineProperty(Buffer, Symbol.species, {\n      value: null,\n      configurable: true\n    })\n  }\n}\n\nfunction assertSize (size) {\n  if (typeof size !== 'number') {\n    throw new TypeError('\"size\" argument must be a number')\n  } else if (size < 0) {\n    throw new RangeError('\"size\" argument must not be negative')\n  }\n}\n\nfunction alloc (that, size, fill, encoding) {\n  assertSize(size)\n  if (size <= 0) {\n    return createBuffer(that, size)\n  }\n  if (fill !== undefined) {\n    // Only pay attention to encoding if it's a string. This\n    // prevents accidentally sending in a number that would\n    // be interpretted as a start offset.\n    return typeof encoding === 'string'\n      ? createBuffer(that, size).fill(fill, encoding)\n      : createBuffer(that, size).fill(fill)\n  }\n  return createBuffer(that, size)\n}\n\n/**\n * Creates a new filled Buffer instance.\n * alloc(size[, fill[, encoding]])\n **/\nBuffer.alloc = function (size, fill, encoding) {\n  return alloc(null, size, fill, encoding)\n}\n\nfunction allocUnsafe (that, size) {\n  assertSize(size)\n  that = createBuffer(that, size < 0 ? 0 : checked(size) | 0)\n  if (!Buffer.TYPED_ARRAY_SUPPORT) {\n    for (var i = 0; i < size; ++i) {\n      that[i] = 0\n    }\n  }\n  return that\n}\n\n/**\n * Equivalent to Buffer(num), by default creates a non-zero-filled Buffer instance.\n * */\nBuffer.allocUnsafe = function (size) {\n  return allocUnsafe(null, size)\n}\n/**\n * Equivalent to SlowBuffer(num), by default creates a non-zero-filled Buffer instance.\n */\nBuffer.allocUnsafeSlow = function (size) {\n  return allocUnsafe(null, size)\n}\n\nfunction fromString (that, string, encoding) {\n  if (typeof encoding !== 'string' || encoding === '') {\n    encoding = 'utf8'\n  }\n\n  if (!Buffer.isEncoding(encoding)) {\n    throw new TypeError('\"encoding\" must be a valid string encoding')\n  }\n\n  var length = byteLength(string, encoding) | 0\n  that = createBuffer(that, length)\n\n  var actual = that.write(string, encoding)\n\n  if (actual !== length) {\n    // Writing a hex string, for example, that contains invalid characters will\n    // cause everything after the first invalid character to be ignored. (e.g.\n    // 'abxxcd' will be treated as 'ab')\n    that = that.slice(0, actual)\n  }\n\n  return that\n}\n\nfunction fromArrayLike (that, array) {\n  var length = array.length < 0 ? 0 : checked(array.length) | 0\n  that = createBuffer(that, length)\n  for (var i = 0; i < length; i += 1) {\n    that[i] = array[i] & 255\n  }\n  return that\n}\n\nfunction fromArrayBuffer (that, array, byteOffset, length) {\n  array.byteLength // this throws if `array` is not a valid ArrayBuffer\n\n  if (byteOffset < 0 || array.byteLength < byteOffset) {\n    throw new RangeError('\\'offset\\' is out of bounds')\n  }\n\n  if (array.byteLength < byteOffset + (length || 0)) {\n    throw new RangeError('\\'length\\' is out of bounds')\n  }\n\n  if (byteOffset === undefined && length === undefined) {\n    array = new Uint8Array(array)\n  } else if (length === undefined) {\n    array = new Uint8Array(array, byteOffset)\n  } else {\n    array = new Uint8Array(array, byteOffset, length)\n  }\n\n  if (Buffer.TYPED_ARRAY_SUPPORT) {\n    // Return an augmented `Uint8Array` instance, for best performance\n    that = array\n    that.__proto__ = Buffer.prototype\n  } else {\n    // Fallback: Return an object instance of the Buffer class\n    that = fromArrayLike(that, array)\n  }\n  return that\n}\n\nfunction fromObject (that, obj) {\n  if (Buffer.isBuffer(obj)) {\n    var len = checked(obj.length) | 0\n    that = createBuffer(that, len)\n\n    if (that.length === 0) {\n      return that\n    }\n\n    obj.copy(that, 0, 0, len)\n    return that\n  }\n\n  if (obj) {\n    if ((typeof ArrayBuffer !== 'undefined' &&\n        obj.buffer instanceof ArrayBuffer) || 'length' in obj) {\n      if (typeof obj.length !== 'number' || isnan(obj.length)) {\n        return createBuffer(that, 0)\n      }\n      return fromArrayLike(that, obj)\n    }\n\n    if (obj.type === 'Buffer' && isArray(obj.data)) {\n      return fromArrayLike(that, obj.data)\n    }\n  }\n\n  throw new TypeError('First argument must be a string, Buffer, ArrayBuffer, Array, or array-like object.')\n}\n\nfunction checked (length) {\n  // Note: cannot use `length < kMaxLength()` here because that fails when\n  // length is NaN (which is otherwise coerced to zero.)\n  if (length >= kMaxLength()) {\n    throw new RangeError('Attempt to allocate Buffer larger than maximum ' +\n                         'size: 0x' + kMaxLength().toString(16) + ' bytes')\n  }\n  return length | 0\n}\n\nfunction SlowBuffer (length) {\n  if (+length != length) { // eslint-disable-line eqeqeq\n    length = 0\n  }\n  return Buffer.alloc(+length)\n}\n\nBuffer.isBuffer = function isBuffer (b) {\n  return !!(b != null && b._isBuffer)\n}\n\nBuffer.compare = function compare (a, b) {\n  if (!Buffer.isBuffer(a) || !Buffer.isBuffer(b)) {\n    throw new TypeError('Arguments must be Buffers')\n  }\n\n  if (a === b) return 0\n\n  var x = a.length\n  var y = b.length\n\n  for (var i = 0, len = Math.min(x, y); i < len; ++i) {\n    if (a[i] !== b[i]) {\n      x = a[i]\n      y = b[i]\n      break\n    }\n  }\n\n  if (x < y) return -1\n  if (y < x) return 1\n  return 0\n}\n\nBuffer.isEncoding = function isEncoding (encoding) {\n  switch (String(encoding).toLowerCase()) {\n    case 'hex':\n    case 'utf8':\n    case 'utf-8':\n    case 'ascii':\n    case 'latin1':\n    case 'binary':\n    case 'base64':\n    case 'ucs2':\n    case 'ucs-2':\n    case 'utf16le':\n    case 'utf-16le':\n      return true\n    default:\n      return false\n  }\n}\n\nBuffer.concat = function concat (list, length) {\n  if (!isArray(list)) {\n    throw new TypeError('\"list\" argument must be an Array of Buffers')\n  }\n\n  if (list.length === 0) {\n    return Buffer.alloc(0)\n  }\n\n  var i\n  if (length === undefined) {\n    length = 0\n    for (i = 0; i < list.length; ++i) {\n      length += list[i].length\n    }\n  }\n\n  var buffer = Buffer.allocUnsafe(length)\n  var pos = 0\n  for (i = 0; i < list.length; ++i) {\n    var buf = list[i]\n    if (!Buffer.isBuffer(buf)) {\n      throw new TypeError('\"list\" argument must be an Array of Buffers')\n    }\n    buf.copy(buffer, pos)\n    pos += buf.length\n  }\n  return buffer\n}\n\nfunction byteLength (string, encoding) {\n  if (Buffer.isBuffer(string)) {\n    return string.length\n  }\n  if (typeof ArrayBuffer !== 'undefined' && typeof ArrayBuffer.isView === 'function' &&\n      (ArrayBuffer.isView(string) || string instanceof ArrayBuffer)) {\n    return string.byteLength\n  }\n  if (typeof string !== 'string') {\n    string = '' + string\n  }\n\n  var len = string.length\n  if (len === 0) return 0\n\n  // Use a for loop to avoid recursion\n  var loweredCase = false\n  for (;;) {\n    switch (encoding) {\n      case 'ascii':\n      case 'latin1':\n      case 'binary':\n        return len\n      case 'utf8':\n      case 'utf-8':\n      case undefined:\n        return utf8ToBytes(string).length\n      case 'ucs2':\n      case 'ucs-2':\n      case 'utf16le':\n      case 'utf-16le':\n        return len * 2\n      case 'hex':\n        return len >>> 1\n      case 'base64':\n        return base64ToBytes(string).length\n      default:\n        if (loweredCase) return utf8ToBytes(string).length // assume utf8\n        encoding = ('' + encoding).toLowerCase()\n        loweredCase = true\n    }\n  }\n}\nBuffer.byteLength = byteLength\n\nfunction slowToString (encoding, start, end) {\n  var loweredCase = false\n\n  // No need to verify that \"this.length <= MAX_UINT32\" since it's a read-only\n  // property of a typed array.\n\n  // This behaves neither like String nor Uint8Array in that we set start/end\n  // to their upper/lower bounds if the value passed is out of range.\n  // undefined is handled specially as per ECMA-262 6th Edition,\n  // Section 13.3.3.7 Runtime Semantics: KeyedBindingInitialization.\n  if (start === undefined || start < 0) {\n    start = 0\n  }\n  // Return early if start > this.length. Done here to prevent potential uint32\n  // coercion fail below.\n  if (start > this.length) {\n    return ''\n  }\n\n  if (end === undefined || end > this.length) {\n    end = this.length\n  }\n\n  if (end <= 0) {\n    return ''\n  }\n\n  // Force coersion to uint32. This will also coerce falsey/NaN values to 0.\n  end >>>= 0\n  start >>>= 0\n\n  if (end <= start) {\n    return ''\n  }\n\n  if (!encoding) encoding = 'utf8'\n\n  while (true) {\n    switch (encoding) {\n      case 'hex':\n        return hexSlice(this, start, end)\n\n      case 'utf8':\n      case 'utf-8':\n        return utf8Slice(this, start, end)\n\n      case 'ascii':\n        return asciiSlice(this, start, end)\n\n      case 'latin1':\n      case 'binary':\n        return latin1Slice(this, start, end)\n\n      case 'base64':\n        return base64Slice(this, start, end)\n\n      case 'ucs2':\n      case 'ucs-2':\n      case 'utf16le':\n      case 'utf-16le':\n        return utf16leSlice(this, start, end)\n\n      default:\n        if (loweredCase) throw new TypeError('Unknown encoding: ' + encoding)\n        encoding = (encoding + '').toLowerCase()\n        loweredCase = true\n    }\n  }\n}\n\n// The property is used by `Buffer.isBuffer` and `is-buffer` (in Safari 5-7) to detect\n// Buffer instances.\nBuffer.prototype._isBuffer = true\n\nfunction swap (b, n, m) {\n  var i = b[n]\n  b[n] = b[m]\n  b[m] = i\n}\n\nBuffer.prototype.swap16 = function swap16 () {\n  var len = this.length\n  if (len % 2 !== 0) {\n    throw new RangeError('Buffer size must be a multiple of 16-bits')\n  }\n  for (var i = 0; i < len; i += 2) {\n    swap(this, i, i + 1)\n  }\n  return this\n}\n\nBuffer.prototype.swap32 = function swap32 () {\n  var len = this.length\n  if (len % 4 !== 0) {\n    throw new RangeError('Buffer size must be a multiple of 32-bits')\n  }\n  for (var i = 0; i < len; i += 4) {\n    swap(this, i, i + 3)\n    swap(this, i + 1, i + 2)\n  }\n  return this\n}\n\nBuffer.prototype.swap64 = function swap64 () {\n  var len = this.length\n  if (len % 8 !== 0) {\n    throw new RangeError('Buffer size must be a multiple of 64-bits')\n  }\n  for (var i = 0; i < len; i += 8) {\n    swap(this, i, i + 7)\n    swap(this, i + 1, i + 6)\n    swap(this, i + 2, i + 5)\n    swap(this, i + 3, i + 4)\n  }\n  return this\n}\n\nBuffer.prototype.toString = function toString () {\n  var length = this.length | 0\n  if (length === 0) return ''\n  if (arguments.length === 0) return utf8Slice(this, 0, length)\n  return slowToString.apply(this, arguments)\n}\n\nBuffer.prototype.equals = function equals (b) {\n  if (!Buffer.isBuffer(b)) throw new TypeError('Argument must be a Buffer')\n  if (this === b) return true\n  return Buffer.compare(this, b) === 0\n}\n\nBuffer.prototype.inspect = function inspect () {\n  var str = ''\n  var max = exports.INSPECT_MAX_BYTES\n  if (this.length > 0) {\n    str = this.toString('hex', 0, max).match(/.{2}/g).join(' ')\n    if (this.length > max) str += ' ... '\n  }\n  return '<Buffer ' + str + '>'\n}\n\nBuffer.prototype.compare = function compare (target, start, end, thisStart, thisEnd) {\n  if (!Buffer.isBuffer(target)) {\n    throw new TypeError('Argument must be a Buffer')\n  }\n\n  if (start === undefined) {\n    start = 0\n  }\n  if (end === undefined) {\n    end = target ? target.length : 0\n  }\n  if (thisStart === undefined) {\n    thisStart = 0\n  }\n  if (thisEnd === undefined) {\n    thisEnd = this.length\n  }\n\n  if (start < 0 || end > target.length || thisStart < 0 || thisEnd > this.length) {\n    throw new RangeError('out of range index')\n  }\n\n  if (thisStart >= thisEnd && start >= end) {\n    return 0\n  }\n  if (thisStart >= thisEnd) {\n    return -1\n  }\n  if (start >= end) {\n    return 1\n  }\n\n  start >>>= 0\n  end >>>= 0\n  thisStart >>>= 0\n  thisEnd >>>= 0\n\n  if (this === target) return 0\n\n  var x = thisEnd - thisStart\n  var y = end - start\n  var len = Math.min(x, y)\n\n  var thisCopy = this.slice(thisStart, thisEnd)\n  var targetCopy = target.slice(start, end)\n\n  for (var i = 0; i < len; ++i) {\n    if (thisCopy[i] !== targetCopy[i]) {\n      x = thisCopy[i]\n      y = targetCopy[i]\n      break\n    }\n  }\n\n  if (x < y) return -1\n  if (y < x) return 1\n  return 0\n}\n\n// Finds either the first index of `val` in `buffer` at offset >= `byteOffset`,\n// OR the last index of `val` in `buffer` at offset <= `byteOffset`.\n//\n// Arguments:\n// - buffer - a Buffer to search\n// - val - a string, Buffer, or number\n// - byteOffset - an index into `buffer`; will be clamped to an int32\n// - encoding - an optional encoding, relevant is val is a string\n// - dir - true for indexOf, false for lastIndexOf\nfunction bidirectionalIndexOf (buffer, val, byteOffset, encoding, dir) {\n  // Empty buffer means no match\n  if (buffer.length === 0) return -1\n\n  // Normalize byteOffset\n  if (typeof byteOffset === 'string') {\n    encoding = byteOffset\n    byteOffset = 0\n  } else if (byteOffset > 0x7fffffff) {\n    byteOffset = 0x7fffffff\n  } else if (byteOffset < -0x80000000) {\n    byteOffset = -0x80000000\n  }\n  byteOffset = +byteOffset  // Coerce to Number.\n  if (isNaN(byteOffset)) {\n    // byteOffset: it it's undefined, null, NaN, \"foo\", etc, search whole buffer\n    byteOffset = dir ? 0 : (buffer.length - 1)\n  }\n\n  // Normalize byteOffset: negative offsets start from the end of the buffer\n  if (byteOffset < 0) byteOffset = buffer.length + byteOffset\n  if (byteOffset >= buffer.length) {\n    if (dir) return -1\n    else byteOffset = buffer.length - 1\n  } else if (byteOffset < 0) {\n    if (dir) byteOffset = 0\n    else return -1\n  }\n\n  // Normalize val\n  if (typeof val === 'string') {\n    val = Buffer.from(val, encoding)\n  }\n\n  // Finally, search either indexOf (if dir is true) or lastIndexOf\n  if (Buffer.isBuffer(val)) {\n    // Special case: looking for empty string/buffer always fails\n    if (val.length === 0) {\n      return -1\n    }\n    return arrayIndexOf(buffer, val, byteOffset, encoding, dir)\n  } else if (typeof val === 'number') {\n    val = val & 0xFF // Search for a byte value [0-255]\n    if (Buffer.TYPED_ARRAY_SUPPORT &&\n        typeof Uint8Array.prototype.indexOf === 'function') {\n      if (dir) {\n        return Uint8Array.prototype.indexOf.call(buffer, val, byteOffset)\n      } else {\n        return Uint8Array.prototype.lastIndexOf.call(buffer, val, byteOffset)\n      }\n    }\n    return arrayIndexOf(buffer, [ val ], byteOffset, encoding, dir)\n  }\n\n  throw new TypeError('val must be string, number or Buffer')\n}\n\nfunction arrayIndexOf (arr, val, byteOffset, encoding, dir) {\n  var indexSize = 1\n  var arrLength = arr.length\n  var valLength = val.length\n\n  if (encoding !== undefined) {\n    encoding = String(encoding).toLowerCase()\n    if (encoding === 'ucs2' || encoding === 'ucs-2' ||\n        encoding === 'utf16le' || encoding === 'utf-16le') {\n      if (arr.length < 2 || val.length < 2) {\n        return -1\n      }\n      indexSize = 2\n      arrLength /= 2\n      valLength /= 2\n      byteOffset /= 2\n    }\n  }\n\n  function read (buf, i) {\n    if (indexSize === 1) {\n      return buf[i]\n    } else {\n      return buf.readUInt16BE(i * indexSize)\n    }\n  }\n\n  var i\n  if (dir) {\n    var foundIndex = -1\n    for (i = byteOffset; i < arrLength; i++) {\n      if (read(arr, i) === read(val, foundIndex === -1 ? 0 : i - foundIndex)) {\n        if (foundIndex === -1) foundIndex = i\n        if (i - foundIndex + 1 === valLength) return foundIndex * indexSize\n      } else {\n        if (foundIndex !== -1) i -= i - foundIndex\n        foundIndex = -1\n      }\n    }\n  } else {\n    if (byteOffset + valLength > arrLength) byteOffset = arrLength - valLength\n    for (i = byteOffset; i >= 0; i--) {\n      var found = true\n      for (var j = 0; j < valLength; j++) {\n        if (read(arr, i + j) !== read(val, j)) {\n          found = false\n          break\n        }\n      }\n      if (found) return i\n    }\n  }\n\n  return -1\n}\n\nBuffer.prototype.includes = function includes (val, byteOffset, encoding) {\n  return this.indexOf(val, byteOffset, encoding) !== -1\n}\n\nBuffer.prototype.indexOf = function indexOf (val, byteOffset, encoding) {\n  return bidirectionalIndexOf(this, val, byteOffset, encoding, true)\n}\n\nBuffer.prototype.lastIndexOf = function lastIndexOf (val, byteOffset, encoding) {\n  return bidirectionalIndexOf(this, val, byteOffset, encoding, false)\n}\n\nfunction hexWrite (buf, string, offset, length) {\n  offset = Number(offset) || 0\n  var remaining = buf.length - offset\n  if (!length) {\n    length = remaining\n  } else {\n    length = Number(length)\n    if (length > remaining) {\n      length = remaining\n    }\n  }\n\n  // must be an even number of digits\n  var strLen = string.length\n  if (strLen % 2 !== 0) throw new TypeError('Invalid hex string')\n\n  if (length > strLen / 2) {\n    length = strLen / 2\n  }\n  for (var i = 0; i < length; ++i) {\n    var parsed = parseInt(string.substr(i * 2, 2), 16)\n    if (isNaN(parsed)) return i\n    buf[offset + i] = parsed\n  }\n  return i\n}\n\nfunction utf8Write (buf, string, offset, length) {\n  return blitBuffer(utf8ToBytes(string, buf.length - offset), buf, offset, length)\n}\n\nfunction asciiWrite (buf, string, offset, length) {\n  return blitBuffer(asciiToBytes(string), buf, offset, length)\n}\n\nfunction latin1Write (buf, string, offset, length) {\n  return asciiWrite(buf, string, offset, length)\n}\n\nfunction base64Write (buf, string, offset, length) {\n  return blitBuffer(base64ToBytes(string), buf, offset, length)\n}\n\nfunction ucs2Write (buf, string, offset, length) {\n  return blitBuffer(utf16leToBytes(string, buf.length - offset), buf, offset, length)\n}\n\nBuffer.prototype.write = function write (string, offset, length, encoding) {\n  // Buffer#write(string)\n  if (offset === undefined) {\n    encoding = 'utf8'\n    length = this.length\n    offset = 0\n  // Buffer#write(string, encoding)\n  } else if (length === undefined && typeof offset === 'string') {\n    encoding = offset\n    length = this.length\n    offset = 0\n  // Buffer#write(string, offset[, length][, encoding])\n  } else if (isFinite(offset)) {\n    offset = offset | 0\n    if (isFinite(length)) {\n      length = length | 0\n      if (encoding === undefined) encoding = 'utf8'\n    } else {\n      encoding = length\n      length = undefined\n    }\n  // legacy write(string, encoding, offset, length) - remove in v0.13\n  } else {\n    throw new Error(\n      'Buffer.write(string, encoding, offset[, length]) is no longer supported'\n    )\n  }\n\n  var remaining = this.length - offset\n  if (length === undefined || length > remaining) length = remaining\n\n  if ((string.length > 0 && (length < 0 || offset < 0)) || offset > this.length) {\n    throw new RangeError('Attempt to write outside buffer bounds')\n  }\n\n  if (!encoding) encoding = 'utf8'\n\n  var loweredCase = false\n  for (;;) {\n    switch (encoding) {\n      case 'hex':\n        return hexWrite(this, string, offset, length)\n\n      case 'utf8':\n      case 'utf-8':\n        return utf8Write(this, string, offset, length)\n\n      case 'ascii':\n        return asciiWrite(this, string, offset, length)\n\n      case 'latin1':\n      case 'binary':\n        return latin1Write(this, string, offset, length)\n\n      case 'base64':\n        // Warning: maxLength not taken into account in base64Write\n        return base64Write(this, string, offset, length)\n\n      case 'ucs2':\n      case 'ucs-2':\n      case 'utf16le':\n      case 'utf-16le':\n        return ucs2Write(this, string, offset, length)\n\n      default:\n        if (loweredCase) throw new TypeError('Unknown encoding: ' + encoding)\n        encoding = ('' + encoding).toLowerCase()\n        loweredCase = true\n    }\n  }\n}\n\nBuffer.prototype.toJSON = function toJSON () {\n  return {\n    type: 'Buffer',\n    data: Array.prototype.slice.call(this._arr || this, 0)\n  }\n}\n\nfunction base64Slice (buf, start, end) {\n  if (start === 0 && end === buf.length) {\n    return base64.fromByteArray(buf)\n  } else {\n    return base64.fromByteArray(buf.slice(start, end))\n  }\n}\n\nfunction utf8Slice (buf, start, end) {\n  end = Math.min(buf.length, end)\n  var res = []\n\n  var i = start\n  while (i < end) {\n    var firstByte = buf[i]\n    var codePoint = null\n    var bytesPerSequence = (firstByte > 0xEF) ? 4\n      : (firstByte > 0xDF) ? 3\n      : (firstByte > 0xBF) ? 2\n      : 1\n\n    if (i + bytesPerSequence <= end) {\n      var secondByte, thirdByte, fourthByte, tempCodePoint\n\n      switch (bytesPerSequence) {\n        case 1:\n          if (firstByte < 0x80) {\n            codePoint = firstByte\n          }\n          break\n        case 2:\n          secondByte = buf[i + 1]\n          if ((secondByte & 0xC0) === 0x80) {\n            tempCodePoint = (firstByte & 0x1F) << 0x6 | (secondByte & 0x3F)\n            if (tempCodePoint > 0x7F) {\n              codePoint = tempCodePoint\n            }\n          }\n          break\n        case 3:\n          secondByte = buf[i + 1]\n          thirdByte = buf[i + 2]\n          if ((secondByte & 0xC0) === 0x80 && (thirdByte & 0xC0) === 0x80) {\n            tempCodePoint = (firstByte & 0xF) << 0xC | (secondByte & 0x3F) << 0x6 | (thirdByte & 0x3F)\n            if (tempCodePoint > 0x7FF && (tempCodePoint < 0xD800 || tempCodePoint > 0xDFFF)) {\n              codePoint = tempCodePoint\n            }\n          }\n          break\n        case 4:\n          secondByte = buf[i + 1]\n          thirdByte = buf[i + 2]\n          fourthByte = buf[i + 3]\n          if ((secondByte & 0xC0) === 0x80 && (thirdByte & 0xC0) === 0x80 && (fourthByte & 0xC0) === 0x80) {\n            tempCodePoint = (firstByte & 0xF) << 0x12 | (secondByte & 0x3F) << 0xC | (thirdByte & 0x3F) << 0x6 | (fourthByte & 0x3F)\n            if (tempCodePoint > 0xFFFF && tempCodePoint < 0x110000) {\n              codePoint = tempCodePoint\n            }\n          }\n      }\n    }\n\n    if (codePoint === null) {\n      // we did not generate a valid codePoint so insert a\n      // replacement char (U+FFFD) and advance only 1 byte\n      codePoint = 0xFFFD\n      bytesPerSequence = 1\n    } else if (codePoint > 0xFFFF) {\n      // encode to utf16 (surrogate pair dance)\n      codePoint -= 0x10000\n      res.push(codePoint >>> 10 & 0x3FF | 0xD800)\n      codePoint = 0xDC00 | codePoint & 0x3FF\n    }\n\n    res.push(codePoint)\n    i += bytesPerSequence\n  }\n\n  return decodeCodePointsArray(res)\n}\n\n// Based on http://stackoverflow.com/a/22747272/680742, the browser with\n// the lowest limit is Chrome, with 0x10000 args.\n// We go 1 magnitude less, for safety\nvar MAX_ARGUMENTS_LENGTH = 0x1000\n\nfunction decodeCodePointsArray (codePoints) {\n  var len = codePoints.length\n  if (len <= MAX_ARGUMENTS_LENGTH) {\n    return String.fromCharCode.apply(String, codePoints) // avoid extra slice()\n  }\n\n  // Decode in chunks to avoid \"call stack size exceeded\".\n  var res = ''\n  var i = 0\n  while (i < len) {\n    res += String.fromCharCode.apply(\n      String,\n      codePoints.slice(i, i += MAX_ARGUMENTS_LENGTH)\n    )\n  }\n  return res\n}\n\nfunction asciiSlice (buf, start, end) {\n  var ret = ''\n  end = Math.min(buf.length, end)\n\n  for (var i = start; i < end; ++i) {\n    ret += String.fromCharCode(buf[i] & 0x7F)\n  }\n  return ret\n}\n\nfunction latin1Slice (buf, start, end) {\n  var ret = ''\n  end = Math.min(buf.length, end)\n\n  for (var i = start; i < end; ++i) {\n    ret += String.fromCharCode(buf[i])\n  }\n  return ret\n}\n\nfunction hexSlice (buf, start, end) {\n  var len = buf.length\n\n  if (!start || start < 0) start = 0\n  if (!end || end < 0 || end > len) end = len\n\n  var out = ''\n  for (var i = start; i < end; ++i) {\n    out += toHex(buf[i])\n  }\n  return out\n}\n\nfunction utf16leSlice (buf, start, end) {\n  var bytes = buf.slice(start, end)\n  var res = ''\n  for (var i = 0; i < bytes.length; i += 2) {\n    res += String.fromCharCode(bytes[i] + bytes[i + 1] * 256)\n  }\n  return res\n}\n\nBuffer.prototype.slice = function slice (start, end) {\n  var len = this.length\n  start = ~~start\n  end = end === undefined ? len : ~~end\n\n  if (start < 0) {\n    start += len\n    if (start < 0) start = 0\n  } else if (start > len) {\n    start = len\n  }\n\n  if (end < 0) {\n    end += len\n    if (end < 0) end = 0\n  } else if (end > len) {\n    end = len\n  }\n\n  if (end < start) end = start\n\n  var newBuf\n  if (Buffer.TYPED_ARRAY_SUPPORT) {\n    newBuf = this.subarray(start, end)\n    newBuf.__proto__ = Buffer.prototype\n  } else {\n    var sliceLen = end - start\n    newBuf = new Buffer(sliceLen, undefined)\n    for (var i = 0; i < sliceLen; ++i) {\n      newBuf[i] = this[i + start]\n    }\n  }\n\n  return newBuf\n}\n\n/*\n * Need to make sure that buffer isn't trying to write out of bounds.\n */\nfunction checkOffset (offset, ext, length) {\n  if ((offset % 1) !== 0 || offset < 0) throw new RangeError('offset is not uint')\n  if (offset + ext > length) throw new RangeError('Trying to access beyond buffer length')\n}\n\nBuffer.prototype.readUIntLE = function readUIntLE (offset, byteLength, noAssert) {\n  offset = offset | 0\n  byteLength = byteLength | 0\n  if (!noAssert) checkOffset(offset, byteLength, this.length)\n\n  var val = this[offset]\n  var mul = 1\n  var i = 0\n  while (++i < byteLength && (mul *= 0x100)) {\n    val += this[offset + i] * mul\n  }\n\n  return val\n}\n\nBuffer.prototype.readUIntBE = function readUIntBE (offset, byteLength, noAssert) {\n  offset = offset | 0\n  byteLength = byteLength | 0\n  if (!noAssert) {\n    checkOffset(offset, byteLength, this.length)\n  }\n\n  var val = this[offset + --byteLength]\n  var mul = 1\n  while (byteLength > 0 && (mul *= 0x100)) {\n    val += this[offset + --byteLength] * mul\n  }\n\n  return val\n}\n\nBuffer.prototype.readUInt8 = function readUInt8 (offset, noAssert) {\n  if (!noAssert) checkOffset(offset, 1, this.length)\n  return this[offset]\n}\n\nBuffer.prototype.readUInt16LE = function readUInt16LE (offset, noAssert) {\n  if (!noAssert) checkOffset(offset, 2, this.length)\n  return this[offset] | (this[offset + 1] << 8)\n}\n\nBuffer.prototype.readUInt16BE = function readUInt16BE (offset, noAssert) {\n  if (!noAssert) checkOffset(offset, 2, this.length)\n  return (this[offset] << 8) | this[offset + 1]\n}\n\nBuffer.prototype.readUInt32LE = function readUInt32LE (offset, noAssert) {\n  if (!noAssert) checkOffset(offset, 4, this.length)\n\n  return ((this[offset]) |\n      (this[offset + 1] << 8) |\n      (this[offset + 2] << 16)) +\n      (this[offset + 3] * 0x1000000)\n}\n\nBuffer.prototype.readUInt32BE = function readUInt32BE (offset, noAssert) {\n  if (!noAssert) checkOffset(offset, 4, this.length)\n\n  return (this[offset] * 0x1000000) +\n    ((this[offset + 1] << 16) |\n    (this[offset + 2] << 8) |\n    this[offset + 3])\n}\n\nBuffer.prototype.readIntLE = function readIntLE (offset, byteLength, noAssert) {\n  offset = offset | 0\n  byteLength = byteLength | 0\n  if (!noAssert) checkOffset(offset, byteLength, this.length)\n\n  var val = this[offset]\n  var mul = 1\n  var i = 0\n  while (++i < byteLength && (mul *= 0x100)) {\n    val += this[offset + i] * mul\n  }\n  mul *= 0x80\n\n  if (val >= mul) val -= Math.pow(2, 8 * byteLength)\n\n  return val\n}\n\nBuffer.prototype.readIntBE = function readIntBE (offset, byteLength, noAssert) {\n  offset = offset | 0\n  byteLength = byteLength | 0\n  if (!noAssert) checkOffset(offset, byteLength, this.length)\n\n  var i = byteLength\n  var mul = 1\n  var val = this[offset + --i]\n  while (i > 0 && (mul *= 0x100)) {\n    val += this[offset + --i] * mul\n  }\n  mul *= 0x80\n\n  if (val >= mul) val -= Math.pow(2, 8 * byteLength)\n\n  return val\n}\n\nBuffer.prototype.readInt8 = function readInt8 (offset, noAssert) {\n  if (!noAssert) checkOffset(offset, 1, this.length)\n  if (!(this[offset] & 0x80)) return (this[offset])\n  return ((0xff - this[offset] + 1) * -1)\n}\n\nBuffer.prototype.readInt16LE = function readInt16LE (offset, noAssert) {\n  if (!noAssert) checkOffset(offset, 2, this.length)\n  var val = this[offset] | (this[offset + 1] << 8)\n  return (val & 0x8000) ? val | 0xFFFF0000 : val\n}\n\nBuffer.prototype.readInt16BE = function readInt16BE (offset, noAssert) {\n  if (!noAssert) checkOffset(offset, 2, this.length)\n  var val = this[offset + 1] | (this[offset] << 8)\n  return (val & 0x8000) ? val | 0xFFFF0000 : val\n}\n\nBuffer.prototype.readInt32LE = function readInt32LE (offset, noAssert) {\n  if (!noAssert) checkOffset(offset, 4, this.length)\n\n  return (this[offset]) |\n    (this[offset + 1] << 8) |\n    (this[offset + 2] << 16) |\n    (this[offset + 3] << 24)\n}\n\nBuffer.prototype.readInt32BE = function readInt32BE (offset, noAssert) {\n  if (!noAssert) checkOffset(offset, 4, this.length)\n\n  return (this[offset] << 24) |\n    (this[offset + 1] << 16) |\n    (this[offset + 2] << 8) |\n    (this[offset + 3])\n}\n\nBuffer.prototype.readFloatLE = function readFloatLE (offset, noAssert) {\n  if (!noAssert) checkOffset(offset, 4, this.length)\n  return ieee754.read(this, offset, true, 23, 4)\n}\n\nBuffer.prototype.readFloatBE = function readFloatBE (offset, noAssert) {\n  if (!noAssert) checkOffset(offset, 4, this.length)\n  return ieee754.read(this, offset, false, 23, 4)\n}\n\nBuffer.prototype.readDoubleLE = function readDoubleLE (offset, noAssert) {\n  if (!noAssert) checkOffset(offset, 8, this.length)\n  return ieee754.read(this, offset, true, 52, 8)\n}\n\nBuffer.prototype.readDoubleBE = function readDoubleBE (offset, noAssert) {\n  if (!noAssert) checkOffset(offset, 8, this.length)\n  return ieee754.read(this, offset, false, 52, 8)\n}\n\nfunction checkInt (buf, value, offset, ext, max, min) {\n  if (!Buffer.isBuffer(buf)) throw new TypeError('\"buffer\" argument must be a Buffer instance')\n  if (value > max || value < min) throw new RangeError('\"value\" argument is out of bounds')\n  if (offset + ext > buf.length) throw new RangeError('Index out of range')\n}\n\nBuffer.prototype.writeUIntLE = function writeUIntLE (value, offset, byteLength, noAssert) {\n  value = +value\n  offset = offset | 0\n  byteLength = byteLength | 0\n  if (!noAssert) {\n    var maxBytes = Math.pow(2, 8 * byteLength) - 1\n    checkInt(this, value, offset, byteLength, maxBytes, 0)\n  }\n\n  var mul = 1\n  var i = 0\n  this[offset] = value & 0xFF\n  while (++i < byteLength && (mul *= 0x100)) {\n    this[offset + i] = (value / mul) & 0xFF\n  }\n\n  return offset + byteLength\n}\n\nBuffer.prototype.writeUIntBE = function writeUIntBE (value, offset, byteLength, noAssert) {\n  value = +value\n  offset = offset | 0\n  byteLength = byteLength | 0\n  if (!noAssert) {\n    var maxBytes = Math.pow(2, 8 * byteLength) - 1\n    checkInt(this, value, offset, byteLength, maxBytes, 0)\n  }\n\n  var i = byteLength - 1\n  var mul = 1\n  this[offset + i] = value & 0xFF\n  while (--i >= 0 && (mul *= 0x100)) {\n    this[offset + i] = (value / mul) & 0xFF\n  }\n\n  return offset + byteLength\n}\n\nBuffer.prototype.writeUInt8 = function writeUInt8 (value, offset, noAssert) {\n  value = +value\n  offset = offset | 0\n  if (!noAssert) checkInt(this, value, offset, 1, 0xff, 0)\n  if (!Buffer.TYPED_ARRAY_SUPPORT) value = Math.floor(value)\n  this[offset] = (value & 0xff)\n  return offset + 1\n}\n\nfunction objectWriteUInt16 (buf, value, offset, littleEndian) {\n  if (value < 0) value = 0xffff + value + 1\n  for (var i = 0, j = Math.min(buf.length - offset, 2); i < j; ++i) {\n    buf[offset + i] = (value & (0xff << (8 * (littleEndian ? i : 1 - i)))) >>>\n      (littleEndian ? i : 1 - i) * 8\n  }\n}\n\nBuffer.prototype.writeUInt16LE = function writeUInt16LE (value, offset, noAssert) {\n  value = +value\n  offset = offset | 0\n  if (!noAssert) checkInt(this, value, offset, 2, 0xffff, 0)\n  if (Buffer.TYPED_ARRAY_SUPPORT) {\n    this[offset] = (value & 0xff)\n    this[offset + 1] = (value >>> 8)\n  } else {\n    objectWriteUInt16(this, value, offset, true)\n  }\n  return offset + 2\n}\n\nBuffer.prototype.writeUInt16BE = function writeUInt16BE (value, offset, noAssert) {\n  value = +value\n  offset = offset | 0\n  if (!noAssert) checkInt(this, value, offset, 2, 0xffff, 0)\n  if (Buffer.TYPED_ARRAY_SUPPORT) {\n    this[offset] = (value >>> 8)\n    this[offset + 1] = (value & 0xff)\n  } else {\n    objectWriteUInt16(this, value, offset, false)\n  }\n  return offset + 2\n}\n\nfunction objectWriteUInt32 (buf, value, offset, littleEndian) {\n  if (value < 0) value = 0xffffffff + value + 1\n  for (var i = 0, j = Math.min(buf.length - offset, 4); i < j; ++i) {\n    buf[offset + i] = (value >>> (littleEndian ? i : 3 - i) * 8) & 0xff\n  }\n}\n\nBuffer.prototype.writeUInt32LE = function writeUInt32LE (value, offset, noAssert) {\n  value = +value\n  offset = offset | 0\n  if (!noAssert) checkInt(this, value, offset, 4, 0xffffffff, 0)\n  if (Buffer.TYPED_ARRAY_SUPPORT) {\n    this[offset + 3] = (value >>> 24)\n    this[offset + 2] = (value >>> 16)\n    this[offset + 1] = (value >>> 8)\n    this[offset] = (value & 0xff)\n  } else {\n    objectWriteUInt32(this, value, offset, true)\n  }\n  return offset + 4\n}\n\nBuffer.prototype.writeUInt32BE = function writeUInt32BE (value, offset, noAssert) {\n  value = +value\n  offset = offset | 0\n  if (!noAssert) checkInt(this, value, offset, 4, 0xffffffff, 0)\n  if (Buffer.TYPED_ARRAY_SUPPORT) {\n    this[offset] = (value >>> 24)\n    this[offset + 1] = (value >>> 16)\n    this[offset + 2] = (value >>> 8)\n    this[offset + 3] = (value & 0xff)\n  } else {\n    objectWriteUInt32(this, value, offset, false)\n  }\n  return offset + 4\n}\n\nBuffer.prototype.writeIntLE = function writeIntLE (value, offset, byteLength, noAssert) {\n  value = +value\n  offset = offset | 0\n  if (!noAssert) {\n    var limit = Math.pow(2, 8 * byteLength - 1)\n\n    checkInt(this, value, offset, byteLength, limit - 1, -limit)\n  }\n\n  var i = 0\n  var mul = 1\n  var sub = 0\n  this[offset] = value & 0xFF\n  while (++i < byteLength && (mul *= 0x100)) {\n    if (value < 0 && sub === 0 && this[offset + i - 1] !== 0) {\n      sub = 1\n    }\n    this[offset + i] = ((value / mul) >> 0) - sub & 0xFF\n  }\n\n  return offset + byteLength\n}\n\nBuffer.prototype.writeIntBE = function writeIntBE (value, offset, byteLength, noAssert) {\n  value = +value\n  offset = offset | 0\n  if (!noAssert) {\n    var limit = Math.pow(2, 8 * byteLength - 1)\n\n    checkInt(this, value, offset, byteLength, limit - 1, -limit)\n  }\n\n  var i = byteLength - 1\n  var mul = 1\n  var sub = 0\n  this[offset + i] = value & 0xFF\n  while (--i >= 0 && (mul *= 0x100)) {\n    if (value < 0 && sub === 0 && this[offset + i + 1] !== 0) {\n      sub = 1\n    }\n    this[offset + i] = ((value / mul) >> 0) - sub & 0xFF\n  }\n\n  return offset + byteLength\n}\n\nBuffer.prototype.writeInt8 = function writeInt8 (value, offset, noAssert) {\n  value = +value\n  offset = offset | 0\n  if (!noAssert) checkInt(this, value, offset, 1, 0x7f, -0x80)\n  if (!Buffer.TYPED_ARRAY_SUPPORT) value = Math.floor(value)\n  if (value < 0) value = 0xff + value + 1\n  this[offset] = (value & 0xff)\n  return offset + 1\n}\n\nBuffer.prototype.writeInt16LE = function writeInt16LE (value, offset, noAssert) {\n  value = +value\n  offset = offset | 0\n  if (!noAssert) checkInt(this, value, offset, 2, 0x7fff, -0x8000)\n  if (Buffer.TYPED_ARRAY_SUPPORT) {\n    this[offset] = (value & 0xff)\n    this[offset + 1] = (value >>> 8)\n  } else {\n    objectWriteUInt16(this, value, offset, true)\n  }\n  return offset + 2\n}\n\nBuffer.prototype.writeInt16BE = function writeInt16BE (value, offset, noAssert) {\n  value = +value\n  offset = offset | 0\n  if (!noAssert) checkInt(this, value, offset, 2, 0x7fff, -0x8000)\n  if (Buffer.TYPED_ARRAY_SUPPORT) {\n    this[offset] = (value >>> 8)\n    this[offset + 1] = (value & 0xff)\n  } else {\n    objectWriteUInt16(this, value, offset, false)\n  }\n  return offset + 2\n}\n\nBuffer.prototype.writeInt32LE = function writeInt32LE (value, offset, noAssert) {\n  value = +value\n  offset = offset | 0\n  if (!noAssert) checkInt(this, value, offset, 4, 0x7fffffff, -0x80000000)\n  if (Buffer.TYPED_ARRAY_SUPPORT) {\n    this[offset] = (value & 0xff)\n    this[offset + 1] = (value >>> 8)\n    this[offset + 2] = (value >>> 16)\n    this[offset + 3] = (value >>> 24)\n  } else {\n    objectWriteUInt32(this, value, offset, true)\n  }\n  return offset + 4\n}\n\nBuffer.prototype.writeInt32BE = function writeInt32BE (value, offset, noAssert) {\n  value = +value\n  offset = offset | 0\n  if (!noAssert) checkInt(this, value, offset, 4, 0x7fffffff, -0x80000000)\n  if (value < 0) value = 0xffffffff + value + 1\n  if (Buffer.TYPED_ARRAY_SUPPORT) {\n    this[offset] = (value >>> 24)\n    this[offset + 1] = (value >>> 16)\n    this[offset + 2] = (value >>> 8)\n    this[offset + 3] = (value & 0xff)\n  } else {\n    objectWriteUInt32(this, value, offset, false)\n  }\n  return offset + 4\n}\n\nfunction checkIEEE754 (buf, value, offset, ext, max, min) {\n  if (offset + ext > buf.length) throw new RangeError('Index out of range')\n  if (offset < 0) throw new RangeError('Index out of range')\n}\n\nfunction writeFloat (buf, value, offset, littleEndian, noAssert) {\n  if (!noAssert) {\n    checkIEEE754(buf, value, offset, 4, 3.4028234663852886e+38, -3.4028234663852886e+38)\n  }\n  ieee754.write(buf, value, offset, littleEndian, 23, 4)\n  return offset + 4\n}\n\nBuffer.prototype.writeFloatLE = function writeFloatLE (value, offset, noAssert) {\n  return writeFloat(this, value, offset, true, noAssert)\n}\n\nBuffer.prototype.writeFloatBE = function writeFloatBE (value, offset, noAssert) {\n  return writeFloat(this, value, offset, false, noAssert)\n}\n\nfunction writeDouble (buf, value, offset, littleEndian, noAssert) {\n  if (!noAssert) {\n    checkIEEE754(buf, value, offset, 8, 1.7976931348623157E+308, -1.7976931348623157E+308)\n  }\n  ieee754.write(buf, value, offset, littleEndian, 52, 8)\n  return offset + 8\n}\n\nBuffer.prototype.writeDoubleLE = function writeDoubleLE (value, offset, noAssert) {\n  return writeDouble(this, value, offset, true, noAssert)\n}\n\nBuffer.prototype.writeDoubleBE = function writeDoubleBE (value, offset, noAssert) {\n  return writeDouble(this, value, offset, false, noAssert)\n}\n\n// copy(targetBuffer, targetStart=0, sourceStart=0, sourceEnd=buffer.length)\nBuffer.prototype.copy = function copy (target, targetStart, start, end) {\n  if (!start) start = 0\n  if (!end && end !== 0) end = this.length\n  if (targetStart >= target.length) targetStart = target.length\n  if (!targetStart) targetStart = 0\n  if (end > 0 && end < start) end = start\n\n  // Copy 0 bytes; we're done\n  if (end === start) return 0\n  if (target.length === 0 || this.length === 0) return 0\n\n  // Fatal error conditions\n  if (targetStart < 0) {\n    throw new RangeError('targetStart out of bounds')\n  }\n  if (start < 0 || start >= this.length) throw new RangeError('sourceStart out of bounds')\n  if (end < 0) throw new RangeError('sourceEnd out of bounds')\n\n  // Are we oob?\n  if (end > this.length) end = this.length\n  if (target.length - targetStart < end - start) {\n    end = target.length - targetStart + start\n  }\n\n  var len = end - start\n  var i\n\n  if (this === target && start < targetStart && targetStart < end) {\n    // descending copy from end\n    for (i = len - 1; i >= 0; --i) {\n      target[i + targetStart] = this[i + start]\n    }\n  } else if (len < 1000 || !Buffer.TYPED_ARRAY_SUPPORT) {\n    // ascending copy from start\n    for (i = 0; i < len; ++i) {\n      target[i + targetStart] = this[i + start]\n    }\n  } else {\n    Uint8Array.prototype.set.call(\n      target,\n      this.subarray(start, start + len),\n      targetStart\n    )\n  }\n\n  return len\n}\n\n// Usage:\n//    buffer.fill(number[, offset[, end]])\n//    buffer.fill(buffer[, offset[, end]])\n//    buffer.fill(string[, offset[, end]][, encoding])\nBuffer.prototype.fill = function fill (val, start, end, encoding) {\n  // Handle string cases:\n  if (typeof val === 'string') {\n    if (typeof start === 'string') {\n      encoding = start\n      start = 0\n      end = this.length\n    } else if (typeof end === 'string') {\n      encoding = end\n      end = this.length\n    }\n    if (val.length === 1) {\n      var code = val.charCodeAt(0)\n      if (code < 256) {\n        val = code\n      }\n    }\n    if (encoding !== undefined && typeof encoding !== 'string') {\n      throw new TypeError('encoding must be a string')\n    }\n    if (typeof encoding === 'string' && !Buffer.isEncoding(encoding)) {\n      throw new TypeError('Unknown encoding: ' + encoding)\n    }\n  } else if (typeof val === 'number') {\n    val = val & 255\n  }\n\n  // Invalid ranges are not set to a default, so can range check early.\n  if (start < 0 || this.length < start || this.length < end) {\n    throw new RangeError('Out of range index')\n  }\n\n  if (end <= start) {\n    return this\n  }\n\n  start = start >>> 0\n  end = end === undefined ? this.length : end >>> 0\n\n  if (!val) val = 0\n\n  var i\n  if (typeof val === 'number') {\n    for (i = start; i < end; ++i) {\n      this[i] = val\n    }\n  } else {\n    var bytes = Buffer.isBuffer(val)\n      ? val\n      : utf8ToBytes(new Buffer(val, encoding).toString())\n    var len = bytes.length\n    for (i = 0; i < end - start; ++i) {\n      this[i + start] = bytes[i % len]\n    }\n  }\n\n  return this\n}\n\n// HELPER FUNCTIONS\n// ================\n\nvar INVALID_BASE64_RE = /[^+\\/0-9A-Za-z-_]/g\n\nfunction base64clean (str) {\n  // Node strips out invalid characters like \\n and \\t from the string, base64-js does not\n  str = stringtrim(str).replace(INVALID_BASE64_RE, '')\n  // Node converts strings with length < 2 to ''\n  if (str.length < 2) return ''\n  // Node allows for non-padded base64 strings (missing trailing ===), base64-js does not\n  while (str.length % 4 !== 0) {\n    str = str + '='\n  }\n  return str\n}\n\nfunction stringtrim (str) {\n  if (str.trim) return str.trim()\n  return str.replace(/^\\s+|\\s+$/g, '')\n}\n\nfunction toHex (n) {\n  if (n < 16) return '0' + n.toString(16)\n  return n.toString(16)\n}\n\nfunction utf8ToBytes (string, units) {\n  units = units || Infinity\n  var codePoint\n  var length = string.length\n  var leadSurrogate = null\n  var bytes = []\n\n  for (var i = 0; i < length; ++i) {\n    codePoint = string.charCodeAt(i)\n\n    // is surrogate component\n    if (codePoint > 0xD7FF && codePoint < 0xE000) {\n      // last char was a lead\n      if (!leadSurrogate) {\n        // no lead yet\n        if (codePoint > 0xDBFF) {\n          // unexpected trail\n          if ((units -= 3) > -1) bytes.push(0xEF, 0xBF, 0xBD)\n          continue\n        } else if (i + 1 === length) {\n          // unpaired lead\n          if ((units -= 3) > -1) bytes.push(0xEF, 0xBF, 0xBD)\n          continue\n        }\n\n        // valid lead\n        leadSurrogate = codePoint\n\n        continue\n      }\n\n      // 2 leads in a row\n      if (codePoint < 0xDC00) {\n        if ((units -= 3) > -1) bytes.push(0xEF, 0xBF, 0xBD)\n        leadSurrogate = codePoint\n        continue\n      }\n\n      // valid surrogate pair\n      codePoint = (leadSurrogate - 0xD800 << 10 | codePoint - 0xDC00) + 0x10000\n    } else if (leadSurrogate) {\n      // valid bmp char, but last char was a lead\n      if ((units -= 3) > -1) bytes.push(0xEF, 0xBF, 0xBD)\n    }\n\n    leadSurrogate = null\n\n    // encode utf8\n    if (codePoint < 0x80) {\n      if ((units -= 1) < 0) break\n      bytes.push(codePoint)\n    } else if (codePoint < 0x800) {\n      if ((units -= 2) < 0) break\n      bytes.push(\n        codePoint >> 0x6 | 0xC0,\n        codePoint & 0x3F | 0x80\n      )\n    } else if (codePoint < 0x10000) {\n      if ((units -= 3) < 0) break\n      bytes.push(\n        codePoint >> 0xC | 0xE0,\n        codePoint >> 0x6 & 0x3F | 0x80,\n        codePoint & 0x3F | 0x80\n      )\n    } else if (codePoint < 0x110000) {\n      if ((units -= 4) < 0) break\n      bytes.push(\n        codePoint >> 0x12 | 0xF0,\n        codePoint >> 0xC & 0x3F | 0x80,\n        codePoint >> 0x6 & 0x3F | 0x80,\n        codePoint & 0x3F | 0x80\n      )\n    } else {\n      throw new Error('Invalid code point')\n    }\n  }\n\n  return bytes\n}\n\nfunction asciiToBytes (str) {\n  var byteArray = []\n  for (var i = 0; i < str.length; ++i) {\n    // Node's code seems to be doing this and not & 0x7F..\n    byteArray.push(str.charCodeAt(i) & 0xFF)\n  }\n  return byteArray\n}\n\nfunction utf16leToBytes (str, units) {\n  var c, hi, lo\n  var byteArray = []\n  for (var i = 0; i < str.length; ++i) {\n    if ((units -= 2) < 0) break\n\n    c = str.charCodeAt(i)\n    hi = c >> 8\n    lo = c % 256\n    byteArray.push(lo)\n    byteArray.push(hi)\n  }\n\n  return byteArray\n}\n\nfunction base64ToBytes (str) {\n  return base64.toByteArray(base64clean(str))\n}\n\nfunction blitBuffer (src, dst, offset, length) {\n  for (var i = 0; i < length; ++i) {\n    if ((i + offset >= dst.length) || (i >= src.length)) break\n    dst[i + offset] = src[i]\n  }\n  return i\n}\n\nfunction isnan (val) {\n  return val !== val // eslint-disable-line no-self-compare\n}\n\n/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../../../webpack/buildin/global.js */ \"./gulp/node_modules/webpack/buildin/global.js\")))\n\n/***/ }),\n\n/***/ \"./gulp/node_modules/webpack/buildin/global.js\":\n/*!***********************************!*\\\n  !*** (webpack)/buildin/global.js ***!\n  \\***********************************/\n/*! no static exports found */\n/***/ (function(module, exports) {\n\nvar g;\n\n// This works in non-strict mode\ng = (function() {\n\treturn this;\n})();\n\ntry {\n\t// This works if eval is allowed (see CSP)\n\tg = g || new Function(\"return this\")();\n} catch (e) {\n\t// This works if the window reference is available\n\tif (typeof window === \"object\") g = window;\n}\n\n// g can still be undefined, but nothing to do about it...\n// We return undefined, instead of nothing here, so it's\n// easier to handle this case. if(!global) { ...}\n\nmodule.exports = g;\n\n\n/***/ }),\n\n/***/ \"./node_modules/crc/crc32.js\":\n/*!***********************************!*\\\n  !*** ./node_modules/crc/crc32.js ***!\n  \\***********************************/\n/*! exports provided: default */\n/***/ (function(module, __webpack_exports__, __webpack_require__) {\n\n\"use strict\";\n__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var buffer__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! buffer */ \"./gulp/node_modules/node-libs-browser/node_modules/buffer/index.js\");\n/* harmony import */ var buffer__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(buffer__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _create_buffer__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./create_buffer */ \"./node_modules/crc/create_buffer.js\");\n/* harmony import */ var _define_crc__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./define_crc */ \"./node_modules/crc/define_crc.js\");\n\n\n\n\n// Generated by `./pycrc.py --algorithm=table-driven --model=crc-32 --generate=c`\n// prettier-ignore\nlet TABLE = [\n  0x00000000, 0x77073096, 0xee0e612c, 0x990951ba,\n  0x076dc419, 0x706af48f, 0xe963a535, 0x9e6495a3,\n  0x0edb8832, 0x79dcb8a4, 0xe0d5e91e, 0x97d2d988,\n  0x09b64c2b, 0x7eb17cbd, 0xe7b82d07, 0x90bf1d91,\n  0x1db71064, 0x6ab020f2, 0xf3b97148, 0x84be41de,\n  0x1adad47d, 0x6ddde4eb, 0xf4d4b551, 0x83d385c7,\n  0x136c9856, 0x646ba8c0, 0xfd62f97a, 0x8a65c9ec,\n  0x14015c4f, 0x63066cd9, 0xfa0f3d63, 0x8d080df5,\n  0x3b6e20c8, 0x4c69105e, 0xd56041e4, 0xa2677172,\n  0x3c03e4d1, 0x4b04d447, 0xd20d85fd, 0xa50ab56b,\n  0x35b5a8fa, 0x42b2986c, 0xdbbbc9d6, 0xacbcf940,\n  0x32d86ce3, 0x45df5c75, 0xdcd60dcf, 0xabd13d59,\n  0x26d930ac, 0x51de003a, 0xc8d75180, 0xbfd06116,\n  0x21b4f4b5, 0x56b3c423, 0xcfba9599, 0xb8bda50f,\n  0x2802b89e, 0x5f058808, 0xc60cd9b2, 0xb10be924,\n  0x2f6f7c87, 0x58684c11, 0xc1611dab, 0xb6662d3d,\n  0x76dc4190, 0x01db7106, 0x98d220bc, 0xefd5102a,\n  0x71b18589, 0x06b6b51f, 0x9fbfe4a5, 0xe8b8d433,\n  0x7807c9a2, 0x0f00f934, 0x9609a88e, 0xe10e9818,\n  0x7f6a0dbb, 0x086d3d2d, 0x91646c97, 0xe6635c01,\n  0x6b6b51f4, 0x1c6c6162, 0x856530d8, 0xf262004e,\n  0x6c0695ed, 0x1b01a57b, 0x8208f4c1, 0xf50fc457,\n  0x65b0d9c6, 0x12b7e950, 0x8bbeb8ea, 0xfcb9887c,\n  0x62dd1ddf, 0x15da2d49, 0x8cd37cf3, 0xfbd44c65,\n  0x4db26158, 0x3ab551ce, 0xa3bc0074, 0xd4bb30e2,\n  0x4adfa541, 0x3dd895d7, 0xa4d1c46d, 0xd3d6f4fb,\n  0x4369e96a, 0x346ed9fc, 0xad678846, 0xda60b8d0,\n  0x44042d73, 0x33031de5, 0xaa0a4c5f, 0xdd0d7cc9,\n  0x5005713c, 0x270241aa, 0xbe0b1010, 0xc90c2086,\n  0x5768b525, 0x206f85b3, 0xb966d409, 0xce61e49f,\n  0x5edef90e, 0x29d9c998, 0xb0d09822, 0xc7d7a8b4,\n  0x59b33d17, 0x2eb40d81, 0xb7bd5c3b, 0xc0ba6cad,\n  0xedb88320, 0x9abfb3b6, 0x03b6e20c, 0x74b1d29a,\n  0xead54739, 0x9dd277af, 0x04db2615, 0x73dc1683,\n  0xe3630b12, 0x94643b84, 0x0d6d6a3e, 0x7a6a5aa8,\n  0xe40ecf0b, 0x9309ff9d, 0x0a00ae27, 0x7d079eb1,\n  0xf00f9344, 0x8708a3d2, 0x1e01f268, 0x6906c2fe,\n  0xf762575d, 0x806567cb, 0x196c3671, 0x6e6b06e7,\n  0xfed41b76, 0x89d32be0, 0x10da7a5a, 0x67dd4acc,\n  0xf9b9df6f, 0x8ebeeff9, 0x17b7be43, 0x60b08ed5,\n  0xd6d6a3e8, 0xa1d1937e, 0x38d8c2c4, 0x4fdff252,\n  0xd1bb67f1, 0xa6bc5767, 0x3fb506dd, 0x48b2364b,\n  0xd80d2bda, 0xaf0a1b4c, 0x36034af6, 0x41047a60,\n  0xdf60efc3, 0xa867df55, 0x316e8eef, 0x4669be79,\n  0xcb61b38c, 0xbc66831a, 0x256fd2a0, 0x5268e236,\n  0xcc0c7795, 0xbb0b4703, 0x220216b9, 0x5505262f,\n  0xc5ba3bbe, 0xb2bd0b28, 0x2bb45a92, 0x5cb36a04,\n  0xc2d7ffa7, 0xb5d0cf31, 0x2cd99e8b, 0x5bdeae1d,\n  0x9b64c2b0, 0xec63f226, 0x756aa39c, 0x026d930a,\n  0x9c0906a9, 0xeb0e363f, 0x72076785, 0x05005713,\n  0x95bf4a82, 0xe2b87a14, 0x7bb12bae, 0x0cb61b38,\n  0x92d28e9b, 0xe5d5be0d, 0x7cdcefb7, 0x0bdbdf21,\n  0x86d3d2d4, 0xf1d4e242, 0x68ddb3f8, 0x1fda836e,\n  0x81be16cd, 0xf6b9265b, 0x6fb077e1, 0x18b74777,\n  0x88085ae6, 0xff0f6a70, 0x66063bca, 0x11010b5c,\n  0x8f659eff, 0xf862ae69, 0x616bffd3, 0x166ccf45,\n  0xa00ae278, 0xd70dd2ee, 0x4e048354, 0x3903b3c2,\n  0xa7672661, 0xd06016f7, 0x4969474d, 0x3e6e77db,\n  0xaed16a4a, 0xd9d65adc, 0x40df0b66, 0x37d83bf0,\n  0xa9bcae53, 0xdebb9ec5, 0x47b2cf7f, 0x30b5ffe9,\n  0xbdbdf21c, 0xcabac28a, 0x53b39330, 0x24b4a3a6,\n  0xbad03605, 0xcdd70693, 0x54de5729, 0x23d967bf,\n  0xb3667a2e, 0xc4614ab8, 0x5d681b02, 0x2a6f2b94,\n  0xb40bbe37, 0xc30c8ea1, 0x5a05df1b, 0x2d02ef8d\n];\n\nif (typeof Int32Array !== 'undefined') TABLE = new Int32Array(TABLE);\n\nconst crc32 = Object(_define_crc__WEBPACK_IMPORTED_MODULE_2__[\"default\"])('crc-32', function(buf, previous) {\n  if (!buffer__WEBPACK_IMPORTED_MODULE_0__[\"Buffer\"].isBuffer(buf)) buf = Object(_create_buffer__WEBPACK_IMPORTED_MODULE_1__[\"default\"])(buf);\n\n  let crc = previous === 0 ? 0 : ~~previous ^ -1;\n\n  for (let index = 0; index < buf.length; index++) {\n    const byte = buf[index];\n    crc = TABLE[(crc ^ byte) & 0xff] ^ (crc >>> 8);\n  }\n\n  return crc ^ -1;\n});\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (crc32);\n\n\n/***/ }),\n\n/***/ \"./node_modules/crc/create_buffer.js\":\n/*!*******************************************!*\\\n  !*** ./node_modules/crc/create_buffer.js ***!\n  \\*******************************************/\n/*! exports provided: default */\n/***/ (function(module, __webpack_exports__, __webpack_require__) {\n\n\"use strict\";\n__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var buffer__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! buffer */ \"./gulp/node_modules/node-libs-browser/node_modules/buffer/index.js\");\n/* harmony import */ var buffer__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(buffer__WEBPACK_IMPORTED_MODULE_0__);\n\n\nconst createBuffer =\n  buffer__WEBPACK_IMPORTED_MODULE_0__[\"Buffer\"].from && buffer__WEBPACK_IMPORTED_MODULE_0__[\"Buffer\"].alloc && buffer__WEBPACK_IMPORTED_MODULE_0__[\"Buffer\"].allocUnsafe && buffer__WEBPACK_IMPORTED_MODULE_0__[\"Buffer\"].allocUnsafeSlow\n    ? buffer__WEBPACK_IMPORTED_MODULE_0__[\"Buffer\"].from\n    : // support for Node < 5.10\n      val => new buffer__WEBPACK_IMPORTED_MODULE_0__[\"Buffer\"](val);\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (createBuffer);\n\n\n/***/ }),\n\n/***/ \"./node_modules/crc/define_crc.js\":\n/*!****************************************!*\\\n  !*** ./node_modules/crc/define_crc.js ***!\n  \\****************************************/\n/*! exports provided: default */\n/***/ (function(module, __webpack_exports__, __webpack_require__) {\n\n\"use strict\";\n__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (function(model, calc) {\n  const fn = (buf, previous) => calc(buf, previous) >>> 0;\n  fn.signed = calc;\n  fn.unsigned = fn;\n  fn.model = model;\n\n  return fn;\n});\n\n\n/***/ }),\n\n/***/ \"./node_modules/rusha/dist/rusha.js\":\n/*!******************************************!*\\\n  !*** ./node_modules/rusha/dist/rusha.js ***!\n  \\******************************************/\n/*! no static exports found */\n/***/ (function(module, exports, __webpack_require__) {\n\n(function webpackUniversalModuleDefinition(root, factory) {\n\tif(true)\n\t\tmodule.exports = factory();\n\telse {}\n})(typeof self !== 'undefined' ? self : this, function() {\nreturn /******/ (function(modules) { // webpackBootstrap\n/******/ \t// The module cache\n/******/ \tvar installedModules = {};\n/******/\n/******/ \t// The require function\n/******/ \tfunction __webpack_require__(moduleId) {\n/******/\n/******/ \t\t// Check if module is in cache\n/******/ \t\tif(installedModules[moduleId]) {\n/******/ \t\t\treturn installedModules[moduleId].exports;\n/******/ \t\t}\n/******/ \t\t// Create a new module (and put it into the cache)\n/******/ \t\tvar module = installedModules[moduleId] = {\n/******/ \t\t\ti: moduleId,\n/******/ \t\t\tl: false,\n/******/ \t\t\texports: {}\n/******/ \t\t};\n/******/\n/******/ \t\t// Execute the module function\n/******/ \t\tmodules[moduleId].call(module.exports, module, module.exports, __webpack_require__);\n/******/\n/******/ \t\t// Flag the module as loaded\n/******/ \t\tmodule.l = true;\n/******/\n/******/ \t\t// Return the exports of the module\n/******/ \t\treturn module.exports;\n/******/ \t}\n/******/\n/******/\n/******/ \t// expose the modules object (__webpack_modules__)\n/******/ \t__webpack_require__.m = modules;\n/******/\n/******/ \t// expose the module cache\n/******/ \t__webpack_require__.c = installedModules;\n/******/\n/******/ \t// define getter function for harmony exports\n/******/ \t__webpack_require__.d = function(exports, name, getter) {\n/******/ \t\tif(!__webpack_require__.o(exports, name)) {\n/******/ \t\t\tObject.defineProperty(exports, name, {\n/******/ \t\t\t\tconfigurable: false,\n/******/ \t\t\t\tenumerable: true,\n/******/ \t\t\t\tget: getter\n/******/ \t\t\t});\n/******/ \t\t}\n/******/ \t};\n/******/\n/******/ \t// getDefaultExport function for compatibility with non-harmony modules\n/******/ \t__webpack_require__.n = function(module) {\n/******/ \t\tvar getter = module && module.__esModule ?\n/******/ \t\t\tfunction getDefault() { return module['default']; } :\n/******/ \t\t\tfunction getModuleExports() { return module; };\n/******/ \t\t__webpack_require__.d(getter, 'a', getter);\n/******/ \t\treturn getter;\n/******/ \t};\n/******/\n/******/ \t// Object.prototype.hasOwnProperty.call\n/******/ \t__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };\n/******/\n/******/ \t// __webpack_public_path__\n/******/ \t__webpack_require__.p = \"\";\n/******/\n/******/ \t// Load entry module and return exports\n/******/ \treturn __webpack_require__(__webpack_require__.s = 3);\n/******/ })\n/************************************************************************/\n/******/ ([\n/* 0 */\n/***/ (function(module, exports, __webpack_require__) {\n\nfunction _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError(\"Cannot call a class as a function\"); } }\n\n/* eslint-env commonjs, browser */\n\nvar RushaCore = __webpack_require__(5);\n\nvar _require = __webpack_require__(1),\n    toHex = _require.toHex,\n    ceilHeapSize = _require.ceilHeapSize;\n\nvar conv = __webpack_require__(6);\n\n// Calculate the length of buffer that the sha1 routine uses\n// including the padding.\nvar padlen = function (len) {\n  for (len += 9; len % 64 > 0; len += 1) {}\n  return len;\n};\n\nvar padZeroes = function (bin, len) {\n  var h8 = new Uint8Array(bin.buffer);\n  var om = len % 4,\n      align = len - om;\n  switch (om) {\n    case 0:\n      h8[align + 3] = 0;\n    case 1:\n      h8[align + 2] = 0;\n    case 2:\n      h8[align + 1] = 0;\n    case 3:\n      h8[align + 0] = 0;\n  }\n  for (var i = (len >> 2) + 1; i < bin.length; i++) {\n    bin[i] = 0;\n  }\n};\n\nvar padData = function (bin, chunkLen, msgLen) {\n  bin[chunkLen >> 2] |= 0x80 << 24 - (chunkLen % 4 << 3);\n  // To support msgLen >= 2 GiB, use a float division when computing the\n  // high 32-bits of the big-endian message length in bits.\n  bin[((chunkLen >> 2) + 2 & ~0x0f) + 14] = msgLen / (1 << 29) | 0;\n  bin[((chunkLen >> 2) + 2 & ~0x0f) + 15] = msgLen << 3;\n};\n\nvar getRawDigest = function (heap, padMaxChunkLen) {\n  var io = new Int32Array(heap, padMaxChunkLen + 320, 5);\n  var out = new Int32Array(5);\n  var arr = new DataView(out.buffer);\n  arr.setInt32(0, io[0], false);\n  arr.setInt32(4, io[1], false);\n  arr.setInt32(8, io[2], false);\n  arr.setInt32(12, io[3], false);\n  arr.setInt32(16, io[4], false);\n  return out;\n};\n\nvar Rusha = function () {\n  function Rusha(chunkSize) {\n    _classCallCheck(this, Rusha);\n\n    chunkSize = chunkSize || 64 * 1024;\n    if (chunkSize % 64 > 0) {\n      throw new Error('Chunk size must be a multiple of 128 bit');\n    }\n    this._offset = 0;\n    this._maxChunkLen = chunkSize;\n    this._padMaxChunkLen = padlen(chunkSize);\n    // The size of the heap is the sum of:\n    // 1. The padded input message size\n    // 2. The extended space the algorithm needs (320 byte)\n    // 3. The 160 bit state the algoritm uses\n    this._heap = new ArrayBuffer(ceilHeapSize(this._padMaxChunkLen + 320 + 20));\n    this._h32 = new Int32Array(this._heap);\n    this._h8 = new Int8Array(this._heap);\n    this._core = new RushaCore({ Int32Array: Int32Array }, {}, this._heap);\n  }\n\n  Rusha.prototype._initState = function _initState(heap, padMsgLen) {\n    this._offset = 0;\n    var io = new Int32Array(heap, padMsgLen + 320, 5);\n    io[0] = 1732584193;\n    io[1] = -271733879;\n    io[2] = -1732584194;\n    io[3] = 271733878;\n    io[4] = -1009589776;\n  };\n\n  Rusha.prototype._padChunk = function _padChunk(chunkLen, msgLen) {\n    var padChunkLen = padlen(chunkLen);\n    var view = new Int32Array(this._heap, 0, padChunkLen >> 2);\n    padZeroes(view, chunkLen);\n    padData(view, chunkLen, msgLen);\n    return padChunkLen;\n  };\n\n  Rusha.prototype._write = function _write(data, chunkOffset, chunkLen, off) {\n    conv(data, this._h8, this._h32, chunkOffset, chunkLen, off || 0);\n  };\n\n  Rusha.prototype._coreCall = function _coreCall(data, chunkOffset, chunkLen, msgLen, finalize) {\n    var padChunkLen = chunkLen;\n    this._write(data, chunkOffset, chunkLen);\n    if (finalize) {\n      padChunkLen = this._padChunk(chunkLen, msgLen);\n    }\n    this._core.hash(padChunkLen, this._padMaxChunkLen);\n  };\n\n  Rusha.prototype.rawDigest = function rawDigest(str) {\n    var msgLen = str.byteLength || str.length || str.size || 0;\n    this._initState(this._heap, this._padMaxChunkLen);\n    var chunkOffset = 0,\n        chunkLen = this._maxChunkLen;\n    for (chunkOffset = 0; msgLen > chunkOffset + chunkLen; chunkOffset += chunkLen) {\n      this._coreCall(str, chunkOffset, chunkLen, msgLen, false);\n    }\n    this._coreCall(str, chunkOffset, msgLen - chunkOffset, msgLen, true);\n    return getRawDigest(this._heap, this._padMaxChunkLen);\n  };\n\n  Rusha.prototype.digest = function digest(str) {\n    return toHex(this.rawDigest(str).buffer);\n  };\n\n  Rusha.prototype.digestFromString = function digestFromString(str) {\n    return this.digest(str);\n  };\n\n  Rusha.prototype.digestFromBuffer = function digestFromBuffer(str) {\n    return this.digest(str);\n  };\n\n  Rusha.prototype.digestFromArrayBuffer = function digestFromArrayBuffer(str) {\n    return this.digest(str);\n  };\n\n  Rusha.prototype.resetState = function resetState() {\n    this._initState(this._heap, this._padMaxChunkLen);\n    return this;\n  };\n\n  Rusha.prototype.append = function append(chunk) {\n    var chunkOffset = 0;\n    var chunkLen = chunk.byteLength || chunk.length || chunk.size || 0;\n    var turnOffset = this._offset % this._maxChunkLen;\n    var inputLen = void 0;\n\n    this._offset += chunkLen;\n    while (chunkOffset < chunkLen) {\n      inputLen = Math.min(chunkLen - chunkOffset, this._maxChunkLen - turnOffset);\n      this._write(chunk, chunkOffset, inputLen, turnOffset);\n      turnOffset += inputLen;\n      chunkOffset += inputLen;\n      if (turnOffset === this._maxChunkLen) {\n        this._core.hash(this._maxChunkLen, this._padMaxChunkLen);\n        turnOffset = 0;\n      }\n    }\n    return this;\n  };\n\n  Rusha.prototype.getState = function getState() {\n    var turnOffset = this._offset % this._maxChunkLen;\n    var heap = void 0;\n    if (!turnOffset) {\n      var io = new Int32Array(this._heap, this._padMaxChunkLen + 320, 5);\n      heap = io.buffer.slice(io.byteOffset, io.byteOffset + io.byteLength);\n    } else {\n      heap = this._heap.slice(0);\n    }\n    return {\n      offset: this._offset,\n      heap: heap\n    };\n  };\n\n  Rusha.prototype.setState = function setState(state) {\n    this._offset = state.offset;\n    if (state.heap.byteLength === 20) {\n      var io = new Int32Array(this._heap, this._padMaxChunkLen + 320, 5);\n      io.set(new Int32Array(state.heap));\n    } else {\n      this._h32.set(new Int32Array(state.heap));\n    }\n    return this;\n  };\n\n  Rusha.prototype.rawEnd = function rawEnd() {\n    var msgLen = this._offset;\n    var chunkLen = msgLen % this._maxChunkLen;\n    var padChunkLen = this._padChunk(chunkLen, msgLen);\n    this._core.hash(padChunkLen, this._padMaxChunkLen);\n    var result = getRawDigest(this._heap, this._padMaxChunkLen);\n    this._initState(this._heap, this._padMaxChunkLen);\n    return result;\n  };\n\n  Rusha.prototype.end = function end() {\n    return toHex(this.rawEnd().buffer);\n  };\n\n  return Rusha;\n}();\n\nmodule.exports = Rusha;\nmodule.exports._core = RushaCore;\n\n/***/ }),\n/* 1 */\n/***/ (function(module, exports) {\n\n/* eslint-env commonjs, browser */\n\n//\n// toHex\n//\n\nvar precomputedHex = new Array(256);\nfor (var i = 0; i < 256; i++) {\n  precomputedHex[i] = (i < 0x10 ? '0' : '') + i.toString(16);\n}\n\nmodule.exports.toHex = function (arrayBuffer) {\n  var binarray = new Uint8Array(arrayBuffer);\n  var res = new Array(arrayBuffer.byteLength);\n  for (var _i = 0; _i < res.length; _i++) {\n    res[_i] = precomputedHex[binarray[_i]];\n  }\n  return res.join('');\n};\n\n//\n// ceilHeapSize\n//\n\nmodule.exports.ceilHeapSize = function (v) {\n  // The asm.js spec says:\n  // The heap object's byteLength must be either\n  // 2^n for n in [12, 24) or 2^24 * n for n ≥ 1.\n  // Also, byteLengths smaller than 2^16 are deprecated.\n  var p = 0;\n  // If v is smaller than 2^16, the smallest possible solution\n  // is 2^16.\n  if (v <= 65536) return 65536;\n  // If v < 2^24, we round up to 2^n,\n  // otherwise we round up to 2^24 * n.\n  if (v < 16777216) {\n    for (p = 1; p < v; p = p << 1) {}\n  } else {\n    for (p = 16777216; p < v; p += 16777216) {}\n  }\n  return p;\n};\n\n//\n// isDedicatedWorkerScope\n//\n\nmodule.exports.isDedicatedWorkerScope = function (self) {\n  var isRunningInWorker = 'WorkerGlobalScope' in self && self instanceof self.WorkerGlobalScope;\n  var isRunningInSharedWorker = 'SharedWorkerGlobalScope' in self && self instanceof self.SharedWorkerGlobalScope;\n  var isRunningInServiceWorker = 'ServiceWorkerGlobalScope' in self && self instanceof self.ServiceWorkerGlobalScope;\n\n  // Detects whether we run inside a dedicated worker or not.\n  //\n  // We can't just check for `DedicatedWorkerGlobalScope`, since IE11\n  // has a bug where it only supports `WorkerGlobalScope`.\n  //\n  // Therefore, we consider us as running inside a dedicated worker\n  // when we are running inside a worker, but not in a shared or service worker.\n  //\n  // When new types of workers are introduced, we will need to adjust this code.\n  return isRunningInWorker && !isRunningInSharedWorker && !isRunningInServiceWorker;\n};\n\n/***/ }),\n/* 2 */\n/***/ (function(module, exports, __webpack_require__) {\n\n/* eslint-env commonjs, worker */\n\nmodule.exports = function () {\n  var Rusha = __webpack_require__(0);\n\n  var hashData = function (hasher, data, cb) {\n    try {\n      return cb(null, hasher.digest(data));\n    } catch (e) {\n      return cb(e);\n    }\n  };\n\n  var hashFile = function (hasher, readTotal, blockSize, file, cb) {\n    var reader = new self.FileReader();\n    reader.onloadend = function onloadend() {\n      if (reader.error) {\n        return cb(reader.error);\n      }\n      var buffer = reader.result;\n      readTotal += reader.result.byteLength;\n      try {\n        hasher.append(buffer);\n      } catch (e) {\n        cb(e);\n        return;\n      }\n      if (readTotal < file.size) {\n        hashFile(hasher, readTotal, blockSize, file, cb);\n      } else {\n        cb(null, hasher.end());\n      }\n    };\n    reader.readAsArrayBuffer(file.slice(readTotal, readTotal + blockSize));\n  };\n\n  var workerBehaviourEnabled = true;\n\n  self.onmessage = function (event) {\n    if (!workerBehaviourEnabled) {\n      return;\n    }\n\n    var data = event.data.data,\n        file = event.data.file,\n        id = event.data.id;\n    if (typeof id === 'undefined') return;\n    if (!file && !data) return;\n    var blockSize = event.data.blockSize || 4 * 1024 * 1024;\n    var hasher = new Rusha(blockSize);\n    hasher.resetState();\n    var done = function (err, hash) {\n      if (!err) {\n        self.postMessage({ id: id, hash: hash });\n      } else {\n        self.postMessage({ id: id, error: err.name });\n      }\n    };\n    if (data) hashData(hasher, data, done);\n    if (file) hashFile(hasher, 0, blockSize, file, done);\n  };\n\n  return function () {\n    workerBehaviourEnabled = false;\n  };\n};\n\n/***/ }),\n/* 3 */\n/***/ (function(module, exports, __webpack_require__) {\n\n/* eslint-env commonjs, browser */\n\nvar work = __webpack_require__(4);\nvar Rusha = __webpack_require__(0);\nvar createHash = __webpack_require__(7);\nvar runWorker = __webpack_require__(2);\n\nvar _require = __webpack_require__(1),\n    isDedicatedWorkerScope = _require.isDedicatedWorkerScope;\n\nvar isRunningInDedicatedWorker = typeof self !== 'undefined' && isDedicatedWorkerScope(self);\n\nRusha.disableWorkerBehaviour = isRunningInDedicatedWorker ? runWorker() : function () {};\n\nRusha.createWorker = function () {\n  var worker = work(/*require.resolve*/(2));\n  var terminate = worker.terminate;\n  worker.terminate = function () {\n    URL.revokeObjectURL(worker.objectURL);\n    terminate.call(worker);\n  };\n  return worker;\n};\n\nRusha.createHash = createHash;\n\nmodule.exports = Rusha;\n\n/***/ }),\n/* 4 */\n/***/ (function(module, exports, __webpack_require__) {\n\nfunction webpackBootstrapFunc (modules) {\n/******/  // The module cache\n/******/  var installedModules = {};\n\n/******/  // The require function\n/******/  function __webpack_require__(moduleId) {\n\n/******/    // Check if module is in cache\n/******/    if(installedModules[moduleId])\n/******/      return installedModules[moduleId].exports;\n\n/******/    // Create a new module (and put it into the cache)\n/******/    var module = installedModules[moduleId] = {\n/******/      i: moduleId,\n/******/      l: false,\n/******/      exports: {}\n/******/    };\n\n/******/    // Execute the module function\n/******/    modules[moduleId].call(module.exports, module, module.exports, __webpack_require__);\n\n/******/    // Flag the module as loaded\n/******/    module.l = true;\n\n/******/    // Return the exports of the module\n/******/    return module.exports;\n/******/  }\n\n/******/  // expose the modules object (__webpack_modules__)\n/******/  __webpack_require__.m = modules;\n\n/******/  // expose the module cache\n/******/  __webpack_require__.c = installedModules;\n\n/******/  // identity function for calling harmony imports with the correct context\n/******/  __webpack_require__.i = function(value) { return value; };\n\n/******/  // define getter function for harmony exports\n/******/  __webpack_require__.d = function(exports, name, getter) {\n/******/    if(!__webpack_require__.o(exports, name)) {\n/******/      Object.defineProperty(exports, name, {\n/******/        configurable: false,\n/******/        enumerable: true,\n/******/        get: getter\n/******/      });\n/******/    }\n/******/  };\n\n/******/  // define __esModule on exports\n/******/  __webpack_require__.r = function(exports) {\n/******/    Object.defineProperty(exports, '__esModule', { value: true });\n/******/  };\n\n/******/  // getDefaultExport function for compatibility with non-harmony modules\n/******/  __webpack_require__.n = function(module) {\n/******/    var getter = module && module.__esModule ?\n/******/      function getDefault() { return module['default']; } :\n/******/      function getModuleExports() { return module; };\n/******/    __webpack_require__.d(getter, 'a', getter);\n/******/    return getter;\n/******/  };\n\n/******/  // Object.prototype.hasOwnProperty.call\n/******/  __webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };\n\n/******/  // __webpack_public_path__\n/******/  __webpack_require__.p = \"/\";\n\n/******/  // on error function for async loading\n/******/  __webpack_require__.oe = function(err) { console.error(err); throw err; };\n\n  var f = __webpack_require__(__webpack_require__.s = ENTRY_MODULE)\n  return f.default || f // try to call default if defined to also support babel esmodule exports\n}\n\nvar moduleNameReqExp = '[\\\\.|\\\\-|\\\\+|\\\\w|\\/|@]+'\nvar dependencyRegExp = '\\\\((\\/\\\\*.*?\\\\*\\/)?\\s?.*?(' + moduleNameReqExp + ').*?\\\\)' // additional chars when output.pathinfo is true\n\n// http://stackoverflow.com/a/2593661/130442\nfunction quoteRegExp (str) {\n  return (str + '').replace(/[.?*+^$[\\]\\\\(){}|-]/g, '\\\\$&')\n}\n\nfunction getModuleDependencies (sources, module, queueName) {\n  var retval = {}\n  retval[queueName] = []\n\n  var fnString = module.toString()\n  var wrapperSignature = fnString.match(/^function\\s?\\(\\w+,\\s*\\w+,\\s*(\\w+)\\)/)\n  if (!wrapperSignature) return retval\n  var webpackRequireName = wrapperSignature[1]\n\n  // main bundle deps\n  var re = new RegExp('(\\\\\\\\n|\\\\W)' + quoteRegExp(webpackRequireName) + dependencyRegExp, 'g')\n  var match\n  while ((match = re.exec(fnString))) {\n    if (match[3] === 'dll-reference') continue\n    retval[queueName].push(match[3])\n  }\n\n  // dll deps\n  re = new RegExp('\\\\(' + quoteRegExp(webpackRequireName) + '\\\\(\"(dll-reference\\\\s(' + moduleNameReqExp + '))\"\\\\)\\\\)' + dependencyRegExp, 'g')\n  while ((match = re.exec(fnString))) {\n    if (!sources[match[2]]) {\n      retval[queueName].push(match[1])\n      sources[match[2]] = __webpack_require__(match[1]).m\n    }\n    retval[match[2]] = retval[match[2]] || []\n    retval[match[2]].push(match[4])\n  }\n\n  return retval\n}\n\nfunction hasValuesInQueues (queues) {\n  var keys = Object.keys(queues)\n  return keys.reduce(function (hasValues, key) {\n    return hasValues || queues[key].length > 0\n  }, false)\n}\n\nfunction getRequiredModules (sources, moduleId) {\n  var modulesQueue = {\n    main: [moduleId]\n  }\n  var requiredModules = {\n    main: []\n  }\n  var seenModules = {\n    main: {}\n  }\n\n  while (hasValuesInQueues(modulesQueue)) {\n    var queues = Object.keys(modulesQueue)\n    for (var i = 0; i < queues.length; i++) {\n      var queueName = queues[i]\n      var queue = modulesQueue[queueName]\n      var moduleToCheck = queue.pop()\n      seenModules[queueName] = seenModules[queueName] || {}\n      if (seenModules[queueName][moduleToCheck] || !sources[queueName][moduleToCheck]) continue\n      seenModules[queueName][moduleToCheck] = true\n      requiredModules[queueName] = requiredModules[queueName] || []\n      requiredModules[queueName].push(moduleToCheck)\n      var newModules = getModuleDependencies(sources, sources[queueName][moduleToCheck], queueName)\n      var newModulesKeys = Object.keys(newModules)\n      for (var j = 0; j < newModulesKeys.length; j++) {\n        modulesQueue[newModulesKeys[j]] = modulesQueue[newModulesKeys[j]] || []\n        modulesQueue[newModulesKeys[j]] = modulesQueue[newModulesKeys[j]].concat(newModules[newModulesKeys[j]])\n      }\n    }\n  }\n\n  return requiredModules\n}\n\nmodule.exports = function (moduleId, options) {\n  options = options || {}\n  var sources = {\n    main: __webpack_require__.m\n  }\n\n  var requiredModules = options.all ? { main: Object.keys(sources) } : getRequiredModules(sources, moduleId)\n\n  var src = ''\n\n  Object.keys(requiredModules).filter(function (m) { return m !== 'main' }).forEach(function (module) {\n    var entryModule = 0\n    while (requiredModules[module][entryModule]) {\n      entryModule++\n    }\n    requiredModules[module].push(entryModule)\n    sources[module][entryModule] = '(function(module, exports, __webpack_require__) { module.exports = __webpack_require__; })'\n    src = src + 'var ' + module + ' = (' + webpackBootstrapFunc.toString().replace('ENTRY_MODULE', JSON.stringify(entryModule)) + ')({' + requiredModules[module].map(function (id) { return '' + JSON.stringify(id) + ': ' + sources[module][id].toString() }).join(',') + '});\\n'\n  })\n\n  src = src + '(' + webpackBootstrapFunc.toString().replace('ENTRY_MODULE', JSON.stringify(moduleId)) + ')({' + requiredModules.main.map(function (id) { return '' + JSON.stringify(id) + ': ' + sources.main[id].toString() }).join(',') + '})(self);'\n\n  var blob = new window.Blob([src], { type: 'text/javascript' })\n  if (options.bare) { return blob }\n\n  var URL = window.URL || window.webkitURL || window.mozURL || window.msURL\n\n  var workerUrl = URL.createObjectURL(blob)\n  var worker = new window.Worker(workerUrl)\n  worker.objectURL = workerUrl\n\n  return worker\n}\n\n\n/***/ }),\n/* 5 */\n/***/ (function(module, exports) {\n\n// The low-level RushCore module provides the heart of Rusha,\n// a high-speed sha1 implementation working on an Int32Array heap.\n// At first glance, the implementation seems complicated, however\n// with the SHA1 spec at hand, it is obvious this almost a textbook\n// implementation that has a few functions hand-inlined and a few loops\n// hand-unrolled.\nmodule.exports = function RushaCore(stdlib$846, foreign$847, heap$848) {\n    'use asm';\n    var H$849 = new stdlib$846.Int32Array(heap$848);\n    function hash$850(k$851, x$852) {\n        // k in bytes\n        k$851 = k$851 | 0;\n        x$852 = x$852 | 0;\n        var i$853 = 0, j$854 = 0, y0$855 = 0, z0$856 = 0, y1$857 = 0, z1$858 = 0, y2$859 = 0, z2$860 = 0, y3$861 = 0, z3$862 = 0, y4$863 = 0, z4$864 = 0, t0$865 = 0, t1$866 = 0;\n        y0$855 = H$849[x$852 + 320 >> 2] | 0;\n        y1$857 = H$849[x$852 + 324 >> 2] | 0;\n        y2$859 = H$849[x$852 + 328 >> 2] | 0;\n        y3$861 = H$849[x$852 + 332 >> 2] | 0;\n        y4$863 = H$849[x$852 + 336 >> 2] | 0;\n        for (i$853 = 0; (i$853 | 0) < (k$851 | 0); i$853 = i$853 + 64 | 0) {\n            z0$856 = y0$855;\n            z1$858 = y1$857;\n            z2$860 = y2$859;\n            z3$862 = y3$861;\n            z4$864 = y4$863;\n            for (j$854 = 0; (j$854 | 0) < 64; j$854 = j$854 + 4 | 0) {\n                t1$866 = H$849[i$853 + j$854 >> 2] | 0;\n                t0$865 = ((y0$855 << 5 | y0$855 >>> 27) + (y1$857 & y2$859 | ~y1$857 & y3$861) | 0) + ((t1$866 + y4$863 | 0) + 1518500249 | 0) | 0;\n                y4$863 = y3$861;\n                y3$861 = y2$859;\n                y2$859 = y1$857 << 30 | y1$857 >>> 2;\n                y1$857 = y0$855;\n                y0$855 = t0$865;\n                H$849[k$851 + j$854 >> 2] = t1$866;\n            }\n            for (j$854 = k$851 + 64 | 0; (j$854 | 0) < (k$851 + 80 | 0); j$854 = j$854 + 4 | 0) {\n                t1$866 = (H$849[j$854 - 12 >> 2] ^ H$849[j$854 - 32 >> 2] ^ H$849[j$854 - 56 >> 2] ^ H$849[j$854 - 64 >> 2]) << 1 | (H$849[j$854 - 12 >> 2] ^ H$849[j$854 - 32 >> 2] ^ H$849[j$854 - 56 >> 2] ^ H$849[j$854 - 64 >> 2]) >>> 31;\n                t0$865 = ((y0$855 << 5 | y0$855 >>> 27) + (y1$857 & y2$859 | ~y1$857 & y3$861) | 0) + ((t1$866 + y4$863 | 0) + 1518500249 | 0) | 0;\n                y4$863 = y3$861;\n                y3$861 = y2$859;\n                y2$859 = y1$857 << 30 | y1$857 >>> 2;\n                y1$857 = y0$855;\n                y0$855 = t0$865;\n                H$849[j$854 >> 2] = t1$866;\n            }\n            for (j$854 = k$851 + 80 | 0; (j$854 | 0) < (k$851 + 160 | 0); j$854 = j$854 + 4 | 0) {\n                t1$866 = (H$849[j$854 - 12 >> 2] ^ H$849[j$854 - 32 >> 2] ^ H$849[j$854 - 56 >> 2] ^ H$849[j$854 - 64 >> 2]) << 1 | (H$849[j$854 - 12 >> 2] ^ H$849[j$854 - 32 >> 2] ^ H$849[j$854 - 56 >> 2] ^ H$849[j$854 - 64 >> 2]) >>> 31;\n                t0$865 = ((y0$855 << 5 | y0$855 >>> 27) + (y1$857 ^ y2$859 ^ y3$861) | 0) + ((t1$866 + y4$863 | 0) + 1859775393 | 0) | 0;\n                y4$863 = y3$861;\n                y3$861 = y2$859;\n                y2$859 = y1$857 << 30 | y1$857 >>> 2;\n                y1$857 = y0$855;\n                y0$855 = t0$865;\n                H$849[j$854 >> 2] = t1$866;\n            }\n            for (j$854 = k$851 + 160 | 0; (j$854 | 0) < (k$851 + 240 | 0); j$854 = j$854 + 4 | 0) {\n                t1$866 = (H$849[j$854 - 12 >> 2] ^ H$849[j$854 - 32 >> 2] ^ H$849[j$854 - 56 >> 2] ^ H$849[j$854 - 64 >> 2]) << 1 | (H$849[j$854 - 12 >> 2] ^ H$849[j$854 - 32 >> 2] ^ H$849[j$854 - 56 >> 2] ^ H$849[j$854 - 64 >> 2]) >>> 31;\n                t0$865 = ((y0$855 << 5 | y0$855 >>> 27) + (y1$857 & y2$859 | y1$857 & y3$861 | y2$859 & y3$861) | 0) + ((t1$866 + y4$863 | 0) - 1894007588 | 0) | 0;\n                y4$863 = y3$861;\n                y3$861 = y2$859;\n                y2$859 = y1$857 << 30 | y1$857 >>> 2;\n                y1$857 = y0$855;\n                y0$855 = t0$865;\n                H$849[j$854 >> 2] = t1$866;\n            }\n            for (j$854 = k$851 + 240 | 0; (j$854 | 0) < (k$851 + 320 | 0); j$854 = j$854 + 4 | 0) {\n                t1$866 = (H$849[j$854 - 12 >> 2] ^ H$849[j$854 - 32 >> 2] ^ H$849[j$854 - 56 >> 2] ^ H$849[j$854 - 64 >> 2]) << 1 | (H$849[j$854 - 12 >> 2] ^ H$849[j$854 - 32 >> 2] ^ H$849[j$854 - 56 >> 2] ^ H$849[j$854 - 64 >> 2]) >>> 31;\n                t0$865 = ((y0$855 << 5 | y0$855 >>> 27) + (y1$857 ^ y2$859 ^ y3$861) | 0) + ((t1$866 + y4$863 | 0) - 899497514 | 0) | 0;\n                y4$863 = y3$861;\n                y3$861 = y2$859;\n                y2$859 = y1$857 << 30 | y1$857 >>> 2;\n                y1$857 = y0$855;\n                y0$855 = t0$865;\n                H$849[j$854 >> 2] = t1$866;\n            }\n            y0$855 = y0$855 + z0$856 | 0;\n            y1$857 = y1$857 + z1$858 | 0;\n            y2$859 = y2$859 + z2$860 | 0;\n            y3$861 = y3$861 + z3$862 | 0;\n            y4$863 = y4$863 + z4$864 | 0;\n        }\n        H$849[x$852 + 320 >> 2] = y0$855;\n        H$849[x$852 + 324 >> 2] = y1$857;\n        H$849[x$852 + 328 >> 2] = y2$859;\n        H$849[x$852 + 332 >> 2] = y3$861;\n        H$849[x$852 + 336 >> 2] = y4$863;\n    }\n    return { hash: hash$850 };\n};\n\n/***/ }),\n/* 6 */\n/***/ (function(module, exports) {\n\nvar _this = this;\n\n/* eslint-env commonjs, browser */\n\nvar reader = void 0;\nif (typeof self !== 'undefined' && typeof self.FileReaderSync !== 'undefined') {\n  reader = new self.FileReaderSync();\n}\n\n// Convert a binary string and write it to the heap.\n// A binary string is expected to only contain char codes < 256.\nvar convStr = function (str, H8, H32, start, len, off) {\n  var i = void 0,\n      om = off % 4,\n      lm = (len + om) % 4,\n      j = len - lm;\n  switch (om) {\n    case 0:\n      H8[off] = str.charCodeAt(start + 3);\n    case 1:\n      H8[off + 1 - (om << 1) | 0] = str.charCodeAt(start + 2);\n    case 2:\n      H8[off + 2 - (om << 1) | 0] = str.charCodeAt(start + 1);\n    case 3:\n      H8[off + 3 - (om << 1) | 0] = str.charCodeAt(start);\n  }\n  if (len < lm + (4 - om)) {\n    return;\n  }\n  for (i = 4 - om; i < j; i = i + 4 | 0) {\n    H32[off + i >> 2] = str.charCodeAt(start + i) << 24 | str.charCodeAt(start + i + 1) << 16 | str.charCodeAt(start + i + 2) << 8 | str.charCodeAt(start + i + 3);\n  }\n  switch (lm) {\n    case 3:\n      H8[off + j + 1 | 0] = str.charCodeAt(start + j + 2);\n    case 2:\n      H8[off + j + 2 | 0] = str.charCodeAt(start + j + 1);\n    case 1:\n      H8[off + j + 3 | 0] = str.charCodeAt(start + j);\n  }\n};\n\n// Convert a buffer or array and write it to the heap.\n// The buffer or array is expected to only contain elements < 256.\nvar convBuf = function (buf, H8, H32, start, len, off) {\n  var i = void 0,\n      om = off % 4,\n      lm = (len + om) % 4,\n      j = len - lm;\n  switch (om) {\n    case 0:\n      H8[off] = buf[start + 3];\n    case 1:\n      H8[off + 1 - (om << 1) | 0] = buf[start + 2];\n    case 2:\n      H8[off + 2 - (om << 1) | 0] = buf[start + 1];\n    case 3:\n      H8[off + 3 - (om << 1) | 0] = buf[start];\n  }\n  if (len < lm + (4 - om)) {\n    return;\n  }\n  for (i = 4 - om; i < j; i = i + 4 | 0) {\n    H32[off + i >> 2 | 0] = buf[start + i] << 24 | buf[start + i + 1] << 16 | buf[start + i + 2] << 8 | buf[start + i + 3];\n  }\n  switch (lm) {\n    case 3:\n      H8[off + j + 1 | 0] = buf[start + j + 2];\n    case 2:\n      H8[off + j + 2 | 0] = buf[start + j + 1];\n    case 1:\n      H8[off + j + 3 | 0] = buf[start + j];\n  }\n};\n\nvar convBlob = function (blob, H8, H32, start, len, off) {\n  var i = void 0,\n      om = off % 4,\n      lm = (len + om) % 4,\n      j = len - lm;\n  var buf = new Uint8Array(reader.readAsArrayBuffer(blob.slice(start, start + len)));\n  switch (om) {\n    case 0:\n      H8[off] = buf[3];\n    case 1:\n      H8[off + 1 - (om << 1) | 0] = buf[2];\n    case 2:\n      H8[off + 2 - (om << 1) | 0] = buf[1];\n    case 3:\n      H8[off + 3 - (om << 1) | 0] = buf[0];\n  }\n  if (len < lm + (4 - om)) {\n    return;\n  }\n  for (i = 4 - om; i < j; i = i + 4 | 0) {\n    H32[off + i >> 2 | 0] = buf[i] << 24 | buf[i + 1] << 16 | buf[i + 2] << 8 | buf[i + 3];\n  }\n  switch (lm) {\n    case 3:\n      H8[off + j + 1 | 0] = buf[j + 2];\n    case 2:\n      H8[off + j + 2 | 0] = buf[j + 1];\n    case 1:\n      H8[off + j + 3 | 0] = buf[j];\n  }\n};\n\nmodule.exports = function (data, H8, H32, start, len, off) {\n  if (typeof data === 'string') {\n    return convStr(data, H8, H32, start, len, off);\n  }\n  if (data instanceof Array) {\n    return convBuf(data, H8, H32, start, len, off);\n  }\n  // Safely doing a Buffer check using \"this\" to avoid Buffer polyfill to be included in the dist\n  if (_this && _this.Buffer && _this.Buffer.isBuffer(data)) {\n    return convBuf(data, H8, H32, start, len, off);\n  }\n  if (data instanceof ArrayBuffer) {\n    return convBuf(new Uint8Array(data), H8, H32, start, len, off);\n  }\n  if (data.buffer instanceof ArrayBuffer) {\n    return convBuf(new Uint8Array(data.buffer, data.byteOffset, data.byteLength), H8, H32, start, len, off);\n  }\n  if (data instanceof Blob) {\n    return convBlob(data, H8, H32, start, len, off);\n  }\n  throw new Error('Unsupported data type.');\n};\n\n/***/ }),\n/* 7 */\n/***/ (function(module, exports, __webpack_require__) {\n\nfunction _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError(\"Cannot call a class as a function\"); } }\n\n/* eslint-env commonjs, browser */\n\nvar Rusha = __webpack_require__(0);\n\nvar _require = __webpack_require__(1),\n    toHex = _require.toHex;\n\nvar Hash = function () {\n  function Hash() {\n    _classCallCheck(this, Hash);\n\n    this._rusha = new Rusha();\n    this._rusha.resetState();\n  }\n\n  Hash.prototype.update = function update(data) {\n    this._rusha.append(data);\n    return this;\n  };\n\n  Hash.prototype.digest = function digest(encoding) {\n    var digest = this._rusha.rawEnd().buffer;\n    if (!encoding) {\n      return digest;\n    }\n    if (encoding === 'hex') {\n      return toHex(digest);\n    }\n    throw new Error('unsupported digest encoding');\n  };\n\n  return Hash;\n}();\n\nmodule.exports = function () {\n  return new Hash();\n};\n\n/***/ })\n/******/ ]);\n});\n\n/***/ }),\n\n/***/ \"./node_modules/webpack-strip-block/index.js?!./src/js/webworkers/compression.worker.js\":\n/*!**********************************************************************************************!*\\\n  !*** ./node_modules/webpack-strip-block??ref--7-0!./src/js/webworkers/compression.worker.js ***!\n  \\**********************************************************************************************/\n/*! no exports provided */\n/***/ (function(module, __webpack_exports__, __webpack_require__) {\n\n\"use strict\";\n__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _core_config__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../core/config */ \"./src/js/core/config.js\");\n/* harmony import */ var _core_lzstring__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../core/lzstring */ \"./src/js/core/lzstring.js\");\n/* harmony import */ var _core_sensitive_utils_encrypt__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../core/sensitive_utils.encrypt */ \"./src/js/core/sensitive_utils.encrypt.js\");\n/* harmony import */ var _savegame_savegame_compressor__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../savegame/savegame_compressor */ \"./src/js/savegame/savegame_compressor.js\");\n\r\n\r\n\r\n\r\n\r\nfunction accessNestedPropertyReverse(obj, keys) {\r\n    let result = obj;\r\n    for (let i = keys.length - 1; i >= 0; --i) {\r\n        result = result[keys[i]];\r\n    }\r\n    return result;\r\n}\r\n\r\nconst salt = accessNestedPropertyReverse(_core_config__WEBPACK_IMPORTED_MODULE_0__[\"globalConfig\"], [\"file\", \"info\"]);\r\n\r\nself.addEventListener(\"message\", event => {\r\n    // @ts-ignore\r\n    const { jobId, job, data } = event.data;\r\n    const result = performJob(job, data);\r\n\r\n    // @ts-ignore\r\n    self.postMessage({ jobId, result });\r\n});\r\n\r\nfunction performJob(job, data) {\r\n    switch (job) {\r\n        case \"compressX64\": {\r\n            return Object(_core_lzstring__WEBPACK_IMPORTED_MODULE_1__[\"compressX64\"])(data);\r\n        }\r\n\r\n        case \"compressObject\": {\r\n            const optimized = Object(_savegame_savegame_compressor__WEBPACK_IMPORTED_MODULE_3__[\"compressObject\"])(data.obj);\r\n            const stringified = JSON.stringify(optimized);\r\n\r\n            const checksum = Object(_core_sensitive_utils_encrypt__WEBPACK_IMPORTED_MODULE_2__[\"computeCrc\"])(stringified + salt);\r\n            return data.compressionPrefix + Object(_core_lzstring__WEBPACK_IMPORTED_MODULE_1__[\"compressX64\"])(checksum + stringified);\r\n        }\r\n        default:\r\n            throw new Error(\"Webworker: Unknown job: \" + job);\r\n    }\r\n}\r\n\n\n/***/ }),\n\n/***/ \"./src/js/core/config.js\":\n/*!*******************************!*\\\n  !*** ./src/js/core/config.js ***!\n  \\*******************************/\n/*! exports provided: IS_DEBUG, SUPPORT_TOUCH, IS_MAC, THIRDPARTY_URLS, A_B_TESTING_LINK_TYPE, globalConfig, IS_MOBILE */\n/***/ (function(module, __webpack_exports__, __webpack_require__) {\n\n\"use strict\";\n__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"IS_DEBUG\", function() { return IS_DEBUG; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"SUPPORT_TOUCH\", function() { return SUPPORT_TOUCH; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"IS_MAC\", function() { return IS_MAC; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"THIRDPARTY_URLS\", function() { return THIRDPARTY_URLS; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"A_B_TESTING_LINK_TYPE\", function() { return A_B_TESTING_LINK_TYPE; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"globalConfig\", function() { return globalConfig; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"IS_MOBILE\", function() { return IS_MOBILE; });\nconst IS_DEBUG =\r\n     false &&\r\n    false;\r\n\r\nconst SUPPORT_TOUCH = false;\r\n\r\nconst IS_MAC = navigator.platform.toLowerCase().indexOf(\"mac\") >= 0;\r\n\r\nconst smoothCanvas = true;\r\n\r\nconst THIRDPARTY_URLS = {\r\n    discord: \"https://discord.gg/HN7EVzV\",\r\n    github: \"https://github.com/tobspr/shapez.io\",\r\n    reddit: \"https://www.reddit.com/r/shapezio\",\r\n    shapeViewer: \"https://viewer.shapez.io\",\r\n\r\n    standaloneStorePage: \"https://store.steampowered.com/app/1318690/shapezio/\",\r\n\r\n    levelTutorialVideos: {\r\n        21: \"https://www.youtube.com/watch?v=0nUfRLMCcgo&\",\r\n        25: \"https://www.youtube.com/watch?v=7OCV1g40Iew&\",\r\n        26: \"https://www.youtube.com/watch?v=gfm6dS1dCoY\",\r\n    },\r\n};\r\n\r\n// export const A_B_TESTING_LINK_TYPE = Math.random() > 0.95 ? \"steam_1_pr\" : \"steam_2_npr\";\r\nconst A_B_TESTING_LINK_TYPE = \"steam_2_npr\";\r\n\r\nconst globalConfig = {\r\n    // Size of a single tile in Pixels.\r\n    // NOTICE: Update webpack.production.config too!\r\n    tileSize: 32,\r\n    halfTileSize: 16,\r\n\r\n    // Which dpi the assets have\r\n    assetsDpi: 192 / 32,\r\n    assetsSharpness: 1.5,\r\n    shapesSharpness: 1.4,\r\n\r\n    // Production analytics\r\n    statisticsGraphDpi: 2.5,\r\n    statisticsGraphSlices: 100,\r\n    analyticsSliceDurationSeconds:  true ? 1 : undefined,\r\n\r\n    minimumTickRate: 25,\r\n    maximumTickRate: 500,\r\n\r\n    // Map\r\n    mapChunkSize: 16,\r\n    mapChunkOverviewMinZoom: 0.9,\r\n    mapChunkWorldSize: null, // COMPUTED\r\n\r\n    // Belt speeds\r\n    // NOTICE: Update webpack.production.config too!\r\n    beltSpeedItemsPerSecond: 2,\r\n    minerSpeedItemsPerSecond: 0, // COMPUTED\r\n\r\n    defaultItemDiameter: 20,\r\n\r\n    itemSpacingOnBelts: 0.63,\r\n\r\n    wiresSpeedItemsPerSecond: 6,\r\n\r\n    undergroundBeltMaxTilesByTier: [5, 9, 7],\r\n\r\n    readerAnalyzeIntervalSeconds: 10,\r\n\r\n    buildingSpeeds: {\r\n        cutter: 1 / 4,\r\n        cutterQuad: 1 / 4,\r\n        cutterLaser: 1 / 3,\r\n        rotater: 1 / 1,\r\n        rotaterCCW: 1 / 1,\r\n        rotater180: 1 / 1,\r\n        painter: 1 / 6,\r\n        painterDouble: 1 / 8,\r\n        painterQuad: 1 / 2,\r\n        mixer: 1 / 5,\r\n        stacker: 1 / 8,\r\n        smartStacker: 1 / 8,\r\n        shapeMerger: 1 / 8,\r\n    },\r\n\r\n    // Zooming\r\n    initialZoom: 1.9,\r\n    minZoomLevel: 0.1,\r\n    maxZoomLevel: 3,\r\n\r\n    // Global game speed\r\n    gameSpeed: 1,\r\n\r\n    warmupTimeSecondsFast: 0.5,\r\n    warmupTimeSecondsRegular: 3,\r\n\r\n    smoothing: {\r\n        smoothMainCanvas: smoothCanvas && true,\r\n        quality: \"low\", // Low is CRUCIAL for mobile performance!\r\n    },\r\n\r\n    rendering: {},\r\n    debug: __webpack_require__(/*! ./config.local */ \"./src/js/core/config.local.js\").default,\r\n\r\n    // Secret vars\r\n    info: {\r\n        // Binary file salt\r\n        file: \"Ec'])@^+*9zMevK3uMV4432x9%iK'=\",\r\n\r\n        // Savegame salt\r\n        sgSalt: \"}95Q3%8/.837Lqym_BJx%q7)pAHJbF\",\r\n\r\n        // Analytics key\r\n        analyticsApiKey: \"baf6a50f0cc7dfdec5a0e21c88a1c69a4b34bc4a\",\r\n    },\r\n};\r\n\r\nconst IS_MOBILE = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);\r\n\r\n// Automatic calculations\r\nglobalConfig.minerSpeedItemsPerSecond = globalConfig.beltSpeedItemsPerSecond / 5;\r\n\r\nglobalConfig.mapChunkWorldSize = globalConfig.mapChunkSize * globalConfig.tileSize;\r\n\r\n// Dynamic calculations\r\nif (globalConfig.debug.disableMapOverview) {\r\n    globalConfig.mapChunkOverviewMinZoom = 0;\r\n}\r\n\r\n// Stuff for making the trailer\r\nif ( true && globalConfig.debug.renderForTrailer) {\r\n    globalConfig.debug.framePausesBetweenTicks = 32;\r\n    // globalConfig.mapChunkOverviewMinZoom = 0.0;\r\n    // globalConfig.debug.instantBelts = true;\r\n    // globalConfig.debug.instantProcessors = true;\r\n    // globalConfig.debug.instantMiners = true;\r\n    globalConfig.debug.disableSavegameWrite = true;\r\n    // globalConfig.beltSpeedItemsPerSecond *= 2;\r\n}\r\n\r\nif (globalConfig.debug.fastGameEnter) {\r\n    globalConfig.debug.noArtificialDelays = true;\r\n}\r\n\r\nif ( true && globalConfig.debug.noArtificialDelays) {\r\n    globalConfig.warmupTimeSecondsFast = 0;\r\n    globalConfig.warmupTimeSecondsRegular = 0;\r\n}\r\n\n\n/***/ }),\n\n/***/ \"./src/js/core/config.local.js\":\n/*!*************************************!*\\\n  !*** ./src/js/core/config.local.js ***!\n  \\*************************************/\n/*! exports provided: default */\n/***/ (function(module, __webpack_exports__, __webpack_require__) {\n\n\"use strict\";\n__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\r\n    // You can set any debug options here!\r\n    /* dev:start */\r\n    // -----------------------------------------------------------------------------------\r\n    // Quickly enters the game and skips the main menu - good for fast iterating\r\n    // fastGameEnter: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Skips any delays like transitions between states and such\r\n    // noArtificialDelays: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Disables writing of savegames, useful for testing the same savegame over and over\r\n    // disableSavegameWrite: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Shows bounds of all entities\r\n    // showEntityBounds: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Shows arrows for every ejector / acceptor\r\n    // showAcceptorEjectors: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Disables the music (Overrides any setting, can cause weird behaviour)\r\n    // disableMusic: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Do not render static map entities (=most buildings)\r\n    // doNotRenderStatics: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Allow to zoom freely without limits\r\n    // disableZoomLimits: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // All rewards can be unlocked by passing just 1 of any shape\r\n    // rewardsInstant: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Unlocks all buildings\r\n    // allBuildingsUnlocked: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Disables cost of blueprints\r\n    // blueprintsNoCost: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Disables cost of upgrades\r\n    // upgradesNoCost: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Disables the dialog when completing a level\r\n    // disableUnlockDialog: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Disables the simulation - This effectively pauses the game.\r\n    // disableLogicTicks: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Test the rendering if everything is clipped out properly\r\n    // testClipping: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Allows to render slower, useful for recording at half speed to avoid stuttering\r\n    // framePausesBetweenTicks: 250,\r\n    // -----------------------------------------------------------------------------------\r\n    // Replace all translations with emojis to see which texts are translateable\r\n    // testTranslations: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Enables an inspector which shows information about the entity below the curosr\r\n    // enableEntityInspector: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Enables ads in the local build (normally they are deactivated there)\r\n    // testAds: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Disables the automatic switch to an overview when zooming out\r\n    // disableMapOverview: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Disables the notification when there are new entries in the changelog since last played\r\n    // disableUpgradeNotification: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Makes belts almost infinitely fast\r\n    // instantBelts: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Makes item processors almost infinitely fast\r\n    // instantProcessors: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Makes miners almost infinitely fast\r\n    // instantMiners: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // When using fastGameEnter, controls whether a new game is started or the last one is resumed\r\n    // resumeGameOnFastEnter: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Special option used to render the trailer\r\n    // renderForTrailer: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Whether to render changes\r\n    // renderChanges: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Whether to render belt paths\r\n    // renderBeltPaths: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Whether to check belt paths\r\n    // checkBeltPaths: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Whether to items / s instead of items / m in stats\r\n    // detailedStatistics: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Shows detailed information about which atlas is used\r\n    // showAtlasInfo: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Renders the rotation of all wires\r\n    // renderWireRotations: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Renders information about wire networks\r\n    // renderWireNetworkInfos: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Disables ejector animations and processing\r\n    // disableEjectorProcessing: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Allows manual ticking\r\n    // manualTickOnly: true,\r\n    // -----------------------------------------------------------------------------------\r\n    // Disables slow asserts, useful for debugging performance\r\n    // disableSlowAsserts: true,\r\n    // -----------------------------------------------------------------------------------\r\n    /* dev:end */\r\n});\r\n\n\n/***/ }),\n\n/***/ \"./src/js/core/lzstring.js\":\n/*!*********************************!*\\\n  !*** ./src/js/core/lzstring.js ***!\n  \\*********************************/\n/*! exports provided: compressU8, compressU8WHeader, decompressU8WHeader, compressX64, decompressX64 */\n/***/ (function(module, __webpack_exports__, __webpack_require__) {\n\n\"use strict\";\n__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"compressU8\", function() { return compressU8; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"compressU8WHeader\", function() { return compressU8WHeader; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"decompressU8WHeader\", function() { return decompressU8WHeader; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"compressX64\", function() { return compressX64; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"decompressX64\", function() { return decompressX64; });\n// Copyright (c) 2013 Pieroxy <pieroxy@pieroxy.net>\r\n// This work is free. You can redistribute it and/or modify it\r\n// under the terms of the WTFPL, Version 2\r\n// For more information see LICENSE.txt or http://www.wtfpl.net/\r\n//\r\n// For more information, the home page:\r\n// http://pieroxy.net/blog/pages/lz-string/testing.html\r\n//\r\n// LZ-based compression algorithm, version 1.4.4\r\n\r\nconst fromCharCode = String.fromCharCode;\r\nconst hasOwnProperty = Object.prototype.hasOwnProperty;\r\n\r\nconst keyStrUriSafe = \"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+-$\";\r\nconst baseReverseDic = {};\r\n\r\nfunction getBaseValue(alphabet, character) {\r\n    if (!baseReverseDic[alphabet]) {\r\n        baseReverseDic[alphabet] = {};\r\n        for (let i = 0; i < alphabet.length; i++) {\r\n            baseReverseDic[alphabet][alphabet.charAt(i)] = i;\r\n        }\r\n    }\r\n    return baseReverseDic[alphabet][character];\r\n}\r\n\r\n//compress into uint8array (UCS-2 big endian format)\r\nfunction compressU8(uncompressed) {\r\n    let compressed = compress(uncompressed);\r\n    let buf = new Uint8Array(compressed.length * 2); // 2 bytes per character\r\n\r\n    for (let i = 0, TotalLen = compressed.length; i < TotalLen; i++) {\r\n        let current_value = compressed.charCodeAt(i);\r\n        buf[i * 2] = current_value >>> 8;\r\n        buf[i * 2 + 1] = current_value % 256;\r\n    }\r\n    return buf;\r\n}\r\n\r\n// Compreses with header\r\n/**\r\n * @param {string} uncompressed\r\n * @param {number} header\r\n */\r\nfunction compressU8WHeader(uncompressed, header) {\r\n    let compressed = compress(uncompressed);\r\n    let buf = new Uint8Array(2 + compressed.length * 2); // 2 bytes per character\r\n\r\n    buf[0] = header >>> 8;\r\n    buf[1] = header % 256;\r\n    for (let i = 0, TotalLen = compressed.length; i < TotalLen; i++) {\r\n        let current_value = compressed.charCodeAt(i);\r\n        buf[2 + i * 2] = current_value >>> 8;\r\n        buf[2 + i * 2 + 1] = current_value % 256;\r\n    }\r\n    return buf;\r\n}\r\n\r\n//decompress from uint8array (UCS-2 big endian format)\r\n/**\r\n *\r\n * @param {Uint8Array} compressed\r\n */\r\nfunction decompressU8WHeader(compressed) {\r\n    // let buf = new Array(compressed.length / 2); // 2 bytes per character\r\n    // for (let i = 0, TotalLen = buf.length; i < TotalLen; i++) {\r\n    //     buf[i] = compressed[i * 2] * 256 + compressed[i * 2 + 1];\r\n    // }\r\n\r\n    // let result = [];\r\n    // buf.forEach(function (c) {\r\n    //     result.push(fromCharCode(c));\r\n    // });\r\n    let result = [];\r\n    for (let i = 2, n = compressed.length; i < n; i += 2) {\r\n        const code = compressed[i] * 256 + compressed[i + 1];\r\n        result.push(fromCharCode(code));\r\n    }\r\n    return decompress(result.join(\"\"));\r\n}\r\n\r\n//compress into a string that is already URI encoded\r\nfunction compressX64(input) {\r\n    if (input == null) return \"\";\r\n    return _compress(input, 6, function (a) {\r\n        return keyStrUriSafe.charAt(a);\r\n    });\r\n}\r\n\r\n//decompress from an output of compressToEncodedURIComponent\r\nfunction decompressX64(input) {\r\n    if (input == null) return \"\";\r\n    if (input == \"\") return null;\r\n    input = input.replace(/ /g, \"+\");\r\n    return _decompress(input.length, 32, function (index) {\r\n        return getBaseValue(keyStrUriSafe, input.charAt(index));\r\n    });\r\n}\r\n\r\nfunction compress(uncompressed) {\r\n    return _compress(uncompressed, 16, function (a) {\r\n        return fromCharCode(a);\r\n    });\r\n}\r\n\r\nfunction _compress(uncompressed, bitsPerChar, getCharFromInt) {\r\n    if (uncompressed == null) return \"\";\r\n    let i,\r\n        value,\r\n        context_dictionary = {},\r\n        context_dictionaryToCreate = {},\r\n        context_c = \"\",\r\n        context_wc = \"\",\r\n        context_w = \"\",\r\n        context_enlargeIn = 2, // Compensate for the first entry which should not count\r\n        context_dictSize = 3,\r\n        context_numBits = 2,\r\n        context_data = [],\r\n        context_data_val = 0,\r\n        context_data_position = 0,\r\n        ii;\r\n\r\n    for (ii = 0; ii < uncompressed.length; ii += 1) {\r\n        context_c = uncompressed.charAt(ii);\r\n        if (!hasOwnProperty.call(context_dictionary, context_c)) {\r\n            context_dictionary[context_c] = context_dictSize++;\r\n            context_dictionaryToCreate[context_c] = true;\r\n        }\r\n\r\n        context_wc = context_w + context_c;\r\n        if (hasOwnProperty.call(context_dictionary, context_wc)) {\r\n            context_w = context_wc;\r\n        } else {\r\n            if (hasOwnProperty.call(context_dictionaryToCreate, context_w)) {\r\n                if (context_w.charCodeAt(0) < 256) {\r\n                    for (i = 0; i < context_numBits; i++) {\r\n                        context_data_val = context_data_val << 1;\r\n                        if (context_data_position == bitsPerChar - 1) {\r\n                            context_data_position = 0;\r\n                            context_data.push(getCharFromInt(context_data_val));\r\n                            context_data_val = 0;\r\n                        } else {\r\n                            context_data_position++;\r\n                        }\r\n                    }\r\n                    value = context_w.charCodeAt(0);\r\n                    for (i = 0; i < 8; i++) {\r\n                        context_data_val = (context_data_val << 1) | (value & 1);\r\n                        if (context_data_position == bitsPerChar - 1) {\r\n                            context_data_position = 0;\r\n                            context_data.push(getCharFromInt(context_data_val));\r\n                            context_data_val = 0;\r\n                        } else {\r\n                            context_data_position++;\r\n                        }\r\n                        value = value >> 1;\r\n                    }\r\n                } else {\r\n                    value = 1;\r\n                    for (i = 0; i < context_numBits; i++) {\r\n                        context_data_val = (context_data_val << 1) | value;\r\n                        if (context_data_position == bitsPerChar - 1) {\r\n                            context_data_position = 0;\r\n                            context_data.push(getCharFromInt(context_data_val));\r\n                            context_data_val = 0;\r\n                        } else {\r\n                            context_data_position++;\r\n                        }\r\n                        value = 0;\r\n                    }\r\n                    value = context_w.charCodeAt(0);\r\n                    for (i = 0; i < 16; i++) {\r\n                        context_data_val = (context_data_val << 1) | (value & 1);\r\n                        if (context_data_position == bitsPerChar - 1) {\r\n                            context_data_position = 0;\r\n                            context_data.push(getCharFromInt(context_data_val));\r\n                            context_data_val = 0;\r\n                        } else {\r\n                            context_data_position++;\r\n                        }\r\n                        value = value >> 1;\r\n                    }\r\n                }\r\n                context_enlargeIn--;\r\n                if (context_enlargeIn == 0) {\r\n                    context_enlargeIn = Math.pow(2, context_numBits);\r\n                    context_numBits++;\r\n                }\r\n                delete context_dictionaryToCreate[context_w];\r\n            } else {\r\n                value = context_dictionary[context_w];\r\n                for (i = 0; i < context_numBits; i++) {\r\n                    context_data_val = (context_data_val << 1) | (value & 1);\r\n                    if (context_data_position == bitsPerChar - 1) {\r\n                        context_data_position = 0;\r\n                        context_data.push(getCharFromInt(context_data_val));\r\n                        context_data_val = 0;\r\n                    } else {\r\n                        context_data_position++;\r\n                    }\r\n                    value = value >> 1;\r\n                }\r\n            }\r\n            context_enlargeIn--;\r\n            if (context_enlargeIn == 0) {\r\n                context_enlargeIn = Math.pow(2, context_numBits);\r\n                context_numBits++;\r\n            }\r\n            // Add wc to the dictionary.\r\n            context_dictionary[context_wc] = context_dictSize++;\r\n            context_w = String(context_c);\r\n        }\r\n    }\r\n\r\n    // Output the code for w.\r\n    if (context_w !== \"\") {\r\n        if (hasOwnProperty.call(context_dictionaryToCreate, context_w)) {\r\n            if (context_w.charCodeAt(0) < 256) {\r\n                for (i = 0; i < context_numBits; i++) {\r\n                    context_data_val = context_data_val << 1;\r\n                    if (context_data_position == bitsPerChar - 1) {\r\n                        context_data_position = 0;\r\n                        context_data.push(getCharFromInt(context_data_val));\r\n                        context_data_val = 0;\r\n                    } else {\r\n                        context_data_position++;\r\n                    }\r\n                }\r\n                value = context_w.charCodeAt(0);\r\n                for (i = 0; i < 8; i++) {\r\n                    context_data_val = (context_data_val << 1) | (value & 1);\r\n                    if (context_data_position == bitsPerChar - 1) {\r\n                        context_data_position = 0;\r\n                        context_data.push(getCharFromInt(context_data_val));\r\n                        context_data_val = 0;\r\n                    } else {\r\n                        context_data_position++;\r\n                    }\r\n                    value = value >> 1;\r\n                }\r\n            } else {\r\n                value = 1;\r\n                for (i = 0; i < context_numBits; i++) {\r\n                    context_data_val = (context_data_val << 1) | value;\r\n                    if (context_data_position == bitsPerChar - 1) {\r\n                        context_data_position = 0;\r\n                        context_data.push(getCharFromInt(context_data_val));\r\n                        context_data_val = 0;\r\n                    } else {\r\n                        context_data_position++;\r\n                    }\r\n                    value = 0;\r\n                }\r\n                value = context_w.charCodeAt(0);\r\n                for (i = 0; i < 16; i++) {\r\n                    context_data_val = (context_data_val << 1) | (value & 1);\r\n                    if (context_data_position == bitsPerChar - 1) {\r\n                        context_data_position = 0;\r\n                        context_data.push(getCharFromInt(context_data_val));\r\n                        context_data_val = 0;\r\n                    } else {\r\n                        context_data_position++;\r\n                    }\r\n                    value = value >> 1;\r\n                }\r\n            }\r\n            context_enlargeIn--;\r\n            if (context_enlargeIn == 0) {\r\n                context_enlargeIn = Math.pow(2, context_numBits);\r\n                context_numBits++;\r\n            }\r\n            delete context_dictionaryToCreate[context_w];\r\n        } else {\r\n            value = context_dictionary[context_w];\r\n            for (i = 0; i < context_numBits; i++) {\r\n                context_data_val = (context_data_val << 1) | (value & 1);\r\n                if (context_data_position == bitsPerChar - 1) {\r\n                    context_data_position = 0;\r\n                    context_data.push(getCharFromInt(context_data_val));\r\n                    context_data_val = 0;\r\n                } else {\r\n                    context_data_position++;\r\n                }\r\n                value = value >> 1;\r\n            }\r\n        }\r\n        context_enlargeIn--;\r\n        if (context_enlargeIn == 0) {\r\n            context_enlargeIn = Math.pow(2, context_numBits);\r\n            context_numBits++;\r\n        }\r\n    }\r\n\r\n    // Mark the end of the stream\r\n    value = 2;\r\n    for (i = 0; i < context_numBits; i++) {\r\n        context_data_val = (context_data_val << 1) | (value & 1);\r\n        if (context_data_position == bitsPerChar - 1) {\r\n            context_data_position = 0;\r\n            context_data.push(getCharFromInt(context_data_val));\r\n            context_data_val = 0;\r\n        } else {\r\n            context_data_position++;\r\n        }\r\n        value = value >> 1;\r\n    }\r\n\r\n    // Flush the last char\r\n    // eslint-disable-next-line no-constant-condition\r\n    while (true) {\r\n        context_data_val = context_data_val << 1;\r\n        if (context_data_position == bitsPerChar - 1) {\r\n            context_data.push(getCharFromInt(context_data_val));\r\n            break;\r\n        } else context_data_position++;\r\n    }\r\n    return context_data.join(\"\");\r\n}\r\n\r\nfunction decompress(compressed) {\r\n    if (compressed == null) return \"\";\r\n    if (compressed == \"\") return null;\r\n    return _decompress(compressed.length, 32768, function (index) {\r\n        return compressed.charCodeAt(index);\r\n    });\r\n}\r\n\r\nfunction _decompress(length, resetValue, getNextValue) {\r\n    let dictionary = [],\r\n        next,\r\n        enlargeIn = 4,\r\n        dictSize = 4,\r\n        numBits = 3,\r\n        entry = \"\",\r\n        result = [],\r\n        i,\r\n        w,\r\n        bits,\r\n        resb,\r\n        maxpower,\r\n        power,\r\n        c,\r\n        data = { val: getNextValue(0), position: resetValue, index: 1 };\r\n\r\n    for (i = 0; i < 3; i += 1) {\r\n        dictionary[i] = i;\r\n    }\r\n\r\n    bits = 0;\r\n    maxpower = Math.pow(2, 2);\r\n    power = 1;\r\n    while (power != maxpower) {\r\n        resb = data.val & data.position;\r\n        data.position >>= 1;\r\n        if (data.position == 0) {\r\n            data.position = resetValue;\r\n            data.val = getNextValue(data.index++);\r\n        }\r\n        bits |= (resb > 0 ? 1 : 0) * power;\r\n        power <<= 1;\r\n    }\r\n\r\n    switch ((next = bits)) {\r\n        case 0:\r\n            bits = 0;\r\n            maxpower = Math.pow(2, 8);\r\n            power = 1;\r\n            while (power != maxpower) {\r\n                resb = data.val & data.position;\r\n                data.position >>= 1;\r\n                if (data.position == 0) {\r\n                    data.position = resetValue;\r\n                    data.val = getNextValue(data.index++);\r\n                }\r\n                bits |= (resb > 0 ? 1 : 0) * power;\r\n                power <<= 1;\r\n            }\r\n            c = fromCharCode(bits);\r\n            break;\r\n        case 1:\r\n            bits = 0;\r\n            maxpower = Math.pow(2, 16);\r\n            power = 1;\r\n            while (power != maxpower) {\r\n                resb = data.val & data.position;\r\n                data.position >>= 1;\r\n                if (data.position == 0) {\r\n                    data.position = resetValue;\r\n                    data.val = getNextValue(data.index++);\r\n                }\r\n                bits |= (resb > 0 ? 1 : 0) * power;\r\n                power <<= 1;\r\n            }\r\n            c = fromCharCode(bits);\r\n            break;\r\n        case 2:\r\n            return \"\";\r\n    }\r\n    dictionary[3] = c;\r\n    w = c;\r\n    result.push(c);\r\n\r\n    // eslint-disable-next-line no-constant-condition\r\n    while (true) {\r\n        if (data.index > length) {\r\n            return \"\";\r\n        }\r\n\r\n        bits = 0;\r\n        maxpower = Math.pow(2, numBits);\r\n        power = 1;\r\n        while (power != maxpower) {\r\n            resb = data.val & data.position;\r\n            data.position >>= 1;\r\n            if (data.position == 0) {\r\n                data.position = resetValue;\r\n                data.val = getNextValue(data.index++);\r\n            }\r\n            bits |= (resb > 0 ? 1 : 0) * power;\r\n            power <<= 1;\r\n        }\r\n\r\n        switch ((c = bits)) {\r\n            case 0:\r\n                bits = 0;\r\n                maxpower = Math.pow(2, 8);\r\n                power = 1;\r\n                while (power != maxpower) {\r\n                    resb = data.val & data.position;\r\n                    data.position >>= 1;\r\n                    if (data.position == 0) {\r\n                        data.position = resetValue;\r\n                        data.val = getNextValue(data.index++);\r\n                    }\r\n                    bits |= (resb > 0 ? 1 : 0) * power;\r\n                    power <<= 1;\r\n                }\r\n\r\n                dictionary[dictSize++] = fromCharCode(bits);\r\n                c = dictSize - 1;\r\n                enlargeIn--;\r\n                break;\r\n            case 1:\r\n                bits = 0;\r\n                maxpower = Math.pow(2, 16);\r\n                power = 1;\r\n                while (power != maxpower) {\r\n                    resb = data.val & data.position;\r\n                    data.position >>= 1;\r\n                    if (data.position == 0) {\r\n                        data.position = resetValue;\r\n                        data.val = getNextValue(data.index++);\r\n                    }\r\n                    bits |= (resb > 0 ? 1 : 0) * power;\r\n                    power <<= 1;\r\n                }\r\n                dictionary[dictSize++] = fromCharCode(bits);\r\n                c = dictSize - 1;\r\n                enlargeIn--;\r\n                break;\r\n            case 2:\r\n                return result.join(\"\");\r\n        }\r\n\r\n        if (enlargeIn == 0) {\r\n            enlargeIn = Math.pow(2, numBits);\r\n            numBits++;\r\n        }\r\n\r\n        if (dictionary[c]) {\r\n            // @ts-ignore\r\n            entry = dictionary[c];\r\n        } else {\r\n            if (c === dictSize) {\r\n                entry = w + w.charAt(0);\r\n            } else {\r\n                return null;\r\n            }\r\n        }\r\n        result.push(entry);\r\n\r\n        // Add w+entry[0] to the dictionary.\r\n        dictionary[dictSize++] = w + entry.charAt(0);\r\n        enlargeIn--;\r\n\r\n        w = entry;\r\n\r\n        if (enlargeIn == 0) {\r\n            enlargeIn = Math.pow(2, numBits);\r\n            numBits++;\r\n        }\r\n    }\r\n}\r\n\n\n/***/ }),\n\n/***/ \"./src/js/core/sensitive_utils.encrypt.js\":\n/*!************************************************!*\\\n  !*** ./src/js/core/sensitive_utils.encrypt.js ***!\n  \\************************************************/\n/*! exports provided: sha1, getNameOfProvider, CRC_PREFIX, computeCrc */\n/***/ (function(module, __webpack_exports__, __webpack_require__) {\n\n\"use strict\";\n__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"sha1\", function() { return sha1; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"getNameOfProvider\", function() { return getNameOfProvider; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"CRC_PREFIX\", function() { return CRC_PREFIX; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"computeCrc\", function() { return computeCrc; });\n/* harmony import */ var rusha__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! rusha */ \"./node_modules/rusha/dist/rusha.js\");\n/* harmony import */ var rusha__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(rusha__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var crc_crc32__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! crc/crc32 */ \"./node_modules/crc/crc32.js\");\n/* harmony import */ var _lzstring__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./lzstring */ \"./src/js/core/lzstring.js\");\n\r\n\r\n\r\n\r\nfunction sha1(str) {\r\n    return Object(rusha__WEBPACK_IMPORTED_MODULE_0__[\"createHash\"])().update(str).digest(\"hex\");\r\n}\r\n\r\n// Window.location.host\r\nfunction getNameOfProvider() {\r\n    return window[Object(_lzstring__WEBPACK_IMPORTED_MODULE_2__[\"decompressX64\"])(\"DYewxghgLgliB2Q\")][Object(_lzstring__WEBPACK_IMPORTED_MODULE_2__[\"decompressX64\"])(\"BYewzgLgdghgtgUyA\")];\r\n}\r\n\r\n// Distinguish legacy crc prefixes\r\nconst CRC_PREFIX = \"crc32\".padEnd(32, \"-\");\r\n\r\n/**\r\n * Computes the crc for a given string\r\n * @param {string} str\r\n */\r\nfunction computeCrc(str) {\r\n    return CRC_PREFIX + Object(crc_crc32__WEBPACK_IMPORTED_MODULE_1__[\"default\"])(str).toString(16).padStart(8, \"0\");\r\n}\r\n\n\n/***/ }),\n\n/***/ \"./src/js/savegame/savegame_compressor.js\":\n/*!************************************************!*\\\n  !*** ./src/js/savegame/savegame_compressor.js ***!\n  \\************************************************/\n/*! exports provided: compressObject, decompressObject */\n/***/ (function(module, __webpack_exports__, __webpack_require__) {\n\n\"use strict\";\n__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"compressObject\", function() { return compressObject; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"decompressObject\", function() { return decompressObject; });\nconst charmap =\r\n    \"!#%&'()*+,-./:;<=>?@[]^_`{|}~¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿABCDEFGHIJKLMNOPQRSTUVWXYZ\";\r\n\r\nlet compressionCache = {};\r\nlet decompressionCache = {};\r\n\r\n/**\r\n * Compresses an integer into a tight string representation\r\n * @param {number} i\r\n * @returns {string}\r\n */\r\nfunction compressInt(i) {\r\n    // Zero value breaks\r\n    i += 1;\r\n\r\n    if (compressionCache[i]) {\r\n        return compressionCache[i];\r\n    }\r\n    let result = \"\";\r\n    do {\r\n        result += charmap[i % charmap.length];\r\n        i = Math.floor(i / charmap.length);\r\n    } while (i > 0);\r\n    return (compressionCache[i] = result);\r\n}\r\n\r\n/**\r\n * Decompresses an integer from its tight string representation\r\n * @param {string} s\r\n * @returns {number}\r\n */\r\nfunction decompressInt(s) {\r\n    if (decompressionCache[s]) {\r\n        return decompressionCache[s];\r\n    }\r\n    s = \"\" + s;\r\n    let result = 0;\r\n    for (let i = s.length - 1; i >= 0; --i) {\r\n        result = result * charmap.length + charmap.indexOf(s.charAt(i));\r\n    }\r\n    // Fixes zero value break fix from above\r\n    result -= 1;\r\n    return (decompressionCache[s] = result);\r\n}\r\n\r\n// Sanity\r\nif (true) {\r\n    for (let i = 0; i < 10000; ++i) {\r\n        if (decompressInt(compressInt(i)) !== i) {\r\n            throw new Error(\r\n                \"Bad compression for: \" +\r\n                    i +\r\n                    \" compressed: \" +\r\n                    compressInt(i) +\r\n                    \" decompressed: \" +\r\n                    decompressInt(compressInt(i))\r\n            );\r\n        }\r\n    }\r\n}\r\n\r\n/**\r\n * @param {any} obj\r\n * @param {Map} keys\r\n * @param {Map} values\r\n * @returns {any[]|object|number|string}\r\n */\r\nfunction compressObjectInternal(obj, keys, values) {\r\n    if (Array.isArray(obj)) {\r\n        let result = [];\r\n        for (let i = 0; i < obj.length; ++i) {\r\n            result.push(compressObjectInternal(obj[i], keys, values));\r\n        }\r\n        return result;\r\n    } else if (typeof obj === \"object\" && obj !== null) {\r\n        let result = {};\r\n        for (const key in obj) {\r\n            let index = keys.get(key);\r\n            if (index === undefined) {\r\n                index = keys.size;\r\n                keys.set(key, index);\r\n            }\r\n            const value = obj[key];\r\n            result[compressInt(index)] = compressObjectInternal(value, keys, values);\r\n        }\r\n        return result;\r\n    } else if (typeof obj === \"string\") {\r\n        let index = values.get(obj);\r\n        if (index === undefined) {\r\n            index = values.size;\r\n            values.set(obj, index);\r\n        }\r\n        return compressInt(index);\r\n    }\r\n    return obj;\r\n}\r\n\r\n/**\r\n * @param {Map} hashMap\r\n * @returns {Array}\r\n */\r\nfunction indexMapToArray(hashMap) {\r\n    const result = new Array(hashMap.size);\r\n    hashMap.forEach((index, key) => {\r\n        result[index] = key;\r\n    });\r\n    return result;\r\n}\r\n\r\n/**\r\n * @param {object} obj\r\n */\r\nfunction compressObject(obj) {\r\n    const keys = new Map();\r\n    const values = new Map();\r\n    const data = compressObjectInternal(obj, keys, values);\r\n    return {\r\n        keys: indexMapToArray(keys),\r\n        values: indexMapToArray(values),\r\n        data,\r\n    };\r\n}\r\n\r\n/**\r\n * @param {object} obj\r\n * @param {string[]} keys\r\n * @param {any[]} values\r\n * @returns {object}\r\n */\r\nfunction decompressObjectInternal(obj, keys = [], values = []) {\r\n    if (Array.isArray(obj)) {\r\n        let result = [];\r\n        for (let i = 0; i < obj.length; ++i) {\r\n            result.push(decompressObjectInternal(obj[i], keys, values));\r\n        }\r\n        return result;\r\n    } else if (typeof obj === \"object\" && obj !== null) {\r\n        let result = {};\r\n        for (const key in obj) {\r\n            const realIndex = decompressInt(key);\r\n            const value = obj[key];\r\n            result[keys[realIndex]] = decompressObjectInternal(value, keys, values);\r\n        }\r\n        return result;\r\n    } else if (typeof obj === \"string\") {\r\n        const realIndex = decompressInt(obj);\r\n        return values[realIndex];\r\n    }\r\n    return obj;\r\n}\r\n\r\n/**\r\n * @param {object} obj\r\n */\r\nfunction decompressObject(obj) {\r\n    if (obj.keys && obj.values && obj.data) {\r\n        const keys = obj.keys;\r\n        const values = obj.values;\r\n        const result = decompressObjectInternal(obj.data, keys, values);\r\n        return result;\r\n    }\r\n    return obj;\r\n}\r\n\n\n/***/ })\n\n/******/ });\n//# sourceMappingURL=9a06ff06b09748598d50.worker.js.map", null);
 };
 
 /***/ }),
