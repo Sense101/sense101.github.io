@@ -37093,7 +37093,7 @@ class MetaUndergroundBeltBuilding extends _meta_building__WEBPACK_IMPORTED_MODUL
                 totalConnections++;
             }
         }
-        let rotationVariant = 0;
+        let rotationVariant = isSender ? 0 : 1;
         if (totalConnections !== 1) {
             //keep old rotation variant
             rotationVariant = oldRotationVariant && totalConnections > 0 ? oldRotationVariant : isSender ? 0 : 1;
