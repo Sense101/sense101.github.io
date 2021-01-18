@@ -59185,7 +59185,9 @@ class BeltReaderSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MODULE
                 pinsComp.slots[0].value = _items_boolean_item__WEBPACK_IMPORTED_MODULE_3__["BOOL_TRUE_SINGLETON"];
             } else {
                 pinsComp.slots[0].value = _items_boolean_item__WEBPACK_IMPORTED_MODULE_3__["BOOL_FALSE_SINGLETON"];
-                readerComp.lastItem = null;
+                if(entity.components.ItemEjector.canEjectOnSlot(0)) {
+                    readerComp.lastItem = null;
+                }
             }
 
             if (now - readerComp.lastThroughputComputation > 0.5) {
