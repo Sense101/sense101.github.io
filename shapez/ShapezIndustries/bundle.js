@@ -56616,22 +56616,22 @@ function generateLevelDefinitions(limitedVersion = false) {
         //now we can ramp up numbers
         {//6
             shape: "SuSuSuSu", //cutting t1
-            required: 120,
+            required: 100,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].no_reward,
         },
         {//7
             shape: "--SuSu--", 
-            required: 150,
+            required: 120,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_tunnel,
         },
         {//8
             shape: "----Su--", //cutting t2
-            required: 200,
+            required: 150,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_research_level,//t2
         },
         {//9
             shape: "------Ru", // miner t2
-            required: 250,
+            required: 200,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_painter,
         },
         //ok, now paint fun
@@ -56642,12 +56642,12 @@ function generateLevelDefinitions(limitedVersion = false) {
         },
         {//11
             shape: "RbRb----", //paint t1
-            required: 200,
+            required: 150,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_miner_chainable,
         },
         {//12
             shape: "----Cg--", // paint t2
-            required: 350,
+            required: 300,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_mixer,
         },
         //now color mixing, 3 more levels including white to unlock stacking
