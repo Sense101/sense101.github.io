@@ -36867,7 +36867,10 @@ class MetaUndergroundBeltBuilding extends _meta_building__WEBPACK_IMPORTED_MODUL
      */
     getAvailableVariants(root) {
         if (root.hubGoals.isRewardUnlocked(_tutorial_goals__WEBPACK_IMPORTED_MODULE_9__["enumHubGoalRewards"].reward_underground_belt_tier_2)) {
-            return [_meta_building__WEBPACK_IMPORTED_MODULE_6__["defaultBuildingVariant"], enumUndergroundBeltVariants.tier2, enumUndergroundBeltVariants.smart];
+            if (root.hubGoals.isRewardUnlocked(_tutorial_goals__WEBPACK_IMPORTED_MODULE_9__["enumHubGoalRewards"].reward_underground_belt_tier_3)) {
+                return [_meta_building__WEBPACK_IMPORTED_MODULE_6__["defaultBuildingVariant"], enumUndergroundBeltVariants.tier2, enumUndergroundBeltVariants.smart];
+            }
+            return [_meta_building__WEBPACK_IMPORTED_MODULE_6__["defaultBuildingVariant"], enumUndergroundBeltVariants.tier2];
         }
         return super.getAvailableVariants(root);
     }
@@ -65895,7 +65898,7 @@ if (window.coreThreadLoadedCb) {
 
 console.log(
     `%cshapez.io ️%c\n© 2020 Tobias Springer IT Solutions\nCommit %c${"8864e34e"}%c on %c${new Date(
-        1611435713576
+        1611443370648
     ).toLocaleString()}\n`,
     "font-size: 35px; font-family: Arial;font-weight: bold; padding: 10px 0;",
     "color: #aaa",
@@ -74863,7 +74866,7 @@ class SettingsState extends _core_textual_game_state__WEBPACK_IMPORTED_MODULE_0_
 
     renderBuildText() {
         const labelVersion = this.htmlElement.querySelector(".buildVersion");
-        const lastBuildMs = new Date().getTime() - 1611435713576;
+        const lastBuildMs = new Date().getTime() - 1611443370648;
         const lastBuildText = Object(_core_utils__WEBPACK_IMPORTED_MODULE_1__["formatSecondsToTimeAgo"])(lastBuildMs / 1000.0);
 
         const version = _translations__WEBPACK_IMPORTED_MODULE_3__["T"].settings.versionBadges["dev"];
