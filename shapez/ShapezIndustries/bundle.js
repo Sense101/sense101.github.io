@@ -49816,13 +49816,12 @@ class HUDSandboxController extends _base_hud_part__WEBPACK_IMPORTED_MODULE_2__["
 
     modifyUpgrade(id, amount) {
         const upgradeTiers = this.root.gameMode.getUpgrades()[id];
-        const maxLevel = upgradeTiers.length;
         const maxResearchLevel = this.root.hubGoals.researchLevel;
 
         const isAtMax = this.root.hubGoals.upgradeLevels[id] >= maxResearchLevel;
         this.root.hubGoals.upgradeLevels[id] = Math.max(
             0,
-            Math.min(maxLevel, maxResearchLevel, (this.root.hubGoals.upgradeLevels[id] || 0) + amount),
+            Math.min(5, maxResearchLevel, (this.root.hubGoals.upgradeLevels[id] || 0) + amount),
         );
 
         // Compute improvement
