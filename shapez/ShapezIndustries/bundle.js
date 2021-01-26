@@ -49751,14 +49751,7 @@ class HUDSandboxController extends _base_hud_part__WEBPACK_IMPORTED_MODULE_2__["
                     <button class="styledButton plus">+</button>
                 </div>
                 
-                
-
-            </div>
-        `
-        );
-
-        /*
-        <div class="upgradesBelt plusMinus">
+                <div class="upgradesBelt plusMinus">
                     <label>Upgrades &rarr; Belt</label>
                     <button class="styledButton minus">-</button>
                     <button class="styledButton plus">+</button>
@@ -49781,7 +49774,10 @@ class HUDSandboxController extends _base_hud_part__WEBPACK_IMPORTED_MODULE_2__["
                     <button class="styledButton minus">-</button>
                     <button class="styledButton plus">+</button>
                 </div>
-        */
+
+            </div>
+        `
+        );
 
         const bind = (selector, handler) => this.trackClicks(this.element.querySelector(selector), handler);
 
