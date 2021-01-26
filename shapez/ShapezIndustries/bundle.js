@@ -49751,7 +49751,14 @@ class HUDSandboxController extends _base_hud_part__WEBPACK_IMPORTED_MODULE_2__["
                     <button class="styledButton plus">+</button>
                 </div>
                 
-                <div class="upgradesBelt plusMinus">
+                
+
+            </div>
+        `
+        );
+
+        /*
+        <div class="upgradesBelt plusMinus">
                     <label>Upgrades &rarr; Belt</label>
                     <button class="styledButton minus">-</button>
                     <button class="styledButton plus">+</button>
@@ -49774,10 +49781,7 @@ class HUDSandboxController extends _base_hud_part__WEBPACK_IMPORTED_MODULE_2__["
                     <button class="styledButton minus">-</button>
                     <button class="styledButton plus">+</button>
                 </div>
-
-            </div>
-        `
-        );
+        */
 
         const bind = (selector, handler) => this.trackClicks(this.element.querySelector(selector), handler);
 
@@ -49818,10 +49822,11 @@ class HUDSandboxController extends _base_hud_part__WEBPACK_IMPORTED_MODULE_2__["
         const upgradeTiers = this.root.gameMode.getUpgrades()[id];
         const maxResearchLevel = this.root.hubGoals.researchLevel;
 
-        const isAtMax = this.root.hubGoals.upgradeLevels[id] >= maxResearchLevel;
+        const currentLevel = this.root.hubGoals.upgradeLevels[id]
+        const isAtMax =  currentLevel >= maxResearchLevel;
         this.root.hubGoals.upgradeLevels[id] = Math.max(
             0,
-            Math.min(5, maxResearchLevel, (this.root.hubGoals.upgradeLevels[id] || 0) + amount),
+            Math.min(currentLevel > 4 ? currentLevel : 4, maxResearchLevel, (this.root.hubGoals.upgradeLevels[id] || 0) + amount),
         );
 
         // Compute improvement
