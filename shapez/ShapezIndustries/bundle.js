@@ -49847,7 +49847,7 @@ class HUDSandboxController extends _base_hud_part__WEBPACK_IMPORTED_MODULE_2__["
 
     modifyLevel(amount) {
         const hubGoals = this.root.hubGoals;
-        if(hubGoals.level + amount > 20) {
+        if(hubGoals.level + amount > 30) {
             this.root.hud.signals.notification.dispatch(
                 "You can't cheat past level 20 :/",
                 _notifications__WEBPACK_IMPORTED_MODULE_4__["enumNotificationType"].upgrade
@@ -56658,7 +56658,7 @@ function generateLevelDefinitions(limitedVersion = false) {
         //ok, now paint fun
         {//10
             shape: "CrCrCrCr", // belt t3
-            required: 75,
+            required: 100,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_rotater_ccw,
         },
         {//11
@@ -56668,18 +56668,18 @@ function generateLevelDefinitions(limitedVersion = false) {
         },
         {//12
             shape: "----Cg--", // paint t2
-            required: 300,
+            required: 200,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_mixer,
         },
         //now color mixing, 3 more levels including white to unlock stacking
         {//13
             shape: "RpRpRpRp", // miner t3
-            required: 500,
+            required: 300,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_research_level,//t3
         },
         {//14
             shape: "----CcCc",
-            required: 500,
+            required: 400,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_rotater_180,
         },
         {//15
@@ -56690,22 +56690,22 @@ function generateLevelDefinitions(limitedVersion = false) {
         //20 MUST be blueprints, we get 5 stacker levels
         {
             shape: "CgScScCg",
-            required: 500,
+            required: 600,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_merger,
         },
         {
             shape: "WyRrWyRr", //paint t3
-            required: 500,
+            required: 700,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_belt_reader,
         },
         {
             shape: "SpSpSpSp:CwCwCwCw",
-            required: 1000,
+            required: 800,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_research_level,
         },
         {
             shape: "RyCgRyCg:SrCrSrCr",
-            required: 1000,
+            required: 900,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_deep_miner,
         },
         {
@@ -56716,104 +56716,104 @@ function generateLevelDefinitions(limitedVersion = false) {
         //5 more standard shapes
         {
             shape: "RbWwRbWw:CbWwCbWw",
-            required: 1000,
+            required: 1200,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_storage,
         },
         {
             shape: "RpCpRpCp:Sb--Sb--:CcCcCcCc",
-            required: 1000,
+            required: 1400,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_cutter_quad,
         },
         {
             shape: "WyWgWgWy:SrSrSrSr:CyCgCgCy",
-            required: 1500,
+            required: 1600,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_underground_belt_tier_2,
         },
         {
             shape: "--SrSr--:SuCwCwSu:WrWrWrWr",
-            required: 1500,
+            required: 1800,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_research_level,//t5-merged shapes included
         },
         {
             shape: "--Rw--Rw:SgRgSgRg:--Rw--Rw:CcCcCcCc",
-            required: 1500,
+            required: 2000,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_shape_combiner,
         },
         //now merging.............
         {
             shape: "1c1c1y1y",
-            required: 2000,
+            required: 2400,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_painter_double,
         },
         {
             shape: "2wCg2wCg:2wCg2wCg",
-            required: 2000,
+            required: 2800,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_splitter,
         },
         {
             shape: "--3b3b3b:--1r1r1r:--6w6w6w",
-            required: 2000,
+            required: 3200,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_smart_stacker,
         },
         {
             shape: "CyCy--Cy:1g1g1g--:5w5w5w5w",
-            required: 2000,
+            required: 3600,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_research_level,
         },
         {
             shape: "Ru1w--1w:--1w--1w:----Ru--",
-            required: 2500,
+            required: 4000,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_belt_crossing,
         },
         //now the last 10 levels
         {
             shape: "4rRg4rRg:1w1r1w1r:SgSgSgSg",
-            required: 3000,
+            required: 4500,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_wires_painter_and_levers,
         },
         {
             shape: "Cb2bCb2b:--Sy----:CwSrCw3c",
-            required: 3000,
+            required: 5000,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_smart_cutter,
         },
         {
             shape: "1r2r2r1r:Cw2r2rCw:Cg----Cg",
-            required: 3000,
+            required: 5500,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_underground_belt_tier_3,
         },
         {
             shape: "2b2u2b2u:3rCr--Cr:----Rr--:CwCwCwCw",
-            required: 3000,
+            required: 6000,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_filter,
         },
         {
             shape: "Rg----Rg:--RgRg--:1w1r1w1r:SgSgSgSg",
-            required: 4000,
+            required: 6500,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_constant_signal,
         },
         {
             shape: "3g3g--3g:----Sc--:2c2c--2c",
-            required: 4000,
+            required: 7000,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_research_level,
         },
         {
             shape: "2rRrRr2r:CrCrCrCr:4g4w4g4w:6g6w6g6w",
-            required: 4000,
+            required: 7500,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_logic_gates,
         },
         {
             shape: "--Sw--Sw:--Sc--Sc:Cc--Cc--:--Sw--Sw",
-            required: 4000,
+            required: 8000,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_hyperlink,
         },
         {
             shape: "2b2b2b2b:CwSySyCw:--3w3w--:2c----2c",
-            required: 4000,
+            required: 9000,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_virtual_processing,
         },
         {
             shape: "Sb------:--Cb--Cb:3u------:----3r--",
-            required: 5000,
+            required: 10000,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_freeplay,
         },
 /*
