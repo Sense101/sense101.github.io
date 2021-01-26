@@ -47301,7 +47301,7 @@ class HUDDebugInfo extends _base_hud_part__WEBPACK_IMPORTED_MODULE_0__["BaseHUDP
      */
     onModeChanged(mode) {
         this.element.setAttribute("data-mode", mode);
-        this.versionElement.innerText = `${"1.2.2"} @ ${"dev"} @ ${"8864e34e"}`;
+        this.versionElement.innerText = `${"1.2.2"} @ ${"dev"} @ ${"eea698ab"}`;
     }
 
     /**
@@ -60961,6 +60961,9 @@ class ItemAcceptorSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MODU
                 ];
 
                 const slotData = acceptorComp.slots[slotIndex];
+                if(!slotData) {
+                    continue;
+                }
                 const realSlotPos = staticComp.localTileToWorld(slotData.pos);
 
                 if (!chunk.tileSpaceRectangle.containsPoint(realSlotPos.x, realSlotPos.y)) {
@@ -61697,7 +61700,7 @@ class ItemProcessorSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MOD
                 // @ts-ignore
                 const layer = item.definition.layers[0];
                 for(let quad = 0; quad < 4; ++quad) {
-                    if(_shape_definition__WEBPACK_IMPORTED_MODULE_8__["enumMergedShape"][layer[quad].subShape]) {
+                    if(_shape_definition__WEBPACK_IMPORTED_MODULE_8__["enumMergedShape"][layer[quad]]) {
                         return false;
                     }
                 }
@@ -65916,8 +65919,8 @@ if (window.coreThreadLoadedCb) {
 // }
 
 console.log(
-    `%cshapez.io ️%c\n© 2020 Tobias Springer IT Solutions\nCommit %c${"8864e34e"}%c on %c${new Date(
-        1611443370648
+    `%cshapez.io ️%c\n© 2020 Tobias Springer IT Solutions\nCommit %c${"eea698ab"}%c on %c${new Date(
+        1611693174337
     ).toLocaleString()}\n`,
     "font-size: 35px; font-family: Arial;font-weight: bold; padding: 10px 0;",
     "color: #aaa",
@@ -74753,7 +74756,7 @@ class PreloadState extends _core_game_state__WEBPACK_IMPORTED_MODULE_3__["GameSt
 
                     <div class="lower">
                         <button class="resetApp styledButton">Reset App</button>
-                        <i>Build ${"1.2.2"} @ ${"8864e34e"}</i>
+                        <i>Build ${"1.2.2"} @ ${"eea698ab"}</i>
                     </div>
                 </div>
         `;
@@ -74885,14 +74888,14 @@ class SettingsState extends _core_textual_game_state__WEBPACK_IMPORTED_MODULE_0_
 
     renderBuildText() {
         const labelVersion = this.htmlElement.querySelector(".buildVersion");
-        const lastBuildMs = new Date().getTime() - 1611443370648;
+        const lastBuildMs = new Date().getTime() - 1611693174337;
         const lastBuildText = Object(_core_utils__WEBPACK_IMPORTED_MODULE_1__["formatSecondsToTimeAgo"])(lastBuildMs / 1000.0);
 
         const version = _translations__WEBPACK_IMPORTED_MODULE_3__["T"].settings.versionBadges["dev"];
 
         labelVersion.innerHTML = `
             <span class='version'>
-                ${"1.2.2"} @ ${version} @ ${"8864e34e"}
+                ${"1.2.2"} @ ${version} @ ${"eea698ab"}
             </span>
             <span class='buildTime'>
                 ${_translations__WEBPACK_IMPORTED_MODULE_3__["T"].settings.buildDate.replace("<at-date>", lastBuildText)}<br />
