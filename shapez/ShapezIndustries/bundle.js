@@ -49847,7 +49847,7 @@ class HUDSandboxController extends _base_hud_part__WEBPACK_IMPORTED_MODULE_2__["
 
     modifyLevel(amount) {
         const hubGoals = this.root.hubGoals;
-        if(hubGoals.level + amount > 30) {
+        if(hubGoals.level + amount > 20) {
             this.root.hud.signals.notification.dispatch(
                 "You can't cheat past level 20 :/",
                 _notifications__WEBPACK_IMPORTED_MODULE_4__["enumNotificationType"].upgrade
