@@ -43575,7 +43575,18 @@ class HubGoals extends _savegame_serialization__WEBPACK_IMPORTED_MODULE_3__["Bas
         this.computeNextGoal();
 
         // Allow quickly switching goals in dev mode
-        if (false) {}
+        if (true) {
+            window.addEventListener("keydown", ev => {
+                if (ev.key === "b") {
+                    // root is not guaranteed to exist within ~0.5s after loading in
+                    if (this.root && this.root.app && this.root.app.gameAnalytics) {
+                        if (!this.isEndOfDemoReached()) {
+                            this.onGoalCompleted();
+                        }
+                    }
+                }
+            });
+        }
     }
 
     /**
@@ -43895,6 +43906,7 @@ class HubGoals extends _savegame_serialization__WEBPACK_IMPORTED_MODULE_3__["Bas
             /** @type {import("./shape_definition").ShapeLayer} */
             const layer = [null, null, null, null];
 
+            //set the full layer shape
             for (let j = 0; j < pickedSymmetry.length; ++j) {
                 const group = pickedSymmetry[j];
                 const shape = randomShape();
@@ -43908,13 +43920,34 @@ class HubGoals extends _savegame_serialization__WEBPACK_IMPORTED_MODULE_3__["Bas
                 }
             }
 
+            let lastLayer = layer;
+            if(i > 0) {
+                lastLayer = layers[i - 1];
+            }
+
+            //first find number of corners on the last layer
+            let totalConnections = 0;
+            for(let quad = 0; quad < 4; ++quad) {
+                if(lastLayer[quad]) {
+                totalConnections++;
+                }
+            }
+
+            for(let quad = 0; quad < 4; ++quad) {
+                if(rng.next() > (i > 0 ? 0.75 : 0.9) && totalConnections > (i > 0 ? 1 : 2)) {
+                    layer[quad] = null;
+                    totalConnections--;
+                }
+            }
+            
             // Sometimes they actually are missing *two* ones!
             // Make sure at max only one layer is missing it though, otherwise we could
             // create an uncreateable shape
-            if (level > 75 && rng.next() > 0.95 && !anyIsMissingTwo) {
-                layer[rng.nextIntRange(0, 4)] = null;
-                anyIsMissingTwo = true;
-            }
+
+            //if (level > 75 && rng.next() > 0.95 && !anyIsMissingTwo) {
+            //    layer[rng.nextIntRange(0, 4)] = null;
+            //    anyIsMissingTwo = true;
+            //}
 
             layers.push(layer);
         }
@@ -61700,7 +61733,7 @@ class ItemProcessorSystem extends _game_system_with_filter__WEBPACK_IMPORTED_MOD
                 // @ts-ignore
                 const layer = item.definition.layers[0];
                 for(let quad = 0; quad < 4; ++quad) {
-                    if(_shape_definition__WEBPACK_IMPORTED_MODULE_8__["enumMergedShape"][layer[quad]]) {
+                    if(layer[quad] && _shape_definition__WEBPACK_IMPORTED_MODULE_8__["enumMergedShape"][layer[quad].subShape]) {
                         return false;
                     }
                 }
@@ -65920,7 +65953,7 @@ if (window.coreThreadLoadedCb) {
 
 console.log(
     `%cshapez.io ️%c\n© 2020 Tobias Springer IT Solutions\nCommit %c${"eea698ab"}%c on %c${new Date(
-        1611693174337
+        1611844279767
     ).toLocaleString()}\n`,
     "font-size: 35px; font-family: Arial;font-weight: bold; padding: 10px 0;",
     "color: #aaa",
@@ -74888,7 +74921,7 @@ class SettingsState extends _core_textual_game_state__WEBPACK_IMPORTED_MODULE_0_
 
     renderBuildText() {
         const labelVersion = this.htmlElement.querySelector(".buildVersion");
-        const lastBuildMs = new Date().getTime() - 1611693174337;
+        const lastBuildMs = new Date().getTime() - 1611844279767;
         const lastBuildText = Object(_core_utils__WEBPACK_IMPORTED_MODULE_1__["formatSecondsToTimeAgo"])(lastBuildMs / 1000.0);
 
         const version = _translations__WEBPACK_IMPORTED_MODULE_3__["T"].settings.versionBadges["dev"];
