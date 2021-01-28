@@ -43575,18 +43575,7 @@ class HubGoals extends _savegame_serialization__WEBPACK_IMPORTED_MODULE_3__["Bas
         this.computeNextGoal();
 
         // Allow quickly switching goals in dev mode
-        if (true) {
-            window.addEventListener("keydown", ev => {
-                if (ev.key === "b") {
-                    // root is not guaranteed to exist within ~0.5s after loading in
-                    if (this.root && this.root.app && this.root.app.gameAnalytics) {
-                        if (!this.isEndOfDemoReached()) {
-                            this.onGoalCompleted();
-                        }
-                    }
-                }
-            });
-        }
+        if (false) {}
     }
 
     /**
@@ -43934,7 +43923,7 @@ class HubGoals extends _savegame_serialization__WEBPACK_IMPORTED_MODULE_3__["Bas
             }
 
             for(let quad = 0; quad < 4; ++quad) {
-                if(rng.next() > (i > 0 ? 0.75 : 0.9) && totalConnections > (i > 0 ? 1 : 2)) {
+                if(rng.next() > (i > 0 ? 0.85 : 0.9) && totalConnections > (i > 0 ? 1 : 2)) {
                     layer[quad] = null;
                     totalConnections--;
                 }
