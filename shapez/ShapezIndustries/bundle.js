@@ -34161,7 +34161,7 @@ class MetaDisplayBuilding extends _meta_building__WEBPACK_IMPORTED_MODULE_3__["M
      * @param {GameRoot} root
      */
     getIsUnlocked(root) {
-        return root.hubGoals.isRewardUnlocked(_tutorial_goals__WEBPACK_IMPORTED_MODULE_6__["enumHubGoalRewards"].reward_display);
+        return root.hubGoals.isRewardUnlocked(_tutorial_goals__WEBPACK_IMPORTED_MODULE_6__["enumHubGoalRewards"].reward_virtual_processing);
     }
 
     getDimensions() {
