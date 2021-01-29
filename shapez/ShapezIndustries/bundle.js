@@ -37046,7 +37046,9 @@ class MetaUndergroundBeltBuilding extends _meta_building__WEBPACK_IMPORTED_MODUL
      * @return {{ rotation: number, rotationVariant: number, connectedEntities?: Array<Entity> }}
      */
     computeBestVariantForSmart( root, tile, rotation, mode, thisEntity, contents ) {
-        const isSender = mode == _components_underground_belt__WEBPACK_IMPORTED_MODULE_4__["enumUndergroundBeltMode"].sender;
+        //const isSender = mode && mode == enumUndergroundBeltMode.sender;
+        const rVariant = thisEntity ? thisEntity.components.UndergroundBelt.rotationVariant : null;
+        const isSender = rVariant ? rVariant == 0 || rVariant == 2 || rVariant == 4 : mode == _components_underground_belt__WEBPACK_IMPORTED_MODULE_4__["enumUndergroundBeltMode"].sender;
 
         const oldRotationVariant = thisEntity ? thisEntity.components.UndergroundBelt.rotationVariant : null;
         const topDirection = _core_vector__WEBPACK_IMPORTED_MODULE_1__["enumAngleToDirection"][rotation];
@@ -37059,7 +37061,7 @@ class MetaUndergroundBeltBuilding extends _meta_building__WEBPACK_IMPORTED_MODUL
         let hasCenterConnector = false;
         let hasRightConnector = false;
         let hasLeftConnector = false;
-        if (mode !== _components_underground_belt__WEBPACK_IMPORTED_MODULE_4__["enumUndergroundBeltMode"].receiver) {
+        if (isSender) {
             for (let i = 0; i < ejectors.length; ++i) {
                 const ejector = ejectors[i];
     
@@ -63714,7 +63716,7 @@ class UndergroundBeltSystem extends _game_system_with_filter__WEBPACK_IMPORTED_M
         // clear outdated handles
         this.staleAreaWatcher.recomputeOnComponentsChanged(
             [_components_underground_belt__WEBPACK_IMPORTED_MODULE_9__["UndergroundBeltComponent"]],
-            _core_config__WEBPACK_IMPORTED_MODULE_0__["globalConfig"].undergroundBeltMaxTilesByTier[_core_config__WEBPACK_IMPORTED_MODULE_0__["globalConfig"].undergroundBeltMaxTilesByTier.length - 1]
+            _core_config__WEBPACK_IMPORTED_MODULE_0__["globalConfig"].undergroundBeltMaxTilesByTier[_core_config__WEBPACK_IMPORTED_MODULE_0__["globalConfig"].undergroundBeltMaxTilesByTier.length - 2]
         );
 
         this.root.signals.entityDestroyed.add(this.updateSmartUndergroundBeltVariant, this);
@@ -63920,11 +63922,12 @@ class UndergroundBeltSystem extends _game_system_with_filter__WEBPACK_IMPORTED_M
                         tile: new _core_vector__WEBPACK_IMPORTED_MODULE_2__["Vector"](x, y),
                         rotation: targetStaticComp.originalRotation,
                         variant: _buildings_underground_belt__WEBPACK_IMPORTED_MODULE_12__["enumUndergroundBeltVariants"].smart,
-                        layer: targetEntity.layer,
-                        entity: targetEntity
+                        layer: targetEntity.layer
                     });
-                    // Change stuff
-                    metaUndergroundBelt.updateVariants(targetEntity, rotationVariant, _buildings_underground_belt__WEBPACK_IMPORTED_MODULE_12__["enumUndergroundBeltVariants"].smart);
+                    // Change stuff if needed
+                    if(rotationVariant != targetUndergroundBeltComp.rotationVariant) {
+                        metaUndergroundBelt.updateVariants(targetEntity, rotationVariant, _buildings_underground_belt__WEBPACK_IMPORTED_MODULE_12__["enumUndergroundBeltVariants"].smart);
+                    }
 
                     // Update code as well
                     targetStaticComp.code = Object(_building_codes__WEBPACK_IMPORTED_MODULE_6__["getCodeFromBuildingData"])(
