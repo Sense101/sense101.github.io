@@ -56817,7 +56817,7 @@ function generateLevelDefinitions(limitedVersion = false) {
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_constant_signal,
         },
         {
-            shape: "3g3g--3g:----Sc--:2c2c--2c",
+            shape: "3g3g--3g:3g--Sc--:2c2c--2c",
             required: 7000,
             reward: _tutorial_goals__WEBPACK_IMPORTED_MODULE_3__["enumHubGoalRewards"].reward_research_level,
         },
@@ -65945,7 +65945,7 @@ if (window.coreThreadLoadedCb) {
 
 console.log(
     `%cshapez.io ️%c\n© 2020 Tobias Springer IT Solutions\nCommit %c${"eea698ab"}%c on %c${new Date(
-        1611844279767
+        1612203945625
     ).toLocaleString()}\n`,
     "font-size: 35px; font-family: Arial;font-weight: bold; padding: 10px 0;",
     "color: #aaa",
@@ -74913,7 +74913,7 @@ class SettingsState extends _core_textual_game_state__WEBPACK_IMPORTED_MODULE_0_
 
     renderBuildText() {
         const labelVersion = this.htmlElement.querySelector(".buildVersion");
-        const lastBuildMs = new Date().getTime() - 1611844279767;
+        const lastBuildMs = new Date().getTime() - 1612203945625;
         const lastBuildText = Object(_core_utils__WEBPACK_IMPORTED_MODULE_1__["formatSecondsToTimeAgo"])(lastBuildMs / 1000.0);
 
         const version = _translations__WEBPACK_IMPORTED_MODULE_3__["T"].settings.versionBadges["dev"];
@@ -75194,7 +75194,7 @@ module.exports = function() {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\azdav\Documents\GitHub\shapez.io\src\js\main.js */"./src/js/main.js");
+module.exports = __webpack_require__(/*! C:\Users\azdav\documents\GitHub\shapez.io\src\js\main.js */"./src/js/main.js");
 
 
 /***/ })
