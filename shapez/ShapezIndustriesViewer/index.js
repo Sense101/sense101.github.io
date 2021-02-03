@@ -499,7 +499,7 @@ window.viewShape = (key) => {
 
 window.shareShape = () => {
   const code = document.getElementById("code").value.trim();
-  const url = "https://viewer.shapez.io?" + code;
+  const url = "https://sense101.github.io/shapez/ShapezIndustriesViewer?" + code;
   alert("You can share this url: " + url);
 };
 
