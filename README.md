@@ -1,4 +1,4 @@
-SHAPEZ INDUSTRIES
+<strong>SHAPEZ INDUSTRIES</strong>
 
 This is the hosting site for shapez industries and the shapez industries viewer.
 
