@@ -24,10 +24,9 @@
     <!-- misc -->
     <meta http-equiv="Cache-Control" content="private, max-age=0, no-store, no-cache, must-revalidate">
     <meta http-equiv="Expires" content="0">
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <link rel="canonical" href="https://sense101.github.io/ShapezIndustries/">
     <link rel="preconnect" href="https://api-staging.shapez.io" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" media="none" onload="this.media=&#34;all&#34;" href="/v/fc611b0d/main.css" integrity="sha256-GsiRF8hO3vqKWPH6X3slTzAj5D3W1vx936Lyq14PC1A=">
+    <link rel="stylesheet" type="text/css" media="none" onload="this.media=&#34;all&#34;" href="/v/fc611b0d/main.css" integrity="sha256-Ud4fXc97yMEFZdX0GoCO2tEOTTWDA86NWueFMPufB8Y=">
     <script src="https://www.googletagmanager.com/gtag/js?id=UA-165342524-1" async></script>
     <script>
         function gtag() {
@@ -92,8 +91,8 @@
     <script type="text/javascript">
         var bundleSrc = "/v/fc611b0d/bundle.js",
             bundleSrcTranspiled = "/v/fc611b0d/bundle-transpiled.js",
-            bundleIntegrity = "sha256-lWQTP09Ha7waS72G48E6os/eNklbRbBZ78ZcrD0Yn/Y=",
-            bundleIntegrityTranspiled = "sha256-HI38sppcAvA07FmZLXRqJedStEZXU6HONEiVb5h9Ovc=";
+            bundleIntegrity = "sha256-u6Sy67Lc4mq1JPng0J4nXcZGKBBUzVwi4kou4ePXE8w=",
+            bundleIntegrityTranspiled = "sha256-HEdmGgXco/Ph8uMUJc5sLvA0iwERceJf0yPpEpbIgRI=";
         ! function() {
             var e = null,
                 n = !1;
@@ -104,10 +103,10 @@
                 d.style.position = "fixed", d.style.top = "0", d.style.right = "0", d.style.bottom = "0", d.style.left = "0", d.style.zIndex = "29999", d.style.backgroundColor = "#222429", d.style.display = "flex", d.style.justifyContent = "center", d.style.alignItems = "center";
                 var l = document.createElement("div");
                 l.style.color = "#fff", l.style.fontFamily = "GameFont, sans-serif", l.style.fontSize = "15px", l.style.padding = "30px", l.style.textAlign = "center", d.appendChild(l);
-                var a = document.createElement("h3");
-                a.style.color = "#ef5072", a.innerText = "Error", a.style.marginBottom = "40px", a.style.fontSize = "45px", l.appendChild(a);
-                var i = document.createElement("p");
-                if (i.style.color = "#eee", i.innerText = o || e && e.message || e || "Unknown Error", l.appendChild(i), n) {
+                var i = document.createElement("h3");
+                i.style.color = "#ef5072", i.innerText = "Error", i.style.marginBottom = "40px", i.style.fontSize = "45px", l.appendChild(i);
+                var a = document.createElement("p");
+                if (a.style.color = "#eee", a.innerText = o || e && e.message || e || "Unknown Error", l.appendChild(a), n) {
                     var s = document.createElement("p");
                     s.style.color = "#777", s.innerText = s + ":" + t + ":" + r, l.appendChild(s)
                 }
@@ -133,12 +132,12 @@
             window.addEventListener("error", t), window.addEventListener("unhandledrejection", t), window.coreThreadLoadedCb = function() {
                 console.log("👀 Core responded at", Math.floor(performance.now()), "ms"), clearTimeout(e), n = !(e = null)
             };
-            var a = r(bundleSrc, bundleIntegrity);
-            a.addEventListener("error", function(e) {
+            var i = r(bundleSrc, bundleIntegrity);
+            i.addEventListener("error", function(e) {
                 console.warn("👀 ES6 Script not supported, loading transpiled code."), console.warn("👀 Error was:", e);
                 var n = r(bundleSrcTranspiled, bundleIntegrityTranspiled);
                 n.addEventListener("error", o), n.addEventListener("load", l), document.head.appendChild(n)
-            }), a.addEventListener("load", l), document.head.appendChild(a)
+            }), i.addEventListener("load", l), document.head.appendChild(i)
         }()
     </script>
 </head>
