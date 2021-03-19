@@ -10,7 +10,7 @@
     <link
       rel="shortcut icon"
       type="image/x-icon"
-      href="https://shapez.io/favicon.ico"
+      href="https://sense101.github.io/favicon.ico"
     />
 
     <!-- just include all variants for ease of use -->
@@ -46,7 +46,7 @@
         <h2>About</h2>
 
         <p>
-          With this tool you can generate any shape supported in shapez.io! This
+          With this tool you can generate any shape from shapez industries! This
           can be useful to analyze shapes or draft new ones.
         </p>
 
@@ -60,7 +60,7 @@
         <br />
         <p>
           Each quadrant is described via a pair of letters - An
-          <strong>uppercase letter describing the shape</strong>, followed
+          <strong>uppercase character describing the shape</strong>, followed
           by a <strong>lowercase letter describing its color</strong>. If the
           quadrant is empty, <code>--</code> is used
         </p>
@@ -143,8 +143,8 @@
         <script>
           const examples = [
             ["CwCwCwCw", "White circle"],
-            ["----RuRu", "Half rectangle"],
-            ["CgScScCg", "Circles and stars mixed"],
+            ["----SuSu", "Half star"],
+            ["Sb----Sb:CbCbCbCb:--CwCw--", "Bugprint Shape"],
             ["RpRpRpRp:CwCwCwCw", "Layering example"],
           ];
           for (let i = 0; i < examples.length; ++i) {
@@ -162,10 +162,6 @@
             <button onclick="randomShape()">Randomize</button>
           </div>
       </div>
-    </div>
-
-    <div class="footer">
-        This tool is open source - <a href="https://github.com/tobspr/shapez.io-viewer" target="_blank">View on Github</a>
     </div>
   </body>
 </html>
