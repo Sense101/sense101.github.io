@@ -20,8 +20,10 @@
     />
   </head>
   <body>
-    <h1>Shape generator</h1>
-
+    <h1>Shapez Industries Shape generator</h1>
+    <form method="POST" action="../ShapezIndustries/">
+      <button class= "gameLink" type="submit">Mod Browser</button>
+    </form>
     <div class="grid">
       <div class="col">
         <input
@@ -77,7 +79,7 @@
               <li><code>C</code> Circle</li>
               <li><code>R</code> Rectangle</li>
               <li><code>W</code> Windmill</li>
-              <li><code>S</code> Star</li>
+              <li><code>S</code> Star</li><br>
               <li><code>1</code> Circle + Star</li>
               <li><code>2</code> Rectangle + Circle</li>
               <li><code>3</code> Star + Rectangle</li>
@@ -144,8 +146,8 @@
           const examples = [
             ["CwCwCwCw", "White circle"],
             ["----SuSu", "Half star"],
-            ["Sb----Sb:CbCbCbCb:--CwCw--", "Bugprint Shape"],
             ["RpRpRpRp:CwCwCwCw", "Layering example"],
+            ["Sb----Sb:CbCbCbCb:--CwCw--", "Bugprint Shape"],
           ];
           for (let i = 0; i < examples.length; ++i) {
             const [key, desc] = examples[i];

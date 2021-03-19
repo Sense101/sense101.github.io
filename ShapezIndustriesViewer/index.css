@@ -167,6 +167,10 @@ ul {
     text-align: center;
 }
 
+.gameLink {
+
+}
+
 @media screen and (max-width: 768px) {
     .grid {
         flex-direction: column;
