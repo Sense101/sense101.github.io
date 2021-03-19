@@ -168,13 +168,7 @@ ul {
 }
 
 .gameLink {
-    padding: 9px 16px;
-    text-transform: uppercase;
-    background: #39f;
-    border: 0;
-    color: #fff;
-    cursor: pointer;
-    transition: opacity 0.12s ease-in-out;
+    align-items: center;
 }
 
 @media screen and (max-width: 768px) {
