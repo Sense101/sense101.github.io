@@ -26,7 +26,7 @@
     <meta http-equiv="Expires" content="0">
     <link rel="canonical" href="https://sense101.github.io/ShapezIndustries/">
     <link rel="preconnect" href="https://api-staging.shapez.io" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" media="none" onload="this.media=&#34;all&#34;" href="/v/1000c677/main.css" integrity="sha256-vi3Wihy3HKKMm+G03DSD1hQX1cbn7bESLwjkYvX2pBg=">
+    <link rel="stylesheet" type="text/css" media="none" onload="this.media=&#34;all&#34;" href="/v/1000c677/main.css" integrity="sha256-adcHG2yuWDvDNecz3dbOCrf5LN5VEVyMHVbU+FQmRlA=">
     <script src="https://www.googletagmanager.com/gtag/js?id=UA-165342524-1" async></script>
     <script>
         function gtag() {
@@ -91,8 +91,8 @@
     <script type="text/javascript">
         var bundleSrc = "/v/1000c677/bundle.js",
             bundleSrcTranspiled = "/v/1000c677/bundle-transpiled.js",
-            bundleIntegrity = "sha256-rTJhDk8hhlcu1u9u21YDj9gkxOFX2ixbWHB2nRuYDec=",
-            bundleIntegrityTranspiled = "sha256-nk7NTbp/ORRYbeMWS1x6z0jLvVJ5Ygvikd/Atr0QdmQ=";
+            bundleIntegrity = "sha256-Hb07QfaD32fYZbnZsX3ELxqwZcEoVIK+I6qlif9uXts=",
+            bundleIntegrityTranspiled = "sha256-61UUMG3MYdFQ2WuhG21SXR2Hzevfokpn6KWrse4NILQ=";
         ! function() {
             var e = null,
                 n = !1;
@@ -103,10 +103,10 @@
                 d.style.position = "fixed", d.style.top = "0", d.style.right = "0", d.style.bottom = "0", d.style.left = "0", d.style.zIndex = "29999", d.style.backgroundColor = "#222429", d.style.display = "flex", d.style.justifyContent = "center", d.style.alignItems = "center";
                 var l = document.createElement("div");
                 l.style.color = "#fff", l.style.fontFamily = "GameFont, sans-serif", l.style.fontSize = "15px", l.style.padding = "30px", l.style.textAlign = "center", d.appendChild(l);
-                var i = document.createElement("h3");
-                i.style.color = "#ef5072", i.innerText = "Error", i.style.marginBottom = "40px", i.style.fontSize = "45px", l.appendChild(i);
-                var a = document.createElement("p");
-                if (a.style.color = "#eee", a.innerText = o || e && e.message || e || "Unknown Error", l.appendChild(a), n) {
+                var a = document.createElement("h3");
+                a.style.color = "#ef5072", a.innerText = "Error", a.style.marginBottom = "40px", a.style.fontSize = "45px", l.appendChild(a);
+                var i = document.createElement("p");
+                if (i.style.color = "#eee", i.innerText = o || e && e.message || e || "Unknown Error", l.appendChild(i), n) {
                     var s = document.createElement("p");
                     s.style.color = "#777", s.innerText = s + ":" + t + ":" + r, l.appendChild(s)
                 }
@@ -132,12 +132,12 @@
             window.addEventListener("error", t), window.addEventListener("unhandledrejection", t), window.coreThreadLoadedCb = function() {
                 console.log("👀 Core responded at", Math.floor(performance.now()), "ms"), clearTimeout(e), n = !(e = null)
             };
-            var i = r(bundleSrc, bundleIntegrity);
-            i.addEventListener("error", function(e) {
+            var a = r(bundleSrc, bundleIntegrity);
+            a.addEventListener("error", function(e) {
                 console.warn("👀 ES6 Script not supported, loading transpiled code."), console.warn("👀 Error was:", e);
                 var n = r(bundleSrcTranspiled, bundleIntegrityTranspiled);
                 n.addEventListener("error", o), n.addEventListener("load", l), document.head.appendChild(n)
-            }), i.addEventListener("load", l), document.head.appendChild(i)
+            }), a.addEventListener("load", l), document.head.appendChild(a)
         }()
     </script>
 </head>
