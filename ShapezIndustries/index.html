@@ -26,7 +26,7 @@
     <meta http-equiv="Expires" content="0">
     <link rel="canonical" href="https://sense101.github.io/ShapezIndustries/">
     <link rel="preconnect" href="https://api-staging.shapez.io" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" media="none" onload="this.media=&#34;all&#34;" href="/v/1000c677/main.css" integrity="sha256-GsiRF8hO3vqKWPH6X3slTzAj5D3W1vx936Lyq14PC1A=">
+    <link rel="stylesheet" type="text/css" media="none" onload="this.media=&#34;all&#34;" href="/v/1000c677/main.css" integrity="sha256-psAxlij1uoPqEjIpsPhPqBH+xBTnZKNsHoe8wqC3sM4=">
     <script src="https://www.googletagmanager.com/gtag/js?id=UA-165342524-1" async></script>
     <script>
         function gtag() {
@@ -91,14 +91,14 @@
     <script type="text/javascript">
         var bundleSrc = "/v/1000c677/bundle.js",
             bundleSrcTranspiled = "/v/1000c677/bundle-transpiled.js",
-            bundleIntegrity = "sha256-lyOxpcZxUA8PCMPjMK4WW3GU+k1vrLGH58uDaQPCOAk=",
-            bundleIntegrityTranspiled = "sha256-wVnRXNwyCtd68+Uqr1GpIJNbct1xJXErca7tVMFyls0=";
+            bundleIntegrity = "sha256-2qn+wT8Z1IEyHkZR4j8GanyugamUcSMlFcVO9XMB8mo=",
+            bundleIntegrityTranspiled = "sha256-HxTaXlgsDYiujroogcEiEq/3gV98N35CqvLMYrx8TM0=";
         ! function() {
             var e = null,
                 n = !1;
 
-            function t(e, n, t, r, o) {
-                console.error("👀 Init Error:", e, n, t, r, o);
+            function r(e, n, r, t, o) {
+                console.error("👀 Init Error:", e, n, r, t, o);
                 var l = document.createElement("div");
                 l.style.position = "fixed", l.style.top = "0", l.style.right = "0", l.style.bottom = "0", l.style.left = "0", l.style.zIndex = "29999", l.style.backgroundColor = "#222429", l.style.display = "flex", l.style.justifyContent = "center", l.style.alignItems = "center";
                 var d = document.createElement("div");
@@ -108,14 +108,14 @@
                 var i = document.createElement("p");
                 if (i.style.color = "#eee", i.innerText = o || e && e.message || e || "Unknown Error", d.appendChild(i), n) {
                     var s = document.createElement("p");
-                    s.style.color = "#777", s.innerText = s + ":" + t + ":" + r, d.appendChild(s)
+                    s.style.color = "#777", s.innerText = s + ":" + r + ":" + t, d.appendChild(s)
                 }
                 document.documentElement.appendChild(l)
             }
 
-            function r(e, n) {
-                var t = document.createElement("script");
-                return t.src = e, t.type = "text/javascript", t.charset = "utf-8", t.defer = !0, n && t.setAttribute("integrity", n), t
+            function t(e, n) {
+                var r = document.createElement("script");
+                return r.src = e, r.type = "text/javascript", r.charset = "utf-8", r.defer = !0, n && r.setAttribute("integrity", n), r
             }
 
             function o(e) {
@@ -127,15 +127,15 @@
             }
 
             function d() {
-                console.log("👀 Core loaded at", Math.floor(performance.now()), "ms"), e = setTimeout(l, 15e3), window.removeEventListener("error", t), window.removeEventListener("unhandledrejection", t)
+                console.log("👀 Core loaded at", Math.floor(performance.now()), "ms"), e = setTimeout(l, 15e3), window.removeEventListener("error", r), window.removeEventListener("unhandledrejection", r)
             }
-            window.addEventListener("error", t), window.addEventListener("unhandledrejection", t), window.coreThreadLoadedCb = function() {
+            window.addEventListener("error", r), window.addEventListener("unhandledrejection", r), window.coreThreadLoadedCb = function() {
                 console.log("👀 Core responded at", Math.floor(performance.now()), "ms"), clearTimeout(e), n = !(e = null)
             };
-            var a = r(bundleSrc, bundleIntegrity);
+            var a = t(bundleSrc, bundleIntegrity);
             a.addEventListener("error", function(e) {
                 console.warn("👀 ES6 Script not supported, loading transpiled code."), console.warn("👀 Error was:", e);
-                var n = r(bundleSrcTranspiled, bundleIntegrityTranspiled);
+                var n = t(bundleSrcTranspiled, bundleIntegrityTranspiled);
                 n.addEventListener("error", o), n.addEventListener("load", d), document.head.appendChild(n)
             }), a.addEventListener("load", d), document.head.appendChild(a)
         }()
