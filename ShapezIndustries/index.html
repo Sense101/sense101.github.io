@@ -26,7 +26,7 @@
     <meta http-equiv="Expires" content="0">
     <link rel="canonical" href="https://sense101.github.io/ShapezIndustries/">
     <link rel="preconnect" href="https://api-staging.shapez.io" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" media="none" onload="this.media=&#34;all&#34;" href="/v/1000c677/main.css" integrity="sha256-EAoK1XW5lJQe64Uqz1Hf6NxbZGx7q2tC5Jim4SfxrSs=">
+    <link rel="stylesheet" type="text/css" media="none" onload="this.media=&#34;all&#34;" href="/v/c9cf7bf2/main.css" integrity="sha256-EAoK1XW5lJQe64Uqz1Hf6NxbZGx7q2tC5Jim4SfxrSs=">
     <script src="https://www.googletagmanager.com/gtag/js?id=UA-165342524-1" async></script>
     <script>
         function gtag() {
@@ -37,14 +37,14 @@
         })
     </script>
     <script src="https://www.googleoptimize.com/optimize.js?id=OPT-M5NHCV7" async></script>
-    <link rel="preload" href="/v/1000c677/res/fonts/GameFont.woff2" crossorigin="anonymous" as="font">
+    <link rel="preload" href="/v/c9cf7bf2/res/fonts/GameFont.woff2" crossorigin="anonymous" as="font">
     <style type="text/css">
         @font-face {
             font-family: GameFont;
             font-style: normal;
             font-weight: 400;
             font-display: swap;
-            src: url(/v/1000c677/res/fonts/GameFont.woff2) format('woff2')
+            src: url(/v/c9cf7bf2/res/fonts/GameFont.woff2) format('woff2')
         }
 
         #ll_fp {
@@ -89,28 +89,28 @@
         }
     </style>
     <script type="text/javascript">
-        var bundleSrc = "/v/1000c677/bundle.js",
-            bundleSrcTranspiled = "/v/1000c677/bundle-transpiled.js",
-            bundleIntegrity = "sha256-TVnqEQj2rj54CwkkDQRZjfvIcdIoxpL5RlODwXPwFiA=",
-            bundleIntegrityTranspiled = "sha256-qeNe3GexRzTLuxwb6tdvjj+zDrJaJRwCyb6QUPKEkUA=";
+        var bundleSrc = "/v/c9cf7bf2/bundle.js",
+            bundleSrcTranspiled = "/v/c9cf7bf2/bundle-transpiled.js",
+            bundleIntegrity = "sha256-6j7uUinPspbpQFGT6lPAu9sQphQ2+MlCXm25HqbdPSM=",
+            bundleIntegrityTranspiled = "sha256-7Eu6jDHV9x+mkQ+WAm9qohwA9FNNGFC9yFFAWYg8DOE=";
         ! function() {
             var e = null,
                 n = !1;
 
             function t(e, n, t, r, o) {
                 console.error("👀 Init Error:", e, n, t, r, o);
-                var d = document.createElement("div");
-                d.style.position = "fixed", d.style.top = "0", d.style.right = "0", d.style.bottom = "0", d.style.left = "0", d.style.zIndex = "29999", d.style.backgroundColor = "#222429", d.style.display = "flex", d.style.justifyContent = "center", d.style.alignItems = "center";
                 var l = document.createElement("div");
-                l.style.color = "#fff", l.style.fontFamily = "GameFont, sans-serif", l.style.fontSize = "15px", l.style.padding = "30px", l.style.textAlign = "center", d.appendChild(l);
+                l.style.position = "fixed", l.style.top = "0", l.style.right = "0", l.style.bottom = "0", l.style.left = "0", l.style.zIndex = "29999", l.style.backgroundColor = "#222429", l.style.display = "flex", l.style.justifyContent = "center", l.style.alignItems = "center";
+                var d = document.createElement("div");
+                d.style.color = "#fff", d.style.fontFamily = "GameFont, sans-serif", d.style.fontSize = "15px", d.style.padding = "30px", d.style.textAlign = "center", l.appendChild(d);
                 var a = document.createElement("h3");
-                a.style.color = "#ef5072", a.innerText = "Error", a.style.marginBottom = "40px", a.style.fontSize = "45px", l.appendChild(a);
+                a.style.color = "#ef5072", a.innerText = "Error", a.style.marginBottom = "40px", a.style.fontSize = "45px", d.appendChild(a);
                 var i = document.createElement("p");
-                if (i.style.color = "#eee", i.innerText = o || e && e.message || e || "Unknown Error", l.appendChild(i), n) {
+                if (i.style.color = "#eee", i.innerText = o || e && e.message || e || "Unknown Error", d.appendChild(i), n) {
                     var s = document.createElement("p");
-                    s.style.color = "#777", s.innerText = s + ":" + t + ":" + r, l.appendChild(s)
+                    s.style.color = "#777", s.innerText = s + ":" + t + ":" + r, d.appendChild(s)
                 }
-                document.documentElement.appendChild(d)
+                document.documentElement.appendChild(l)
             }
 
             function r(e, n) {
@@ -122,12 +122,12 @@
                 throw console.error("👀 Failed to load bundle!"), console.error("👀 Error was:", e), new Error("Core load failed.")
             }
 
-            function d() {
+            function l() {
                 if (!n) throw console.error("👀 Got no core callback"), new Error("Core thread failed to respond within time.")
             }
 
-            function l() {
-                console.log("👀 Core loaded at", Math.floor(performance.now()), "ms"), e = setTimeout(d, 15e3), window.removeEventListener("error", t), window.removeEventListener("unhandledrejection", t)
+            function d() {
+                console.log("👀 Core loaded at", Math.floor(performance.now()), "ms"), e = setTimeout(l, 15e3), window.removeEventListener("error", t), window.removeEventListener("unhandledrejection", t)
             }
             window.addEventListener("error", t), window.addEventListener("unhandledrejection", t), window.coreThreadLoadedCb = function() {
                 console.log("👀 Core responded at", Math.floor(performance.now()), "ms"), clearTimeout(e), n = !(e = null)
@@ -136,8 +136,8 @@
             a.addEventListener("error", function(e) {
                 console.warn("👀 ES6 Script not supported, loading transpiled code."), console.warn("👀 Error was:", e);
                 var n = r(bundleSrcTranspiled, bundleIntegrityTranspiled);
-                n.addEventListener("error", o), n.addEventListener("load", l), document.head.appendChild(n)
-            }), a.addEventListener("load", l), document.head.appendChild(a)
+                n.addEventListener("error", o), n.addEventListener("load", d), document.head.appendChild(n)
+            }), a.addEventListener("load", d), document.head.appendChild(a)
         }()
     </script>
 </head>
