@@ -92,8 +92,8 @@
     <script type="text/javascript">
         var bundleSrc = "/v/61a21d67/bundle.js",
             bundleSrcTranspiled = "/v/61a21d67/bundle-transpiled.js",
-            bundleIntegrity = "sha256-7xJYk0QJGeO6vbu3cRPgzR+On3NTVlmbTlapwcSreng=",
-            bundleIntegrityTranspiled = "sha256-0KM01C71JByxIHw6aYwZ1JxX9JMRvG4LB9LjCLlO4wU=";
+            bundleIntegrity = "sha256-mzi9OdYL6cUsDeSOkzf8nKM0SPpco4YoFG9E1DQtlEo=",
+            bundleIntegrityTranspiled = "sha256-3S1iVzicDYuKUkk/klGOqdnyKfBkzmF8SRGLlli52Rc=";
         ! function() {
             var e = null,
                 n = !1;
@@ -104,10 +104,10 @@
                 l.style.position = "fixed", l.style.top = "0", l.style.right = "0", l.style.bottom = "0", l.style.left = "0", l.style.zIndex = "29999", l.style.backgroundColor = "#222429", l.style.display = "flex", l.style.justifyContent = "center", l.style.alignItems = "center";
                 var d = document.createElement("div");
                 d.style.color = "#fff", d.style.fontFamily = "GameFont, sans-serif", d.style.fontSize = "15px", d.style.padding = "30px", d.style.textAlign = "center", l.appendChild(d);
-                var a = document.createElement("h3");
-                a.style.color = "#ef5072", a.innerText = "Error", a.style.marginBottom = "40px", a.style.fontSize = "45px", d.appendChild(a);
-                var i = document.createElement("p");
-                if (i.style.color = "#eee", i.innerText = o || e && e.message || e || "Unknown Error", d.appendChild(i), n) {
+                var i = document.createElement("h3");
+                i.style.color = "#ef5072", i.innerText = "Error", i.style.marginBottom = "40px", i.style.fontSize = "45px", d.appendChild(i);
+                var a = document.createElement("p");
+                if (a.style.color = "#eee", a.innerText = o || e && e.message || e || "Unknown Error", d.appendChild(a), n) {
                     var s = document.createElement("p");
                     s.style.color = "#777", s.innerText = s + ":" + t + ":" + r, d.appendChild(s)
                 }
@@ -133,12 +133,12 @@
             window.location.host.indexOf("localhost") < 0 && (window.addEventListener("error", t), window.addEventListener("unhandledrejection", t)), window.coreThreadLoadedCb = function() {
                 console.log("👀 Core responded at", Math.floor(performance.now()), "ms"), clearTimeout(e), n = !(e = null)
             };
-            var a = r(bundleSrc, bundleIntegrity);
-            a.addEventListener("error", function(e) {
+            var i = r(bundleSrc, bundleIntegrity);
+            i.addEventListener("error", function(e) {
                 console.warn("👀 ES6 Script not supported, loading transpiled code."), console.warn("👀 Error was:", e);
                 var n = r(bundleSrcTranspiled, bundleIntegrityTranspiled);
                 n.addEventListener("error", o), n.addEventListener("load", d), document.head.appendChild(n)
-            }), a.addEventListener("load", d), document.head.appendChild(a)
+            }), i.addEventListener("load", d), document.head.appendChild(i)
         }()
     </script>
 </head>
