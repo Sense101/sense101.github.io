@@ -2,9 +2,9 @@
 
 This is the hosting site for shapez industries and the shapez industries viewer.
 
-To play the shapez industries mod, click <a href="https://sense101.github.io/ShapezIndustries/">here</a>.
+To play the shapez industries mod, you can't (temp);
 
-The shape viewer is <a href="https://sense101.github.io/ShapezIndustriesViewer/">here</a>.
+The shape viewer is <a href="https://sense101.github.io/shapez-industries-viewer/">here</a>.
 
 ----
 
