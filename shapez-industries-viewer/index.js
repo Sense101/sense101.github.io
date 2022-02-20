@@ -424,7 +424,13 @@ window.generate = () => {
 		return;
 	}
 
-	renderShape(parsed);
+    
+	try {
+	    renderShape(parsed);
+	} catch (ex) {
+		showError(ex);
+		return;
+	}
 };
 
 // @ts-ignore
