@@ -239,7 +239,11 @@ function renderShape(layers) {
 	context.translate((w * dpi) / 2, (h * dpi) / 2);
 	context.scale((dpi * w) / 23, (dpi * h) / 23);
 
-	const quadrantSize = 10;
+    const quadrantSize = 10;
+    
+  context.fillStyle = "rgba(40, 50, 65, 0.1)";
+  context.beginCircle(0, 0, quadrantSize * 1.15);
+  context.fill();
 
 	// this is the important part
 	for (let layerIndex = 0; layerIndex < layers.length; ++layerIndex) {
@@ -267,8 +271,8 @@ function renderShape(layers) {
 				pathActive = true;
 			}
 
-			context.strokeStyle = THEME.items.outline;
-			context.lineWidth = THEME.items.outlineWidth;
+			context.strokeStyle = "#555";
+			context.lineWidth = 1;
 			context.fillStyle = enumColorsToHexCode[color];
 
 			if (!linkedBefore) {
@@ -276,7 +280,6 @@ function renderShape(layers) {
 			}
 
             drawOuterSubShape(context, dims, subShape);
-            console.log("test 1");
 
 			if (linkedAfter) {
 				//
