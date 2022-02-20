@@ -230,10 +230,10 @@ function renderShape(layers) {
 	const context = canvas.getContext("2d");
 
 	context.save();
-	context.clearRect(0, 0, 1000, 1000);
+	context.clearRect(0, 0, 700, 700);
 
-	const w = 512;
-	const h = 512;
+	const w = 400;
+	const h = 400;
 	const dpi = 1;
 
 	context.translate((w * dpi) / 2, (h * dpi) / 2);
