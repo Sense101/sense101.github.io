@@ -151,7 +151,7 @@ function fromShortKey(key) {
 
 			if (shapeText == "-") {
 				// it's nothing
-				if (colorText == "-") {
+				if (colorText != "-") {
 					throw new Error("Shape is null but not color");
 				}
 				items.push(null);
