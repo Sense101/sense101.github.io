@@ -145,10 +145,6 @@ function fromShortKey(key) {
 			throw new Error("Empty layers are not allowed");
 		}
 
-		if (!layerRegex.test(text)) {
-			throw new Error("Invalid syntax in layer " + (i + 1));
-		}
-
 		/** @type {ShapeLayer} */
 		const items = [];
 
@@ -252,11 +248,11 @@ function renderShape(layers) {
 	const quadrantSize = 10;
 
 	// this is the important part
-	for (let layerIndex = 0; layerIndex < this.layers.length; ++layerIndex) {
+	for (let layerIndex = 0; layerIndex < layers.length; ++layerIndex) {
 		let rotation = 0;
 
 		/** @type {Array<ShapeLayerItem>}*/
-		const layer = this.layers[layerIndex];
+		const layer = layers[layerIndex];
 
 		const layerScale = Math.max(0.1, 0.9 - layerIndex * 0.22);
 		const dims = quadrantSize * layerScale;
