@@ -232,8 +232,8 @@ function renderShape(layers) {
 	context.save();
 	context.clearRect(0, 0, 700, 700);
 
-	const w = 400;
-	const h = 400;
+	const w = 384;
+	const h = 384;
 	const dpi = 1;
 
 	context.translate((w * dpi) / 2, (h * dpi) / 2);

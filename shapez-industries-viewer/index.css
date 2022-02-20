@@ -47,9 +47,6 @@ a{
     text-align: center;
 }
 
-#resultWrapper #result {
-}
-
 #code {
     width: 100%;
     font-family: monospace;
@@ -101,7 +98,7 @@ button:hover {
 
 .col {
     margin: 10px;
-    max-width: 594px;
+    max-width: 900px;
     flex-grow: 1;
     flex-basis: 0;
 }
