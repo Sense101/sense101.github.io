@@ -112,12 +112,6 @@ CanvasRenderingContext2D.prototype.beginCircle = function (x, y, r) {
 	this.arc(x, y, r, 0, 2.0 * Math.PI);
 };
 
-const possibleShapesString = Object.keys(enumShortcodeToSubShape).join("");
-const possibleColorsString = Object.keys(enumShortcodeToColor).join("");
-const layerRegex = new RegExp(
-	"([" + possibleShapesString + "][" + possibleColorsString + "]|-{2}){4}"
-);
-
 /////////////////////////////////////////////////////
 
 function radians(degrees) {
@@ -251,7 +245,6 @@ function renderShape(layers) {
 	for (let layerIndex = 0; layerIndex < layers.length; ++layerIndex) {
 		let rotation = 0;
 
-		/** @type {Array<ShapeLayerItem>}*/
 		const layer = layers[layerIndex];
 
 		const layerScale = Math.max(0.1, 0.9 - layerIndex * 0.22);
@@ -263,14 +256,14 @@ function renderShape(layers) {
 			if (!item) {
 				// this quadrant is empty
 				rotation += 90;
-				rotateContext(context, 90);
+                context.rotate(radians(90));
 				continue;
 			}
 
 			const { linkedBefore, linkedAfter, subShape, color } = item;
 
 			if (!pathActive) {
-				context.beginPath(); // @TODO might not work here
+				context.beginPath();
 				pathActive = true;
 			}
 
@@ -282,7 +275,8 @@ function renderShape(layers) {
 				context.moveTo(0, 0);
 			}
 
-			drawOuterSubShape(context, dims, subShape);
+            drawOuterSubShape(context, dims, subShape);
+            console.log("test 1");
 
 			if (linkedAfter) {
 				//
@@ -296,7 +290,7 @@ function renderShape(layers) {
 			}
 			// rotate at the end
 			rotation += 90;
-			rotateContext(context, 90);
+            context.rotate(radians(90));
 		}
 
 		if (pathActive) {
@@ -310,7 +304,7 @@ function renderShape(layers) {
 		}
 
 		// reset rotation for next layer
-		rotateContext(context, -rotation);
+            context.rotate(radians(-rotation));
 	}
 
 	context.restore();
