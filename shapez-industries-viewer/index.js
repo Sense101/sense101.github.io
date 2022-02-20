@@ -129,10 +129,25 @@ function radians(degrees) {
  */
 function fromShortKey(key) {
 	const sourceLayers = key.split(":");
+	if (sourceLayers.length > maxLayer) {
+		throw new Error("Only " + maxLayer + " layers allowed");
+	}
 	let layers = [];
 	for (let i = 0; i < sourceLayers.length; ++i) {
 		const text = sourceLayers[i];
-		assert(text.length === 8, "Invalid shape key | wrong length: " + key);
+		if (text.length !== 8) {
+			throw new Error(
+				"Invalid layer: '" + text + "' -> must be 8 characters"
+			);
+		}
+
+		if (text === "--".repeat(4)) {
+			throw new Error("Empty layers are not allowed");
+		}
+
+		if (!layerRegex.test(text)) {
+			throw new Error("Invalid syntax in layer " + (i + 1));
+		}
 
 		/** @type {ShapeLayer} */
 		const items = [];
@@ -146,11 +161,9 @@ function fromShortKey(key) {
 
 			if (shapeText == "-") {
 				// it's nothing
-				assert(
-					colorText == "-",
-					"Invalid shape key | shape is null but not color: ",
-					key
-				);
+				if (colorText == "-") {
+					throw new Error("Shape is null but not color");
+				}
 				items.push(null);
 				continue;
 			}
@@ -167,13 +180,15 @@ function fromShortKey(key) {
 				});
 				linkedShapes++;
 			} else if (subShape) {
-				assert(color, "Invalid shape key | invalid color: " + key);
+				if (!color) {
+					throw new Error("Invalid color");
+				}
 				items.push({
 					subShape,
 					color,
 				});
 			} else {
-				assert(false, "Invalid shape key: " + key);
+				throw new Error("Invalid shape key: " + shapeText);
 			}
 		}
 
@@ -192,16 +207,11 @@ function fromShortKey(key) {
 			}
 
 			if (item && item.linkedBefore) {
-				assert(
-					lastItem,
-					"Item is set to linked but the item before is null: " +
-						lastItem
-				);
-				assert(
-					lastFullItem,
-					"Item is set to linked but the last full item before is null: " +
-						key
-				);
+				if (!lastItem || !lastFullItem) {
+					throw new Error(
+						"Item is linked but there is nothing before"
+					);
+				}
 				lastItem.linkedAfter = true;
 				item.color = lastFullItem.color;
 				if (!item.subShape) {
