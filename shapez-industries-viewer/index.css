@@ -48,14 +48,12 @@ a{
 }
 
 #resultWrapper #result {
-    max-width: 100%;
-    max-height: 100%;
 }
 
 #code {
     width: 100%;
     font-family: monospace;
-    padding: 30px;
+    padding: 10px;
     box-sizing: border-box;
     border: 1px solid #ccc;
     background: #fff;
@@ -118,9 +116,6 @@ button:hover {
 }
 .infoBox h3 {
     margin-top: 20px;
-}
-
-ul {
 }
 
 .shapeCodes code {
