@@ -65,6 +65,11 @@
         </p>
         <br />
         <p>
+          If a quadrant is <strong>linked</strong> to a quadrant before it, the color code is replaced with <code>_</code> . <br>
+           Optionally, if the shape is the same as the quadrant it is linked to, you can also replace the shape code with <code>_</code>
+        </p>
+        <br />
+        <p>
           Layers are separated via <code>:</code>, starting with the
           lowest layer.
         </p>
@@ -77,6 +82,11 @@
               <li><code>R</code> Rectangle</li>
               <li><code>W</code> Windmill</li>
               <li><code>S</code> Star</li><br>
+            </ul>
+          </div>
+          <div class="col">
+            <h3>Merged Shape Codes</h3>
+            <ul>
               <li><code>1</code> Circle + Star</li>
               <li><code>2</code> Rectangle + Circle</li>
               <li><code>3</code> Star + Rectangle</li>
@@ -141,7 +151,7 @@
 
         <script>
           const examples = [
-            ["CwCwCwCw", "White circle"],
+            ["Cw______", "White linked circle"],
             ["----SuSu", "Half star"],
             ["RpRpRpRp:CwCwCwCw", "Layering example"],
             ["Sb----Sb:CbCbCbCb:--CwCw--", "Bugprint Shape"],

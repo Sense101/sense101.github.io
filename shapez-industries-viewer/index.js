@@ -285,7 +285,7 @@ function renderShape(layers) {
 				//
 			} else {
 				// we have no linked item
-				context.lineTo(0, 0);
+				context.lineTo(-0.5, 0);
 				context.fill();
 				context.stroke();
 				context.closePath();
@@ -348,7 +348,8 @@ function drawOuterSubShape(context, dims, subShape) {
 			context.arc(0, 0, dims, -Math.PI * 0.5, -Math.PI * 0.35);
 			context.lineTo(dims, -dims);
 			context.lineTo(dims - moveInwards, -dims + starPosition);
-			context.arc(0, 0, dims, -Math.PI * 0.13, 0);
+            context.arc(0, 0, dims, -Math.PI * 0.13, 0);
+            break;
 		}
 		case enumSubShape.rectcircle: {
 			const moveInwards = dims * 0.3;
@@ -362,7 +363,8 @@ function drawOuterSubShape(context, dims, subShape) {
 				-Math.PI * 0.5,
 				0
 			);
-			context.lineTo(dims, 0);
+            context.lineTo(dims, 0);
+            break;
 		}
 		case enumSubShape.starrect: {
 			const moveInwards = 0.05;
@@ -370,6 +372,7 @@ function drawOuterSubShape(context, dims, subShape) {
 			context.lineTo(moveInwards, -dims);
 			context.lineTo(dims, -moveInwards);
 			context.lineTo(dims, 0);
+            break;
 		}
 		case enumSubShape.circlewindmill: {
 			const moveInwards = dims * 0.5;
@@ -377,19 +380,21 @@ function drawOuterSubShape(context, dims, subShape) {
 			context.lineTo(moveInwards, -dims);
 			context.arcTo(dims, -dims, dims, -moveInwards, moveInwards);
 			context.lineTo(dims, 0);
+            break;
 		}
 		case enumSubShape.rectwindmill: {
-			const moveInwards = dims * 0.5;
-			context.lineTo(0, -moveInwards);
-			context.lineTo(moveInwards, -dims);
-			context.arcTo(dims, -dims, dims, -moveInwards, moveInwards);
-			context.lineTo(dims, 0);
+        const moveInwards = dims * 0.2;
+        context.lineTo(0, -dims + moveInwards);
+        context.lineTo(dims, -dims + moveInwards);
+        context.lineTo(dims, 0);
+            break;
 		}
 		case enumSubShape.starwindmill: {
-			const moveInwards = dims * 0.6;
-			context.lineTo(0, -moveInwards);
-			context.lineTo(dims, -dims * 0.01);
-			context.lineTo(dims, 0);
+            const moveInwards = dims * 0.4;
+			context.lineTo(0, -moveInwards * 2);
+			context.lineTo(dims, -moveInwards);
+			context.lineTo(moveInwards * 2, 0);
+            break;
 		}
 
 		default: {
