@@ -367,11 +367,11 @@ function drawOuterSubShape(context, dims, subShape) {
             break;
 		}
 		case enumSubShape.starrect: {
-			const moveInwards = 0.05;
-			context.lineTo(0, -dims);
-			context.lineTo(moveInwards, -dims);
-			context.lineTo(dims, -moveInwards);
-			context.lineTo(dims, 0);
+        const moveInwards = 0.05;
+        context.lineTo(0, -dims);
+        context.lineTo(moveInwards, -dims);
+        context.lineTo(dims, -moveInwards);
+        context.lineTo(dims, 0);
             break;
 		}
 		case enumSubShape.circlewindmill: {
@@ -390,10 +390,10 @@ function drawOuterSubShape(context, dims, subShape) {
             break;
 		}
 		case enumSubShape.starwindmill: {
-            const moveInwards = dims * 0.4;
-			context.lineTo(0, -moveInwards * 2);
-			context.lineTo(dims, -moveInwards);
-			context.lineTo(moveInwards * 2, 0);
+            const moveInwards = dims * 0.6;
+			context.lineTo(0, -dims);
+			context.lineTo(dims, -dims);
+			context.lineTo(moveInwards, 0);
             break;
 		}
 
