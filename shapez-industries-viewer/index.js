@@ -59,6 +59,13 @@ const enumColors = {
 
 	white: "white",
 	uncolored: "uncolored",
+
+	orange: "orange",
+	light_green: "light_green",
+	mint: "mint",
+	light_blue: "light_blue",
+	dark_purple: "dark_purple",
+	pink: "pink",
 };
 
 /** @enum {string} */
@@ -73,6 +80,13 @@ const enumColorToShortcode = {
 
 	[enumColors.white]: "w",
 	[enumColors.uncolored]: "u",
+
+	[enumColors.orange]: "o",
+	[enumColors.light_green]: "l",
+	[enumColors.mint]: "m",
+	[enumColors.light_blue]: "h",
+	[enumColors.dark_purple]: "z",
+	[enumColors.pink]: "i",
 };
 
 /** @enum {string} */
@@ -94,6 +108,13 @@ const enumColorsToHexCode = {
 	[enumColors.white]: "#ffffff",
 
 	[enumColors.uncolored]: "#aaaaaa",
+
+	[enumColors.orange]: "#fdad4a",
+	[enumColors.light_green]: "#bafa48",
+	[enumColors.mint]: "#3cfdb2",
+	[enumColors.light_blue]: "#33d1ff",
+	[enumColors.dark_purple]: "#a186ff",
+	[enumColors.pink]: "#ee66b4",
 };
 
 /** @enum {enumColors} */
@@ -239,11 +260,11 @@ function renderShape(layers) {
 	context.translate((w * dpi) / 2, (h * dpi) / 2);
 	context.scale((dpi * w) / 23, (dpi * h) / 23);
 
-    const quadrantSize = 10;
-    
-  context.fillStyle = "rgba(40, 50, 65, 0.1)";
-  context.beginCircle(0, 0, quadrantSize * 1.15);
-  context.fill();
+	const quadrantSize = 10;
+
+	context.fillStyle = "rgba(40, 50, 65, 0.1)";
+	context.beginCircle(0, 0, quadrantSize * 1.15);
+	context.fill();
 
 	// this is the important part
 	for (let layerIndex = 0; layerIndex < layers.length; ++layerIndex) {
@@ -260,7 +281,7 @@ function renderShape(layers) {
 			if (!item) {
 				// this quadrant is empty
 				rotation += 90;
-                context.rotate(radians(90));
+				context.rotate(radians(90));
 				continue;
 			}
 
@@ -279,7 +300,7 @@ function renderShape(layers) {
 				context.moveTo(0, 0);
 			}
 
-            drawOuterSubShape(context, dims, subShape);
+			drawOuterSubShape(context, dims, subShape);
 
 			if (linkedAfter) {
 				//
@@ -293,7 +314,7 @@ function renderShape(layers) {
 			}
 			// rotate at the end
 			rotation += 90;
-            context.rotate(radians(90));
+			context.rotate(radians(90));
 		}
 
 		if (pathActive) {
@@ -307,7 +328,7 @@ function renderShape(layers) {
 		}
 
 		// reset rotation for next layer
-            context.rotate(radians(-rotation));
+		context.rotate(radians(-rotation));
 	}
 
 	context.restore();
@@ -348,8 +369,8 @@ function drawOuterSubShape(context, dims, subShape) {
 			context.arc(0, 0, dims, -Math.PI * 0.5, -Math.PI * 0.35);
 			context.lineTo(dims, -dims);
 			context.lineTo(dims - moveInwards, -dims + starPosition);
-            context.arc(0, 0, dims, -Math.PI * 0.13, 0);
-            break;
+			context.arc(0, 0, dims, -Math.PI * 0.13, 0);
+			break;
 		}
 		case enumSubShape.rectcircle: {
 			const moveInwards = dims * 0.3;
@@ -363,16 +384,16 @@ function drawOuterSubShape(context, dims, subShape) {
 				-Math.PI * 0.5,
 				0
 			);
-            context.lineTo(dims, 0);
-            break;
+			context.lineTo(dims, 0);
+			break;
 		}
 		case enumSubShape.starrect: {
-        const moveInwards = 0.05;
-        context.lineTo(0, -dims);
-        context.lineTo(moveInwards, -dims);
-        context.lineTo(dims, -moveInwards);
-        context.lineTo(dims, 0);
-            break;
+			const moveInwards = 0.05;
+			context.lineTo(0, -dims);
+			context.lineTo(moveInwards, -dims);
+			context.lineTo(dims, -moveInwards);
+			context.lineTo(dims, 0);
+			break;
 		}
 		case enumSubShape.circlewindmill: {
 			const moveInwards = dims * 0.5;
@@ -380,21 +401,21 @@ function drawOuterSubShape(context, dims, subShape) {
 			context.lineTo(moveInwards, -dims);
 			context.arcTo(dims, -dims, dims, -moveInwards, moveInwards);
 			context.lineTo(dims, 0);
-            break;
+			break;
 		}
 		case enumSubShape.rectwindmill: {
-        const moveInwards = dims * 0.2;
-        context.lineTo(0, -dims + moveInwards);
-        context.lineTo(dims, -dims + moveInwards);
-        context.lineTo(dims, 0);
-            break;
+			const moveInwards = dims * 0.2;
+			context.lineTo(0, -dims + moveInwards);
+			context.lineTo(dims, -dims + moveInwards);
+			context.lineTo(dims, 0);
+			break;
 		}
 		case enumSubShape.starwindmill: {
-            const moveInwards = dims * 0.6;
+			const moveInwards = dims * 0.6;
 			context.lineTo(0, -dims);
 			context.lineTo(dims, -dims);
 			context.lineTo(moveInwards, 0);
-            break;
+			break;
 		}
 
 		default: {
@@ -429,9 +450,8 @@ window.generate = () => {
 		return;
 	}
 
-    
 	try {
-	    renderShape(parsed);
+		renderShape(parsed);
 	} catch (ex) {
 		showError(ex);
 		return;
