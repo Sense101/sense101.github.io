@@ -211,7 +211,7 @@ function fromShortKey(key) {
 			let lastFullItem;
 			for (let i = 1; i < 4; i++) {
 				const fullItem = items[(itemIndex + 4 - i) % 4];
-				if (fullItem && !fullItem.linkedBefore) {
+				if (fullItem && fullItem.subShape) {
 					lastFullItem = fullItem;
 					break;
 				}
